@@ -1,0 +1,318 @@
+{
+ "generated_utc": "2026-09-29T08:07:36Z",
+ "source_sha256": "b003a76efb482c73c1e52f5dea976f735d25e90f27a75229bcf688bbe642ddca",
+ "markets": {
+  "Atlanta GA": {
+   "run_days": 28,
+   "distinct_businesses": 146,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Branson MO": {
+   "run_days": 28,
+   "distinct_businesses": 98,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Charlotte NC": {
+   "run_days": 28,
+   "distinct_businesses": 57,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Chicago IL": {
+   "run_days": 28,
+   "distinct_businesses": 105,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Columbus OH": {
+   "run_days": 28,
+   "distinct_businesses": 58,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Dallas TX": {
+   "run_days": 28,
+   "distinct_businesses": 178,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Denver CO": {
+   "run_days": 28,
+   "distinct_businesses": 61,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Houston TX": {
+   "run_days": 28,
+   "distinct_businesses": 123,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Joplin MO": {
+   "run_days": 28,
+   "distinct_businesses": 84,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Kansas City MO": {
+   "run_days": 28,
+   "distinct_businesses": 171,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Liberty MO": {
+   "run_days": 28,
+   "distinct_businesses": 54,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Los Angeles CA": {
+   "run_days": 28,
+   "distinct_businesses": 49,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Maryland": {
+   "run_days": 28,
+   "distinct_businesses": 33,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Miami FL": {
+   "run_days": 28,
+   "distinct_businesses": 88,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Nashville TN": {
+   "run_days": 28,
+   "distinct_businesses": 68,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Phoenix AZ": {
+   "run_days": 28,
+   "distinct_businesses": 64,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Pleasanton CA": {
+   "run_days": 28,
+   "distinct_businesses": 639,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "San Francisco CA": {
+   "run_days": 28,
+   "distinct_businesses": 34,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Santa Cruz County CA": {
+   "run_days": 28,
+   "distinct_businesses": 123,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "St. Louis MO": {
+   "run_days": 28,
+   "distinct_businesses": 145,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "St. Peters MO": {
+   "run_days": 28,
+   "distinct_businesses": 53,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "Tyler TX": {
+   "run_days": 28,
+   "distinct_businesses": 67,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "US nationwide": {
+   "run_days": 28,
+   "distinct_businesses": 560,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  },
+  "US nationwide, online": {
+   "run_days": 28,
+   "distinct_businesses": 122,
+   "engines": [
+    "anthropic",
+    "gemini",
+    "google_serp",
+    "openai",
+    "perplexity"
+   ],
+   "first_date": "2026-09-01",
+   "last_date": "2026-09-28"
+  }
+ }
+}
