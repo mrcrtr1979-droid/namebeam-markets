@@ -40,9 +40,9 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="finding">
 <div class="num">90%</div>
 <h2>live in a single universe</h2>
-<p>Of 282 businesses in Perplexity's per-market top-10 and Google's per-market top-10, only 29 appear in both. The most AI-dominant businesses in the entire corpus &mdash; All Star Movers &amp; Storage (25 days), Reliable Heating &amp; Air (24), Arrington Roofing (24), Gates Enterprises (24) &mdash; sit outside Google's top-10 entirely.</p>
+<p>Of 276 businesses in Perplexity's per-market top-10 and Google's per-market top-10, only 26 appear in both. The most AI-dominant businesses in the entire corpus &mdash; All Star Movers &amp; Storage (25 days), Reliable Heating &amp; Air (24), Arrington Roofing (24), Gates Enterprises (24) &mdash; sit outside Google's top-10 entirely.</p>
 <p><b>So what:</b> every SEO agency on earth is still optimizing for one phone book. The second phone book has different winners, and nobody is reading it. AI answers are 3&ndash;5 names, not 10 blue links &mdash; second place in AI is tenth place in Google.</p>
-<div class="caveat">Honesty note: the comparison uses published top-10 lists per market with name normalization, so the overlap is slightly understated (Google sometimes cites domains, e.g. allstarmoverscal.com, rather than business names). The directional finding &mdash; two largely disjoint winner sets &mdash; is robust to that.</div>
+<div class="caveat">Honesty note: the comparison uses published top-10 lists per market with case-insensitive name normalization &mdash; and even that understates the mess. Perplexity's own Denver top-10 lists both "Cenco Roofing" and "CENCO Roofing" (same business, counted twice), while Google sometimes cites domains (e.g. allstarmoverscal.com) rather than business names. Normalization debt lives inside our own lists too. The directional finding &mdash; two largely disjoint winner sets &mdash; is robust to that. Recomputed Oct 1, 2026 from the published per-market JSONs: 276 distinct businesses, 26 in both sets (90.6% in one universe); an earlier cut of this page showed 282 / 29.</div>
 </div>
 
 <div class="finding">
@@ -59,15 +59,15 @@ footer .eq{font-style:italic;margin-top:8px}
 </div>
 
 <div class="finding">
-<div class="num">&sim;10</div>
-<h2>local service businesses Claude named in 28 days</h2>
-<p>Claude's 114 total namings decompose: 76 are nationwide digital products (AI tools, courses), 28 are short-term-rental listings, and roughly 10 are traditional local services across 22 markets. For plumbers, roofers, HVAC techs, and lawyers, Claude named zero businesses in 15 of 22 markets.</p>
+<div class="num">76</div>
+<h2>of Claude's 114 namings are nationwide digital products</h2>
+<p>Claude's 114 total namings include 76 nationwide digital products (AI tools, courses) &mdash; verified from the US-nationwide data. The remaining 38 are short-term-rental listings and traditional local services; the published per-market JSONs don't separate that split, so we print what verifies. For plumbers, roofers, HVAC techs, and lawyers, Claude named zero businesses in 15 of 22 markets.</p>
 <p><b>So what:</b> this isn't blindness, it's architecture. Claude answers from training memory &mdash; travel, software &mdash; and has no local-service knowledge to draw on. "AI visibility" is not one thing; it depends on how each engine knows what it knows.</p>
 </div>
 
 <div class="finding">
 <div class="num">31%</div>
-<h2>of top-10 businesses appear 5 days or fewer</h2>
+<h2>of top-10 slots turned over within days</h2>
 <p>68 of 218 Perplexity top-10 slots turned over within days. Only 49 businesses held steady (15+ days at 70%+ of their window) across the full month. Late September saw fresh entrants &mdash; five Columbus tanning salons entered the top-10 in the final week, each for a day or two.</p>
 <p><b>So what:</b> AI visibility rotates weekly. A monthly check-up may be the wrong cadence &mdash; by the time a monthly report arrives, the winners have changed. This one is an open product question, stated as such.</p>
 </div>
@@ -80,7 +80,7 @@ footer .eq{font-style:italic;margin-top:8px}
 
 <div class="method">
 <h3>Methodology</h3>
-<p>28 run days, September 1&ndash;28, 2026. 22 US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Nothing here is estimated, modeled, or rounded into existence.</p>
+<p>28 run days, September 1&ndash;28, 2026. 22 US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Everything here is computed from the published JSONs; headline figures are rounded, and the unrounded values are printed alongside.</p>
 <p>All 24 per-market reports: <a href="/reports/">markets.namebeam.ai/reports/</a></p>
 </div>
 
