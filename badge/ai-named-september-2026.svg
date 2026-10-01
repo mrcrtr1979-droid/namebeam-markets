@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="120" viewBox="0 0 240 120" role="img" aria-label="Named by AI engines in September 2026 — verified by NameBeam">
+  <rect x="4" y="4" width="232" height="112" rx="14" fill="#16130e"/>
+  <rect x="4" y="4" width="232" height="112" rx="14" fill="none" stroke="#b9ac93" stroke-width="2"/>
+  <circle cx="40" cy="60" r="20" fill="none" stroke="#f5efe2" stroke-width="3"/>
+  <path d="M31 60 l6 6 l12 -13" fill="none" stroke="#f5efe2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="70" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#f5efe2" letter-spacing="2">AI-NAMED</text>
+  <text x="70" y="74" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#b9ac93" letter-spacing="1.5">SEPTEMBER 2026</text>
+  <text x="70" y="94" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="10" fill="#8a7f66" letter-spacing="1.5">VERIFIED BY NAMEBEAM</text>
+</svg>
