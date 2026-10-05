@@ -40,9 +40,9 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="finding">
 <div class="num">90%</div>
 <h2>live in a single universe</h2>
-<p>Of 276 businesses in Perplexity's per-market top-10 and Google's per-market top-10, only 26 appear in both. The most AI-dominant businesses in the entire corpus, All Star Movers &amp; Storage (25 days), Reliable Heating &amp; Air (24), Arrington Roofing (24), Gates Enterprises (24), sit outside Google's top-10 entirely.</p>
+<p>Of 276 businesses in Perplexity's per-market top-10 and Google's per-market top-10, only 26 appear in both. Some of the most AI-dominant businesses in the corpus sit outside Google's top-10 entirely: Arrington Roofing in Dallas, named by Perplexity on 24 days, never appears in Google's most-cited list for Dallas. Others live in both books: Google also cited the sites of All Star Movers (Pleasanton, 10 days), Reliable Heating &amp; Air (Atlanta, 10 days) and Gates Roofing (Denver, 6 days).</p>
 <p><b>So what:</b> every SEO agency on earth is still optimizing for one phone book. The second phone book has different winners, and nobody is reading it. AI answers are 3 to 5 names, not 10 blue links, second place in AI is tenth place in Google.</p>
-<div class="caveat">Honesty note: the comparison uses published top-10 lists per market with case-insensitive name normalization, and even that understates the mess. Perplexity's own Denver top-10 lists both "Cenco Roofing" and "CENCO Roofing" (same business, counted twice), while Google sometimes cites domains (e.g. allstarmoverscal.com) rather than business names. Normalization debt lives inside our own lists too. The directional finding, two largely disjoint winner sets, is robust to that. Recomputed Oct 1, 2026 from the published per-market JSONs: 276 distinct businesses, 26 in both sets (90.6% in one universe); an earlier cut of this page showed 282 / 29. A few businesses appear on both lists under variant names (trade name vs. legal entity); the overlap count uses exact-name matching.</div>
+<div class="caveat">Method note: the comparison uses published top-10 lists per market with case-insensitive name normalization, and even that understates the mess. Perplexity's own Denver top-10 lists both "Cenco Roofing" and "CENCO Roofing" (same business, counted twice), while Google sometimes cites domains (e.g. allstarmoverscal.com) rather than business names. Normalization debt lives inside our own lists too. The directional finding, two largely disjoint winner sets, is robust to that. Recomputed Oct 1, 2026 from the published per-market JSONs: 276 distinct businesses, 26 in both sets (90.6% in one universe); an earlier cut of this page showed 282 / 29. A few businesses appear on both lists under variant names (trade name vs. legal entity); the overlap count uses exact-name matching.</div>
 </div>
 
 <div class="finding">
@@ -50,7 +50,7 @@ footer .eq{font-style:italic;margin-top:8px}
 <h2>businesses per niche-market: the real engine ranking</h2>
 <p>Our own September recap ranked OpenAI (880) above Gemini (870) on raw totals. That was a coverage artifact, Pleasanton tracks 8 niches, Los Angeles tracks 1. Normalized per niche-market, the ranking reverses:</p>
 <p><b>Gemini 21.2 &middot; OpenAI 18.7 &middot; Perplexity 17.8 &middot; Google SERP 13.7 &middot; Anthropic 1.5</b></p>
-<p><b>So what:</b> raw totals mislead; per unit of actual questioning, Gemini names the most local businesses. We are correcting our own published headline below, because the standard applies to us first.</p>
+<p><b>So what:</b> raw totals mislead; per niche-market, Gemini posts the highest count in this cut. Gemini returned names on 25 September dates and none after September 26, so this describes September, not Gemini today. We are correcting our own published headline below, because the standard applies to us first.</p>
 </div>
 
 <div class="correction">
@@ -81,7 +81,7 @@ footer .eq{font-style:italic;margin-top:8px}
 
 <div class="finding">
 <h2>The other direction: 179 businesses AI names that Google never cites</h2>
-<p>The gap runs both ways. <b>179 businesses</b> sit in Perplexity&rsquo;s per-market &ldquo;Most named&rdquo; tables and never appear in Google&rsquo;s &ldquo;Most cited&rdquo; tables, including the corpus&rsquo;s most-named roofer (Arrington Roofing, Dallas, 24 of 28 days) and the most-named mover (All Star Movers, Pleasanton, 25 days). AI&rsquo;s darlings, invisible to the old phone book. Recomputed 2026-10-01 from the public reports alone; the <a href="/invisible-100/">Invisible 100</a> carries the reverse list.</p>
+<p>The gap runs both ways. <b>179 businesses</b> sit in Perplexity&rsquo;s per-market &ldquo;Most named&rdquo; tables and never appear in Google&rsquo;s &ldquo;Most cited&rdquo; tables, including the corpus&rsquo;s most-named roofer (Arrington Roofing, Dallas, 24 of 28 days). AI&rsquo;s darlings, invisible to the old phone book. Recomputed 2026-10-01 from the public reports alone; the <a href="/invisible-100/">Invisible 100</a> carries the reverse list.</p>
 <table>
 <tr><th>Business</th><th>Market</th><th>Niche</th><th style="text-align:right">Perplexity days</th></tr>
 <tr><td>Arrington Roofing</td><td>Dallas, TX</td><td style="font-size:13px;color:#6b5f45">residential roofing</td><td class="n">24</td></tr>
@@ -269,7 +269,7 @@ footer .eq{font-style:italic;margin-top:8px}
 
 <div class="method">
 <h3>Methodology</h3>
-<p>28 run days, September 1 to 28, 2026. 22 US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Everything here is computed from the September corpus; the 24 per-market reports are public and every figure above can be checked against them. Headline figures are rounded, and the unrounded values are printed alongside.</p>
+<p>Runs on September 1 to 28, 2026. Not every engine answered with names every day: in the raw September record Perplexity named businesses on 27 dates, OpenAI and Gemini on 25. 22 US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Everything here is computed from the September corpus; the 24 per-market reports are public and every figure above can be checked against them. Headline figures are rounded, and the unrounded values are printed alongside.</p>
 <p>All 24 per-market reports: <a href="/reports/">markets.namebeam.ai/reports/</a></p>
 </div>
 
