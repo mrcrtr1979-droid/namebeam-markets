@@ -57,21 +57,23 @@
     <div class="stat"><div class="n">22</div><div class="l">markets</div></div>
     <div class="stat"><div class="n">28</div><div class="l">days of runs</div></div>
     <div class="stat"><div class="n">5+1</div><div class="l">engines + SERP</div></div>
-    <div class="stat"><div class="n">3,053</div><div class="l">namings counted</div></div>
+    <div class="stat"><div class="n">3,053</div><div class="l">raw name strings (includes non-business phrases)</div></div>
   </div>
 </div>
 
 <div class="wrap">
   <h2>The engine gap</h2>
-  <p>Count distinct local businesses each engine named per market, September 1 to 28:</p>
+  <p>Count of distinct raw name strings (includes non-business phrases) each engine returned per market, summed across markets, September 1 to 28:</p>
   <table>
-    <tr><th>Engine</th><th style="text-align:right">Businesses named</th></tr>
+    <tr><th>Engine</th><th style="text-align:right">Raw name strings (includes non-business phrases)</th></tr>
     <tr><td>OpenAI (ChatGPT)</td><td class="n">880</td></tr>
     <tr><td>Gemini</td><td class="n">870</td></tr>
     <tr><td>Perplexity</td><td class="n">663</td></tr>
     <tr><td>Google SERP (baseline)</td><td class="n">526</td></tr>
     <tr><td><b>Anthropic (Claude)</b></td><td class="n"><b>114</b></td></tr>
   </table>
+  <p>With non-business phrases removed, about 1,870 of the 3,053 remain (upper bound; 2026-10-06 audit).</p>
+  <p class="method" style="margin-top:0">Corrected 2026-10-06: counts recomputed with non-business phrases removed. The first version labeled 3,053 as "namings counted" and the table column as "Businesses named".</p>
 
   <p style="background:#16130e;color:#f5efe2;padding:16px 20px;border-radius:8px;margin-top:16px"><b>Correction, published 2026-10-01:</b> the totals above are raw sums, and they mislead, Pleasanton tracks 8 niches while Los Angeles tracks 1, so markets with more niches contribute more namings. Normalized per niche-market, the ranking reverses: <b>Gemini 21.2 &middot; OpenAI 18.7 &middot; Perplexity 17.8 &middot; Google SERP 13.7 &middot; Anthropic 1.5</b>. Which engine names the most per niche-market depends on the method: counting every name, Gemini is highest; counting only names that are businesses, it is not (our recount of 2026-10-04, second check in progress). Gemini returned names on 25 September dates and none after September 26. We re-ran our own numbers and corrected them, because every claim owes the future a receipt, including ours. OpenAI's answers often named directories rather than local firms (for example Yelp and Super Lawyers in Pleasanton on September 22), so its raw count overstates local businesses. Full analysis: <a href="/two-phone-books/" style="color:#c9b896">There are two phone books now</a>.</p>
 
