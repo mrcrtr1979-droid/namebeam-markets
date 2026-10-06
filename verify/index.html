@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Check the Record Yourself, NameBeam</title>
+<meta name="description" content="Three dated files of raw AI answers, their SHA-256 hashes, the commits that added them, and a short script that recomputes the hashes.">
+<link rel="canonical" href="https://markets.namebeam.ai/verify/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Namebeam">
+<meta property="og:url" content="https://markets.namebeam.ai/verify/">
+<meta property="og:title" content="Check the Record Yourself, NameBeam">
+<meta property="og:description" content="Three dated files of raw AI answers, their SHA-256 hashes, the commits that added them, and a short script that recomputes the hashes.">
+<meta property="og:image" content="https://namebeam.ai/logo_namebeam_avatar.png">
+<meta property="og:image:alt" content="Namebeam emblem">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Check the Record Yourself, NameBeam">
+<meta name="twitter:description" content="Three dated files of raw AI answers, their SHA-256 hashes, the commits that added them, and a short script that recomputes the hashes.">
+<meta name="twitter:image" content="https://namebeam.ai/logo_namebeam_avatar.png">
+<style>
+body{font-family:Georgia,'Times New Roman',serif;background:#f5efe2;color:#16130e;margin:0;line-height:1.7}
+.hero{background:#16130e;color:#f5efe2;padding:64px 24px;text-align:center}
+.hero .kicker{letter-spacing:.25em;font-size:12px;color:#c9b896;text-transform:uppercase}
+.hero h1{font-size:42px;margin:18px 0 12px;line-height:1.25}
+.hero p.sub{font-size:19px;color:#d8cdb4;max-width:640px;margin:0 auto}
+.hero .kicker a{color:inherit}
+.herocta{margin:30px 0 0}
+.herocta a{display:inline-block;background:#c9b896;color:#16130e;padding:14px 28px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:17px;margin:6px}
+.herocta a.ghost{background:transparent;color:#f5efe2;border:1px solid #c9b896}
+@media (max-width:600px){.hero{padding:40px 20px}.hero h1{font-size:30px}.hero p.sub{font-size:17px}}
+.wrap{max-width:760px;margin:0 auto;padding:48px 24px}
+.stat{background:#fffdf7;border:1px solid #e2d9c2;border-radius:10px;padding:24px;margin:24px 0}
+.stat .n{font-size:44px;font-weight:bold}
+ul.pack{list-style:none;padding:0}
+ul.pack li{background:#fffdf7;border:1px solid #e2d9c2;border-radius:10px;padding:20px 24px;margin:14px 0}
+ul.pack li b{display:block;font-size:18px;margin-bottom:4px}
+.price{text-align:center;background:#16130e;color:#f5efe2;border-radius:10px;padding:36px;margin:36px 0}
+.price .amt{font-size:56px;font-weight:bold}
+.price p{color:#d8cdb4}
+.cta{text-align:center;padding:20px}
+.cta a{display:inline-block;background:#c9b896;color:#16130e;padding:16px 40px;border-radius:6px;text-decoration:none;font-size:19px;font-weight:bold}
+.fine{font-size:14px;color:#6b6250;text-align:center;max-width:600px;margin:0 auto}
+footer{border-top:1px solid #e2d9c2;padding:28px 24px;text-align:center;font-size:14px;color:#6b6250}
+footer .eq{font-style:italic;margin-top:8px}
+.lead{font-size:24px;margin:0 0 8px}
+.tw{overflow-x:auto;margin:20px 0;border:1px solid #e2d9c2;border-radius:10px;background:#fffdf7}
+table.v{border-collapse:collapse;width:100%;font-size:14px;line-height:1.5}
+table.v th,table.v td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid #e2d9c2}
+table.v th{background:#f0e8d4;font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+table.v td.h{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;word-break:break-all;min-width:200px}
+table.v td a{word-break:break-all}
+pre.code{background:#16130e;color:#f5efe2;border-radius:10px;padding:18px 20px;overflow-x:auto;font-size:13px;line-height:1.6}
+</style>
+</head>
+<body>
+<div class="hero">
+<div class="kicker"><a href="https://namebeam.ai/">NameBeam</a> &middot; the record</div>
+<h1>Check our record yourself.</h1>
+<p class="sub">Three days of raw AI answers to one question, each file with its SHA-256 hash and the commit that added it. A ten-line script recomputes the hashes on your machine.</p>
+</div>
+<div class="wrap">
+
+<h2>Three sample days</h2>
+<p>One question, one engine, three days in September 2026. Each file is the raw answer file from our public record, <a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index">namebeam-visibility-index</a>. The commit column is the first (and only) commit that touched that file, with the date GitHub shows for it.</p>
+<div class="tw"><table class="v">
+<thead><tr><th>Date</th><th>Engine</th><th>Question</th><th>File</th><th>SHA-256</th><th>First commit</th></tr></thead>
+<tbody>
+<tr><td>2026-09-27</td><td>Perplexity (API)</td><td>Who is the best personal injury lawyer in Pleasanton California?</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/blob/00850aff1f368e049e0c73cdd721a90d3cc0dd1f/corpus/e1/NB-CZ-API_2026-09-27_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json">NB-CZ-API_2026-09-27_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json</a></td><td class="h">1ae181e586d35a938645457aa389903cc56657bb7eda9a00c126cdfc3a128631</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/commit/00850aff1f368e049e0c73cdd721a90d3cc0dd1f">00850aff1f</a><br>2026-09-27</td></tr>
+<tr><td>2026-09-28</td><td>Perplexity (API)</td><td>Who is the best personal injury lawyer in Pleasanton California?</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/blob/7d97fe4019944612511db3230c89f8a8834146d9/corpus/e1/NB-CZ-API_2026-09-28_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json">NB-CZ-API_2026-09-28_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json</a></td><td class="h">575f7f64af8d67b6df0c74145208319f653bca6c95c41483c6451d692d254045</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/commit/7d97fe4019944612511db3230c89f8a8834146d9">7d97fe4019</a><br>2026-09-28</td></tr>
+<tr><td>2026-09-29</td><td>Perplexity (API)</td><td>Who is the best personal injury lawyer in Pleasanton California?</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/blob/b612984a05fd04212af66a79d56d2f3d8354009a/corpus/e1/NB-CZ-API_2026-09-29_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json">NB-CZ-API_2026-09-29_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json</a></td><td class="h">ef8d0ca0fb0bd5db2989859314bc88db5c91125ed29a4e747375822a9b47b630</td><td><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/commit/b612984a05fd04212af66a79d56d2f3d8354009a">b612984a05</a><br>2026-09-29</td></tr>
+</tbody></table></div>
+<p class="fine">The hashes in this table are first published on this page, on 2026-10-06. The commit dates come from the git history of the public repository, which does not depend on this page.</p>
+
+<h2>Run the check</h2>
+<p>Python 3, standard library only. It downloads each file from the public repository, hashes the bytes, and prints the result next to the hash in the table above.</p>
+<pre class="code"><code>import hashlib, urllib.request
+B = &quot;https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/corpus/e1/&quot;
+F = {
+  &quot;NB-CZ-API_2026-09-27_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json&quot;: &quot;1ae181e586d35a938645457aa389903cc56657bb7eda9a00c126cdfc3a128631&quot;,
+  &quot;NB-CZ-API_2026-09-28_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json&quot;: &quot;575f7f64af8d67b6df0c74145208319f653bca6c95c41483c6451d692d254045&quot;,
+  &quot;NB-CZ-API_2026-09-29_segment_personal_injury_lawyers_pleasanton_shotland_pilot_perplexity.json&quot;: &quot;ef8d0ca0fb0bd5db2989859314bc88db5c91125ed29a4e747375822a9b47b630&quot;,
+}
+for name, published in F.items():
+    got = hashlib.sha256(urllib.request.urlopen(B + name).read()).hexdigest()
+    print(got, &quot;MATCH&quot; if got == published else &quot;DIFFERENT&quot;, name)
+</code></pre>
+<p>Expected output: each line starts with the same hash as the table and says MATCH. If any line says DIFFERENT, the file has changed since the table was written, and we want to hear about it.</p>
+
+<h2>What this proves, and what it does not</h2>
+<div class="stat"><p>It shows that these three files are the ones committed on those dates and that they are unchanged since: the bytes you download today hash to the values above, and the repository history shows a single commit for each file. It does not prove that any AI engine will name a business, and it does not prove that our method changes outcomes. It also cannot show that the text came from the engine, because we ran the query ourselves; it shows that our record of the run was not edited afterward.</p></div>
+
+<p class="fine">Published 2026-10-06.</p>
+<p class="fine">Related: <a href="/agency/">the agency audit pack</a> and <a href="/snapshot-risk/">why one check a month sees one day</a>.</p>
+
+</div>
+<footer>
+<div>GET PICKED BY AI &middot; NameBeam, Carter Enterprise LLC</div>
+<div style="font-size:13px;margin-top:8px"><a href="/leaderboard/">Leaderboard</a> &middot; <a href="/reports/september-2026-recap.html">September recap</a> &middot; <a href="/badge/">AI-Named badge</a> &middot; <a href="https://check.namebeam.ai/">Free check</a> &middot; <a href="https://namebeam.ai/">namebeam.ai</a></div>
+<div class="eq">Every claim owes the future a receipt.</div>
+</footer>
+</body>
+</html>
