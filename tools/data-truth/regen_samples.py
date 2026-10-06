@@ -71,17 +71,28 @@ def window(eng):
 
 def day_hits(er, lo, hi, table):
     """per day: (text_hits, field_hits). Pools prompts by day."""
-    by = collections.defaultdict(lambda: [set(), set()])
+    by = collections.defaultdict(lambda: [set(), set(), {}])
     for r in er:
         if nc.is_answered(r) and lo <= r['date_utc'] <= hi:
-            by[r['date_utc']][0] |= nc.text_hits(r['answer_verbatim'], table)
+            ev = nc.text_evidence(r['answer_verbatim'], table)
+            by[r['date_utc']][0] |= set(ev)
             by[r['date_utc']][1] |= nc.field_hits(r.get('competitors_mentioned'), table)
+            for n, e in ev.items():
+                by[r['date_utc']][2].setdefault(n, dict(e, prompt=r['prompt_text']))
     return by
+
+
+def guard(by):
+    """Every counted day must carry an evidence row (alias and matched text)."""
+    for d, (th, fh, ev) in by.items():
+        for n in th:
+            assert n in ev and ev[n]['matched'] and ev[n]['window'], (d, n)
 
 
 def tally(by):
     t, f = collections.Counter(), collections.Counter()
-    for d, (th, fh) in by.items():
+    guard(by)
+    for d, (th, fh, ev) in by.items():
         for x in th:
             t[x] += 1
         for x in fh:
@@ -143,6 +154,8 @@ def main():
                 and len(recur[nc.norm(x)]) < 2 and nc.is_business_like(x) or nc.norm(nc.strip_paren(x)) in seeds_norm}
         cand = {x: c for x, c in cand.items() if shape_ok(x, seeds_norm, city_toks, law)}
         table = nc.build_alias_table(cand, seeds=seeds, curated=CURATED, lawish_niche=law)
+        miss = nc.self_match_failures(table)
+        assert not miss, 'matcher cannot find its own spellings in %s: %s' % (slug, miss[:5])
         alias_out[slug] = [{'name': c['name'], 'variants': c['variants'], 'aliases': c['aliases']} for c in table]
         res = {}
         for label, eng in ENGINES:
@@ -151,8 +164,8 @@ def main():
             ans, failed = nc.day_status(er, lo, hi)
             by = day_hits(er, lo, hi, table)
             t, f = tally(by)
-            named_days = sum(1 for d, (th, fh) in by.items() if th)
-            named_days_field = sum(1 for d, (th, fh) in by.items() if fh)
+            named_days = sum(1 for d, (th, fh, ev) in by.items() if th)
+            named_days_field = sum(1 for d, (th, fh, ev) in by.items() if fh)
             by_old = day_hits(er, LO, HI_OTHER, table)
             t27, f27 = tally(by_old)
             ans27, _ = nc.day_status(er, LO, HI_OTHER)
@@ -200,6 +213,8 @@ def main():
                            dom26=dom26, dom27=dom27, serp=serp, old=old)
         if slug == 'pleasanton-ca__personal-injury-law':
             pi_json = build_pi_json(cell, table, prompts)
+    write_evidence(a, pages)
+    write_audit(a, pages)
     json.dump(alias_out, open(os.path.join(a.out, 'alias_tables.json'), 'w'), indent=1)
     json.dump(pi_json, open(os.path.join(a.out, 'pleasanton_pi_corrected.json'), 'w'), indent=1)
     for slug in slugs:
@@ -216,6 +231,106 @@ def main():
         for x in diffs:
             fh.write('| %s | %s | %s | %s | %s |\n' % (x['page'], x['line'], x['old'], x['new'], x['reason']))
     print('pages', len(slugs), 'diff rows', len(diffs))
+
+
+def _cluster(table, needle):
+    return next(c for c in table if needle in nc.norm(c['name']))
+
+
+def write_evidence(a, pages):
+    """Per-day evidence for three checked counts. Each counted day shows the matched text and a window around it;
+    the count must not exceed the literal regex count of the plain name on the same files."""
+    out = ['# Per-day evidence (window = 30 characters either side of the matched text)', '']
+    def one(title, cell, table, needle, engine, prompt, lo, hi, literal_rx, field=False):
+        cl = _cluster(table, needle)
+        out.append('## ' + title)
+        counted, lit_days, fld = [], [], 0
+        for d in nc.daterange(lo, hi):
+            rs = [r for r in cell if r['engine'] == engine and r['date_utc'] == d and (prompt is None or r['prompt_text'] == prompt)]
+            ans = [r for r in rs if nc.is_answered(r)]
+            if not ans:
+                out.append('%s | %s | no answered run, failed day, not counted' % (d, rs[0].get('run_status') if rs else 'no file'))
+                continue
+            hit = None
+            for r in ans:
+                e = nc.text_evidence(r['answer_verbatim'], [cl]).get(cl['name'])
+                if e:
+                    hit = e
+                    break
+            lit = any(re.search(literal_rx, r['answer_verbatim'], re.I) for r in ans)
+            infld = any(nc.field_hits(r.get('competitors_mentioned'), [cl]) for r in ans)
+            fld += infld
+            if lit:
+                lit_days.append(d)
+            if hit:
+                counted.append(d)
+                out.append('%s | OK | COUNTED alias=%r matched=%r | ...%s... | literal %s | extractor field %s' % (d, hit['alias'], hit['matched'], hit['window'], 'yes' if lit else 'no', 'yes' if infld else 'no'))
+            else:
+                out.append('%s | OK | not counted | literal %s | extractor field %s' % (d, 'yes' if lit else 'no', 'yes' if infld else 'no'))
+        assert set(counted) <= set(lit_days), 'counted a day with no literal hit: %s' % sorted(set(counted) - set(lit_days))
+        out.append('TOTAL counted %d, literal regex %r on the same files %d, extractor field %d, answered days %d' % (
+            len(counted), literal_rx, len(lit_days), fld, len([1 for d in nc.daterange(lo, hi) if any(r['engine'] == engine and r['date_utc'] == d and nc.is_answered(r) and (prompt is None or r['prompt_text'] == prompt) for r in cell)])))
+        out.append('')
+        return counted, lit_days
+    p = pages['houston-tx__hvac-repair-and-replacement']
+    one('Houston HVAC, OpenAI API, ONE HOUR (prompt: %s)' % p['prompts'][0], p['cell'], p['table'], 'one hour', 'openai', None, LO, HI_OTHER, r'one[\s-]*hour')
+    p = pages['pleasanton-ca__personal-injury-law']
+    for q in p['prompts']:
+        one('Pleasanton injury, Gemini, GJEL (prompt: %s)' % q, p['cell'], p['table'], 'gjel', 'gemini', q, LO, HI_OTHER, r'gjel', True)
+    one('Pleasanton injury, Perplexity, Hosterman, both prompts pooled by day (09-01 to 09-26)', p['cell'], p['table'], 'hosterman', 'perplexity', None, LO, HI_PERP, r'hosterman')
+    open(os.path.join(a.out, 'VERIFICATION-EVIDENCE.md'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
+
+
+def write_audit(a, pages):
+    """Common-phrase audit across all 13 sheets: no business name or alias may be a bare common phrase, and every
+    counted day that rests on a single-word or common-word alias is listed with the text that matched."""
+    phrases = ('one hour', 'same day', 'best', 'top', 'expert', 'experts', 'one', 'top rated', 'number one', '24 hour')
+    out = ['# Common-phrase audit, all 13 sheets', '']
+    bad, gated = [], []
+    for slug, p in pages.items():
+        for cl in p['table']:
+            for x in sorted(set([nc.norm(cl['name'])] + cl['aliases'])):
+                if x in phrases or (x.split() and x.split()[0] in ('best', 'top', 'expert', 'experts') and len(x.split()) < 3):
+                    # franchise shorthand is the one allowed phrase: matched only in capitals with a business word
+                    # or list separator after it (nc._accept), never as plain "one hour" in running text
+                    (gated if x == 'one hour' and nc.alias_kind(x) == 'generic_phrase' else bad).append((slug, cl['name'], x))
+    out.append('Names or aliases that are a bare common phrase and not gated: %d' % len(bad))
+    out += ['  %s | %s | %s' % b for b in bad]
+    out.append('Gated franchise shorthand aliases (capitals and a following business word or separator required): %d' % len(gated))
+    out += ['  %s | %s | %s' % g for g in gated]
+    assert not bad, 'common phrase accepted as a business alias: %s' % bad[:5]
+    out += ['', 'Counted days that rest on a single-word or common-word alias (alias | text matched | days):']
+    agg = collections.defaultdict(collections.Counter)
+    for slug, p in pages.items():
+        for label, eng in ENGINES:
+            for d, (th, fh, ev) in p['res'][eng]['by'].items():
+                for n, e in ev.items():
+                    if len(e['alias'].split()) == 1 or nc.alias_kind(e['alias']) != 'distinct':
+                        agg[(slug.split('__')[0] + ' ' + slug.split('__')[1][:14], label, n, e['alias'])][e['matched']] += 1
+    for k in sorted(agg):
+        out.append('  %s | %s | %s | alias=%r | %s' % (k + (', '.join('%r x%d' % (m, c) for m, c in sorted(agg[k].items())),)))
+    out += ['', 'Days counted ONLY through a single-word alias (surname or acronym), with no multi-word spelling in the same answer.',
+            'Each is listed with the text around the match so it can be read:']
+    n_only = 0
+    for slug, p in pages.items():
+        for cl in p['table']:
+            single = {x for x in cl['aliases'] if len(x.split()) == 1}
+            if not single:
+                continue
+            multi = dict(cl, aliases=[x for x in cl['aliases'] if x not in single], acronyms=[])
+            for label, eng in ENGINES:
+                lo, hi = window(eng)
+                seen = set()
+                for r in p['cell']:
+                    if r['engine'] != eng or not (lo <= r['date_utc'] <= hi) or not nc.is_answered(r) or r['date_utc'] in seen:
+                        continue
+                    e = nc.text_evidence(r['answer_verbatim'], [cl]).get(cl['name'])
+                    if e and e['alias'] in single and not nc.text_evidence(r['answer_verbatim'], [multi]):
+                        seen.add(r['date_utc'])
+                        n_only += 1
+                        out.append('  %s | %s | %s | %s | alias=%r | ...%s...' % (slug.split('__')[0], label, r['date_utc'], cl['name'], e['alias'], e['window']))
+    out.insert(out.index('Days counted ONLY through a single-word alias (surname or acronym), with no multi-word spelling in the same answer.'), 'Total surname-only days: %d' % n_only)
+    open(os.path.join(a.out, 'COMMON-PHRASE-AUDIT.md'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
 
 
 def build_pi_json(cell, table, prompts):

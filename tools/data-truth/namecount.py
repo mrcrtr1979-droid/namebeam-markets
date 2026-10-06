@@ -42,6 +42,19 @@ STOP_CONTAINS = ['yelp', 'google', 'bing', 'facebook', 'reddit', 'nextdoor', 'bb
                  'bureau', 'hvhz', 'velocity hurricane', 'inspection', 'disciplinary', 'notable attorneys', 'benjamin moore',
                  'owens corning', 'tamko', 'gaf', 'georgia power', 'usdot', 'tacla', 'document everything', 'spoliation',
                  'financial capital', 'bar of', 'georgia bar', 'illinois bar', 'texas bar', 'lead safe', 'epa', 'noa']
+# Words that make a name generic. A name built only from these needs extra evidence in the text.
+COMMON_ENGLISH = {'one', 'two', 'three', 'hour', 'hours', 'day', 'days', 'same', 'best', 'top', 'expert', 'experts',
+                  'first', 'all', 'star', 'elite', 'pro', 'pros', 'fast', 'quick', 'local', 'quality', 'family',
+                  'premier', 'good', 'great', 'better', 'new', 'old', 'big', 'free', 'fair', 'honest', 'reliable',
+                  'trusted', 'men', 'man', 'team', 'rated', 'your', 'our', 'my', 'near', 'me', 'house', 'city',
+                  'direct', 'pure', 'true', 'right', 'smart', 'simple', 'easy', 'speed', 'rapid', 'prime', 'ace',
+                  'blue', 'red', 'green', 'gold', 'golden', 'silver', 'north', 'south', 'east', 'west', 'central',
+                  'united', 'american', 'national', 'state', 'county', 'mr', 'hr'}
+COMMON_UPPER = {'ONE', 'ALL', 'TOP', 'NEW', 'OUR', 'THE', 'USA', 'YOU', 'ANY', 'BIG', 'PRO'}
+BIZ_WORDS = GENERIC - FILLER
+TAIL_RE = re.compile(r'^(?:\*{1,2}|_{1,2})?\s*(?:[,/;)]|\(|$)')
+CONT_RE = re.compile(r'^[^A-Za-z0-9\n]+(?:heating|air|ac|hvac|plumbing|roofing|painting|moving|movers|law|legal|'
+                     r'attorneys|lawyers|services|company|inc|llc)(?![A-Za-z0-9])', re.I)
 STOP_EXACT = {'law', 'lawyer', 'attorney', 'attorneys', 'lawyers', 'search', 'pleasanton', 'california', 'ca',
               'alameda', 'san ramon', 'dublin', 'livermore', 'walnut creek', 'oakland', 'san francisco',
               'atlanta', 'chicago', 'dallas', 'denver', 'houston', 'miami', 'phoenix', 'st louis', 'saint louis',
@@ -63,6 +76,8 @@ def is_business_like(s):
     n = norm(strip_paren(s))
     if not n or n in STOP_EXACT or len(n) < 3:
         return False
+    if re.match(r'^(best|top|expert|experts|same day)\b', n):
+        return False        # superlative or service phrase, not a business name
     padded = ' ' + n + ' '
     for p in STOP_CONTAINS:
         if (' ' + p + ' ') in padded or (len(p) > 5 and p in n):
@@ -135,7 +150,7 @@ LAW_WORDS = {'law', 'firm', 'attorney', 'attorneys', 'lawyer', 'lawyers', 'legal
 
 
 def variant_aliases(v, lawish_niche=False):
-    """Normalised alias phrases for one observed spelling v."""
+    """Normalised alias phrases for one observed spelling v, and its acronym alias (law niches only)."""
     raw = strip_paren(v)
     n = norm(raw)
     out = {n}
@@ -146,10 +161,13 @@ def variant_aliases(v, lawish_niche=False):
     lawish = lawish_niche or bool(set(n.split()) & LAW_WORDS)
     if lawish and len(c) >= 2:
         out.add(' '.join(c))        # person-name core of a law firm, e.g. "j michael hosterman"
+    elif len(c) >= 2 and alias_kind(' '.join(c)) == 'generic_phrase':
+        out.add(' '.join(c))        # franchise shorthand such as "One Hour"; accepted only with strict context
+    acr = set()
     m = re.match(r'^([A-Z]{3,6})\b', raw.strip())
-    if m:
-        out.add(m.group(1).lower())  # acronym firm names such as GJEL
-    return {a for a in out if a and len(a) >= 3}
+    if lawish_niche and m and m.group(1) not in COMMON_UPPER:
+        acr.add(m.group(1).lower())  # acronym firm names such as GJEL; matched in capitals only
+    return {a for a in out if a and len(a) >= 3}, acr
 
 
 def surname_aliases(variants, lawish_niche=False):
@@ -210,32 +228,103 @@ def build_alias_table(variant_counts, seeds=(), curated=None, lawish_niche=False
                 break
         if name is None:
             name = max(g, key=lambda v: (allv[v], -len(v)))
-        aliases = set()
+        aliases, acronyms = set(), set()
         for v in g:
-            aliases |= variant_aliases(v, lawish_niche)
+            al, ac = variant_aliases(v, lawish_niche)
+            aliases |= al
+            acronyms |= ac
+        aliases |= acronyms
         aliases |= surname_aliases(g, lawish_niche)
         cur = curated.get(norm(strip_paren(name)))
         if cur:
             aliases |= {norm(x) for x in cur}
-        table.append({'name': name, 'variants': sorted(g), 'aliases': sorted(aliases),
+        table.append({'name': name, 'variants': sorted(g), 'aliases': sorted(aliases), 'acronyms': sorted(acronyms),
                       'field_days': sum(allv[v] for v in g)})
     return table
 
 
-def compile_alias(alias):
-    return re.compile(r'(?<![a-z0-9])' + re.escape(alias).replace(r'\ ', ' ') + r'(?![a-z0-9])')
+_PAT = {}
+
+
+_SEP = r'[^A-Za-z0-9\n]+'
+_AND = r'(?:[^A-Za-z0-9\n]*&[^A-Za-z0-9\n]*|[^A-Za-z0-9\n]+and[^A-Za-z0-9\n]+)'   # "T&S", "Heating & Air", "Heating and Air"
+
+
+def _pattern(alias):
+    if alias not in _PAT:
+        toks = alias.split()
+        pat = ''
+        for i, t in enumerate(toks):
+            if t == 'and' and 0 < i < len(toks) - 1:
+                pat += _AND
+            else:
+                pat += (_SEP if pat and not pat.endswith(_AND) else '') + re.escape(t)
+        _PAT[alias] = re.compile(r'(?<![A-Za-z0-9])' + pat + r'(?![A-Za-z0-9])', re.I)
+    return _PAT[alias]
+
+
+def alias_kind(a):
+    """'distinct' = has a token that is not a common word or business word; 'generic_name' = only common and
+    business words ("Top Roofing"); 'generic_phrase' = only common words ("One Hour")."""
+    toks = a.split()
+    if [t for t in toks if t not in COMMON_ENGLISH and t not in GENERIC and not t.isdigit()]:
+        return 'distinct'
+    return 'generic_name' if any(t in BIZ_WORDS for t in toks) else 'generic_phrase'
+
+
+def prep(text):
+    t = unicodedata.normalize('NFKD', (text or '').replace('\u2019', "'")).encode('ascii', 'ignore').decode()
+    return re.sub(r'\ba/c\b', 'ac', t, flags=re.I)
+
+
+def _accept(t, m, alias, kind, acronym):
+    s = m.group(0)
+    words = re.findall(r'[A-Za-z0-9]+', s)
+    if len(alias.split()) == 1:                      # surnames need a capital, acronyms need all capitals
+        return s.isupper() if (acronym or len(alias) <= 4) else s[0].isupper()
+    if kind == 'distinct':
+        return True
+    if not all(w[0].isupper() or w.lower() in ('and', 'of', 'the') for w in words):
+        return False                                 # generic names count only as written in capitals
+    if kind != 'generic_phrase':
+        return True
+    tail = t[m.end():m.end() + 40]
+    return bool(CONT_RE.match(tail) or TAIL_RE.match(tail))  # a business word, or a list separator, follows
+
+
+def text_evidence(text, table):
+    """{business: {'alias','matched','window'}} for every business whose name or alias appears in text.
+    Single-word aliases need capitals, common-word brands (One Hour) need a following business word."""
+    t = prep(text)
+    ev = {}
+    for cl in table:
+        acr = set(cl.get('acronyms', ()))
+        for a in cl['aliases']:
+            kind = alias_kind(a)
+            for m in _pattern(a).finditer(t):
+                if _accept(t, m, a, kind, a in acr):
+                    w = t[max(0, m.start() - 30):m.end() + 30]
+                    ev[cl['name']] = {'alias': a, 'matched': m.group(0), 'window': re.sub(r'\s+', ' ', w)}
+                    break
+            if cl['name'] in ev:
+                break
+    return ev
+
+
+def self_match_failures(table):
+    """Guard: every observed spelling of every business must match itself when written in an answer line.
+    Returns [(business, spelling)] that do not (a matcher regression such as "T&S" without spaces)."""
+    bad = []
+    for cl in table:
+        for v in cl['variants']:
+            if cl['name'] not in text_hits('- **%s** (local note)' % v, [cl]):
+                bad.append((cl['name'], v))
+    return bad
 
 
 def text_hits(text, table):
     """Names of clusters whose name or alias appears in text."""
-    nt = norm(text)
-    hits = set()
-    for cl in table:
-        for a in cl['aliases']:
-            if compile_alias(a).search(nt):
-                hits.add(cl['name'])
-                break
-    return hits
+    return set(text_evidence(text, table))
 
 
 def field_hits(field, table):

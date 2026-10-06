@@ -259,34 +259,31 @@
 | houston-tx__hvac-repair-and-replacement | Perplexity, Adams Air Conditioning | 10 of 27 | 10 of 23 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Perplexity, Be Cool A/C & Heating | 6 of 27 | 7 of 23 | alias merge +1; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Perplexity, Vibrant Mechanical | 6 of 27 | 6 of 23 | denominator now answered days |
-| houston-tx__hvac-repair-and-replacement | Perplexity, Mission Air Conditioning & Plumbing | 5 of 27 | 5 of 23 (outside top 8) | denominator now answered days |
+| houston-tx__hvac-repair-and-replacement | Perplexity, Mission Air Conditioning & Plumbing | 5 of 27 | 5 of 23 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Perplexity, Air Tech of Houston | 3 of 27 | 17 of 23 | alias merge +15; window to 09-26 -1; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Perplexity, Ace Comfort Air Conditioning & Heating | 2 of 27 | 2 of 23 (outside top 8) | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Perplexity, John Moore Services | not in published top list | 10 of 23 | enters top 8 under text count and alias merge (field count 10, text count 10 in the old window) |
-| houston-tx__hvac-repair-and-replacement | Perplexity, ONE HOUR Air Conditioning & Heating | not in published top list | 8 of 23 | enters top 8 under text count and alias merge (field count 1, text count 9 in the old window) |
-| houston-tx__hvac-repair-and-replacement | OpenAI API, days a business was named | 1 of 27 | 22 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
+| houston-tx__hvac-repair-and-replacement | OpenAI API, days a business was named | 1 of 27 | 19 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
 | houston-tx__hvac-repair-and-replacement | OpenAI API, days with an answer | not shown (denominator 27 calendar days) | 27 (0 failed days excluded) | denominator is days with an answered OK run |
-| houston-tx__hvac-repair-and-replacement | OpenAI API, ONE HOUR Air Conditioning & Heating | 1 of 27 | 21 of 27 | alias merge -1; name found in answer text, missed by extractor field +21; denominator now answered days |
+| houston-tx__hvac-repair-and-replacement | OpenAI API, ONE HOUR Air Conditioning & Heating | 1 of 27 | 16 of 27 | alias merge -1; name found in answer text, missed by extractor field +16; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | OpenAI API, John Moore Services | not in published top list | 16 of 27 | enters top 8 under text count and alias merge (field count 1, text count 16 in the old window) |
 | houston-tx__hvac-repair-and-replacement | Gemini, days a business was named | 3 of 27 | 3 of 3 | denominator now answered days (24 failed days excluded); named-day test now reads answer text |
 | houston-tx__hvac-repair-and-replacement | Gemini, days with an answer | not shown (denominator 27 calendar days) | 3 (24 failed days excluded) | denominator is days with an answered OK run |
 | houston-tx__hvac-repair-and-replacement | Gemini, Abacus Plumbing, Air Conditioning & Electrical | 3 of 27 | 2 of 3 | alias merge -1; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Gemini, Richmond’s Air | 2 of 27 | 2 of 3 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Gemini, Mission Air Conditioning & Plumbing | 1 of 27 | 1 of 3 | denominator now answered days |
-| houston-tx__hvac-repair-and-replacement | Gemini, ONE HOUR Air Conditioning & Heating | not in published top list | 3 of 3 | enters top 8 under text count and alias merge (field count 0, text count 3 in the old window) |
 | houston-tx__hvac-repair-and-replacement | Gemini, Village Plumbing & Air | not in published top list | 2 of 3 | enters top 8 under text count and alias merge (field count 2, text count 2 in the old window) |
 | houston-tx__hvac-repair-and-replacement | Gemini, John Moore Services | not in published top list | 1 of 3 | enters top 8 under text count and alias merge (field count 1, text count 1 in the old window) |
-| houston-tx__hvac-repair-and-replacement | Anthropic API, days a business was named | 0 of 27 | 7 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
+| houston-tx__hvac-repair-and-replacement | Anthropic API, days a business was named | 0 of 27 | 0 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
 | houston-tx__hvac-repair-and-replacement | Anthropic API, days with an answer | not shown (denominator 27 calendar days) | 27 (0 failed days excluded) | denominator is days with an answered OK run |
-| houston-tx__hvac-repair-and-replacement | Anthropic API, ONE HOUR Air Conditioning & Heating | not in published top list | 7 of 27 | enters top 8 under text count and alias merge (field count 0, text count 7 in the old window) |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Abacus Plumbing, Air Conditioning & Electrical, Perplexity | 11 of 27 | 11 of 23 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Abacus Plumbing, Air Conditioning & Electrical, Gemini | 3 of 27 | 2 of 3 | alias merge -1; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Mission Air Conditioning & Plumbing, Perplexity | 5 of 27 | 5 of 23 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Mission Air Conditioning & Plumbing, Gemini | 1 of 27 | 1 of 3 | denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Richmond’s Air, Perplexity | 1 of 27 | 0 of 23 | window to 09-26 -1; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, Richmond’s Air, Gemini | 2 of 27 | 2 of 3 | denominator now answered days |
-| houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, ONE HOUR Air Conditioning & Heating, Perplexity | 1 of 27 | 8 of 23 | name found in answer text, missed by extractor field +8; window to 09-26 -1; denominator now answered days |
-| houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, ONE HOUR Air Conditioning & Heating, OpenAI | 1 of 27 | 21 of 27 | alias merge -1; name found in answer text, missed by extractor field +21; denominator now answered days |
+| houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, ONE HOUR Air Conditioning & Heating, Perplexity | 1 of 27 | 2 of 23 | name found in answer text, missed by extractor field +2; window to 09-26 -1; denominator now answered days |
+| houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, ONE HOUR Air Conditioning & Heating, OpenAI | 1 of 27 | 16 of 27 | alias merge -1; name found in answer text, missed by extractor field +16; denominator now answered days |
 | houston-tx__hvac-repair-and-replacement | Named by 2 or more engines, John Moore Services | not in published table | Perplexity 10 of 23; OpenAI API 16 of 27; Gemini 1 of 3 | named by 2 or more engines under the text count |
 | houston-tx__hvac-repair-and-replacement | Domain table, chron.com | 24 of 24 | 23 of 23 | window cut to 2026-09-26 (Perplexity method change); denominator answered days |
 | houston-tx__hvac-repair-and-replacement | Domain table, consumeraffairs.com | 24 of 24 | 23 of 23 | window cut to 2026-09-26 (Perplexity method change); denominator answered days |
@@ -391,9 +388,9 @@
 | phoenix-az__hvac-repair-and-replacement | Perplexity, Goettl Air Conditioning & Plumbing | 5 of 27 | 6 of 23 | alias merge +1; denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | Perplexity, Chas Roberts Air Conditioning & Plumbing | 4 of 27 | 0 of 23 (outside top 8) | alias merge -4; denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | Perplexity, Desert Diamond Air | not in published top list | 3 of 23 | enters top 8 under text count and alias merge (field count 3, text count 4 in the old window) |
-| phoenix-az__hvac-repair-and-replacement | OpenAI API, days a business was named | 1 of 27 | 1 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
+| phoenix-az__hvac-repair-and-replacement | OpenAI API, days a business was named | 1 of 27 | 5 of 27 | denominator now answered days (0 failed days excluded); named-day test now reads answer text |
 | phoenix-az__hvac-repair-and-replacement | OpenAI API, days with an answer | not shown (denominator 27 calendar days) | 27 (0 failed days excluded) | denominator is days with an answered OK run |
-| phoenix-az__hvac-repair-and-replacement | OpenAI API, One Hour Air Conditioning & Heating | 1 of 27 | 0 of 27 (outside top 8) | alias merge -1; denominator now answered days |
+| phoenix-az__hvac-repair-and-replacement | OpenAI API, One Hour Air Conditioning & Heating | 1 of 27 | 5 of 27 | alias merge -1; name found in answer text, missed by extractor field +5; denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | OpenAI API, Goettl Air Conditioning & Plumbing | not in published top list | 1 of 27 | enters top 8 under text count and alias merge (field count 0, text count 1 in the old window) |
 | phoenix-az__hvac-repair-and-replacement | Gemini, days a business was named | 6 of 27 | 6 of 6 | denominator now answered days (21 failed days excluded); named-day test now reads answer text |
 | phoenix-az__hvac-repair-and-replacement | Gemini, days with an answer | not shown (denominator 27 calendar days) | 6 (21 failed days excluded) | denominator is days with an answered OK run |
@@ -411,8 +408,8 @@
 | phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, Parker & Sons, Gemini | 5 of 27 | 5 of 6 | denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, Chas Roberts Air Conditioning & Plumbing, Perplexity | 4 of 27 | 0 of 23 | alias merge -4; denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, Chas Roberts Air Conditioning & Plumbing, Gemini | 3 of 27 | 3 of 6 | denominator now answered days |
-| phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, One Hour Air Conditioning & Heating, Perplexity | 1 of 27 | 1 of 23 | denominator now answered days |
-| phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, One Hour Air Conditioning & Heating, OpenAI | 1 of 27 | 0 of 27 | alias merge -1; denominator now answered days |
+| phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, One Hour Air Conditioning & Heating, Perplexity | 1 of 27 | 2 of 23 | name found in answer text, missed by extractor field +1; denominator now answered days |
+| phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, One Hour Air Conditioning & Heating, OpenAI | 1 of 27 | 5 of 27 | alias merge -1; name found in answer text, missed by extractor field +5; denominator now answered days |
 | phoenix-az__hvac-repair-and-replacement | Named by 2 or more engines, Goettl Air Conditioning & Plumbing | not in published table | Perplexity 6 of 23; OpenAI API 1 of 27 | named by 2 or more engines under the text count |
 | phoenix-az__hvac-repair-and-replacement | Domain table, consumeraffairs.com | 24 of 24 | 23 of 23 | window cut to 2026-09-26 (Perplexity method change); denominator answered days |
 | phoenix-az__hvac-repair-and-replacement | Domain table, expertise.com | 23 of 24 | 23 of 23 | window cut to 2026-09-26 (Perplexity method change); denominator answered days |

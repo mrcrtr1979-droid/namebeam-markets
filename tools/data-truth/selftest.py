@@ -64,6 +64,33 @@ def fixtures():
     return out
 
 
+def guards():
+    """Guard tests for the new matcher. Each returns (title, ok, detail)."""
+    out = []
+    t = nc.build_alias_table({'ONE HOUR Air Conditioning & Heating': 5}, seeds=['ONE HOUR Air Conditioning & Heating'])
+    bad = 'Typically within one hour. Same day service, the best and top expert. Pick one of them. One hour later.'
+    good = '- One Hour Heating & Air Conditioning (local franchise)\n- Franchises (One Hour, ARS/Rescue Rooter)'
+    h_bad, h_good = nc.text_hits(bad, t), nc.text_hits(good, t)
+    out.append(('F4 common phrases (one hour, same day, best, top, expert, one) do not count; the brand written out does',
+                not h_bad and bool(h_good), 'phrases hit %s, brand hit %s' % (sorted(h_bad), sorted(h_good))))
+    names = ['Same Day', 'Best', 'Top Rated Experts', 'Expert Plumbing', 'Best Roofing', 'Top']
+    leaked = [x for x in names if nc.is_business_like(x)]
+    import regen_samples as rs
+    leaked += [x for x in ['One Hour', 'Same Day Service'] if rs.shape_ok(x, set(), {'houston'}, False)]
+    out.append(('F5 common-phrase strings are rejected as business names', not leaked, 'accepted: %s' % leaked))
+    rows = [mkrow('2026-09-0%d' % i, 'Try GJEL Accident Attorneys today.' if i < 4 else 'Try one of them.', []) for i in range(1, 7)]
+    tb = nc.build_alias_table({'GJEL Accident Attorneys': 1}, seeds=['GJEL Accident Attorneys'], lawish_niche=True)
+    by = rs.day_hits(rows, '2026-09-01', '2026-09-06', tb)
+    t_, f_ = rs.tally(by)
+    nev = sum(1 for d, (th, fh, ev) in by.items() for n in th if ev.get(n, {}).get('window') and ev[n]['matched'].lower() in ev[n]['window'].lower())
+    out.append(('F6 every counted day has an evidence row (matched text inside its window)', nev == sum(t_.values()) == 3 and t_['GJEL Accident Attorneys'] == 3,
+                '%d evidence rows for %d counted days' % (nev, sum(t_.values()))))
+    tb2 = nc.build_alias_table({'T&S Roofing Systems': 3, 'Hope Heating & Air': 2, 'Rigo\u2019s Plumbing': 2}, seeds=['T&S Roofing Systems'])
+    miss = nc.self_match_failures(tb2)
+    out.append(('F7 every spelling of a business matches itself in an answer line (T&S without spaces, ampersands, curly apostrophes)', not miss, 'misses: %s' % miss))
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--method', choices=['old', 'new'], required=True)
@@ -76,6 +103,10 @@ def main():
         ok = got == expect
         bad += not ok
         print('%s  %s: expected %d of %d, got %d of %d' % ('GREEN' if ok else 'RED  ', title, expect[0], expect[1], got[0], got[1]))
+    if a.method == 'new':
+        for title, ok, detail in guards():
+            bad += not ok
+            print('%s  %s (%s)' % ('GREEN' if ok else 'RED  ', title, detail))
     if a.corpus and a.method == 'new':
         rows = nc.load_rows(a.corpus, '2026-09-01', '2026-09-27')
         cell = [r for r in rows if r['engine'] == 'gemini' and r['market'] == 'Pleasanton CA'
