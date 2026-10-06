@@ -86,6 +86,14 @@ for name, published in F.items():
 </code></pre>
 <p>Expected output: each line starts with the same hash as the table and says MATCH. If any line says DIFFERENT, the file has changed since the table was written, and we want to hear about it.</p>
 
+<h2>Every file, not just these three</h2>
+<p>Each answer file in the public repository is stored in git, so each one has a git blob hash (a SHA-1 of its contents) and the commit that added it, with a date. Anyone can read both after cloning the repository. To check a file, run the three lines below, replacing the path with any file in <code>corpus/e1/</code>: the commit line shows when the file was added, and the blob hash printed by <code>git hash-object</code> should equal the one in the <code>git ls-tree</code> line.</p>
+<pre class="code"><code>git clone https://github.com/mrcrtr1979-droid/namebeam-visibility-index &amp;&amp; cd namebeam-visibility-index
+git log --format=&quot;%H %ad&quot; -- corpus/e1/NB-CZ-API_2026-09-28_segment_roofing_dallas_perplexity.json
+git hash-object corpus/e1/NB-CZ-API_2026-09-28_segment_roofing_dallas_perplexity.json &amp;&amp; git ls-tree HEAD corpus/e1/NB-CZ-API_2026-09-28_segment_roofing_dallas_perplexity.json
+</code></pre>
+<p class="fine">Example, run on the 2026-09-28 file above: the commit is 7d97fe4019944612511db3230c89f8a8834146d9, dated Mon Sep 28 20:16:42 2026 +0000, and both blob hashes are b4f4e3c0018c15ac794f74924bf4ad12422d9d10.</p>
+
 <h2>What this proves, and what it does not</h2>
 <div class="stat"><p>It shows that these three files are the ones committed on those dates and that they are unchanged since: the bytes you download today hash to the values above, and the repository history shows a single commit for each file. It does not prove that any AI engine will name a business, and it does not prove that our method changes outcomes. It also cannot show that the text came from the engine, because we ran the query ourselves; it shows that our record of the run was not edited afterward.</p></div>
 
