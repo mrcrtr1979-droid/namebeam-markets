@@ -19,6 +19,19 @@ table{width:100%;border-collapse:collapse;font-size:.92rem}th,td{text-align:left
 ul.t li,dl dd{margin-bottom:.6em}dt{font-weight:700}dd{margin-left:0}
 .note{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin-top:2em}
 footer{margin-top:2.5em;padding-top:1em;border-top:1px solid var(--line);font-size:.9rem}footer nav a{margin-right:14px}
+
+.ce-net{max-width:960px;margin:0 auto;text-align:center}
+.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
+.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
+.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
+.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
+/* added for fix 2: dark panel behind the block so the gold links keep contrast on light pages */
+.ce-net{background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:18px 14px;box-sizing:border-box}
+@media(max-width:520px){
+  .ce-net .ce-legs{gap:8px 8px}
+  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
+  .ce-net .ce-legal{overflow-wrap:anywhere}
+}
 </style></head><body><main>
 <h1>AI visibility claims, checked against their sources</h1>
 <p>We traced widely repeated AI-visibility statistics to their original sources on 2026-10-05. Each row shows the claim as published, where it traces to, and what the source actually supports.</p>
@@ -63,6 +76,16 @@ footer{margin-top:2.5em;padding-top:1em;border-top:1px solid var(--line);font-si
 </dl>
 <p><b>A grade describes the source chain, not the business making the claim.</b></p>
 <div class="note">Found an error? Write to <a href="mailto:terry@namebeam.ai">terry@namebeam.ai</a> and we correct it with a dated note.</div>
-<footer><p>NameBeam, Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801.</p>
+<footer>
+<div class="ce-net">
+<nav class="ce-legs">
+      <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+    </nav>
+</div>
+<p>NameBeam, Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801.</p>
 <nav><a href="https://markets.namebeam.ai/">Markets</a><a href="/ai-picks/">AI picks</a><a href="/panels/">Panels</a></nav></footer>
 </main></body></html>

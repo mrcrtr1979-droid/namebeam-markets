@@ -26,6 +26,19 @@ body{font-family:Georgia,'Times New Roman',serif;background:#f5efe2;color:#16130
 .cta a.ghost{background:transparent;color:#16130e;border:2px solid #16130e}
 footer{border-top:1px solid #e2d9c2;padding:28px 24px;text-align:center;font-size:14px;color:#6b6250}
 footer .eq{font-style:italic;margin-top:8px}
+
+.ce-net{max-width:960px;margin:0 auto;text-align:center}
+.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
+.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
+.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
+.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
+/* added for fix 2: dark panel behind the block so the gold links keep contrast on light pages */
+.ce-net{background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:18px 14px;box-sizing:border-box}
+@media(max-width:520px){
+  .ce-net .ce-legs{gap:8px 8px}
+  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
+  .ce-net .ce-legal{overflow-wrap:anywhere}
+}
 </style>
 </head>
 <body>
@@ -281,6 +294,16 @@ footer .eq{font-style:italic;margin-top:8px}
 <a class="ghost" href="/leaderboard/">See the leaderboard</a>
 </div>
 <footer>
+<div class="ce-net">
+<nav class="ce-legs">
+      <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+    </nav>
+</div>
+
 <div>GET PICKED BY AI &middot; NameBeam, Carter Enterprise LLC</div>
 <div class="eq">Every claim owes the future a receipt.</div>
 </footer>
