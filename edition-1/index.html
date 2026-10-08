@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,follow">
+<title>Edition 1 of the AI Visibility Record, pre-release data through 2026-10-07 | Namebeam</title>
+<meta name="description" content="Pre-release of Edition 1: five findings from 10,152 dated rows of the record, 2026-09-01 to 2026-10-07, each with its number, denominator, window and source file. Final build 2026-10-14.">
+<link rel="canonical" href="https://markets.namebeam.ai/edition-1/">
+<style>
+body{font-family:Georgia,'Times New Roman',serif;background:#f5efe2;color:#16130e;margin:0;line-height:1.7}
+.hero{background:#16130e;color:#f5efe2;padding:64px 24px;text-align:center}
+.hero .kicker{letter-spacing:.25em;font-size:12px;color:#c9b896;text-transform:uppercase}
+.hero h1{font-size:44px;margin:18px 0 12px;line-height:1.2}
+.hero p.sub{font-size:19px;color:#d8cdb4;max-width:640px;margin:0 auto}
+.hero .motto{margin-top:26px;font-size:13px;letter-spacing:.2em;color:#8a7f63}
+.wrap{max-width:760px;margin:0 auto;padding:48px 24px}
+.finding{background:#fffdf7;border:1px solid #e2d9c2;border-radius:10px;padding:28px;margin:28px 0}
+.finding h2{margin:0 0 6px;font-size:26px}
+.finding .num{font-size:52px;font-weight:bold;color:#16130e;line-height:1}
+.finding .cap{font-size:14px;color:#6b6250}
+.caveat{background:#efe9d9;border-left:4px solid #8a7f63;padding:16px 20px;font-size:15px;margin:20px 0}
+.correction{background:#16130e;color:#f5efe2;border-radius:10px;padding:28px;margin:28px 0}
+.correction h2{color:#f5efe2;margin-top:0}
+.method{font-size:15px;color:#4a4436}
+.cta{text-align:center;padding:40px 24px}
+.cta a{display:inline-block;background:#16130e;color:#f5efe2;padding:14px 34px;border-radius:6px;text-decoration:none;font-size:18px;margin:6px}
+.cta a.ghost{background:transparent;color:#16130e;border:2px solid #16130e}
+footer{border-top:1px solid #e2d9c2;padding:28px 24px;text-align:center;font-size:14px;color:#6b6250}
+footer .eq{font-style:italic;margin-top:8px}
+
+.ce-net{max-width:960px;margin:0 auto;text-align:center}
+.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
+.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
+.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
+.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
+/* added for fix 2: dark panel behind the block so the gold links keep contrast on light pages */
+.ce-net{background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:18px 14px;box-sizing:border-box}
+@media(max-width:520px){
+  .ce-net .ce-legs{gap:8px 8px}
+  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
+  .ce-net .ce-legal{overflow-wrap:anywhere}
+}
+</style>
+</head>
+<body>
+<div class="hero">
+<div class="kicker">Namebeam &middot; Edition 1 &middot; pre-release</div>
+<h1>Edition 1 of the AI Visibility Record</h1>
+<p class="sub">Five findings from a record of 10,152 dated rows, 2026-09-01 to 2026-10-07. Each one prints its number, its denominator, its window and the file it comes from.</p>
+<div class="motto">The dated record of who AI names</div>
+</div>
+<div class="wrap">
+<div class="caveat"><b>Pre-release.</b> This page reads the staged data pack with answers through 2026-10-07 (36 run days, no run on 2026-10-05). The final build, with answers through 2026-10-13, is due 2026-10-14, and every number here will be recomputed then. Dated 2026-10-08.</div>
+<p>The rows are 6,768 AI engine answers, 1,692 Google result pages and 1,692 engine agreement rows. Each day a program asks four AI engines and Google the same fixed local business questions across 38 market and niche cells and saves every answer word for word. These are API calls, not the apps people open on a phone. Only Perplexity searches the web in this setup, so the engines are not like for like.</p>
+<div class="finding"><div class="cap">Finding 1</div><div class="num">43.7%</div><h2>A name an engine returns one day is often missing the next</h2><p class="cap">Perplexity, 2026-09-01 to 2026-09-27. 2,398 of 5,486 business-day namings were returned again the next day.</p><p>Two consecutive days with names on both: the median overlap between the two lists was 30 percent, over 832 day pairs. Same window and method for the others: OpenAI 31.2 percent (1,130 of 3,621) with a median overlap of 17 percent (699 pairs); Anthropic 50.0 percent (2,015 of 4,030) and 33 percent (988 pairs); Gemini 19.6 percent (402 of 2,052) and 10 percent (174 pairs, a small count). The 43.7 percent counts names returned again the next day. The 30 percent is the overlap between two days' lists. They are different statistics.</p><p class="method">Source: <code>metrics/metrics_v2.csv, methods P.raw.pername and J.raw.pair_bothnamed.median</code></p></div>
+<div class="finding"><div class="cap">Finding 2</div><div class="num">43.7% then 26.6%</div><h2>Perplexity's lists were steadier before a method change than after, and the two cannot be separated</h2><p class="cap">Perplexity raw name persistence: 2,398 of 5,486 in 2026-09-01 to 2026-09-27, 209 of 786 in 2026-09-28 to 2026-10-07 (9 run days).</p><p>Median list overlap fell from 30 percent (832 pairs) to 17 percent (264 pairs). The share of businesses named on 20 to 80 percent of answered days (so one day's answer is close to a coin flip), on the gated list, rose from 30.7 percent (173 of 564) to 42.2 percent (114 of 270). On 2026-09-27 Perplexity retired Sonar chat completions and the collector moved to the Agent API with web search forced on. This is not a trend. The second window is short, and the method changed inside the record.</p><p class="method">Source: <code>metrics/metrics_v2.csv, methods P.raw.pername, J.raw.pair_bothnamed.median, S.gated.coinflip</code></p></div>
+<div class="finding"><div class="cap">Finding 3</div><div class="num">1.1%</div><h2>Engines do not name the same businesses on the same day</h2><p class="cap">Mean overlap of two engines' raw name lists on the same day, OpenAI with Perplexity, 779 days, 2026-09-01 to 2026-09-27.</p><p>Perplexity with Gemini 2.7 percent (280 days). OpenAI with Anthropic 0.9 percent (781 days). Perplexity with Anthropic 0.1 percent (903 days). On names that pass the name gate, the highest pair is Perplexity with Gemini at 6.1 percent (280 days). The engines were called with different settings and only Perplexity searches the web, so this describes answers from API calls. It does not say the engines disagree about the market.</p><p class="method">Source: <code>metrics/metrics_v2.csv, methods A.raw.pair and A.gated.pair</code></p></div>
+<div class="finding"><div class="cap">Finding 4</div><div class="num">3.3%</div><h2>Anthropic's API, with no search tool, returned almost no business names that survive the name gate</h2><p class="cap">A gated business name appeared on 34 of 1,026 answered cell days, 2026-09-01 to 2026-09-27. To 2026-10-07: 46 of 1,368 (3.4 percent).</p><p>In the same first window Perplexity named a business on 852 of 903 answered cell days (94.4 percent) and OpenAI on 351 of 781 (44.9 percent). Anthropic's raw lists hold generic phrases, which is why its raw persistence reads 50 percent. Use the gated figure for how often an engine names a business, and the raw one only for what the engine wrote.</p><p class="method">Source: <code>metrics/metrics_v2.csv, method N.gated.day</code></p></div>
+<div class="finding"><div class="cap">Finding 5</div><div class="num">21 of 1,692</div><h2>Our own domains rarely appear in what an engine cites</h2><p class="cap">Perplexity answers that cite a Namebeam owned domain, 2026-09-01 to 2026-10-07. 20 are one Kansas City health insurance page on namebeam.ai, 1 is trunkline.money.</p><p>Google organic result pages listing one of our domains: 0 of 1,692. Google AI Overviews that carry reference links and cite one: 0 of 188 (the field exists from 2026-10-03). Whole record since 2026-08-02: 36 of 2,735 Perplexity answers. OpenAI, Anthropic and Gemini return no source list, so a zero for them means nothing and is not counted.</p><p class="method">Source: <code>data/customer_zero_daily.csv</code></p></div>
+
+<div class="caveat"><b>What this does not show.</b> The record covers local business questions in the markets we ask about, not all businesses or all questions. A name returned is a string an engine wrote, not a recommendation by us. Gemini answered 309 of 1,026 asked cell days from 2026-09-01 to 2026-09-27 and 0 of 342 after that, because the account returned HTTP 402. Nothing here shows why a list changed.</div>
+<h2>Check it yourself</h2>
+<p class="method">The pack is public: the answers table (10,152 rows, each with the SHA-256 of its raw file), the sources table (35,205 rows), the metrics table (204 rows), the code that computes the metrics, and a script that checks every file against a manifest.</p>
+<p class="method"><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/releases/edition-1">Open the pack in the public repository</a></p>
+<pre style="background:#efe9d9;padding:14px;overflow-x:auto;font-size:13px">cd namebeam-visibility-index
+python3 releases/edition-1/verify.py
+python3 releases/edition-1/verify.py --rebuild --metrics</pre>
+</div>
+<footer>
+<div class="ce-net">
+<nav class="ce-legs">
+      <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+    </nav>
+</div>
+
+<div>The dated record of who AI names &middot; NameBeam, Carter Enterprise LLC</div>
+<div class="eq">Every claim owes the future a receipt.</div>
+</footer>
+</body>
+</html>
