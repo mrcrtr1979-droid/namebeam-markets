@@ -6,27 +6,129 @@
 <title>Namebeam Market Panels, September 2026</title>
 <meta name="description" content="Namebeam market panels, September 2026: which local businesses AI answer engines named and which sources Google cited, per US market, counted from a dated daily record.">
 <style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: system-ui, -apple-system, sans-serif; background: #f9f9f9; padding: 20px; color: #1a1a1a; }
-.container { max-width: 840px; margin: 0 auto; background: #fff; padding: 40px; border-radius: 8px; line-height: 1.6; }
-h1 { font-size: 28px; margin-bottom: 10px; } h2 { font-size: 20px; margin: 24px 0 8px; }
-table { border-collapse: collapse; width: 100%; margin: 8px 0 16px; font-size: 14px; }
-th, td { border: 1px solid #ddd; padding: 6px 8px; text-align: left; vertical-align: top; } th { background: #f0f0f0; }
-a { color: #1a5fb4; }
-.disclosure { background: #f0f0f0; padding: 15px; border-radius: 4px; margin: 20px 0; font-size: 13px; color: #444; }
-.footer { margin-top: 40px; padding-top: 18px; border-top: 1px solid #eee; font-size: 12px; color: #777; }
+/* Namebeam header, footer and call to action (colors and type copied from namebeam.ai) */
+:root{--nb-navy:#0b1b33;--nb-navy2:#0e2140;--nb-card:#12294a;--nb-gold:#e8b23a;--nb-gold2:#f4cf6b;--nb-line:#22355a;--nb-muted:#9fb2d0}
+.nb-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--nb-line);position:sticky;top:0;background:rgba(11,27,51,.96);backdrop-filter:blur(6px);z-index:50;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;text-align:left;box-sizing:border-box}
+.nb-header *{box-sizing:border-box}
+.nb-header a{text-decoration:none}
+.nb-header a.nb-brand{display:flex;align-items:center;gap:10px;color:#fff}
+.nb-brand .nb-name{font-weight:800;font-size:20px;color:#fff;line-height:1.2}
+.nb-brand .nb-name span{color:var(--nb-gold)}
+.nb-brand .nb-tag{font-size:9px;letter-spacing:.18em;color:var(--nb-gold);text-transform:uppercase}
+.nb-nav a{color:#cddcf2;font-size:13.5px;margin-left:18px}
+.nb-nav a:hover{color:#fff}
+.nb-btn{display:inline-block;background:var(--nb-gold);color:#1a1206;font-weight:800;padding:11px 18px;border-radius:9px;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.4}
+.nb-nav a.nb-btn{padding:8px 14px;margin-left:18px;color:#1a1206;font-size:13.5px}
+.nb-btn.nb-ghost,.nb-nav a.nb-btn.nb-ghost{background:transparent;color:var(--nb-gold2);border:1px solid var(--nb-gold)}
+.nb-cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin:26px 0 0}
+.nb-cta a.nb-btn{color:#1a1206;font-size:16px;padding:12px 20px}
+.nb-cta a.nb-btn.nb-ghost{color:var(--nb-gold2)}
+@media(max-width:760px){
+.nb-header{position:static;flex-wrap:wrap;gap:6px 0;align-items:center}
+.nb-header::after{content:"";order:1;flex-basis:100%;height:0}
+.nb-nav{display:contents}
+.nb-nav a{order:2;margin-left:0;margin-right:16px;font-size:13px;line-height:1.9}
+.nb-nav a.nb-btn{order:1;margin-left:auto;margin-right:0;font-size:13.5px;line-height:1.6}
+.nb-cta a.nb-btn{width:100%;text-align:center}
+}
+.ce-foot{border-top:1px solid rgba(227,179,65,.35);background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:34px 18px 42px;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;box-sizing:border-box}
+.ce-net{max-width:960px;margin:0 auto;text-align:center}
+.ce-net .ce-kick{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;color:#E3B341;font-size:11px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:6px}
+.ce-net .ce-parent{color:#F6F8FC;font-weight:800;letter-spacing:.12em;font-size:.9rem;margin-bottom:16px}
+.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
+.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
+.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
+.ce-net .ce-social{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;margin:0 0 18px;padding:0}
+.ce-net .ce-social a{color:#8ea9cc;text-decoration:none;font-size:.76rem;letter-spacing:.08em;text-transform:uppercase}
+.ce-net .ce-social a:hover{color:#E3B341}
+.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
+.ce-net .ce-copy{color:#8ea9cc;font-size:.72rem;margin-bottom:14px}
+.ce-net .ce-fine{color:#5c7595;font-size:.68rem;line-height:1.55;max-width:720px;margin:0 auto}
+.ce-net .ce-slogan{color:#E3B341;font-style:italic;font-size:.82rem;margin-bottom:10px}
+@media(max-width:520px){
+  footer.ce-foot{padding:30px 14px 38px}
+  .ce-net .ce-kick{letter-spacing:.09em;font-size:9.5px}
+  .ce-net .ce-legs{gap:8px 8px}
+  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
+  .ce-net .ce-social{gap:6px 14px}
+  .ce-net .ce-social a{font-size:.7rem;letter-spacing:.04em}
+  .ce-net .ce-legal{overflow-wrap:anywhere}
+}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#eef2f8;margin:0;padding:0;color:#0b1b33}
+.nb-hero{background:radial-gradient(circle at 50% 30%,#14305a,#0b1b33 70%);padding:52px 20px 44px;text-align:center}
+.nb-hero-in{max-width:840px;margin:0 auto}
+.nb-hero h1{font-size:36px;line-height:1.2;color:#fff;margin:0 0 14px}
+.nb-hero p{color:#dbe6f7;font-size:17px;line-height:1.6;max-width:720px;margin:0 auto}
+.nb-hero p a{color:var(--nb-gold2)}
+@media (max-width:600px){.nb-hero{padding:36px 16px 32px}.nb-hero h1{font-size:28px}.nb-hero p{font-size:16px}}
+.container{max-width:840px;margin:28px auto;background:#fff;padding:40px;border-radius:12px;border:1px solid #d3dcea;line-height:1.6}
+@media (max-width:600px){.container{margin:16px 12px;padding:22px 16px}}
+h2 { font-size:20px; margin:24px 0 8px; color:#0b1b33; }
+.container > h2:first-child{margin-top:0}
+table { border-collapse: collapse; width: 100%; margin: 8px 0 16px; font-size: 14px; display: block; overflow-x: auto; }
+th, td { border: 1px solid #d3dcea; padding: 6px 8px; text-align: left; vertical-align: top; } th { background: #0b1b33; color: #fff; }
+a { color: #14509a; }
+.disclosure { background: #fdf3d6; border-left: 4px solid var(--nb-gold); padding: 15px; border-radius: 4px; margin: 20px 0; font-size: 13px; color: #33415c; }
+.footer { margin-top: 40px; padding-top: 18px; border-top: 1px solid #d3dcea; font-size: 12px; color: #51627f; }
 </style>
 </head>
 <body>
-<div class="container">
+<header class="nb-header">
+  <a class="nb-brand" href="https://namebeam.ai/">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" width="46" height="46" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="nb-name">Name<span>beam</span></div><div class="nb-tag">Get picked by AI</div></div>
+  </a>
+  <nav class="nb-nav">
+    <a href="https://namebeam.ai/#how">How it works</a><a href="https://namebeam.ai/#proof">Proof</a><a href="https://namebeam.ai/#owners">Business owners</a><a href="https://namebeam.ai/#agencies">Agencies</a>
+    <a class="nb-btn" href="https://check.namebeam.ai/">Free check</a>
+  </nav>
+</header>
+<div class="nb-hero"><div class="nb-hero-in">
 <h1>Namebeam Market Panels, September 2026</h1>
-<div class="disclosure">HOW THIS WAS MADE, IN FULL. AI made this page. A script extracted and counted every number on it from a dated corpus file; a machine wrote the sentences around those numbers. Nobody here is going to tell you a person hand-tallied this. We say so here because there is nowhere else on this page to say it.</div>
 <p>One panel per market, 2026-09-01 to 2026-09-30, 30 run days each: engine coverage, the buyer questions asked, and for each niche the businesses Perplexity named most and the domains Google cited most, with first and last dates. Rows tied at the cutoff are all shown. Every count is computed from the dated record; nothing is estimated. The earlier <a href="../index.html">citation records by market (as of 2026-09-08)</a> stay published.</p>
+<div class="nb-cta"><a class="nb-btn" href="https://markets.namebeam.ai/agency/">Get the agency pack, $397</a><a class="nb-btn nb-ghost" href="https://check.namebeam.ai/">Run a free check</a></div>
+</div></div>
+<div class="container">
 <h2>Markets</h2>
 <ul><li><a href="atlanta-ga.html">Atlanta GA</a></li><li><a href="branson-mo.html">Branson MO</a></li><li><a href="charlotte-nc.html">Charlotte NC</a></li><li><a href="chicago-il.html">Chicago IL</a></li><li><a href="columbus-oh.html">Columbus OH</a></li><li><a href="dallas-tx.html">Dallas TX</a></li><li><a href="denver-co.html">Denver CO</a></li><li><a href="houston-tx.html">Houston TX</a></li><li><a href="joplin-mo.html">Joplin MO</a></li><li><a href="kansas-city-mo.html">Kansas City MO</a></li><li><a href="liberty-mo.html">Liberty MO</a></li><li><a href="los-angeles-ca.html">Los Angeles CA</a></li><li><a href="maryland.html">Maryland</a></li><li><a href="miami-fl.html">Miami FL</a></li><li><a href="nashville-tn.html">Nashville TN</a></li><li><a href="phoenix-az.html">Phoenix AZ</a></li><li><a href="pleasanton-ca.html">Pleasanton CA</a></li><li><a href="san-francisco-ca.html">San Francisco CA</a></li><li><a href="santa-cruz-county-ca.html">Santa Cruz County CA</a></li><li><a href="st-louis-mo.html">St. Louis MO</a></li><li><a href="st-peters-mo.html">St. Peters MO</a></li><li><a href="tyler-tx.html">Tyler TX</a></li><li><a href="us-nationwide.html">US nationwide</a></li><li><a href="us-nationwide-online.html">US nationwide, online</a></li></ul>
 <table><tr><th>Market</th><th>Run Days</th><th>Questions</th><th>Distinct Businesses</th><th>Panel</th></tr><tr><td>Atlanta GA</td><td>30</td><td>2</td><td>146</td><td><a href="atlanta-ga.html">atlanta-ga.html</a></td></tr><tr><td>Branson MO</td><td>30</td><td>1</td><td>112</td><td><a href="branson-mo.html">branson-mo.html</a></td></tr><tr><td>Charlotte NC</td><td>30</td><td>1</td><td>59</td><td><a href="charlotte-nc.html">charlotte-nc.html</a></td></tr><tr><td>Chicago IL</td><td>30</td><td>1</td><td>105</td><td><a href="chicago-il.html">chicago-il.html</a></td></tr><tr><td>Columbus OH</td><td>30</td><td>1</td><td>60</td><td><a href="columbus-oh.html">columbus-oh.html</a></td></tr><tr><td>Dallas TX</td><td>30</td><td>2</td><td>196</td><td><a href="dallas-tx.html">dallas-tx.html</a></td></tr><tr><td>Denver CO</td><td>30</td><td>1</td><td>65</td><td><a href="denver-co.html">denver-co.html</a></td></tr><tr><td>Houston TX</td><td>30</td><td>2</td><td>137</td><td><a href="houston-tx.html">houston-tx.html</a></td></tr><tr><td>Joplin MO</td><td>30</td><td>1</td><td>86</td><td><a href="joplin-mo.html">joplin-mo.html</a></td></tr><tr><td>Kansas City MO</td><td>30</td><td>3</td><td>180</td><td><a href="kansas-city-mo.html">kansas-city-mo.html</a></td></tr><tr><td>Liberty MO</td><td>30</td><td>1</td><td>63</td><td><a href="liberty-mo.html">liberty-mo.html</a></td></tr><tr><td>Los Angeles CA</td><td>30</td><td>1</td><td>50</td><td><a href="los-angeles-ca.html">los-angeles-ca.html</a></td></tr><tr><td>Maryland</td><td>30</td><td>1</td><td>32</td><td><a href="maryland.html">maryland.html</a></td></tr><tr><td>Miami FL</td><td>30</td><td>1</td><td>106</td><td><a href="miami-fl.html">miami-fl.html</a></td></tr><tr><td>Nashville TN</td><td>30</td><td>1</td><td>78</td><td><a href="nashville-tn.html">nashville-tn.html</a></td></tr><tr><td>Phoenix AZ</td><td>30</td><td>1</td><td>70</td><td><a href="phoenix-az.html">phoenix-az.html</a></td></tr><tr><td>Pleasanton CA</td><td>30</td><td>9</td><td>702</td><td><a href="pleasanton-ca.html">pleasanton-ca.html</a></td></tr><tr><td>San Francisco CA</td><td>30</td><td>1</td><td>47</td><td><a href="san-francisco-ca.html">san-francisco-ca.html</a></td></tr><tr><td>Santa Cruz County CA</td><td>30</td><td>1</td><td>133</td><td><a href="santa-cruz-county-ca.html">santa-cruz-county-ca.html</a></td></tr><tr><td>St. Louis MO</td><td>30</td><td>4</td><td>153</td><td><a href="st-louis-mo.html">st-louis-mo.html</a></td></tr><tr><td>St. Peters MO</td><td>30</td><td>1</td><td>60</td><td><a href="st-peters-mo.html">st-peters-mo.html</a></td></tr><tr><td>Tyler TX</td><td>30</td><td>1</td><td>81</td><td><a href="tyler-tx.html">tyler-tx.html</a></td></tr><tr><td>US nationwide</td><td>30</td><td>8</td><td>587</td><td><a href="us-nationwide.html">us-nationwide.html</a></td></tr><tr><td>US nationwide, online</td><td>30</td><td>1</td><td>139</td><td><a href="us-nationwide-online.html">us-nationwide-online.html</a></td></tr></table>
 <p>Total: 24 markets, 720 total run days, 47 total questions, 3447 total distinct businesses</p>
+<div class="disclosure">HOW THIS WAS MADE, IN FULL. AI made this page. A script extracted and counted every number on it from a dated corpus file; a machine wrote the sentences around those numbers. Nobody here is going to tell you a person hand-tallied this. We say so here because there is nowhere else on this page to say it.</div>
 <div class="footer"><p>Get your own free 5-engine check: <a href="https://check.namebeam.ai">https://check.namebeam.ai</a></p><p>Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801</p></div>
 </div>
+<footer class="ce-foot">
+  <div class="ce-net">
+    <div class="ce-slogan">Every claim owes the future a receipt.</div>
+    <div class="ce-kick">Part of the Carter Enterprise Network</div>
+    <div class="ce-parent">CARTER ENTERPRISE LLC</div>
+    <nav class="ce-legs">
+      <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+    </nav>
+    <nav class="ce-social">
+      <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
+      <a href="https://namebeam.ai/company.html">Company</a>
+      <a href="https://www.youtube.com/channel/UC63mV8l26O0pB6S-tDRVTtg" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://trunkline.money/affiliates/" target="_blank" rel="noopener">Affiliates</a>
+      <a href="mailto:hello@namebeam.ai">Contact</a>
+    </nav>
+    <nav class="ce-legs" id="receipts-links">
+      <a href="https://markets.namebeam.ai/report/october-2026/">October 2026 report</a>
+      <a href="https://markets.namebeam.ai/ai-picks/">AI Picks chart</a>
+      <a href="https://markets.namebeam.ai/sources/">Sources AI engines read</a>
+      <a href="https://markets.namebeam.ai/agency/">For agencies</a>
+      <a href="https://namebeam.ai/citation-ledger">Citation ledger</a>
+      <a href="https://proof.namebeam.ai/ai-visibility-factors" target="_blank" rel="noopener">AI visibility factors</a>
+      <a href="https://proof.namebeam.ai/" target="_blank" rel="noopener">Proof record</a>
+      <a href="https://api.receiptsindex.com/datasets/" target="_blank" rel="noopener">Public datasets</a>
+    </nav>
+    <div class="ce-legal">Carter Enterprise LLC &middot; 30 N Gould St, Suite 65270, Sheridan, WY 82801</div>
+    <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a guarantee of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+  </div>
+</footer>
 </body>
 </html>
