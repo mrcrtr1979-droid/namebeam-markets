@@ -30,8 +30,52 @@ a { color: #1a5fb4; }
   .ce-net .ce-legal{overflow-wrap:anywhere}
 }
 </style>
+/* Namebeam header, footer and call to action (colors and type copied from namebeam.ai) */
+:root{--nb-navy:#0b1b33;--nb-navy2:#0e2140;--nb-card:#12294a;--nb-gold:#e8b23a;--nb-gold2:#f4cf6b;--nb-line:#22355a;--nb-muted:#9fb2d0}
+.nb-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--nb-line);position:sticky;top:0;background:rgba(11,27,51,.96);backdrop-filter:blur(6px);z-index:50;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;text-align:left;box-sizing:border-box}
+.nb-header *{box-sizing:border-box}
+.nb-header a{text-decoration:none}
+.nb-header a.nb-brand{display:flex;align-items:center;gap:10px;color:#fff}
+.nb-brand .nb-name{font-weight:800;font-size:20px;color:#fff;line-height:1.2}
+.nb-brand .nb-name span{color:var(--nb-gold)}
+.nb-brand .nb-tag{font-size:9px;letter-spacing:.18em;color:var(--nb-gold);text-transform:uppercase}
+.nb-nav a{color:#cddcf2;font-size:13.5px;margin-left:18px}
+.nb-nav a:hover{color:#fff}
+.nb-btn{display:inline-block;background:var(--nb-gold);color:#1a1206;font-weight:800;padding:11px 18px;border-radius:9px;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.4}
+.nb-nav a.nb-btn{padding:8px 14px;margin-left:18px;color:#1a1206;font-size:13.5px}
+@media(max-width:760px){
+.nb-header{position:static;flex-wrap:wrap;gap:6px 0;align-items:center}
+.nb-header::after{content:"";order:1;flex-basis:100%;height:0}
+.nb-nav{display:contents}
+.nb-nav a{order:2;margin-left:0;margin-right:16px;font-size:13px;line-height:1.9}
+.nb-nav a.nb-btn{order:1;margin-left:auto;margin-right:0;font-size:13.5px;line-height:1.6}
+}
+.ce-foot{border-top:1px solid rgba(227,179,65,.35);background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:34px 18px 42px;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;box-sizing:border-box}
+.ce-net .ce-kick{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;color:#E3B341;font-size:11px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:6px}
+.ce-net .ce-parent{color:#F6F8FC;font-weight:800;letter-spacing:.12em;font-size:.9rem;margin-bottom:16px}
+.ce-net .ce-social{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;margin:0 0 18px;padding:0}
+.ce-net .ce-social a{color:#8ea9cc;text-decoration:none;font-size:.76rem;letter-spacing:.08em;text-transform:uppercase}
+.ce-net .ce-social a:hover{color:#E3B341}
+.ce-net .ce-copy{color:#8ea9cc;font-size:.72rem;margin-bottom:14px}
+.ce-net .ce-fine{color:#5c7595;font-size:.68rem;line-height:1.55;max-width:720px;margin:0 auto}
+@media(max-width:520px){
+  footer.ce-foot{padding:30px 14px 38px}
+  .ce-net .ce-kick{letter-spacing:.09em;font-size:9.5px}
+  .ce-net .ce-social{gap:6px 14px}
+  .ce-net .ce-social a{font-size:.7rem;letter-spacing:.04em}
+}
 </head>
 <body>
+<header class="nb-header">
+  <a class="nb-brand" href="https://namebeam.ai/">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" width="46" height="46" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="nb-name">Name<span>beam</span></div><div class="nb-tag">Get picked by AI</div></div>
+  </a>
+  <nav class="nb-nav">
+    <a href="https://namebeam.ai/#how">How it works</a><a href="https://namebeam.ai/#proof">Proof</a><a href="https://namebeam.ai/#owners">Business owners</a><a href="https://namebeam.ai/#agencies">Agencies</a>
+    <a class="nb-btn" href="https://check.namebeam.ai/">Free check</a>
+  </nav>
+</header>
 <div class="container">
 <h1>AI Engine Citation Records, by Market</h1>
 <p>As of 2026-09-08. 12 markets published, 7 markets refused for thin data.</p>
@@ -80,17 +124,38 @@ a { color: #1a5fb4; }
 <p>Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801</p>
 </div>
 </div>
-<footer>
-<div class="ce-net">
-<nav class="ce-legs">
+<footer class="ce-foot">
+  <div class="ce-net">
+    <div class="ce-kick">Part of the Carter Enterprise Network</div>
+    <div class="ce-parent">CARTER ENTERPRISE LLC</div>
+    <nav class="ce-legs">
       <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
       <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
       <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
       <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
       <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
     </nav>
-<div class="ce-legal">Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801</div>
-</div>
+    <nav class="ce-social">
+      <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
+      <a href="https://namebeam.ai/company.html">Company</a>
+      <a href="https://www.youtube.com/channel/UC63mV8l26O0pB6S-tDRVTtg" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://trunkline.money/affiliates/" target="_blank" rel="noopener">Affiliates</a>
+      <a href="mailto:hello@namebeam.ai">Contact</a>
+    </nav>
+    <nav class="ce-legs" id="receipts-links">
+      <a href="https://markets.namebeam.ai/report/october-2026/">October 2026 report</a>
+      <a href="https://markets.namebeam.ai/ai-picks/">AI Picks chart</a>
+      <a href="https://markets.namebeam.ai/sources/">Sources AI engines read</a>
+      <a href="https://markets.namebeam.ai/agency/">For agencies</a>
+      <a href="https://namebeam.ai/citation-ledger">Citation ledger</a>
+      <a href="https://proof.namebeam.ai/ai-visibility-factors" target="_blank" rel="noopener">AI visibility factors</a>
+      <a href="https://proof.namebeam.ai/" target="_blank" rel="noopener">Proof record</a>
+      <a href="https://api.receiptsindex.com/datasets/" target="_blank" rel="noopener">Public datasets</a>
+    </nav>
+    <div class="ce-legal">Carter Enterprise LLC &middot; 30 N Gould St, Suite 65270, Sheridan, WY 82801</div>
+    <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a promise of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+  </div>
 </footer>
 </body>
 </html>
