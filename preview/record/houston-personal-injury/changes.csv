@@ -1,0 +1,248 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,The Kishinevsky Law Firm,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,Johnson Garcia LLP,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,The Kishinevsky Law Firm,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Resources,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Sutliff & Stout,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Johnson Garcia LLP,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,entered,Johnson Garcia LLP,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,entered,The Kishinevsky Law Firm,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,dropped,Jim Adler & Associates,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,dropped,Resources,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Johnson Garcia LLP,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Sutliff & Stout,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,The Kishinevsky Law Firm,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Johnson Garcia LLP,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,Sutliff & Stout,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,The Kishinevsky Law Firm,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Johnson Garcia LLP,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Johnson Garcia LLP,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,Terry Bryant,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,The Kishinevsky Law Firm,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Jim Adler & Associates,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Terry Bryant,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,Jim Adler & Associates,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,Jim Adler & Associates,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,dropped,Johnson Garcia LLP,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Johnson Garcia LLP,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Jim Adler & Associates,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Actual Trial Experience,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Baumgartner Law Firm (Greg Baumgartner,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Resources for Experts,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,The Kishinevsky Law Firm,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Do not give a recorded statement,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Johnson Garcia LLP,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Resources,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Seek medical attention immediately,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Terry Bryant,perplexity gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Trial Experience,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Baumgartner Law Firm,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Contingency Fee Structure,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Johnson Garcia LLP,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Schedule 2-3 Free Consultations,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Terry Bryant,perplexity gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Zehl & Associates PC,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Actual Trial Experience,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm (Greg Baumgartner,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,No Upfront Fees (Contingency Basis,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Resources for Experts,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,The Kishinevsky Law Firm,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Board Certification,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Known For,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,No Upfront Fees (Contingency Basis,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Paul Hilmon Cannon at Simmons & Fletcher,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Contingency Fee Structure,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Resources,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Arnold & Itkin LLP,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Johnson Garcia LLP,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Known For,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Paul Hilmon Cannon at Simmons & Fletcher,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Schedule 2-3 Free Consultations,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Zehl & Associates PC,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stornello",gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Arnold & Itkin LLP,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Baumgartner Law Firm,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Johnson Garcia LLP,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Paul Hilmon Cannon at Simmons & Fletcher,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,"Zehl & Associates, PC",gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,No Upfront Fees (Contingency Basis,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Resources,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Terry Bryant,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,"Jim Adler & Associates (""The Texas Hammer",gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,No Upfront Costs (Contingency Fee,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stornello",gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Jim Adler & Associates,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Terry Bryant,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Zehl & Associates,perplexity
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,Do not give a recorded statement,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,Terry Bryant,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,Texas Board of Legal Specialization (TBLS,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,"Zehl & Associates, PC",gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Actual Trial Experience,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Arnold & Itkin LLP,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Baumgartner Law Firm,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Direct Attorney Access,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Disclaimer,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,"Jim Adler & Associates (""The Texas Hammer",gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Reputation,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity,dropped,Smith & Hassler,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,No Upfront Costs (Contingency Fee,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Smith & Hassler,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Disclaimer,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,No Upfront Fees (Contingency Basis,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Resources for Experts,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,"Simmons & Fletcher, P.C",gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Terry Bryant,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,The Kishinevsky Law Firm,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Trial Experience vs. Settlement Mill,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,"Zehl & Associates, PC",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Adibe Law Group,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Direct Attorney Access,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,No Upfront Fees (Contingency Basis,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Paul Hilmon Cannon at Simmons & Fletcher,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Terry Bryant,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,The Kishinevsky Law Firm,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Zehl & Associates (Ryan Zehl,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,No Upfront Costs (Contingency Fee,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Johnson Garcia LLP,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Terry Bryant,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Brian White,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Sutliff & Stout,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Terry Bryant,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Actual Trial Experience,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Board Certification in Personal Injury Trial Law,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Texas Board of Legal Specialization (TBLS,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Zehl & Associates (Ryan Zehl,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Arnold & Itkin LLP,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Brian White,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Disclaimer,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Paul Hilmon Cannon at Simmons & Fletcher,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Resources,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Sutliff & Stout,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,The Kishinevsky Law Firm,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,"Zehl & Associates, PC",gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Baumgartner Law Firm (Greg Baumgartner,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Brian White,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Johnson Garcia LLP,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Known For,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,No Upfront Fees (Contingency Basis,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,"Zehl & Associates, PC (Ryan Zehl",gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Contingency Fee Structure,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Terry Bryant,perplexity gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Zehl & Associates (Ryan Zehl,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Board Certification,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Contingency Fee Structure,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Jim Adler & Associates,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Actual Trial Experience,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm (Greg Baumgartner,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Board Certification in Personal Injury Trial Law,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Known For,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,No Upfront Fees (Contingency Basis,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Texas Board of Legal Specialization (TBLS,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,"Zehl & Associates, PC (Ryan Zehl",gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Arnold & Itkin LLP,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Baumgartner Law Firm,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Do not give a recorded statement,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Seek medical attention immediately,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Trial Experience vs. Settlement Mill,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Zehl & Associates PC,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Brian White,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Contingency Fee Structure,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,Adibe Law Group,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,Jim Adler & Associates,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Adibe Law Group,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Brian White,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Jim Adler & Associates,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Terry Bryant,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Brian White,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Johnson Garcia LLP,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Terry Bryant,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Johnson Garcia LLP,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Zehl & Associates,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,entered,Board Certification in Personal Injury Trial Law,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,entered,Disclaimer,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,entered,No Upfront Fees (Contingency Basis,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,entered,The Lanier Law Firm,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,dropped,No Upfront Costs (Contingency Fee,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,dropped,Schedule Free Consultations,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini,dropped,Trial Readiness,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Zehl & Associates,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,Johnson Garcia LLP,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,The Lanier Law Firm,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,The Lanier Law Firm,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Adibe Law Group,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Smith & Hassler,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Smith & Hassler,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Charlie C. Gustin / Gustin Law Firm,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,DeHoyos Accident Attorneys,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Joe I. Zaid & Associates,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,McGovern Law Firm,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Jim Adler & Associates,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Smith & Hassler,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,The Lanier Law Firm,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Zehl & Associates,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Charlie C. Gustin / Gustin Law Firm,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,DeHoyos Accident Attorneys,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Joe I. Zaid & Associates,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,McGovern Law Firm,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Brian White,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Mark Lanier,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Paul Hilmon Cannon at Simmons & Fletcher,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Daniel Horowitz,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Joshua P. Davis,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Brian White,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Mark Lanier,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Brian White,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Daniel Horowitz,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Joshua P. Davis,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Brian White,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Terry Bryant,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Joshua P. Davis,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Kevin Camp of Roven Camp,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Terry Bryant,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Kevin Camp of Roven Camp,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity

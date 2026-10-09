@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-30,dallas-roofing,Dallas TX,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-09-30_segment_roofing_dallas_openai,NB-CZ-API_2026-09-30_segment_roofing_dallas_openai.json,d7e5b533f7dbdecfd24fa589bc5badbeaec605a3323dac7a318bfc8e288680aa
+2026-09-30,dallas-roofing,Dallas TX,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-09-30_segment_roofing_dallas_anthropic,NB-CZ-API_2026-09-30_segment_roofing_dallas_anthropic.json,ed84f469e2b318a6e3e3014e8eddcc0d1b577ad1d8837e32f4b469ca9f93143e
+2026-09-30,dallas-roofing,Dallas TX,residential roofing,perplexity,1,OK,1,Arrington Roofing,NB-CZ-API_2026-09-30_segment_roofing_dallas_perplexity,NB-CZ-API_2026-09-30_segment_roofing_dallas_perplexity.json,04ae95798cc36aa92072376c2292ad5951e2dbdbd82594f497522134ccc76b0b
+2026-09-30,dallas-roofing,Dallas TX,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-09-30_segment_roofing_dallas_gemini,NB-CZ-API_2026-09-30_segment_roofing_dallas_gemini.json,34fe2ef257e7cffa282c4e26c8f881ed42ca08873f39a4fdde049d10b5a38ee7
+2026-09-30,dallas-roofing,Dallas TX,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-30_segment_roofing_dallas,NB-CZ-SERP_2026-09-30_segment_roofing_dallas.json,693ecc566d80adaa684bc5941c00b9a3e77cec7f86455d9aad5b8c432a055e39

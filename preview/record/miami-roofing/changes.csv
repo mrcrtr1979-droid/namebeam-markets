@@ -1,0 +1,213 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Perkins Roofing,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,Perkins Roofing,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Perkins Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Perkins Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,FL Roofing & Windows,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,FL Roofing & Windows,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Indigo Roofing Contractor,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Ironwood Roofing Miami,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Florida Standard Roofing,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Perkins Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity,dropped,FL Roofing & Windows,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity,entered,Art's Roofing & Construction,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity,entered,FL Roofing & Windows,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity,entered,Indigo Roofing Contractor,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Art's Roofing & Construction,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,FL Roofing & Windows,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Indigo Roofing Contractor,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,FL Roofing & Windows,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Art's Roofing & Construction,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Atlantic Metal Roofing,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,FL Roofing & Windows,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Florida Standard Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Perkins Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Art's Roofing & Construction,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Indigo Roofing Contractor,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Atlantic Metal Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Florida Standard Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Perkins Roofing,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,Atlantic Metal Roofing,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,Indigo Roofing Contractor,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,Salomon Roofing & Waterproofing,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,dropped,Atlantic Metal Roofing,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,FL Roofing & Windows,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Indigo Roofing Contractor,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Salomon Roofing & Waterproofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Atlantic Metal Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Florida Standard Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Perkins Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,dropped,Ironwood Roofing Miami,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Florida Standard Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Perkins Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Florida Standard Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Perkins Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Salomon Roofing & Waterproofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Indigo Roofing Contractor,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Perkins Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Salomon Roofing & Waterproofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,American Roofing & Rain Gutters,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Enhanced Fastening Patterns,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,General Liability,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,High-Velocity Hurricane Zone (HVHZ,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Istueta Roofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Tile,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Uniform Mitigation Verification Inspection Form,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Workers' Compensation,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Enhanced Deck Fastening,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Florida Standard Roofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Isteta Roofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Joe Ward Roofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Miami-Dade High-Velocity Hurricane Zone (HVHZ,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Miami-Dade NOA (Notice of Acceptance,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Florida Standard Roofing,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Salomon Roofing & Waterproofing,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,American Roofing & Rain Gutters,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,A-1 Property Services,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Enhanced Deck Fastening,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,High-Velocity Hurricane Zone (HVHZ,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Isteta Roofing,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Joe Ward Roofing,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Secondary Water Barrier (SWR,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,T&S Roofing Systems,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Tile,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Uniform Mitigation Verification Inspection Form,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Enhanced Fastening Patterns,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Overview,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Secondary Water Barrier (SWB,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Wind Mitigation Certificate,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Atlantic Metal Roofing,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,FL Roofing & Windows,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,GAF Master Elite Contractor,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Secondary Water Barrier (SWB,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,A-1 Property Services,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,American Roofing & Rain Gutters,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,CCC (Certified Roofing Contractor,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Greener Roofing & Solar,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Isteta Roofing,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Joe Ward Roofing,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Secondary Water Barrier (SWR,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,T&S Roofing Systems,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Tile,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Uniform Mitigation Verification Inspection Form,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Florida Standard Roofing,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Indigo Roofing Contractor,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Perkins Roofing,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,FL Roofing & Windows,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Kendall Roofing,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Atlantic Metal Roofing,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Florida Standard Roofing,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Perkins Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Art's Roofing & Construction,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Kendall Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,FL Roofing & Windows,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Florida Standard Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,dropped,Art's Roofing & Construction,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Art's Roofing & Construction,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Atlantic Metal Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Ironwood Roofing Miami,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Kendall Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,FL Roofing & Windows,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Florida Standard Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,1. Istueta Roofing,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,2. T&S Roofing Systems,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,HVHZ (High-Velocity Hurricane Zone,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Miami-Dade NOA (Notice of Acceptance,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Secondary Water Barrier (SWR,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,1. T&S Roofing Systems,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Atlantic Metal Roofing,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Enhanced Deck Fastening,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Secondary Water Barrier (SWB,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Atlantic Metal Roofing,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,CCC,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,High-Velocity Hurricane Zone (HVHZ,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Wind Mitigation Certificate,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,1. Istueta Roofing,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,2. T&S Roofing Systems,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,4. A-1 Property Services,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Architectural Shingles,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Art's Roofing & Construction,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,CCC (Certified Roofing Contractor,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Concrete/Clay Tile,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,HVHZ (High-Velocity Hurricane Zone,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Kendall Roofing,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Secondary Water Barrier (SWR,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,1. Istueta Roofing,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,2. T&S Roofing Systems,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,3. A-1 Property Services,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,4. Joe Ward Enterprises Inc,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Art's Roofing & Construction,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Enhanced Deck Fastening,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,General Liability,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,HVHZ (High-Velocity Hurricane Zone,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Kendall Roofing,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,License Check,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Secondary Water Barrier (SWB,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Wind Mitigation Inspection report,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Workers' Compensation,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Wind Mitigation Inspection,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity,entered,Florida Standard Roofing,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Art's Roofing & Construction,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Kendall Roofing,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Art's Roofing & Construction,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Kendall Roofing,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Atlantic Metal Roofing,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Florida Standard Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Atlantic Metal Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Art's Roofing & Construction,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,FL Roofing & Windows,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Indigo Roofing Contractor,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Kendall Roofing,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Kendall Roofing,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,FL Roofing & Windows,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,Indigo Roofing Contractor,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Extreme Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Extreme Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Indigo Roofing Contractor,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Exact Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Robson Industrial,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Atlantic Metal Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Ironwood Roofing Miami,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Kendall Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Greener Roofing & Solar,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Exact Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Extreme Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Robson Industrial,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,AGK Construction & Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Art's Roofing & Construction,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,T&S Roofing Systems,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Greener Roofing & Solar,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,AJF Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Canopy Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,On Call Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,AGK Construction & Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Art's Roofing & Construction,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,T&S Roofing Systems,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Crown Roofing & Waterproofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Duke Contractors,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,AJF Roofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Canopy Roofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,On Call Roofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,AGK Construction & Roofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Art's Roofing & Construction,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Crown Roofing & Waterproofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Duke Contractors,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Extreme Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,AGK Construction & Roofing,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity,entered,Duke Contractors,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity,entered,Exact Roofing,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity,dropped,Art's Roofing & Construction,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity,dropped,Extreme Roofing,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity,dropped,Duke Contractors,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Art's Roofing & Construction,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Extreme Roofing,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Exact Roofing,perplexity

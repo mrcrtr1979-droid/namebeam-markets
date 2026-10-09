@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-10-01,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-10-01_segment_roofing_miami_openai,NB-CZ-API_2026-10-01_segment_roofing_miami_openai.json,fbefb1b710b96d9a05334cffe8d4745bed73d0c5f22fcedab97c1adfe02a1c59
+2026-10-01,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-10-01_segment_roofing_miami_anthropic,NB-CZ-API_2026-10-01_segment_roofing_miami_anthropic.json,32fb7af372f8dc7fe4345ff085545ab5ae8449e676084f2ae709fd8f12dacc8e
+2026-10-01,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,2,Crown Roofing & Waterproofing; Duke Contractors,NB-CZ-API_2026-10-01_segment_roofing_miami_perplexity,NB-CZ-API_2026-10-01_segment_roofing_miami_perplexity.json,622246d03361b48a56788f2136dc4b316fc323bdf29591d38a0fb20204a13f79
+2026-10-01,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-10-01_segment_roofing_miami_gemini,NB-CZ-API_2026-10-01_segment_roofing_miami_gemini.json,d3799ca604835a64e5ab961af7232ec039ec302e109a8a86a025f1b476964dbf
+2026-10-01,miami-roofing,Miami FL,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-10-01_segment_roofing_miami,NB-CZ-SERP_2026-10-01_segment_roofing_miami.json,cb10c285c2f7c1dd658dcf272c8ef731665f058c2d74fa99a937e3d1a5efdaed

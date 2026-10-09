@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-10-07,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-10-07_segment_roofing_miami_openai,NB-CZ-API_2026-10-07_segment_roofing_miami_openai.json,91d11c33f463e7b38790e571c270ba56555a37d9a9bd75817e9c4669526a0082
+2026-10-07,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-10-07_segment_roofing_miami_anthropic,NB-CZ-API_2026-10-07_segment_roofing_miami_anthropic.json,c85cefd6a6a665d8ead9396b193abeab4908a8c0c615a4d835d0120ad61a91bc
+2026-10-07,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,2,Art's Roofing & Construction; Extreme Roofing,NB-CZ-API_2026-10-07_segment_roofing_miami_perplexity,NB-CZ-API_2026-10-07_segment_roofing_miami_perplexity.json,5cb920997d23b54b5ad8b2d48902b82427ef58414ba1e67b96f3a1246d036504
+2026-10-07,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-10-07_segment_roofing_miami_gemini,NB-CZ-API_2026-10-07_segment_roofing_miami_gemini.json,faf8b78e9a128ca9c62ab66dbb28f69c4b40d49c8aefd8afcef8e05aec1f445e
+2026-10-07,miami-roofing,Miami FL,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-10-07_segment_roofing_miami,NB-CZ-SERP_2026-10-07_segment_roofing_miami.json,9777d0dd2672497b5d948b59247c1377b46bde0ec5dd7597d5514ca25002f0d1

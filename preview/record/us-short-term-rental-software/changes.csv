@@ -1,0 +1,106 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Hyper-Customizable,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Revenue Estimator,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Airbtics,anthropic
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Beyond (formerly Beyond Pricing,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Market Analysis,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Market Dashboards,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Pricing Model,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Market Dashboards,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Pricing Model,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Rabbu,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Hyper-Customizable,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Mashvisor,anthropic
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Revenue Estimator,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Mashvisor,anthropic
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,dropped,Rabbu,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini,entered,Market Dashboards,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini,dropped,Awning,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Pricing,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Pricing Structure,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Rabbu,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,AllTheRooms,anthropic
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Beyond (formerly Beyond Pricing,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Revenue Estimator,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Pricing,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Market Analysis,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Pricing Model,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,AllTheRooms,anthropic
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Pricing,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Beyond (formerly Beyond Pricing,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Pricing Model,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Revenue Estimator,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Avantio,anthropic
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Beyond (formerly Beyond Pricing,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Use PriceLabs,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Market Analysis,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Rabbu,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Avantio,anthropic
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Beyond (formerly Beyond Pricing,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Use PriceLabs,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Beyond (formerly Beyond Pricing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Pricing Structure,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Revenue Estimator,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Pricing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Rabbu,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Market Dashboards,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Pricing Structure,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Awning,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Hyper-Customizable,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Pricing,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Rabbu,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Awning,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Hostaway,anthropic
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Rabbu,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Pricing Structure,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini,entered,Beyond Pricing,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini,entered,Pricing,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini,dropped,Hostaway,anthropic
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini,entered,Hostaway,anthropic
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini,dropped,Awning,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini,dropped,Market Dashboards,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini,dropped,Pricing,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini,dropped,Rabbu,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Airbtics,anthropic
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Market Dashboards,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Rabbu,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Beyond Pricing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Hostaway,anthropic
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Avantio,anthropic
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Beyond Pricing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Airbtics,anthropic
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Avantio,anthropic
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Beyond Pricing,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Beyond Pricing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Beyond Pricing,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Beyond Pricing,perplexity
+2026-09-02,2026-09-01,1,openai anthropic,dropped,Mashvisor,anthropic
+2026-09-03,2026-09-02,1,openai anthropic,entered,Mashvisor,anthropic
+2026-09-04,2026-09-03,1,openai anthropic,entered,AllTheRooms,anthropic
+2026-09-05,2026-09-04,1,openai anthropic,dropped,AllTheRooms,anthropic
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Beyond Pricing,openai perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,AllTheRooms,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity,entered,Airbtics,anthropic
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,Airbtics,anthropic
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,AllTheRooms,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity,entered,Airbtics,anthropic
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,AllTheRooms,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Airbtics,anthropic
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Airbtics,anthropic
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,AllTheRooms,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,AllTheRooms,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,Use PriceLabs,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Airbtics,anthropic
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,AllTheRooms,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Use PriceLabs,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,AllTheRooms,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Hostaway,anthropic
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Hostaway,anthropic
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,BNBCalc,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,AllTheRooms,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,AllTheRooms,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,BNBCalc,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,AllTheRooms,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,AllTheRooms,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,AllTheRooms,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,AllTheRooms,openai

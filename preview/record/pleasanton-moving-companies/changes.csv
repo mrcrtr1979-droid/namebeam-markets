@@ -1,0 +1,183 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Norman Moving,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton and the Tri-Valley area,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Valley Relocation,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,CAL-T / MTR number,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Commander Moving,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Norman Moving & Storage,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Sweet Lemon Moving Services,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Jay's Small Moves,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Meathead Movers,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Norman Moving,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Rigo's Moving Company Inc,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Valley Relocation,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Fairprice Movers,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Meathead Movers,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Norman Moving & Storage,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Rigo's Moving Company Inc,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Understand the Pricing Structure,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services (BHGS,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Highlights,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton and the Tri-Valley area,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Sweet Lemon Moving Services,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services (BHGS,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,CAL-T / MTR number,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Full Value Protection,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Jay's Small Moves,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,"Pleasanton, CA",gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Understand the Pricing Structure,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Book Early,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,CAL-T,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Commander Moving,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Got2Move,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,MTR,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Sweet Lemon Moving Services,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services (BHGS,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,CAL-T / MTR number,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Fairprice Movers,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Full Value Protection,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Jay's Small Moves,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Meathead Movers,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Norman Moving & Storage,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Rigo's Moving Company Inc,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Book Early,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,CAL-T,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Commander Moving,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Got2Move,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,MTR,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,Norman Moving,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Certificate of Insurance (COI,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Good to know,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Jay's Small Moves,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Norman Moving & Storage,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Pleasanton and the Tri-Valley area,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Understand the Pricing Structure,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,entered,College HUNKS Hauling Junk,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Double Drive Time (DDT,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Fairprice Movers,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Good to know,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Meathead Movers,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Pure Moving Company,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Sweet Movers,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Valley Relocation,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Valley Relocation & Storage,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,1. Pure Moving Company,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,4. Fairprice Movers,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Book Early,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,College HUNKS Hauling Junk,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Highlights,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,MTR / Cal-T number,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Sweet Lemon Moving Services,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Rigo's Moving Company Inc,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,College HUNKS Hauling Junk,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,1. Pure Moving Company,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Good to know,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Sweet Lemon Moving Services,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,College HUNKS Hauling Junk,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Fairprice Movers,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Jay's Small Moves,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Meathead Movers,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Norman Moving & Storage,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Pure Moving Company,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Rigo's Moving Company Inc,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Sweet Movers,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Certificate of Insurance (COI,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Double Drive Time (DDT,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Fairprice Movers,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Jay's Small Moves,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Pleasanton and the Tri-Valley area,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Pure Moving Company,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,1. Pure Moving Company,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Good to know,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,CAL-T / MTR number,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Good to know,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Got2Move,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Norman Moving,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Norman Moving & Storage,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Double Drive Time (DDT,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Fairprice Movers,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Jay's Small Moves,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Book Early,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,CAL-T,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Fairprice Movers,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Jay's Small Moves,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,MTR,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Meathead Movers,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,CAL-T / MTR number,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Certificate of Insurance (COI,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Good to know,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Norman Moving,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Norman Moving & Storage,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Pure Moving Company,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Sweet Lemon Moving Services,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,1. Pure Moving Company,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,4. Fairprice Movers,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Allied Van Lines,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services (BHGS,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Full Value Protection,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,MTR / Cal-T number,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Rigo's Moving Company Inc,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Book Early,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,CAL-T,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Fairprice Movers,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Got2Move,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Jay's Small Moves,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,MTR,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Pleasanton and the Tri-Valley area,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Allied Van Lines,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Rigo's Moving Company Inc,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Rigo's Moving Company Inc,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,Rigo's Moving Company Inc,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Ontrack Moving,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Sweet Lemon Moving Services,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,College HUNKS Hauling Junk,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Meathead Movers,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,College HUNKS Hauling Junk,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Eagle Moving & Storage,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Eagle Moving & Storage,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Johnson & Daly Moving and Storage,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,Ontrack Moving,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Careful Movers,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,FairPrice Movers,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,West Coast Moving Systems,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Eagle Moving & Storage,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Johnson & Daly Moving and Storage,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Magic Moving & Storage,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Ontrack Moving,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Careful Movers,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,FairPrice Movers,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Sweet Lemon Moving Services,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,West Coast Moving Systems,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,FairPrice Movers,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Magic Moving & Storage,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Careful Movers,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,College HUNKS Hauling Junk,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,FairPrice Movers,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Ontrack Moving,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,entered,Go Movers,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,entered,Magic Moving & Storage,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,entered,Ontrack Moving,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,dropped,All Star Movers & Storage,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,dropped,Careful Movers,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity,dropped,College HUNKS Hauling Junk,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity,entered,All Star Movers & Storage,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity,dropped,Go Movers,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,FairPrice Movers,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Magic Moving & Storage,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,FairPrice Movers,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,All Star Movers & Storage,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Allied Van Lines,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,College HUNKS Hauling Junk,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Eagle Moving & Storage,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,FairPrice Movers,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage,perplexity

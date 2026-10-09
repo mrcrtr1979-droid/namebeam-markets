@@ -1,0 +1,241 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Empire HVAC,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,"Casteel Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Require a Load Calculation (Manual J,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Empire HVAC,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Federal Tax Credits,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power Rebates,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,"Require a ""Manual J"" Load Calculation",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,"1. PV Heating, Cooling & Insulation",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,"5. Casteel Heating, Cooling, Plumbing, and Electrical",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Cunningham Associates,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Georgia Power Rebates,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,"Insist on a ""Manual J"" Load Calculation",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,"Casteel Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Coolray Heating & Air,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Insulation",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Require a Load Calculation (Manual J,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Carter and Sons HVAC,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Peachtree Service Experts,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Anchor Heating & Air Conditioning,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Georgia Conditioned Air Contractor License,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Known for,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Require a Manual J Load Calculation,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,The Air Company of Georgia,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Carter and Sons HVAC,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Federal Tax Credits,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power Rebates,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Insulation",gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Peachtree Service Experts,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air Conditioning,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,"PV Heating, Cooling & Insulation",gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,"Require a ""Manual J"" Load Calculation",gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Anchor Heating & Air Conditioning,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Conditioned Air Contractor License,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Known for,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Require a Manual J Load Calculation,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,The Air Company of Georgia,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Known for,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Require a Load Calculation (Manual J,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Coolray Heating & Air Conditioning,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,"Require a ""Manual J"" Load Calculation",gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Empire HVAC,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Federal Tax Credits,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Known for,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Insulation",gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Require a Load Calculation (Manual J,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Known For,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,"Casteel Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Coolray Heating & Air,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Empire HVAC,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Estes Services,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Federal Tax Credits,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,"1. PV Heating, Cooling & Insulation",gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,"5. Casteel Heating, Cooling, Plumbing, and Electrical",gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Estes Services,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Georgia Conditioned Air Contractor License,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,PV Heating & Cooling,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Require a Manual J Load Calculation,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,Known For,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Anchor Heating & Air Conditioning,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air Conditioning,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Known For,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,"1. PV Heating, Cooling & Insulation",gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,"5. Casteel Heating, Cooling, Plumbing, and Electrical",gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Cunningham Associates,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Conditioned Air Contractor License,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,PV Heating & Cooling,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Require a Manual J Load Calculation,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,"Casteel Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Cunningham Associates,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Georgia Power Rebates,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,"Insist on a ""Manual J"" Load Calculation",gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,"PV Heating, Cooling & Insulation",gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Anchor Heating & Air Conditioning,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Coolray Heating & Air Conditioning,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Known For,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Certifications,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Known For,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power Rebates,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,"Insist on a ""Manual J"" Load Calculation",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Insulation",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,"TE Certified Electrical, Heating & Cooling",gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Known for,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,PV Heating & Cooling,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Certifications,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Known For,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,"Coolray Heating, Cooling, Plumbing & Electrical",gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Empire HVAC,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Peachtree Service Experts,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Require a Manual J Load Calculation,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,The Air Company of Georgia,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Known for,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity,dropped,Empire HVAC,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity,dropped,Estes Services,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity,dropped,Peachtree Service Experts,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity,dropped,The Air Company of Georgia,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity google_serp,entered,Carter and Sons HVAC,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity google_serp,entered,Empire HVAC,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Carter and Sons HVAC,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Empire HVAC,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,dropped,Empire HVAC,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Benjamin Franklin,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Hope Heating & AC Repair,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,The Air Company of Georgia,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,entered,Estes Services,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,dropped,Benjamin Franklin,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity google_serp,entered,The Air Company of Georgia,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity google_serp,dropped,The Air Company of Georgia,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity google_serp,dropped,Coolray,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity google_serp,entered,Coolray,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,entered,Benjamin Franklin,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,entered,Estes Services,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,dropped,Benjamin Franklin,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,entered,One Hour Heating,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Empire HVAC,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,One Hour Heating,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Estes Services,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,Coolray,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,Empire HVAC,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Benjamin Franklin,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Coolray,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,One Hour Heating,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Hope Heating & AC Repair,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Benjamin Franklin,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Coolray,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,One Hour Heating,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Coolray,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Benjamin Franklin,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Hope Heating & AC Repair,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Benjamin Franklin,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,PV Heating & Cooling,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Coolray,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Indoor Experts,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,One Hour Heating,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Hope Heating & AC Repair,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,PV Heating & Cooling,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Reliable Heating & Air,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Central Heating and Air Conditioning,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,PV Heating & Cooling,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,The Air Company of Georgia,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Indoor Experts,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,One Hour Heating,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,"Bardi Heating, Cooling & Plumbing",perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,One Hour Heating,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Reliable Heating & Air,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Central Heating and Air Conditioning,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,PV Heating & Cooling,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Bell Mechanical,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Moncrief Heating & Air Conditioning,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,One Hour Heating,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Reliable Heating & Air,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,The Air Company of Georgia,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Benjamin Franklin,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Estes Services,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Bell Mechanical,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Indoor Experts,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,PV Heating & Cooling,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,The Air Company of Georgia,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,"Bardi Heating, Cooling & Plumbing",perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Benjamin Franklin,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Moncrief Heating & Air Conditioning,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Estes Services,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Reliable Heating & Air,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Indoor Experts,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,PV Heating & Cooling,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,One Hour Heating,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Premier Comfort Services,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,R.S. Andrews,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,The Air Company of Georgia,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,"Bardi Heating, Cooling & Plumbing",perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Estes Services,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,One Hour Heating,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Premier Comfort Services,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,R.S. Andrews,openai

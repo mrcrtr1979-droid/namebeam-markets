@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-27,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-09-27_segment_roofing_miami_openai,NB-CZ-API_2026-09-27_segment_roofing_miami_openai.json,5130e66aac44ea139d5e567df7678a77c1f04d4bb28f76275384630a6be89072
+2026-09-27,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-09-27_segment_roofing_miami_anthropic,NB-CZ-API_2026-09-27_segment_roofing_miami_anthropic.json,fe1ebb7a8f54c4bf4840050191b35f1d5bea9542b4fc1f901cd79f00739fab71
+2026-09-27,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,3,Exact Roofing; Extreme Roofing; Robson Industrial,NB-CZ-API_2026-09-27_segment_roofing_miami_perplexity,NB-CZ-API_2026-09-27_segment_roofing_miami_perplexity.json,38470e585aa14277627517bf9c4e9d52ae22ddc6bdb34f66d147c42bdba818d7
+2026-09-27,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-09-27_segment_roofing_miami_gemini,NB-CZ-API_2026-09-27_segment_roofing_miami_gemini.json,03af1f1b1f8369a60d71a64b42a2159a9adb9e5303293151b7e65c4038f860a7
+2026-09-27,miami-roofing,Miami FL,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-27_segment_roofing_miami,NB-CZ-SERP_2026-09-27_segment_roofing_miami.json,a722cbf8585663f4f274fa6d93325fbc076f010d47908da27305be0208e79658

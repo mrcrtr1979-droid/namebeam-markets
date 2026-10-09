@@ -1,0 +1,129 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Distance to Downtown,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Shelby Bottoms Greenway,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,2 Bedrooms / 2 Bathrooms,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Bicentennial Capitol Mall State Park,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Filters,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Five Daughters Bakery,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Five Points,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Guests,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Jeni's Splendid Ice Creams,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Shelby Bottoms Greenway & Nature Center,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Tennessee State Museum,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Washer/Dryer,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,2 Bathrooms,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,2 Bedrooms minimum,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Air Conditioning,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Bathrooms,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Bedrooms,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,East Nashville (Lockeland Springs or Five Points,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Ideal Layout,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Kasa,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Sonder,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Washer/Dryer,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Distance to Downtown,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Bicentennial Capitol Mall State Park,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Nashville Farmers' Market,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Setup,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Sonder (Multiple Locations,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,2 Bathrooms,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,2 Bedrooms minimum,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Bathrooms,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,East Nashville (Lockeland Springs or Five Points,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Ideal Layout,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Kasa,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Sonder,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Bathrooms,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Washer/Dryer,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,2 Bedrooms,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,House,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Jeni's Splendid Ice Creams,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Nashville Farmers' Market,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Property Type,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Sevier Park,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Shelby Bottoms Greenway,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Tennessee State Museum,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Townhouse,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Washer & Dryer,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,2 Bedrooms / 1.5+ Baths,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Bonus,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Dedicated Parking,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Filters,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Five Points,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Guests,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,2 Bedrooms,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Air Conditioning,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Bedrooms,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Bicentennial Capitol Mall State Park,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,House,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Nashville Farmers' Market,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Property Type,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Townhouse,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Washer/Dryer,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Warm Nashville Home,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Warm Nashville Home,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,2 Bedrooms / 2 Baths,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Kasa,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Mint House,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Sonder,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Washer/Dryer,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Property Type,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Shelby Bottoms Greenway,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Sonder (Multiple Locations,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Bode Nashville,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,East Nashville (Lockeland Springs or Five Points,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Permit Number,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Setup,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Shelby Bottoms Greenway,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Kasa,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Mint House,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Warm Nashville Home,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Washer/Dryer,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,2 Bedrooms minimum,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Air Conditioning,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Bedrooms,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Bicentennial Capitol Mall State Park,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Bonus,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Five Daughters Bakery,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Five Points,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Jeni's Splendid Ice Creams,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Mint House,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Nashville Farmers' Market,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Tennessee State Museum,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Washer/Dryer,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,2 Bedrooms / 2 Baths,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Bode Nashville,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,East Nashville (Lockeland Springs or Five Points,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Permit Number,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Setup,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Sonder,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Warm Nashville Home,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,The Koselig Korner,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,The Koselig Korner,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Warm Nashville Home,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Warm Nashville Home,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,The Duo,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Warm Nashville Home,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,The Duo,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Warm Nashville Home,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Five Points,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,The Koselig Korner,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity,dropped,Five Points,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,dropped,The Koselig Korner,perplexity
+2026-09-21,2026-09-20,1,openai anthropic,entered,Country Music Hall of Fame,openai
+2026-09-22,2026-09-21,1,openai anthropic,dropped,Country Music Hall of Fame,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Warm Nashville Home,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,The Duo,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,Treetop Bungalow in 12 South,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Treetop Bungalow in 12 South,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Warm Nashville Home,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,The Duo,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,The Duo,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Sentral Sobro,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Sentral Sobro,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Treetop Bungalow in 12 South,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Nash 2BR 2BA-Private Balcony-Free Parking-Pool,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Treetop Bungalow in 12 South,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Nash 2BR 2BA-Private Balcony-Free Parking-Pool,perplexity

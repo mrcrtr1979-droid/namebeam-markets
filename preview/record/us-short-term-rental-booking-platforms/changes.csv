@@ -1,0 +1,216 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Cross-Check the Property,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Guest Favorites,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Never Pay Outside the Platform,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,entered,Upfront pricing,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,15-20 reviews,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,4.8 or higher,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,8.5 or higher,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Inventory,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Loyalty Program,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,One Key,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Pricing Transparency,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,Search for specific keywords,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini google_serp,dropped,"Sort by ""Most Recent",gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,8.5 or higher,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Guest Favorite,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Only lists entire homes,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Response time,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,entered,Tone,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Cross-Check the Property,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Genius,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Guest Favorites,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Never Pay Outside the Platform,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Search for keywords,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini google_serp,dropped,Upfront pricing,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Only rents entire homes,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Premier Hosts,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Red flag,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Superhosts,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,8.5 or higher,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Guest Favorite,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Only lists entire homes,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Premier Host,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Response time,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Tone,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,4.85 or higher,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Genius,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Inventory Type,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Loyalty Program,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Never Pay Outside the Platform,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,One Key,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Premier Host,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Pricing Transparency,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Red Flag,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,entered,Whole homes only,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,dropped,Only rents entire homes,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,dropped,Premier Hosts,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,dropped,Red flag,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity gemini google_serp,dropped,Superhosts,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,8.5 out of 10,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Airbnb/Vrbo,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Cancellation,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,No photos of the bathroom or bedroom,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Read the 3-star and 4-star reviews,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Upfront pricing,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,4.85 or higher,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Genius,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Loyalty Program,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Never Pay Outside the Platform,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,One Key,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Pricing Transparency,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Red Flag,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Whole homes only,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,8.5 or higher,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Choose Airbnb if,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Choose Booking.com if,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Choose Vrbo if,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Genius Loyalty Program,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Search for specific keywords,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,8.5 out of 10,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb/Vrbo,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Cancellation,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Inventory Type,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,No photos of the bathroom or bedroom,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Read the 3-star and 4-star reviews,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Upfront pricing,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Filter for recent reviews,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Search for key words,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Vague Location,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Whole homes only,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Genius Loyalty Program,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Search for specific keywords,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Entire homes only,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Genius,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Loyalty Program,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,One Key,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Property Types,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,8.5 or higher,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Filter for recent reviews,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Search for key words,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Vague Location,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Whole homes only,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,1. Airbnb,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,10-15 reviews,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,2. Vrbo (Vacation Rentals by Owner,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,3 to 6 months,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,3. Booking.com,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,4.85 or higher,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,8.5/10 or higher,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Only rents entire homes,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Choose Airbnb if,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Choose Booking.com if,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Choose Vrbo if,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Entire homes only,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Genius,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Loyalty Program,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,One Key,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Property Types,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Fast response time,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,4.8 or higher,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,8.5 or higher,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Entire homes only,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Filter by Recency,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Loyalty Program,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Pro Tip,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Property Types,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,8.5/10 or higher,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Choose Airbnb if,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Choose Booking.com if,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Choose Vrbo if,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Fast response time,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Filter for recent reviews,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Read the 3-star and 4-star reviews,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,1. Airbnb,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,2. Vrbo (Vacation Rentals by Owner,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,3. Booking.com,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Genius Loyalty Program,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Good sign,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Read the 3-star and 4-star reviews,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Red flag,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Search for key words,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,entered,Upfront pricing,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,4.8 or higher,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,Entire homes only,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,Filter by Recency,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,Loyalty Program,gemini
+2026-08-20,2026-08-19,1,openai anthropic perplexity gemini google_serp,dropped,Property Types,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,10-15 reviews,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,8.5 out of 10,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Airbnb/Vrbo,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Cancellation,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Cross-Check the Property,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Entire places only,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Fast response time,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Guest Favorite,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Most transparent,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Never Pay Outside the Platform,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Pricing & Fees,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Property Types,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,Search for keywords,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,entered,"Sort by ""Most Recent",gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,1. Airbnb,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,2. Vrbo (Vacation Rentals by Owner,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,3. Booking.com,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,8.5 or higher,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Genius Loyalty Program,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Good sign,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Pro Tip,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Read the 3-star and 4-star reviews,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Red flag,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Search for key words,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini,dropped,Upfront pricing,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,4.8 or higher,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,8.5/10 or higher,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,Choose Airbnb if,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,Choose Booking.com if,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,Choose Vrbo if,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,entered,No photos of the bathroom or bedroom,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,10-15 reviews,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,8.5 out of 10,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Airbnb/Vrbo,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Cancellation,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Cross-Check the Property,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Entire places only,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Fast response time,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Guest Favorite,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Most transparent,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Never Pay Outside the Platform,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Pricing & Fees,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Property Types,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,Search for keywords,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini,dropped,"Sort by ""Most Recent",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,"Airbnb, Vrbo, and Booking.com",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Guest Favorites,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Only lists entire homes,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Premier Hosts,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Read the 3-star and 4-star reviews,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Response time,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Superhosts,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Tone,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,4.8 or higher,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Choose Airbnb if,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Choose Booking.com if,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Choose Vrbo if,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,No photos of the bathroom or bedroom,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Premier Host,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,1. Airbnb,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,2. Vrbo (Vacation Rentals by Owner,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,3. Booking.com,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,4.8 or higher,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Premier Host,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Guest Favorites,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Only lists entire homes,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Premier Hosts,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Read the 3-star and 4-star reviews,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Response time,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Superhosts,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Premier Hosts,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Premier Hosts,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Cancellation,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Cancellation,openai
