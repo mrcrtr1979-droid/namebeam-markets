@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Namebeam AI Visibility Record, Edition 1",
+  "description": "Dated record of which businesses AI answer engines name for local questions in US markets, with the sources the engines returned. Edition 1 covers 2026-09-01 to 2026-10-07 (36 run days). The data pack holds 10152 answer rows (one per raw answer file, with the names each engine returned and the SHA-256 of the raw file), 35205 source URL rows, 28 rows from a Siri panel run by hand, and a metrics table that gives the denominator of every figure. Perplexity, OpenAI, Anthropic and Gemini were called through their programming interfaces, and Google results pages were read. Every file is listed in a SHA-256 manifest and a verify script checks the pack. Licensed CC BY 4.0.",
+  "url": "https://markets.namebeam.ai/edition-1",
+  "version": "Edition 1 (staged)",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Carter Enterprise LLC",
+    "alternateName": "Namebeam",
+    "url": "https://namebeam.ai"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Carter Enterprise LLC",
+    "alternateName": "Namebeam",
+    "url": "https://namebeam.ai"
+  },
+  "keywords": [
+    "AI answer engines",
+    "local search",
+    "AI search citations",
+    "dated record",
+    "open data"
+  ],
+  "temporalCoverage": "2026-09-01/2026-10-07",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "United States"
+  },
+  "measurementTechnique": "One fixed question per business or segment is put to each engine every day; each answer is stored as a raw file with its SHA-256. See the method note for the settings of every engine.",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Answers table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/data/answers_2026-09-01_to_2026-10-07.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Sources table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/data/sources_2026-09-01_to_2026-10-07.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Siri panel",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/data/siri_panel.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Metrics table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/metrics/metrics_v2.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Method note",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/README.md"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Manifest",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/MANIFEST.sha256"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Verify script",
+      "encodingFormat": "text/x-python",
+      "contentUrl": "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record/resolve/main/edition-1/verify.py"
+    }
+  ],
+  "sameAs": [
+    "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record"
+  ]
+}

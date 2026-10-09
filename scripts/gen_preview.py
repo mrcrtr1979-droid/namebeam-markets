@@ -108,13 +108,13 @@ HEADER = ('<header>\n  <a class="brand" href="%s/" style="text-decoration:none">
 
 BANNER = '<div class="pv-banner">Preview build %s. Not the live site. Prices are the approved prices; buy buttons go live when the payment links exist.</div>' % BUILD
 
-def page(path, title, desc, body, hero=False):
+def page(path, title, desc, body, hero=False, head=''):
     doc = ('<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n'
            '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
            '<title>%s</title>\n<meta name="description" content="%s">\n'
            '<meta name="robots" content="noindex, nofollow">\n'
-           '<link rel="stylesheet" href="/preview/site.css">\n</head>\n<body>\n%s\n%s\n<main>\n%s\n</main>\n\n%s\n</body>\n</html>\n'
-           ) % (esc(title), esc(desc), BANNER, HEADER, body, FOOTER)
+           '<link rel="stylesheet" href="/preview/site.css">\n%s</head>\n<body>\n%s\n%s\n<main>\n%s\n</main>\n\n%s\n</body>\n</html>\n'
+           ) % (esc(title), esc(desc), head, BANNER, HEADER, body, FOOTER)
     w(path, doc)
 
 if os.path.isdir(OUT): shutil.rmtree(OUT)
@@ -570,7 +570,7 @@ page('agencies/index.html', 'For agencies | Namebeam', 'Market Record plans and 
 
 dt = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Data and API')]) + '<h1>Data and API</h1>'
       '<p>Free to start, paid when you want the whole set, the feed, or per-call rows.</p>'
-      f'<div class="pv-cards"><div class="pv-card"><h3>Free, CC BY 4.0</h3><p>A CSV for every question and run day, the change log, the manifest and the method. No form, no gate. Credit Namebeam (namebeam.ai).</p><p><a href="{P}/record/">Browse the record</a> &middot; <a href="{P}/method/">Method</a> &middot; <a href="https://api.receiptsindex.com/datasets/">Public datasets</a></p></div>'
+      f'<div class="pv-cards"><div class="pv-card"><h3>Free, CC BY 4.0</h3><p>A CSV for every question and run day, the change log, the manifest and the method. No form, no gate. Credit Namebeam (namebeam.ai).</p><p><a href="{P}/record/">Browse the record</a> &middot; <a href="{P}/method/">Method</a> &middot; <a href="{P}/edition-1/">Edition 1</a> &middot; <a href="https://api.receiptsindex.com/datasets/">Public datasets</a></p></div>'
       f'<div class="pv-card gold"><h3>Commercial License, Edition 1</h3><div class="p">$540</div><p>One payment. Use without credit, white-label rights, a signed manifest statement and named support.</p><p><a class="btn" href="{P}/buy/#edition-license">Scope and price</a></p></div>'
       f'<div class="pv-card gold"><h3>Founding-partner feed</h3><div class="p">$200</div><p>per month. A key to the current daily rows, same-day delivery and the change log.</p><p><a class="btn" href="{P}/buy/#data-feed">Scope and price</a></p></div></div>'
       '<h2>Pay per call</h2><p>Rows are priced for machine buyers over x402: <b>0.27 USDC</b> per call, <b>1.81 USDC</b> for a day. The discovery file is at <a href="https://api.receiptsindex.com/.well-known/x402">api.receiptsindex.com/.well-known/x402</a>. Payment settlement is still being tested; write to <a href="mailto:hello@namebeam.ai">hello@namebeam.ai</a> before you build on it.</p>'
@@ -593,6 +593,36 @@ mt = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Method')]
       '<h2>Check it yourself</h2><p>Each CSV lists the raw file name and its SHA-256. %s <a href="%s/record/manifest.sha256">manifest.sha256</a> lists the hash of every CSV on these pages.</p>' % (('The raw files are in the <a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1">public corpus</a>.' if CORPUS_PUBLIC else CORPUS_HIDDEN_TXT), P) +
       '<p class="pv-note">Compiled by Terry J Carter, Carter Enterprise LLC. Page built %s.</p></div>' % BUILD)
 page('method/index.html', 'Method | Namebeam', 'How the daily record is built: rows, statuses, names, change log and how to verify.', mt)
+
+
+# ---------- Edition 1 page (COS decision: https://markets.namebeam.ai/edition-1) ----------
+# JSON-LD comes from S1b (status/staged/1009B_S1b/edition1_dataset_STAGED_SAMPLE.jsonld); S1b sends the final on 2026-10-14.
+_ld = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pinned', 'edition1_dataset.jsonld'), encoding='utf-8'))
+LD = '<script type="application/ld+json">\n%s\n</script>\n' % json.dumps(_ld, indent=2, ensure_ascii=True).replace('</', '<\\/')
+_dl = ''.join('<li>%s (%s)</li>' % (esc(x['name']), esc(x['encodingFormat'])) for x in _ld.get('distribution', []))
+STRIPE_LICENSE = 'https://buy.stripe.com/cNi3cv3h20SBdLaaFydIA0Y'
+STRIPE_FEED = 'https://buy.stripe.com/fZu3cv8BmatbfTi8xqdIA0U'
+edb = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Edition 1')]) +
+       '<h1>Edition 1 of the AI Visibility Record</h1>'
+       '<p>The dated record of which businesses AI answer engines named for local questions in US markets, with the sources the engines returned. '
+       'The final file list is confirmed on 2026-10-14 and the edition is released on 2026-10-15.</p>'
+       '<h2>Free under CC BY 4.0</h2>'
+       '<p>Every Edition 1 data file is free to download, use and republish under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 license</a>. '
+       'Credit line: <em>Namebeam AI Visibility Record, Edition 1 (namebeam.ai)</em>. No form, no email gate.</p>'
+       '<h2>What is in the pack</h2><ul>' + _dl + '</ul>'
+       '<p>Download links open on release day, 2026-10-15.</p>'
+       '<h2>How it was built</h2><p>One fixed question per business or segment goes to each engine every day, and each answer is stored as a raw file with its SHA-256. '
+       'The settings of every engine are in the method note. <a href="%s/method/">Read the method</a>.</p>'
+       '<h2>Verify it yourself</h2><p>The pack ships with <code>verify.py</code> (Python standard library only) and <code>MANIFEST.sha256</code>. In the downloaded folder run:</p>'
+       '<pre class="pv-q" style="font-style:normal;white-space:pre-wrap">python3 verify.py              # every file against MANIFEST.sha256\npython3 verify.py --rebuild    # also rebuild the answers table from the raw answers\npython3 verify.py --metrics    # also recompute the metrics table</pre>'
+       '<p>It prints MATCH or MISMATCH for every file and ends with <code>VERIFY MATCH</code> when everything checks. Exit code 0 means every file matched.</p>'
+       '<h2>When credit is not possible</h2>'
+       '<div class="pv-cards">'
+       '<div class="pv-card gold"><h3>Commercial License, Edition 1</h3><div class="p">$540</div><p>one license, paid once. Use and republish Edition 1 data without credit, including white-label in client reports, with a signed statement of the SHA-256 manifest.</p><p><a class="btn" href="%s/buy/#edition-license">Scope and price</a></p></div>'
+       '<div class="pv-card gold"><h3>Market Record feed</h3><div class="p">$200</div><p>per month, founding partner. An API key to the current daily rows, delivered the same day, with the change log. The record itself stays free.</p><p><a class="btn" href="%s/buy/#data-feed">Scope and price</a></p></div>'
+       '</div>'
+       '<p class="pv-note">Compiled by Terry J Carter, Carter Enterprise LLC. Page built %s. Questions: <a href="mailto:hello@namebeam.ai">hello@namebeam.ai</a>.</p></div>') % (P, P, P, BUILD)
+page('edition-1/index.html', 'Edition 1 of the AI Visibility Record | Namebeam', 'Edition 1 of the dated record of which businesses AI engines name: free under CC BY 4.0, with method, manifest and a verify script.', edb, head=LD)
 
 cr = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Corrections')]) + '<h1>Corrections</h1>'
       '<p>When we find an error we log it here with its date and what changed. The old figure stays visible and is marked as superseded. To report one, write to <a href="mailto:hello@namebeam.ai">hello@namebeam.ai</a> with the page link.</p>'
