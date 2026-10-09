@@ -1,0 +1,3890 @@
+{
+ "slug": "us-short-term-rental-business-model",
+ "url": "https://namebeam.ai/us-short-term-rental-business-model",
+ "prompt_verbatim": "How do I start an Airbnb rental arbitrage business and what tools and data should I use?",
+ "market": "US nationwide",
+ "niche": "short-term rental business model",
+ "window": [
+  "2026-08-05",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "2x to 2.5x the long-term monthly rent": {
+   "2x to 2.5x the long-term monthly rent": 2
+  },
+  "2x to 2.5x the monthly rent": {
+   "2x to 2.5x the monthly rent": 4
+  },
+  "ADR (Average Daily Rate": {
+   "ADR (Average Daily Rate": 12
+  },
+  "AirDNA](https://www.airdna.co/": {
+   "AirDNA](https://www.airdna.co/": 2
+  },
+  "August Smart Lock": {
+   "August Smart Lock": 2
+  },
+  "Autohost": {
+   "Autohost": 2
+  },
+  "Benefits to the Landlord": {
+   "Benefits to the Landlord": 2
+  },
+  "Beyond (Beyond Pricing": {
+   "Beyond (Beyond Pricing": 2
+  },
+  "Beyond (formerly Beyond Pricing": {
+   "Beyond (formerly Beyond Pricing": 12
+  },
+  "Break-Even Occupancy": {
+   "Break-Even Occupancy": 2
+  },
+  "Budgeting": {
+   "Budgeting": 4
+  },
+  "City Regulations": {
+   "City Regulations": 3
+  },
+  "Cleaning Management": {
+   "Cleaning Management": 3
+  },
+  "Corporate Housing Company": {
+   "Corporate Housing Company": 6
+  },
+  "Corporate Lease Addendum": {
+   "Corporate Lease Addendum": 6
+  },
+  "Crucial Step": {
+   "Crucial Step": 2
+  },
+  "Design for Clicks": {
+   "Design for Clicks": 4
+  },
+  "Design for Photos": {
+   "Design for Photos": 2
+  },
+  "Ecobee": {
+   "Ecobee": 2
+  },
+  "Form a Business Entity": {
+   "Form a Business Entity": 3
+  },
+  "Front Row": {
+   "Front Row": 1
+  },
+  "Gross Monthly Revenue": {
+   "Gross Monthly Revenue": 2
+  },
+  "Guaranteed Rent": {
+   "Guaranteed Rent": 9
+  },
+  "Guesty / Guesty For Hosts": {
+   "Guesty / Guesty For Hosts": 2
+  },
+  "Guesty for Hosts": {
+   "Guesty for Hosts": 4
+  },
+  "Guesty for Hosts / Guesty": {
+   "Guesty for Hosts / Guesty": 4
+  },
+  "HOA Rules": {
+   "HOA Rules": 5
+  },
+  "HOA/Building Rules": {
+   "HOA/Building Rules": 3
+  },
+  "Hospitable](https://hospitable.com/": {
+   "Hospitable](https://hospitable.com/": 2
+  },
+  "Ignoring Utility Costs": {
+   "Ignoring Utility Costs": 2
+  },
+  "KeyNest": {
+   "KeyNest": 2
+  },
+  "Launch & Optimize": {
+   "Launch & Optimize": 2
+  },
+  "Less Wear and Tear": {
+   "Less Wear and Tear": 3
+  },
+  "Low Wear and Tear": {
+   "Low Wear and Tear": 2
+  },
+  "Mashvisor](https://www.mashvisor.com/": {
+   "Mashvisor](https://www.mashvisor.com/": 2
+  },
+  "Minut or NoiseAware": {
+   "Minut or NoiseAware": 4
+  },
+  "Nest": {
+   "Nest": 2
+  },
+  "Noise Monitoring": {
+   "Noise Monitoring": 6
+  },
+  "Noise Sensors (Minut or NoiseAware": {
+   "Noise Sensors (Minut or NoiseAware": 2
+  },
+  "Occupancy Rate": {
+   "Occupancy Rate": 17
+  },
+  "Open a Business Bank Account": {
+   "Open a Business Bank Account": 2
+  },
+  "Photography": {
+   "Photography": 3
+  },
+  "Professional Maintenance": {
+   "Professional Maintenance": 2
+  },
+  "Professional Photography": {
+   "Professional Photography": 10
+  },
+  "Proper Insurance": {
+   "Proper Insurance": 11
+  },
+  "Proper Insurance or Steadily": {
+   "Proper Insurance or Steadily": 2
+  },
+  "Property Upkeep": {
+   "Property Upkeep": 3
+  },
+  "RevPAR (Revenue Per Available Room": {
+   "RevPAR (Revenue Per Available Room": 17
+  },
+  "Rule of Thumb": {
+   "Rule of Thumb": 4
+  },
+  "STR Addendum": {
+   "STR Addendum": 3
+  },
+  "Safely or Superhog": {
+   "Safely or Superhog": 2
+  },
+  "Seasonality Index": {
+   "Seasonality Index": 9
+  },
+  "Slice": {
+   "Slice": 3
+  },
+  "Smart Locks": {
+   "Smart Locks": 9
+  },
+  "Smart Locks (Schlage Encode or Yale Assure": {
+   "Smart Locks (Schlage Encode or Yale Assure": 2
+  },
+  "Smart Locks (Yale, Schlage Encode, or August": {
+   "Smart Locks (Yale, Schlage Encode, or August": 2
+  },
+  "Smart Thermostats": {
+   "Smart Thermostats": 2
+  },
+  "Steadily": {
+   "Steadily": 2
+  },
+  "Target ADR": {
+   "Target ADR": 2
+  },
+  "The 2x-2.5x Rule": {
+   "The 2x-2.5x Rule": 2
+  },
+  "The Golden Rule": {
+   "The Golden Rule": 2
+  },
+  "The Lease Addendum": {
+   "The Lease Addendum": 5
+  },
+  "The Pitch": {
+   "The Pitch": 4
+  },
+  "The Pitch Strategy": {
+   "The Pitch Strategy": 3
+  },
+  "Turno (formerly TurnoverBnB": {
+   "Turno (formerly TurnoverBnB": 14
+  },
+  "Turno (formerly TurnoverBnb": {
+   "Turno (formerly TurnoverBnb": 2
+  },
+  "Understand Local Regulations": {
+   "Understand Local Regulations": 2
+  },
+  "Where to Find Properties": {
+   "Where to Find Properties": 3
+  },
+  "Where to Look": {
+   "Where to Look": 2
+  },
+  "Yale Assure": {
+   "Yale Assure": 8
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "82f921cc0182c9ebd45080418dd705396072251ed385035e793f17721c9206aa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_anthropic_r2",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_anthropic_r2.json",
+   "sha256": "384b41a3394b8b821f167218fa5dbdbbdbed54c9d78528b3490a1dc9cb921ace",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "ff5b9256946f7693f0bd1329f2b45346176a048436ab521035bfd4b7479fde9c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r2",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r2.json",
+   "sha256": "9dd4fc02d30cdb6ad013b543e09cef476dae25c137ef381f8ae6cfb9c206b12c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r3",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r3.json",
+   "sha256": "d15dda917167e00e74d592a4eb4897dfaac2557f2dd44e4e918d7d59165ef94d",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "Break-Even Occupancy",
+    "Corporate Housing Company",
+    "Corporate Lease Addendum",
+    "Guesty / Guesty For Hosts",
+    "HOA/Building Rules",
+    "Noise Monitoring",
+    "Occupancy Rate",
+    "Proper Insurance",
+    "RevPAR (Revenue Per Available Room",
+    "Rule of Thumb",
+    "Smart Locks",
+    "Turno (formerly TurnoverBnB",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r4",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r4.json",
+   "sha256": "66666310393e3574e1cc5d313158bbfd07e13ee5ec411eaa320244e34bfd2ce0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r5",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_gemini_r5.json",
+   "sha256": "969e72e40e847e25a0ad45a3d1c84a57d9908e9f624db8e51888cbba52e2a7af",
+   "businesses_named": [
+    "Beyond (formerly Beyond Pricing",
+    "Budgeting",
+    "City Regulations",
+    "Guesty for Hosts / Guesty",
+    "HOA/Building Rules",
+    "Minut or NoiseAware",
+    "Occupancy Rate",
+    "Professional Photography",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "The Golden Rule",
+    "The Pitch",
+    "Turno (formerly TurnoverBnB",
+    "Where to Look"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry.json",
+   "sha256": "3dfc0ff7ee9483437287bd48921b4d1a259b8d32cbb8bc547b4146f56df8a661",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r2",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r2.json",
+   "sha256": "2a5ba8cdce9aea83bfb924701961e66f38820291b5585b14fcaca7b3e88033c6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r3",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r3.json",
+   "sha256": "ba24bf67f036587ad344462eb9277590fc1eaf8f424bcb0d099d48e1483a7bf9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r4",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r4.json",
+   "sha256": "05f497a2df5196b784c6fd1b3e6606e088fa2ff794bf6fee0586699ef73c04ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r5",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_arbitrage_entry_r5.json",
+   "sha256": "ceb22809f3a2445853b36e24395c2c8c0ae89d154b4bed8be39bff34f3c245f6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_openai.json",
+   "sha256": "f3f2b05327604079088a62c894cb1f3a4af59c3a097cd3696daca9cb0e58cc17",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_openai_r2",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_openai_r2.json",
+   "sha256": "16402475481cba83c36bc52595e7855c930e1e663564d71dbf35b46d9bff6259",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "1b2581a18efb188eacdd939caf3dcb9e1260cbf8c581c8f46b968d2552463068",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r2",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r2.json",
+   "sha256": "d529ef2b2deab7e6af449231b3720f9465aaac727b53ee4edbc54d964fc51325",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r3",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r3.json",
+   "sha256": "e14778d834b39f6655228747c60d8a4e0ecf770ad198a01102a576168c83cafe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r4",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r4.json",
+   "sha256": "0cc75fa80f898744071d4c68e932b2a363b7c9efb7de08d12338dc70d04d86ad",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r5",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_arbitrage_entry_perplexity_r5.json",
+   "sha256": "2c155461886667e635ead340bf31043faf557058553a38526e77555ee7c32d1d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "dbd9b789b0c7065669e8529143704eeae4a9dcb157f81fe56a5932a1ec70f6ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "ce91387100b6b95c61687ada3b2a66e4ab5301b841352fc58af1e6a0a9524a46",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "August Smart Lock",
+    "Break-Even Occupancy",
+    "Crucial Step",
+    "Guaranteed Rent",
+    "Low Wear and Tear",
+    "Occupancy Rate",
+    "Professional Photography",
+    "Property Upkeep",
+    "RevPAR (Revenue Per Available Room",
+    "STR Addendum",
+    "Seasonality Index",
+    "The 2x-2.5x Rule",
+    "Turno (formerly TurnoverBnB",
+    "Where to Find Properties"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-06_segment_str_arbitrage_entry",
+   "date": "2026-08-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-06_segment_str_arbitrage_entry.json",
+   "sha256": "a46188df89d99652a1913648b4e86efc0b92fe681bf63c77ed5af500352942a4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_openai.json",
+   "sha256": "24949bd3a22c1ec5483b8ef6f0670b6d46938e67a0e9fb1da32ce5568ad35c7a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "3de2bcfbd6f3eacf3428d07737ad4902f8b8b433b9ff7a57271783eb587f6e42",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "368d773b81f3ab1e4106c0136312e639ade503edc37f37afb2c6166289a269c2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "fae7fe8d96b4a57efdd46ed5da7ac6828347399cf710ef588b1f053081d42f77",
+   "businesses_named": [
+    "2x to 2.5x the monthly rent",
+    "August Smart Lock",
+    "Beyond (formerly Beyond Pricing",
+    "Budgeting",
+    "Corporate Lease Addendum",
+    "Design for Photos",
+    "Guesty for Hosts / Guesty",
+    "HOA/Building Rules",
+    "Open a Business Bank Account",
+    "Rule of Thumb",
+    "Turno (formerly TurnoverBnB",
+    "Where to Look"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-07_segment_str_arbitrage_entry",
+   "date": "2026-08-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-07_segment_str_arbitrage_entry.json",
+   "sha256": "0b73374a10e9c0902eb7db99cf2c11a16b5cb0ed0ebc5df7e6c1fc597c9ba45b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_openai.json",
+   "sha256": "921cc82f3897f27fe4db5b359325016132c831b054c48a5bcacbe9218f5efa27",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "c8cc176e9bbf785cf7dba4721aa75db602bb0a8cceea8745544235da878edc6b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "aa0172851e2b27c000ca08178026c789ecfde0bd34aa0afe1e109c0c7df6464e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "348973605a235c065185e4bd41b97a2db011fe93834f4986fcd643a2d843fa87",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Autohost",
+    "Beyond (formerly Beyond Pricing",
+    "Cleaning Management",
+    "Guesty / Guesty For Hosts",
+    "Minut or NoiseAware",
+    "Noise Monitoring",
+    "Occupancy Rate",
+    "Professional Photography",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "Smart Locks",
+    "The Pitch Strategy",
+    "Turno (formerly TurnoverBnB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-08_segment_str_arbitrage_entry",
+   "date": "2026-08-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-08_segment_str_arbitrage_entry.json",
+   "sha256": "fc7adef8353630f77527d88bb6a50942830713c08c8bfaa5e5bccabae03a1b3a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_openai.json",
+   "sha256": "fdc8028f303fbf3925c1b99aa846ce002bcd2db6200180501efafa8ab1bc5d09",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ce3ec11a111ded70f1b29f4182fe506fe478e5256e57ac19c3a0b1e4d85bac31",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "0cfcd6221b86dddf801151d8c19700e05e00c343f660c2b9a972aa230e804601",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "92838d4dfd4b4293634b40b86c2e7dbcfdd6cfd1c802af8326afbfc66a7ad9d3",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "Ecobee",
+    "Form a Business Entity",
+    "Guaranteed Rent",
+    "Low Wear and Tear",
+    "Nest",
+    "Occupancy Rate",
+    "Professional Photography",
+    "RevPAR (Revenue Per Available Room",
+    "STR Addendum",
+    "Seasonality Index",
+    "Smart Locks",
+    "Smart Thermostats",
+    "The Golden Rule",
+    "Turno (formerly TurnoverBnB",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_str_arbitrage_entry",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_str_arbitrage_entry.json",
+   "sha256": "f96c81a814a0dd8ddc9487d07d4ab420fc13e31b11b99285d03b72dfbda3efef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_openai.json",
+   "sha256": "61d0da6ac45fa1513589a3c6f0946cea53a63b485af98b71736eaadfe0af8c95",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "0e3726b9aae756252c775cf195b049aa51f96b47cb31a43a5ec321ea90ee6216",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "b665af21c4cda1c9cfcc3f5a28e11f671eac184ac92007f8cfdb8b75f91cf79b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "18bad4540a454b338c3274c078e240ea335d4cd9a9ea96a70d28f97ed0f94dc3",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "City Regulations",
+    "Corporate Housing Company",
+    "Corporate Lease Addendum",
+    "Design for Clicks",
+    "Occupancy Rate",
+    "Professional Photography",
+    "Proper Insurance or Steadily",
+    "RevPAR (Revenue Per Available Room",
+    "Safely or Superhog",
+    "Seasonality Index",
+    "Smart Locks (Schlage Encode or Yale Assure",
+    "The Pitch",
+    "Turno (formerly TurnoverBnB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_str_arbitrage_entry",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_str_arbitrage_entry.json",
+   "sha256": "18ec8638585ad355011d231e61f3a1bec392b0858114f33c3ef5e8c1e6eda384",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_openai.json",
+   "sha256": "84671bc79cf874542cdc72725b47c3c32777e0541d585ee348817dca5eb8569c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "7879d223804998dfe6c5913c422d3b1dea39910df680a3e82737bd770d70ad29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "97c4d1dd97e080d74eec3f72dc93fcd64405bd29f5e322e1193b887b43a96876",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "62193b3870c28cf37917d34423a25e5560069e6311f631e4bdebb55248a22d07",
+   "businesses_named": [
+    "2x to 2.5x the long-term monthly rent",
+    "Benefits to the Landlord",
+    "Beyond (formerly Beyond Pricing",
+    "Cleaning Management",
+    "Corporate Lease Addendum",
+    "Ignoring Utility Costs",
+    "Occupancy Rate",
+    "Proper Insurance",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "Smart Locks",
+    "Steadily",
+    "The Pitch",
+    "Turno (formerly TurnoverBnB",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_str_arbitrage_entry",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-11_segment_str_arbitrage_entry.json",
+   "sha256": "a68a485d9881efe292b28e45d0bb837e03f32b8595ba03d2c3d8392c36b87543",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_openai.json",
+   "sha256": "da963fc740380e2e852752f9ede30676060b04d5b4b672e48adab69c60898ce9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ccbace240fe7c7cac779643c2ded5ed30d35956f9f1ab09995578fc528f5bee0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "29f61f18f733f5b60d5a20b5598f1c5468ab3c688a8cff7bafe4d048b1cd6054",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "8b90bd8b04be742ce17b6d0d52dc5fe554642d368c99da7c3f85816ef6527f42",
+   "businesses_named": [
+    "2x to 2.5x the monthly rent",
+    "ADR (Average Daily Rate",
+    "Beyond (Beyond Pricing",
+    "Corporate Housing Company",
+    "Guaranteed Rent",
+    "Guesty for Hosts / Guesty",
+    "Noise Sensors (Minut or NoiseAware",
+    "Occupancy Rate",
+    "Professional Maintenance",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "Smart Locks (Schlage Encode or Yale Assure",
+    "Turno (formerly TurnoverBnB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_str_arbitrage_entry",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_str_arbitrage_entry.json",
+   "sha256": "cc4292c13e74489180d7f763cce1a14e0feda632cfb57c3f041c71631ba09489",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_openai.json",
+   "sha256": "3e2c6cfd63daae33da4ebe7fb5a4966d1c7b4562bb824a135cb250c66e1a74bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "fc4738b84bed5e9867194bb686293457a17b097ab673ee3ed38be5301ebcb649",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "5a30fb0ee6d609d1a61104b76fced96bd722a57c2303b036ca222eb0ec981a21",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "524782db4368cf85ba492f701d9a2fea60915a4b04eddc341266a9889803b4ad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_str_arbitrage_entry",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_str_arbitrage_entry.json",
+   "sha256": "f79e91a70b1af87e39e63649911d6d313a6a5cdfaae51f3c616644d0f120fbcd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_openai.json",
+   "sha256": "42281792bf28e30391c9093ced1d54dfab70775b6231a0b86403dfe63827c297",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "7ba5ce6697c7cd803c9e982ca0f8968616875cb58cf5256747733c493fe8a392",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "16fa09b7b327500412261152cca558f11e285afabc92236542a004500208bafd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "da97faed8a8cab6d9083bad7fbf02964c967df0292e4c5dee86eb14af156805f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_str_arbitrage_entry",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_str_arbitrage_entry.json",
+   "sha256": "6999655eab2c957882ee783c5c36ccb25c1eb477db1a3bcc3a54433ccd377c54",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_openai.json",
+   "sha256": "ae6ce1c58b15c444213122aacd3b3cc1d18314cfb4373d1e6a80acfb17b85d5e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "83f6a34835074d7bdb9e4dc2d4a3aed9620feca90547e089bed9e90c5db0af8b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "a3faa16cda2b94c308ad7fc9fec400c5fc77d52a175b3be51e8fd1424169b350",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "828bcd43a386bfe8af9449c21ebc32b7c64f7a84316bbd48b44956efd44733a0",
+   "businesses_named": [
+    "AirDNA](https://www.airdna.co/",
+    "Design for Clicks",
+    "Guaranteed Rent",
+    "Hospitable](https://hospitable.com/",
+    "Ignoring Utility Costs",
+    "Mashvisor](https://www.mashvisor.com/",
+    "Noise Monitoring",
+    "Occupancy Rate",
+    "Professional Maintenance",
+    "Professional Photography",
+    "Proper Insurance",
+    "RevPAR (Revenue Per Available Room",
+    "Smart Locks",
+    "Steadily",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_str_arbitrage_entry",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_str_arbitrage_entry.json",
+   "sha256": "0da62012a73a0a437652c2319110635defa15a35fe44d1d46a77ae128761e081",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_openai.json",
+   "sha256": "5025c6a45e2f51ba0ce46957cb4e1db1cdb5a2d87a93b6be8d3494254c0dbbb1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "8ce64cd505ba0446df0d3a8ef3b7518a82a28139b9ed861091e3c69d0117b70e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "c6b2ac0b6a3d94388f6dcc9ee1abc608ebc5e636e2d7bb192e2678ada1c26fd4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "4522db90658b7d57b43f8ad61544a30f6afbf3564fe951b131cea6e29c9c9adc",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "Guaranteed Rent",
+    "Guesty for Hosts / Guesty",
+    "HOA Rules",
+    "Launch & Optimize",
+    "Minut or NoiseAware",
+    "Occupancy Rate",
+    "Proper Insurance or Steadily",
+    "RevPAR (Revenue Per Available Room",
+    "The 2x-2.5x Rule",
+    "Turno (formerly TurnoverBnb"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_str_arbitrage_entry",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_str_arbitrage_entry.json",
+   "sha256": "4be152342852bd816aa03fa46a3f043f73ea4fda351b5ac59cfb42826c1b3d95",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_openai.json",
+   "sha256": "cbf5195360de225c973902b78416bdbc81207ec701fd6c96b8726637192e2ee6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ac704d6972829f31576998ae9bb3d33ff43b822bf1bcfbc9c0b5288754592da3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "e058172f998d4ac961d9ac51ddf392b0e4cf0913670442831411de1b9a0453e9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "e46fc922fbffba01932d69da11ea334970bb6d4d4682f201a6ec042d37bbde1e",
+   "businesses_named": [
+    "Budgeting",
+    "City Regulations",
+    "Design for Clicks",
+    "Gross Monthly Revenue",
+    "Guaranteed Rent",
+    "HOA Rules",
+    "Noise Sensors (Minut or NoiseAware",
+    "Occupancy Rate",
+    "Photography",
+    "RevPAR (Revenue Per Available Room",
+    "Smart Locks (Yale, Schlage Encode, or August",
+    "Target ADR",
+    "Turno (formerly TurnoverBnB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_str_arbitrage_entry",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_str_arbitrage_entry.json",
+   "sha256": "f4d6f385af17017bf9946dafd728b4012296f8a256879a205ac1a82443a17485",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_openai.json",
+   "sha256": "b2cfc823850532b109b4d1ee2fda11ee74146a39e72b3486edad92bc88d8ec4a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "606d0793a5ec7474197b6822ca7723d990e515c796061970abfcc97c8988233e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "03e40b4b2719152a39d4c929a9665f0a1a67265b795df08abe27b3d11396e983",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "9443f009752c64d93fee8268ef98b43426fe430ab33d4401209a005e611ab325",
+   "businesses_named": [
+    "2x to 2.5x the long-term monthly rent",
+    "ADR (Average Daily Rate",
+    "Autohost",
+    "Crucial Step",
+    "Design for Photos",
+    "Gross Monthly Revenue",
+    "Guaranteed Rent",
+    "Less Wear and Tear",
+    "Noise Monitoring",
+    "Occupancy Rate",
+    "Professional Photography",
+    "Property Upkeep",
+    "RevPAR (Revenue Per Available Room",
+    "Rule of Thumb",
+    "Smart Locks",
+    "The Lease Addendum",
+    "Turno (formerly TurnoverBnB",
+    "Understand Local Regulations",
+    "Where to Find Properties",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_str_arbitrage_entry",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-18_segment_str_arbitrage_entry.json",
+   "sha256": "36f81933a96f8718a39df230e505ea0eaa9608a51be9ff914ea03b7a81e0f24b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_openai.json",
+   "sha256": "f9007e2d0b5d447d1d827b843e9771464f67ea33b813a05754b7b807dc98ce8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "4304c54c3280f3be54e17ce12bc5daa04bce01f2ca7a8f4f9ca383016d30a819",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "710fcd1be56534a7b2bdee83d37e9776a88b06da07a08d610ed665a6f7c923b5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "745760699786df4a1047dea9a9b6fd2aeb6cce9a8f12a81e8e8877eb6af7eefd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_str_arbitrage_entry",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_str_arbitrage_entry.json",
+   "sha256": "a6f7f47cf05a926ba9dfbcd3f6b4e089e330dbc7affd16e6f7b41fa852ce300b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_openai.json",
+   "sha256": "a9925423302206b3e8c1a917a0fcd20b4dae7769918c7a4fb6a6d63009d8ae57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "2f50dbb0ad6f8cbcbbd2371d2b118789335f2cef6fe8378bdba8ffac4c48e8e4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "a322986538e15fa55ede6cc27fba4d2b693b9736d0f6da30a72fdad9412a90a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "16f510c451af9cae7d0531bf4104cb2059f63683358d6fb3c08b8c0fce13f440",
+   "businesses_named": [
+    "Beyond (Beyond Pricing",
+    "Corporate Housing Company",
+    "Form a Business Entity",
+    "Guaranteed Rent",
+    "HOA Rules",
+    "Less Wear and Tear",
+    "Noise Monitoring",
+    "Professional Photography",
+    "Proper Insurance",
+    "Property Upkeep",
+    "Rule of Thumb",
+    "Smart Locks",
+    "The Lease Addendum",
+    "The Pitch Strategy",
+    "Turno (formerly TurnoverBnB",
+    "Where to Find Properties",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_str_arbitrage_entry",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_str_arbitrage_entry.json",
+   "sha256": "7cbce5721e5c60ecd6a0a0a5c7f7dd77e22d92c2c17f472d89187dd8a57854ea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_openai.json",
+   "sha256": "7fce8c8673408aae7ef67734074ad3cdaf951ebc6382922ca421a1b435c498e4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "67e79b390a1876a5bd332ae868d0b020ebe22866c277540a2f38a8352e8203f3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "8d241fc6defea34e1cb875b4545bf2548b38dc4c786e9371a584de8fe0996981",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "e9209df7cc3891fed713ba671d1bafb8ae3fa5e60e6668a40cd7309ea009a9fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_str_arbitrage_entry",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_str_arbitrage_entry.json",
+   "sha256": "09c9ceb024e2220d792841c8600e65768c8827b75fec5c11822b5dfde11a5c4a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_openai.json",
+   "sha256": "613dce5eb8c7bbafae4d810191b0571f3b3f4e4b9956494d44586c885a72d0ea",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "b2dd5c9ae29ebd6f56683f75cb2b37825ab65c836faedba4bbc84fe7b3b47dec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "fed4822d488c0e36b2fc87fbb7ea178346b2b971f0c43358643d7dc63326f1f3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "db7164d03821ec8b0bd9351f1a8d4c3a9dd66be194afb720732cba8b75ea9768",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "Budgeting",
+    "Corporate Housing Company",
+    "Design for Clicks",
+    "Guesty for Hosts",
+    "HOA Rules",
+    "Occupancy Rate",
+    "Proper Insurance",
+    "RevPAR (Revenue Per Available Room",
+    "Safely or Superhog",
+    "Smart Locks (Yale, Schlage Encode, or August",
+    "The Pitch"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_str_arbitrage_entry",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_str_arbitrage_entry.json",
+   "sha256": "6aef4109af573c1e75b43c466089e6b8b794fbf0d84135df02550e7cbb320b32",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_openai.json",
+   "sha256": "b7604126427dc385bf41bc84a3bf7224de00d9aced84dcfbd9d46297b497f212",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "169b2ac70e8297c2f41dd038e3e23c0a6c070f13f851994d3aad33622741ab4a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "9121a4feac90cb90a400b8ea84aab9c9c1a4215104a422712be87e9bce6ad734",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "3b606e7446063e87f67d04e4526af96fe6bc003791e7e26ddca8e733dbfef1f9",
+   "businesses_named": [
+    "2x to 2.5x the monthly rent",
+    "ADR (Average Daily Rate",
+    "AirDNA](https://www.airdna.co/",
+    "Cleaning Management",
+    "Corporate Lease Addendum",
+    "Hospitable](https://hospitable.com/",
+    "Mashvisor](https://www.mashvisor.com/",
+    "Occupancy Rate",
+    "Professional Photography",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "Smart Locks",
+    "The Lease Addendum",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_str_arbitrage_entry",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-23_segment_str_arbitrage_entry.json",
+   "sha256": "7ca1a01295257ef2877b1ce4491fd1d5f60dd965e278e53f07189c7aa36dcf21",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_openai.json",
+   "sha256": "49b0a8923021a3a87fd827f3ee7bfa3867b3e3c9570054f29c812825fa18cf4b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "e3b3d0bef1ea1d6085c16116147e65150037763d7e4ff706e7c1872fad64a112",
+   "businesses_named": [
+    "Photography"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "9bd39035102ba228712f17a067d5ab087868d0eefc1857c2f2fdb3f34d902265",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "dd2ef45fb5daf0c15efc090a41ac689e5365f341d91ffecea51eb814fca20b31",
+   "businesses_named": [
+    "2x to 2.5x the monthly rent",
+    "ADR (Average Daily Rate",
+    "Beyond (formerly Beyond Pricing",
+    "Corporate Lease Addendum",
+    "Guesty for Hosts",
+    "Occupancy Rate",
+    "RevPAR (Revenue Per Available Room",
+    "Seasonality Index",
+    "The Lease Addendum",
+    "Turno (formerly TurnoverBnb"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_str_arbitrage_entry",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_str_arbitrage_entry.json",
+   "sha256": "663693bb879bf6d13b1ac614077269b516d4c586dc04d1d6aec27dab99d2ebe6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_openai.json",
+   "sha256": "d22ab14fcbc46c758de10b28c3a77a25c055a4f8980745b5e765d43e4ad0c989",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "4b2b7d72f47a1d97a2fe29c429261b8023d45c8dd8ae05a5a89f333b79999219",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "ee8d885834508e9e5ff7d39a82eae7c48b72829e54db2304e82c115d56e1f3d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_anthropic_r2.json",
+   "sha256": "dacd21f23ce1a3641faeda19bd3573a99bb4d09960eff86b31a09e11aa175aba",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "39d19eea2bfd8777fde8a43ad28909537aa711ff273d14f506999443bca5f94d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_gemini_r2.json",
+   "sha256": "73fdbae83a595391f73ff9e2f20a68fd10037915be964adeb719b1d5b80365e2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_str_arbitrage_entry",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_str_arbitrage_entry.json",
+   "sha256": "8db716034efca54b3c75ef2efae29291cb3293c8d43438abd4aa48f851e3a7d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_str_arbitrage_entry_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_str_arbitrage_entry_r2.json",
+   "sha256": "679f3f1515283630f6e7ca4c186dbe497b6bec29b077a036779bb3695c331474",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_openai.json",
+   "sha256": "817b2e02ccb2b7a00765d5aa5da496f98c23afc0bf2de08082607aaf8076f536",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_openai_r2.json",
+   "sha256": "a3a637b688d0ae53378b4e6ad99b6332d19fb0a1c820e54fbef0836a13f9e0f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "a71f7a45141a10e2bdb96bb51be6fd69f0f3df2b3644d7ed6855b306d364197b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_arbitrage_entry_perplexity_r2.json",
+   "sha256": "f2d48d3da9284e834112cfa26487ae4d5a556c91afdd85ff17c385489390fe9d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "66adbf72fc4f0cc13f22637405fd28443d6cba01b2b85889c70ecac67e2565f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "8a3d9b7d1b80981d7860a953bf02a664fc40c02e03a6642812e358d367505c1b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_str_arbitrage_entry",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_str_arbitrage_entry.json",
+   "sha256": "2293a74087d793fdc3cfdc60b078b362d68173520b62ef7368bf6ad129de9868",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_openai.json",
+   "sha256": "2c3c1b167c9b8727e790e2a007dc21314355eaaa2b17358a72aa3e48f5848cb3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "954e87a011d2a11b6753f99308014b675eea23d364fc8da849c34aa8c216ee3e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "2e8e12e20ae565e3838e4dfc608140747d086673c29268f41902d2caf83dcca3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "fbf370f6688066994e96882416727a509ee0d753bd3755413331872a52317147",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_str_arbitrage_entry",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_str_arbitrage_entry.json",
+   "sha256": "e66e8d5ac6119cdd3a0095fe259e13a11b6ddd020f3b839a2ad91f6d8fbee14f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_openai.json",
+   "sha256": "0171051bfbeebb85339b19a40be471b140a435f00d1c0b9f375a6ad7470d65ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "416674e57eb752f18d23e94682bc5c270b9dacc71ff3fba17dc3b927964823e5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "99e81f1c1db7970790caeaf3c8027f702fa94421e2343956727569a439940d71",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "abba16dbf26a65e5e64274edc83bc0d0626678706f5d7d139489e0d516609490",
+   "businesses_named": [
+    "Beyond (formerly Beyond Pricing",
+    "Guaranteed Rent",
+    "Guesty for Hosts",
+    "Less Wear and Tear",
+    "Minut or NoiseAware",
+    "Occupancy Rate",
+    "Photography",
+    "RevPAR (Revenue Per Available Room",
+    "STR Addendum",
+    "Turno (formerly TurnoverBnB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_str_arbitrage_entry",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_str_arbitrage_entry.json",
+   "sha256": "52ee53ef019033f64a3ac735f31eac077170a8b288249e7e8c13f91337420e4a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_openai.json",
+   "sha256": "5787826b3d7f2cd01beca30ef327f09fbb174ea2b7beaa9e6eda564ce7622b7c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "91ef719a771bc544cf765903c25668e00ea39d5f64364ee7d3e0e71949931d1e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "544e818e48a8cca574f7e6344dcd1fae0cdd89d18d879f8db18e79236093d927",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "451648ea06a62ef1d4f1f356cafa94bc8eeaf3d9076dbad5aa9e2c7f9aaa60ed",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_str_arbitrage_entry",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_str_arbitrage_entry.json",
+   "sha256": "45b3488d80689bfb461ea13d5ee005044b0ffb5265ed0dea62c1ace96a184e67",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_openai.json",
+   "sha256": "92e6e3eccb26731b6ec498698df76e691272325d9ef6443418bc852fec98b03a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "fad49e22a2d2d3c468088964caa91a30c5276bf6f2d1b0241fc6f924d68906ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "a65ec7edddbd159f4b23770e41376ef1a1dca8e5aaf5eb36fb5809fdc5e8d9d1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "c443c44683ffa34597b0170d2e25f4b2bc65d6c1bed9323006e0fd9a7f98148a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_str_arbitrage_entry",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_str_arbitrage_entry.json",
+   "sha256": "14398b4b10fa46b0ce037ca81562ab1441e30141cb0db3cd334097d70db4d3fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_openai.json",
+   "sha256": "1e7af7fd65b1dd47e7fce24ccf405e0ddbf800309f00e1925be693d3b32a3336",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "d6c83b09e77aa988e6de26605617aa1974bbbc09cbfb2435e06f1cecea221214",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "36551f14f1a38058587af49a2ef1b87e3cb797174413155cd9557fcee8ce1b83",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "2ad6eec8b7f1397d26eafcb1a460102bf9be65977d1ccf6c4634513ccdbb4301",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_str_arbitrage_entry",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_str_arbitrage_entry.json",
+   "sha256": "4994a6d9754bce2764a3a35531f207aaf363f3dc9f8be7e465c52d6fef89951a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_openai.json",
+   "sha256": "4d08b1ab9807e5a73960b3c5d1fc24d709ee93ac44b33f367c422112f30b4add",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "033a13ea6a7cb60a22d172dbf4efcd5508a845b6d203b4f73da8c8861275cd84",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "7fb854029cbba15e0a0802543809acba4fcd84e9c2ac485d002065c5d1d848bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "9fd11c0da83bd4320036b83fbec00454f4e04318d1527e11fd7f110c1af739a1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_str_arbitrage_entry",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_str_arbitrage_entry.json",
+   "sha256": "b6d695e96bf732cfc3e55ecdd1838218391a4265a395b04e7cbcd76d3957696d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_openai.json",
+   "sha256": "fcd5c08848f608b18e7425ad44e59ba0e7d4e40c743a67da7e2b721ecf3e9a68",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "15eb97a8256ac0a5421a523dfe497009c92f232e06c3941d4e6867c7580697bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "70427cd1579961cb4dea30814c5645a4dec2621bb02dc6715585fb81c2b28987",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "2cb7b92ec88e7f438aeb18eb15f85e8a1ec56bb21fc41337114a4e201d77ac5e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_str_arbitrage_entry",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_str_arbitrage_entry.json",
+   "sha256": "5bbdc8da83dbbd9c8e3ba9b0ceaff5fc80ea269599713f45e5aba82d39fb7cd6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_openai.json",
+   "sha256": "15e453c4c4801dcc0b8660d1bb3eaff2bb569f73224f977debd16370ecb2b4f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "f6611f1bc479797585a8c8ec8557d04e8b236a51f93b427f386da9b6786c8294",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "3c9fe982095887a88d9a52fbec22a57ca1d89cb4849bd9333fa1d6c77f24689e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "95c4907497237765f0c3d54b63c7aa34afbe965b36ab882f246de084e53027bf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_str_arbitrage_entry",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_str_arbitrage_entry.json",
+   "sha256": "3c47b2fc978536fb68d6f44495f822589d4095095f611d6d3181fad959b0a14e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_openai.json",
+   "sha256": "376430112e2086c27697c3d7481677ee5a33811844ccf5157b54eef84e89b123",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "e6c7741ba99cae681ac80ceedc0926a399ca833a6b32a81753faf2d9e33e0b92",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "d02615d56d1723b181430f7cf388adf0dfd4bcb69225ea3aa211aa65ee073ae5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "b331b07895410790dee71fc3970e32c811420f0ec476f6f9bceace30bbe545b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_str_arbitrage_entry",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_str_arbitrage_entry.json",
+   "sha256": "34f2a6ae0d6597363b29f7855dd876d02fc24977b9ff9d3dc7760a52a77b6847",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_openai.json",
+   "sha256": "d2d796bf0d30d01534f6fcf19c9192f60a75186c121c1a538a5abb4cf346a37b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "3c6150bb3817481d4c49c5688aa2eacaa012bf240a223b1211a2a7175cf45df5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "26279e6c9a6a1c4d4fb0aa501748692e265584cde58b8bc47cbc071e6c8a62da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "2c45bee18a99d22e152d977e287cb1b6319924ee5f5a7c8dba29989aaf196de1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_str_arbitrage_entry",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_str_arbitrage_entry.json",
+   "sha256": "9bbb78f372e02c1a22f30d87246f24aee8db65f6c3bfb45d2c33bc8d9498179f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_openai.json",
+   "sha256": "97af75636b3c8e4c0557953c2f9d9fe34074fab99fd5a0dec127dab32c62a2e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ca34d6c291b5fd177d009b2573965697b03b5aa90f8cc7b6855ea6e5acb10497",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "ffb95394e6791bf8f39ba965769e374adb27cd159c62a2336e9c9feeb074aabc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "7a401e1869a5d955f4c0bdb0f69aff42a325facda199c379c7f02ccc9e2c094a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_str_arbitrage_entry",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_str_arbitrage_entry.json",
+   "sha256": "0306510181c15b9f4128564672e2d6405fddc914bad71f529c624a1e208785e5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_openai.json",
+   "sha256": "f2fb946f29b58d6d361318fc28c9dd1299c6fc27059d97f499e518bf17d1d85b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "e68d475817fc5ca11472fbf3f0423ddabd0af0c521aae57aeb9f8d2376e3302c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "1b10d1d40858e2c7fd813af6bbc603e6fd4bc03be2eb474b46b4ddcec29cd8c7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "b61ea2dc03f822b22a33cf9f2461f2d14d5ba0487ec0bf619fd597eeda5282d4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_str_arbitrage_entry",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_str_arbitrage_entry.json",
+   "sha256": "da1d06c603d96bac04401300c4bbb601ef1ce0104cd2f7d35f372ffb56d1d729",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_openai.json",
+   "sha256": "7aa44b6e1184117e468113fcbc180ff51943b3b6eb2014144a7aed62e396d3b5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ee74399a32698fed5da9c964dbe292f85439e8daf6dff6633960d91e0977a162",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "e7fd95c6a5628004a75507cd9a6622eea5257cf2efc4b33513739c5c3f2b044c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "f9114bf5f0e2695350b4127564e202600a23a32c80fdc23e5be71160140ee5ec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_str_arbitrage_entry",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_str_arbitrage_entry.json",
+   "sha256": "90e57f723fba88367760156f7190b8f6618262dda3c27ca1e70c7fe2c7233d1a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_openai.json",
+   "sha256": "6662eb7f6adbca29ebbdd53cc432d0945f4445dc2f2fd017d751784cd39c1e59",
+   "businesses_named": [
+    "KeyNest"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "bd302c276ba5c0798cac07366841a4b9a8a7225fb6d596ebc3bf7519185a3923",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "ed91bbec01cee537d238bff36dcc4106504b4cc9a0a6b0c9f0175c4737bdf59e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "8918f095b8d976fd58147677e780e69444f867e24e42864c4e63d7bd310bdab4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_str_arbitrage_entry",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_str_arbitrage_entry.json",
+   "sha256": "0c299abbb76b21ab0bc92f547a0264bbf47448776097ae28d711fa1aef259e84",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_openai.json",
+   "sha256": "2275b0b8cd97a6abe083cf5fd60e122f7851004b3a2595c36ff1e7d9a6180510",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "9dfc80fb31b2a531afcca9bcac92d8ef821042e0aaed4561e843bc8f510dac4e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "f40f193532748dff5a37f9068d09958477b519c20969827e7bc3bc534dfe3985",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "788ae3ef3c2e899d36b1b3f6e82253b1b65b3f5618bb6c1502f4364aad945875",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_str_arbitrage_entry",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_str_arbitrage_entry.json",
+   "sha256": "84f2b4c8e542e15baf87f96a1b6a98e8aad7d117124d53deaf6a2318c4c36c57",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_openai.json",
+   "sha256": "30c74a9e9c6a513d6c35e70823bd13069fcda201a6e9a0c0b117c7fa47d32ae4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "4f3fb8f7c5ac9236bb64fc6479d531833a7a8864e963b39959d706ad8f5a3de6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "6effe7649998444bcecc944326351621ff1e8b92af091b99a35c3929f7e5437d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "9dee9b17293f94ce0bd73d43b102712db83d09eaa101a6dc7057145c7d22f6f7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_str_arbitrage_entry",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_str_arbitrage_entry.json",
+   "sha256": "9dbe9978b7befad4943ec4b5aa56999d01a8fc0b411b313a8872f59e431785e6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_openai.json",
+   "sha256": "4ec1edc9b93dc744442195521e5b050aeefaf3e49d4d94c83f6d1e703723ccb2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "f68e66e41d909bf622adebc88042f5a872824a84139e24279f20ef0dd1391b66",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "17867ea61e6cf3e7d5e565009f0ae3c5ee1a21616e4ea10988101bf68565bcc6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "16e8c08a180a86f9365d5526d640a388034f8a87ebf7c9142191841c681a8898",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_str_arbitrage_entry",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_str_arbitrage_entry.json",
+   "sha256": "1ebf36d158fb245e3c40909de76c9e2282e87d4f9f75c5085aaf661671bea7ca",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_openai.json",
+   "sha256": "d164b71bbad0d01f555670f18b37e4fdf9112ad42f0ed9a7ae08ec3487c82bcb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "f49dcfeeef773d223654c86045ea20a74e2a212132c96a328497625b60359adf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "92363db38ee411f496de09cd43bcfe7a140614beecbfb66849fb255fef202469",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "f2f931a9a1e3ca692e6cf3004c240c76a605fedac50f0395e4a05e6cdcd74cd2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_str_arbitrage_entry",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_str_arbitrage_entry.json",
+   "sha256": "2de1f2f01fd81417cc90e60eb36285783708fb5ba6c876fc839b4bd41732dc2d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_openai.json",
+   "sha256": "3fee8f1794512126e0b4066e8d0b91c2cead2f813044379d001ab71266ad7a8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "cb666b8397ce2c85947b50379491d6fecf6177f127eb7ab4bf809d73eb5001a0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "ade5a528b6e820d25bf81672b92bd5cfe366b762c1e267c27514640f695e0747",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "50897401bc73e7b011492d7c7b43a22ee5917cb6b74a8520a7e26e4489b213ac",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_str_arbitrage_entry",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_str_arbitrage_entry.json",
+   "sha256": "ec0cb1e92a547d00def94a93b15d12eff073d992c1b84daaa0c40a54bebb503b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_openai.json",
+   "sha256": "01458d101bd7661a88040fc41006050453516bf4118deb948ee94c2be6051244",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "2f77dd99440a4dfe0f2ef12c0112b2d4864a4753072dddf6b9f160843dc49c27",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "56847f5ad56fe541401ed33e8fd5d5a57b80bac112648faba97d909410d70dbf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "9e119077079d1ca43137d47cf26ebed909d55018954a1722d8f16bdf62132405",
+   "businesses_named": [
+    "ADR (Average Daily Rate",
+    "Benefits to the Landlord",
+    "Beyond (formerly Beyond Pricing",
+    "Corporate Housing Company",
+    "Ecobee",
+    "Form a Business Entity",
+    "Guesty for Hosts",
+    "HOA Rules",
+    "Launch & Optimize",
+    "Nest",
+    "Noise Monitoring",
+    "Occupancy Rate",
+    "Open a Business Bank Account",
+    "Professional Photography",
+    "RevPAR (Revenue Per Available Room",
+    "Smart Locks",
+    "Smart Thermostats",
+    "The Lease Addendum",
+    "The Pitch Strategy",
+    "Turno (formerly TurnoverBnB",
+    "Understand Local Regulations",
+    "Yale Assure"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_str_arbitrage_entry",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_str_arbitrage_entry.json",
+   "sha256": "bc2bff59ea7b9dc74bfcd8aa4ba2cc5952b12601d42487393c18545e87cfd95e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_openai.json",
+   "sha256": "934538acdfe04100987cd9febaae92e2552e9b9f9f8cc2a0b708ddeef15c7de4",
+   "businesses_named": [
+    "Proper Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "cf51b902b0ce693852e3d158891976a5633df3374dc9b685614ca549964d7209",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "0981cfbdbdf84de23a56fc551c397affc3442af1ad2b587235e483d63b164306",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "998d2185c562abd35b55ed5a0680586cc9ceb9c53e2166475d21a45cb74693fb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_str_arbitrage_entry",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_str_arbitrage_entry.json",
+   "sha256": "60a0a11ef82b80b65f9e41125fd97c7c7bda4e561d8d4589699e385acfba2594",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_openai.json",
+   "sha256": "c8bc9c9241ebc2b3b84f430a81f3daba8a14238c07cae368dab67514ee026c79",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "fe810fca6f3e5ead89abe8ef48147692da85c200c8078698c61d7332773e0785",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "0a31f5f93753d2100c695147284a4a725e94259c7f7b06caf3dc2e11d8046982",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "d80ada513a9dd04933d860fe9f39c199f1971632b9091b6da2775a710d41d288",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_str_arbitrage_entry",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_str_arbitrage_entry.json",
+   "sha256": "5e93ff4ab9704244888fee2ec7bc3efd68a245f5c3c4cd7676b397632ee80211",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_openai.json",
+   "sha256": "b1fa92857ddb6c2ef452305d9075cd97bb4378b63e36a8038559d25ed613bbf6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "fed2a62e4ea3ae3ea888c009e96a3ade35946d53835816a61f72849f418825cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "056e637beb9efdb8d610af6c6243aea6ea1726c900d64b13b98b68d3a51d9787",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "271535da762437099f8257b91b408f7bd7ed6a93084f7297676d2352d04d18d8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_str_arbitrage_entry",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_str_arbitrage_entry.json",
+   "sha256": "cfe827e8ecf5f6ee50d4aeb3de6126687bfcb907a66f457520adb1295615730e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_openai.json",
+   "sha256": "3cf4b10e9b9bf6542ff2147d3d797b51985b90671827e543be408ca3ba5dd02a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "783617f9cc1dd40718783b18cd176d09cea9e21a2ae4a1a88e058fa210c454e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "a9dace8d2861f29bec3212884a945f8769d35fddbf3bb2d068ffba0ba11464c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "e7046ef04bcd51c19f7d545b15f6558689d14eb46cd1a5d008fb6e970fa1bf5b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_str_arbitrage_entry",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_str_arbitrage_entry.json",
+   "sha256": "c15f445a1beb7b7cac54c5152b858a0feffc8511eebaf8cf3539dd5df14803e1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_openai.json",
+   "sha256": "f209204054f4219db2fdc2049803bbb5b614d31111931e0ca567275735e1ae50",
+   "businesses_named": [
+    "Target ADR"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "3c58a026d0a271a87cf6a8e0b3d36620fc793bdd49d4f2d81f20babce5f27786",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "362648fc3116e4bd5d79e078e7765823271ae5a88150d603ab4cd02f5a99b05d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "9f561920c9345e29c74b74b8f567f87fb4d995e3491c3274f5dd736eee9d74ff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_str_arbitrage_entry",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_str_arbitrage_entry.json",
+   "sha256": "abea8b9b9ff803ef75d56561ee360cdae075f58d2cce3cee5ae4c90f2b4fb0bc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_openai.json",
+   "sha256": "41f4c49a7fd31290c48385d9d70d03ff92b046e4b4fbcde73c5715248e067643",
+   "businesses_named": [
+    "Proper Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "0306fc6c8836cd2892c360084dbdf7295a5201be480bc881750b4dacf193cb86",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "c954c40b0dba6e352dfb70eeb6de6731596bcc1b97c4daa0ee2b391c1598e56b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "c71a2ab766ae5a066560ae6ef83de34ea470dc1bbf9ffa7f65c2e38cfd0fd680",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_str_arbitrage_entry",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_str_arbitrage_entry.json",
+   "sha256": "24a29563b8360103e3643a5ed05d9082db55e5e5779bdae5f1e13c53bc9b015c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_openai.json",
+   "sha256": "a594ea9255216a6252c5bfae99e026de598faaa5ecb2542c1a922f34fa5e3e88",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "860b2d1ba2159d574eed2d2bbe1fb99646dbb1c0e59bbf92573b94af4cb4917f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "c022ef0bce957405ca03a8c34fb352087d2aea98a385a0a29af59879eecb76f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "b2f49340eec4baa809b08ae43540f1b4e6b6353c804c0ffe9f8a3f507dd74aef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_str_arbitrage_entry",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_str_arbitrage_entry.json",
+   "sha256": "8117c047354a633ce723a1e0906f27451226493555230e1567986c7beb662b13",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_openai.json",
+   "sha256": "cfacd0b78d16f6645d4ea46e54000cf6d00a2073a1e97de9cf02e9d9cd78c937",
+   "businesses_named": [
+    "Slice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "ebeb7c75a002d63de31f8abe00a16a87c5073ae6f5d5749506830f085946274c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "49cec7628dc5b2691c2a7e54a22ab69fa2cee9318369bb0084d9028529b10a6d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "5a5df2027815825b8c06001b5b7813181259928ed5c3cf3093abe3c9bede1fd3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_str_arbitrage_entry",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_str_arbitrage_entry.json",
+   "sha256": "245d8c3e1025796faa2ef1367151c0015a2d64cdb8e4b27f55d2b0f0e2b25b0f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_openai.json",
+   "sha256": "518cc4197eddafebb09ba6d0dbed2576f8f384055008401d1b667848af9bc92f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "294765e93a89d82d131c4ab0da225fa014483245dede0cfa5e323ba4e514ce8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "7ba88f4fea42db8d4b98dc7344f2e8d0b23a322eb39035ea5f7363cea0c3d216",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "7a4449da3b18942c39522ad887810e07222cec4c8fed408cb715e96178d8d0e8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_str_arbitrage_entry",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_str_arbitrage_entry.json",
+   "sha256": "a97f982b0c0886dad6046c0e5f75af6dd2c0c53419a6aa38c6db43dfee3e2efb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_openai.json",
+   "sha256": "93250af3668afd3755472cc8ebe2b673be4ede48cd5ab7b9d35c618c8ca3f9fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "446db05944297c04e006f024f724f047b4d42132a058b603275da607f2c4beb3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "aeb0dabfac8065130408809bca206bb042cb8309591f43505359aed25eb384df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "1ad6e5eb576766ebfd821b08aa7df0e388bf4e74a4dd9e5128f3ece3c8b12390",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_str_arbitrage_entry",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_str_arbitrage_entry.json",
+   "sha256": "7f755744e7c837b335346621abeea4dcd84fcc5e30ee68e7ae8931d08f14c33e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_openai.json",
+   "sha256": "5fb4dd7ea73868ad319f6e11772afd3f075cbf5d99eb25566ddfa6632cbad28f",
+   "businesses_named": [
+    "Proper Insurance",
+    "Slice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "aded2115c2040ac15d973f9466dffb1db1e169cb52ec2dc030b209efc9caa3b5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "658b2de9491130f54400efc69360e8db6c05d2f2609a7b8eaa0da153bcb95d56",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "72340dff008cc536c472ed6757db575d2539d9daa1353862eeec95d65f219d15",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_str_arbitrage_entry",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_str_arbitrage_entry.json",
+   "sha256": "9da4d3a86b952c3e0f07ce6bf93a6312432dffd38d4d2b606a56b7bcd7d26b7f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_openai.json",
+   "sha256": "a1788e8f6961c9a5ecf9880ee53b4a38fb1d91854591cb12a0ec2c4bd253fb35",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "531da06f5f12342626e0c0dd4ae69a2395d418110ae5d60f80fab930c3f7312b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "09a9edee0e330ead76d29034c0607c0139ec8e02fa1044e02a59546efc3d2b12",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "d506fdd6ef934b585afaad7e93e375a1e697a337a23fd5cd8d83b9955a3aa899",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_str_arbitrage_entry",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-27_segment_str_arbitrage_entry.json",
+   "sha256": "df2d7b0df7a20b1027b24280bd41c4678df5296595cca12884098098fedb076b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_openai.json",
+   "sha256": "887d195e0c120e3212d5a1fa03ec4ad593abf48861a230ff32a6113fb60c8507",
+   "businesses_named": [
+    "Front Row"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "c784e62c1b8fab3d1ab85c386b03732167e09bbb96aaba25a599bc9e46812bf3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "430d6deb5da49f862a4cf31dda3ff5219beafc888645c6798ae395e98206f4cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "f5a81273d66b81dccd131e70595206cb189708ddb541c569646b2601d382e7c2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_str_arbitrage_entry",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_str_arbitrage_entry.json",
+   "sha256": "1016ad2c19c9044d15f8faadf12d85b95ae3168d3c467bc2192c3b0eccd5d164",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_openai.json",
+   "sha256": "fdbf74e0276fcae86cd77da9962c3470b534e811aa4f482b87f0bf4aae9fb917",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "82e6874aa7ea76630788b9665488af0c708930c72bb05ed3ba94d0ab816afe0b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "01732b742ab61bf4a77b303436c2dcee4f7de93f7c5b5f936596fc764b32ec7f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "39aeab959540a96cfacae39d31dcb54859d6cd47fb9fa3c43f5af9471ba694ba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_str_arbitrage_entry",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_str_arbitrage_entry.json",
+   "sha256": "6734fc973c613c6c2bbe3bfe71ac6fbd2d45bf001572e6fd9978a0f38596ba48",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_openai.json",
+   "sha256": "c391cb909c2808d4877edba51f0e3c3b8b985f04eaba9adced401a94769fd84c",
+   "businesses_named": [
+    "Proper Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "71adaebb1d00e64e1dc275cdc064b85808e174e3a6a0b90e5fd9dad461a070d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "2a759e22680bf7407b062f441adff52470a4714e00e3e3b048f0f46cf3e1d86f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "84d0fd659a1ec97c7af64b276b35f775086e10399fc6527029596dd81ff54257",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_str_arbitrage_entry",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_str_arbitrage_entry.json",
+   "sha256": "831c900dbfe350ba7adc5f2e2f956ff0953b882a7f4a6dfcc9d49a7f824cc5b5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_openai.json",
+   "sha256": "a5ddb8eef2c5126284756ebb4ebd06c21834ff3ad00d7b3cd36b2cb89f43cc42",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "8562e6e067a267b9a85e9496097a59c4b60616c3a2f698c8437bdae2bec35630",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "5f0845060257dc6737b1a4db309e9cb4cb73971856161ebc2609b1f2006b1cdf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "1b18f4e61cabfcea73b4fd9633acd474336897e3119e89bea23a1e817663abdc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_str_arbitrage_entry",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-10-01_segment_str_arbitrage_entry.json",
+   "sha256": "dcf01cef746107a73c845a814998a30ecb724b23a124377db9724de736298f6d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_openai.json",
+   "sha256": "1e0b6a7599fb71209dfd3d37a341051d7941f0970b42b6bde8f3f2c1daf905c1",
+   "businesses_named": [
+    "Proper Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "724240f611d9c9b04a6843d19cd778f9b355ee5bfc98de5990c9849c7b837b2f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "a9f1aa0b769e4ed167ead1ef4b8b8ec0bab5d36d173ca2d4614a379670960c90",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "b7ba4ee002233f85317bdbb205f240ab7d65f2eb1ea273f617d5d8b71aa73cff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_str_arbitrage_entry",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_str_arbitrage_entry.json",
+   "sha256": "4b500acacc80943dbf92aa4b6251416a916bdec79df211e0ef8a20ce17dec96c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_openai.json",
+   "sha256": "e4ca4694c92aa0aa6328f1dd4aa651dc61c0b5347ca4f7dacc935c5a4b019111",
+   "businesses_named": [
+    "Slice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "2478eed30b958af61e2e98cf297b5cc0602588fde76f9a802dda6d0bd4dcee76",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "3f4919d2fc2077fc143f787a98e63f2f44699b7f52d5c50ebe05942eb18344d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "6cad262eb52a199367a229dae6ca86b597de4fe49a1af30b4f5f334f4ca7d369",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_str_arbitrage_entry",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_str_arbitrage_entry.json",
+   "sha256": "a58ce9da40164de605a7eb9a60882d11e963b75b72382d40a92f2316622e5c4a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_openai.json",
+   "sha256": "b2cc4163806467401adc141acfdd5b7fe7d3302d608e7306d596472723ddd439",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "b268f99b66fdfa916685411346ff6a8f6f4ed31c222318394460d56d69b74629",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "2576479085bd9026f8f315f55188947229e6c4128221db50cb75aa07cf276840",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "19ef2ae59e69dff0ac5b9d8fecfddc2f6ddacd9b0e04afa2a4d55e101254b007",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_str_arbitrage_entry",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-10-04_segment_str_arbitrage_entry.json",
+   "sha256": "301e52f90eccf10b9d8e47cf1809b1912f0b90631d704ddcb49fe8c2f5bac00c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_openai.json",
+   "sha256": "2558696c4425a9243dfcd9fe06438eca477a5638c520b463788e7e62e60a5870",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "162cebf6df0b157bd780053c80b2ac25ba23cd4f98d0c1e2d59695beaf91f32e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "779389d2fcb2ac76a4d32a8886c0169279ab38573f8120359dbdcd8791fa76f8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "89fb36b69980494538fd8c1eb2d613575da9b333e4e4e145ff8a6ba004f622fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_str_arbitrage_entry",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_str_arbitrage_entry.json",
+   "sha256": "d69716ec0847a792a575531ac5aafaa65220b249f5790194667dce8c4412b06e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_openai.json",
+   "sha256": "6d509899e9d0a7ec9c0b8a3f47a2f3b29012ff57c92ef9a3df9b0dc16894b4a0",
+   "businesses_named": [
+    "Proper Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "7506c8c6f19a12c327d6076ad300b9085d2498a5e40d4e611b31e7028f5f0bc6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_anthropic.json",
+   "sha256": "e0606c1e469ceb00fe002ea5461d6858d88d931cdee1f7bf558cf176388c352a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_gemini.json",
+   "sha256": "53dc7a4b2ba85d49af03124bf75ffca43cbd07672df381e98674b1575f76e202",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_str_arbitrage_entry",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_str_arbitrage_entry.json",
+   "sha256": "497cfd4834e46e3a01e47b35c2700035c099825c04cfd9b35e7355ff2b989507",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_openai.json",
+   "sha256": "300fe2d5d275804b646f55518a883f3fa9fd0fd990a321b6b4c671b43deb66b4",
+   "businesses_named": [
+    "KeyNest"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_arbitrage_entry_perplexity.json",
+   "sha256": "fcffeb57b26d194b6858df92483bf9b52fe0e446bb520c64232f08c9864b71b0",
+   "businesses_named": []
+  }
+ ]
+}

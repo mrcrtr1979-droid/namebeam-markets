@@ -1,0 +1,2463 @@
+{
+ "slug": "tyler-tanning-salons",
+ "url": "https://namebeam.ai/tyler-tanning-salons",
+ "prompt_verbatim": "What is the best tanning salon in Tyler TX?",
+ "market": "Tyler TX",
+ "niche": "tanning salons",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "Convenience": {
+   "Convenience": 2
+  },
+  "Extras": {
+   "Extras": 2
+  },
+  "First Tan Free": {
+   "First Tan Free": 2
+  },
+  "Glo Sun Spa": {
+   "Glo Sun Spa": 2
+  },
+  "Glo Tanning": {
+   "Glo Tanning": 32
+  },
+  "Highlights": {
+   "Highlights": 3
+  },
+  "Location": {
+   "Location": 11
+  },
+  "Locations": {
+   "Locations": 13
+  },
+  "Locations in Tyler": {
+   "Locations in Tyler": 3
+  },
+  "Mystic Tan HD": {
+   "Mystic Tan HD": 4
+  },
+  "PF Black Card": {
+   "PF Black Card": 2
+  },
+  "Palm Beach Tan on South Broadway": {
+   "Palm Beach Tan": 44,
+   "Palm Beach Tan on South Broadway": 5
+  },
+  "Planet Fitness": {
+   "Planet Fitness": 4
+  },
+  "Planet Fitness (Black Card": {
+   "Planet Fitness (Black Card": 2
+  },
+  "South Tyler": {
+   "South Tyler": 2
+  },
+  "Sun Tan City": {
+   "Sun Tan City": 4
+  },
+  "The Tanning Zone": {
+   "The Tanning Zone": 38
+  },
+  "Tru Tan": {
+   "Tru Tan": 20,
+   "TruTan": 3,
+   "TRU TAN": 3
+  },
+  "UV bed tanning": {
+   "UV bed tanning": 2
+  },
+  "UV tanning beds": {
+   "UV tanning beds": 2
+  },
+  "VersaSpa Pro": {
+   "VersaSpa Pro": 8
+  },
+  "Wellness Services": {
+   "Wellness Services": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "43b97021e4747451ba0ebecf1c73878186b1ebd0400d70b5105c8c7b98714c25",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "f854b37b6dbd394d48df22589bf84320388ffb493449467c7f493efc4d079a6f",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "Locations",
+    "PF Black Card",
+    "Palm Beach Tan on South Broadway",
+    "Planet Fitness",
+    "Sun Tan City",
+    "UV tanning beds",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_tanning_salons_tyler",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_tanning_salons_tyler.json",
+   "sha256": "6c6a9e34c84cba89bc777c13f42826c8808b689e808b02680a8c5a14abee1547",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_openai.json",
+   "sha256": "e757a7caba5c17604a88ccbd1569c3514f88cd1ce782338b96a5a0a32438308d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "9713fea9cdb4ee14e17aef5909c89fdc710e0508a15d0fe3db3ddf1094bd4d24",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "7d1b8f2c334a7bfb76ccbc9b21b4ed5604dce5d297d52d693a5ef9379ae4107e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "ec5b4f815beb4d54e0d320a6f5581324d5ee0a2ca2e7e1b1280bcff3792e794a",
+   "businesses_named": [
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "Sun Tan City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_tanning_salons_tyler",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-27_segment_tanning_salons_tyler.json",
+   "sha256": "b70db4147699523e558ce6dd067677abe2d3bd46ee13f94133085eec73ee712d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_openai.json",
+   "sha256": "ef9fe9f8178a8c658c9aa47f6af01b25a455d90c1a257df8c913a43ed16c2b13",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "871ea8dfd8920fda87f2f07f7e466662372c2d90e5408e62c5fef9b122f75dd5",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "27a8c074a3a827758605815ea05f0f4f0b726679981bd1491dfa75e7ad99f96b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "c0f78cc9bab7f02c57d3fd8d950bd2b6320d3c7434d9a4146a1a63b0eb6210a4",
+   "businesses_named": [
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "Sun Tan City",
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_tanning_salons_tyler",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-28_segment_tanning_salons_tyler.json",
+   "sha256": "0ba72e62a8ec978c4aa5947c6637d6282e7d755e0c5dd7ba01e09148bf0758d9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_openai.json",
+   "sha256": "7f1ae179c0deaff4ab1aa5b4eb731240612bfe263cf753231394c657a5741266",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "790a23c8f3534743235a1d13f9319b6a517603f06e6aed40977a5f14f2254e60",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "7296053b87d0171deb2bf03b03ca0577aa91f157035677b5dd76cafbe585a83a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "5b0caf0945d094f0145dbbfbf4690c33d015ea59d1e04055d60c300bb7eb60c8",
+   "businesses_named": [
+    "Location",
+    "Locations",
+    "Mystic Tan HD",
+    "PF Black Card",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_tanning_salons_tyler",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-29_segment_tanning_salons_tyler.json",
+   "sha256": "075c4005cccf3e1c586ab252e1f14221a653be26512c2776b489d17e348c1644",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_openai.json",
+   "sha256": "be82352557946a227f27fd472353cf4d486e2cb3e68865664f7540ed5291e211",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "4f4daa2520684338ec9c26eac1506694129c3615420bc276f3c732bb2a470805",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "cf51a0cdfff28e3d7af616781812c772a7fc280f17ff6c3ab99b3ca5bd64ee75",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "b21b408dee0e914622edbb2b49d6283a5ca0d96e69ae4cea82ab7c48e9b6ff47",
+   "businesses_named": [
+    "Convenience",
+    "Extras",
+    "Palm Beach Tan on South Broadway",
+    "Planet Fitness",
+    "Planet Fitness (Black Card"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_tanning_salons_tyler",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_tanning_salons_tyler.json",
+   "sha256": "582293a93ca45cc73e0ab2bb6d5c288119fe1a3d85fea32f0176917ecb2926f8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_openai.json",
+   "sha256": "da20e76ba29c8ad1e27f0d1f73a219e127b66646255ebd5aa7f55c486b134777",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "fd5fbe6005a5900eda32c46c26d7545d5ddaa09171d99c39c5d4457a9d70ba91",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "08a0c64971a2bf88287a15f9a7b719058d67a68061283d5148aa326187e5bb7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "9745e0b515ca7ab292251d294f40b955e14a9471e394ffc15f34999b61fa7ae9",
+   "businesses_named": [
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_tanning_salons_tyler",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-31_segment_tanning_salons_tyler.json",
+   "sha256": "7c82247c062ef7485d6f2e50ac3b2acc3b4b61b98d4b9f36b64cabf453266faa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_openai.json",
+   "sha256": "83b86721f2a9313dcf9479654f1b3f8f1393330224b263e069310952f97b55df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "38bdbe60aaac2c520d5df0231f87d2308261909b8d9b5987411dfe8f544ce398",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "f5b846094f12587b3d1ae9ba54fca97022e72c2e2af79b8a63ff39f65e64d0c5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "213200a160b887d61a4f5996117f4534622049e0252df499f7e41423e788d54c",
+   "businesses_named": [
+    "Locations in Tyler",
+    "Palm Beach Tan on South Broadway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_tanning_salons_tyler",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-01_segment_tanning_salons_tyler.json",
+   "sha256": "c6511f5b3f256b9f8fad07f3fe7fd52a1cfff56c3627802dfa3e917c23141879",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_openai.json",
+   "sha256": "85213e9d675435e4c47245aed420e7ccc51f671b4e2c5df5eaa5796ddb002935",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "13125dc787194bf3520d09b9aeb732fb2d04e5d6e90bd6fe9d1e4d4174c9ef52",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "be8746c64652fa73c01e91755c7e785ecc6ac810f31841b863f816c9b205d60c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "40ac16d68af8c9b7442a2a6202671d35c8c4d61f0e2395ec9c2d4d32b6efa565",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_tanning_salons_tyler",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-02_segment_tanning_salons_tyler.json",
+   "sha256": "5a2900216ee5380199a807c2e5c83e83780111ecd8f6b9ea0f805e8c3287ae64",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_openai.json",
+   "sha256": "ab7f27a0daf3908dfbec3fc75d369f577e11dcdfd11dffadb54d20ea67436a0b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "f19892fcf61d19514c0143ac4940b8dc89d11482bac005132ccd0b3d93cd370c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "b46254f9605b274eb38a2ea5c5b44a3563d36c460a27e1163774e0b1866ac0fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "e6be41166885f3068ee3a909ac3277654d69ae07405dff8d8c62f2722149e526",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_tanning_salons_tyler",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-03_segment_tanning_salons_tyler.json",
+   "sha256": "1877940321044180cf2ba1f8017c17c2cf46095fce40d48da5899e3b037cddd4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_openai.json",
+   "sha256": "d2d15be9d2d83c533e32fe546ef7684d32ea782de9b7d41fd28dc800a5e1d7b2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "68087ddaa8550b8ed283ec300e9955c90c76d0ec2914ccaee152ca59734d76da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "a5b41b9634dabd2bfd3c88addf75e53f616fba440e87fa8cc707d601f69f8050",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "39164757aec2632fe750e8d3353ea01a9cbb1f94279915f47b0f37c7449e3176",
+   "businesses_named": [
+    "First Tan Free",
+    "Glo Sun Spa",
+    "Location",
+    "Locations",
+    "Sun Tan City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_tanning_salons_tyler",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-04_segment_tanning_salons_tyler.json",
+   "sha256": "40004740e54004374ba174c1bb33ecf0ea3cd24847d78e62b2c03aba6e7e86e7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_openai.json",
+   "sha256": "20483554309dd9384ed0248c2225feecd2ebf41e6c77d0e60bae13b81942581c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "c160a4ae8cb796d57b3d1b237f3d2e1263c6ea64fa2fcba8ee7cc78b5f91aa43",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "46e8d8d8bce717e8d79e891a4411f86fd29f2264d7753ede59504397676dcff5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "4e3598be344c42f1a2bbc21f6cb83f3ed0563fad628d5aad8eb9c1723b345d20",
+   "businesses_named": [
+    "Extras",
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_tanning_salons_tyler",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-05_segment_tanning_salons_tyler.json",
+   "sha256": "cb7f11b26e31bbcadd68c964a3025922f2e52279b6f703e9f86c0daf45ea2343",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_openai.json",
+   "sha256": "0e3b8d30b67e113c4c681a8dc4360dbba05bdc17063a61ad17f874b1c9e64b23",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "1f13f8763c41fc58badd23b20a124d3778ba322df39d1ae5cde6cd8656651587",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "1f6b429369d2dd22deed9e73cdf7aade407b0879e636a972bf832c3f4c6b0a41",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "23ab60c245215d2fd0853960fee4cc2568ffe18af8ad484b901ccbde460aaa94",
+   "businesses_named": [
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_tanning_salons_tyler",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-06_segment_tanning_salons_tyler.json",
+   "sha256": "6c46d12c771f8beb848203e1ad6e6a6c0bfe0fd915f208578bfd6f3b20ef17d8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_openai.json",
+   "sha256": "51e151cc3424ff53090e10a14add28dd90cdcdb18eb16306dcb481c10de20649",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "11ac4cfbdfcf6a097671f27f4d0eebe9694e8cca7f21c644440fbdc735bcc964",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "52773654e1847e9e3a47da2af7282a6339aff7706e41ec58cf900248613bdede",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "e4ca4fea2feb0f7acf959f2656a2bd2aadb6164effa2a797e109bb9917200d84",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_tanning_salons_tyler",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-07_segment_tanning_salons_tyler.json",
+   "sha256": "814f5db53913d8589074c96e50a396c09a7d6dee010ea4eed3f3e0b6d8be85bb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_openai.json",
+   "sha256": "e76e8ca6bca0098ff46d67f21276505209309c33b6ed9954f1243dbc325c57f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "90dcdf3a0812d5bf0fbe98b879988ff10fe6a3eb12cdb8bcd5894772e390d0fb",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "653813e6857101b57780789c41949d26140ccef4cc6135e758b02ea8fa584d24",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "2ad145fa2848418aee1299a2c379321bc1802a5c4691424af7ddd626fd6d82df",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_tanning_salons_tyler",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-08_segment_tanning_salons_tyler.json",
+   "sha256": "9b8a2c08c91c2c6cdd0c1c48bb9aa05f5a5829e6961eaf81bfb1cce7986c7bad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_openai.json",
+   "sha256": "1fc0dfad5e7ba3b139bb22df4f7d7a5e464a7a9849349071c0712f66c4cf8e64",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "980ac4d043071b11187115ace6a83d5a6471a124f231bd33d114639ce1a1ef98",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "258e16e8988f29fbf12b69729459042fc6179a596c5de43fbd8a98bfe43c10fa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "4f890dc08b2d5375a8460a56495a81be186ed137c1c882c3b101588eb9bd1f4c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_tanning_salons_tyler",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-09_segment_tanning_salons_tyler.json",
+   "sha256": "ed9878820f5937c210ad6c67c98f1595edde3dff71d22b3a0e1273c920460751",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_openai.json",
+   "sha256": "ba20b60af2230b6bae834035078659cd0f05d550f3578d2e3d80afc980a1a374",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "96ef80f25e855016d76fbdf160fad0c0f151a64ac67a4e13286cf720f0e8985b",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "49208ccf842b001b34ad6dc84ed92114819467f371c3da5ab021d4f19d132cd9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "9e5640296d58e2143af8cff20dd2e7d0c7e846ae0b9e4e587f64d22c4b2f0254",
+   "businesses_named": [
+    "Convenience",
+    "Glo Tanning",
+    "Highlights",
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "Wellness Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_tanning_salons_tyler",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_tanning_salons_tyler.json",
+   "sha256": "278494131ed5b9834aff6c6d93d279757a3e94944fa8625427f18020713c67dd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_openai.json",
+   "sha256": "1c1cccbc28b6a1708ec874560243a2a3f6bde636be6d99b8a8ad2d3aa686a5f9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "a63a0ff1bbd935064a960572c7441f8393cdd03a47e4154cb6e40a03e8a34395",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "d9f9e7eb91d87beda78e6fbca0e684816e06458dfcd2f5ba862a6a8f2483d537",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "1a3b4a9eb2d40c87b809177e440a7cc56f87c698cb390930d74697f399e80323",
+   "businesses_named": [
+    "First Tan Free",
+    "Locations",
+    "Palm Beach Tan on South Broadway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_tanning_salons_tyler",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-11_segment_tanning_salons_tyler.json",
+   "sha256": "1d78778f3e605762376d8589deaec457763a049261205e72cfc823bd08560b9d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_openai.json",
+   "sha256": "df5a84b20e13371d963022c5b2949ccfeebd7b4752b0335c243ff70d2112d1b4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "5f34fb321b74d36cc3ceb18c058bfa5bcee31838c9cad0c7c11164ed936e8b6c",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "89ee3c10c21ff5f7bbb162521ba766c017a0a450d49e2459ea22b7f4b543f442",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "cfa2a6b12ef6bde474bb314a4515dd5e019f27688992540953a59364549a288f",
+   "businesses_named": [
+    "Location",
+    "Locations in Tyler",
+    "Mystic Tan HD",
+    "Palm Beach Tan on South Broadway",
+    "Planet Fitness",
+    "UV tanning beds",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_tanning_salons_tyler",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-12_segment_tanning_salons_tyler.json",
+   "sha256": "e95fc9657a9c63fd771810c4efb0a6b253e6569edc6db8b1505707e62a9e93fd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_openai.json",
+   "sha256": "f3aff9d9a9c58361035b49e6a916fb9e3d7cf9a660159848c1836e3605fe6487",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "6d879627535bf06dbc1d783898591d9f244b140c00ea34a0725af6b670722e06",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "aa632b7f26f81a8ba7c522e87f2a6304cb2445d8ff2eb5faf2fbbd81ae21b3a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "579cac8d56118c16112c580ec2a011fb9e26205ac208a94d38c186512cc8d3c0",
+   "businesses_named": [
+    "Locations",
+    "Locations in Tyler",
+    "Palm Beach Tan on South Broadway",
+    "Planet Fitness",
+    "South Tyler"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_tanning_salons_tyler",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_tanning_salons_tyler.json",
+   "sha256": "f5c366cac90fbf6a79d35eb8406499b20a89b0b341b69e0eef1d96ebd466b406",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_openai.json",
+   "sha256": "3e239a8d6029a9483e9d71f17ed1ba48db41c2046168d2749392b1c8cefcc2f1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "0b9268c14c39e64ca34bc090d5ee836208b5b8ddb8adb30b587fb99b50ff2b2f",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "4cb7dc82c13c4ccfc2a97f124ff2689bf7602c3290f5ba777ab05ec9dfade4ef",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "07871216037a43b3450ddbec0cfb77a12af4517d99dc63cd035f586193cfc339",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway",
+    "Planet Fitness (Black Card"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_tanning_salons_tyler",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-14_segment_tanning_salons_tyler.json",
+   "sha256": "6545a097c15c1499cc9415e7211ea81b0fb8878b5a5472445b2b04e0b30067cb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_openai.json",
+   "sha256": "65c6384286d5c2fd6634e6719c1c2d1d1b035dc31fef9a256d0629c31198d026",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "98a56c216f05ed7be218ca9dfb48988881875384c22db5d79c5336bb2b83325e",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "06b8802fa6a977aa4d74740f670a076c29349e2f211c33ee4802b99c74ddc591",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "9e9901079f155a44f6e67d4494633c1e7bbdfe5f8a4141c8255d99655670fbe9",
+   "businesses_named": [
+    "Glo Sun Spa",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro",
+    "Wellness Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_tanning_salons_tyler",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-15_segment_tanning_salons_tyler.json",
+   "sha256": "a2aef7226d6c83cc688a028e153a47a599091007c02e0198e420f96a80d95e31",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_openai.json",
+   "sha256": "2f97aaa503d43d756feabf65d1634bb7325ea5f15907824f1e99bda626f79372",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "6715747d816cdd50a85b3059640c91d78590992f65eca69d7bdcce0c91391180",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "5cfe80b6fd448b733f5a949b06856b277c12de242f7f94a129998c28d178d9c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "cf652bda942736c19d1a5a20f20c606f63a215e5641e47e9593554411c8785c6",
+   "businesses_named": [
+    "Locations",
+    "Mystic Tan HD",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_tanning_salons_tyler",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-16_segment_tanning_salons_tyler.json",
+   "sha256": "1c041cc6f0db4dff69ec930d39ee83d55c2001cb6a6e0334acc5df1c186ee83f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_openai.json",
+   "sha256": "72ebb8362d33b0c9249b3261fba048d40d0d082d1bf7a2e0fee12e835c0a1efa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "e13fec9f539adfa017dfa66a9e9269370d202d4eeca7eb38a959a3c1772634e7",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "268db7a9b454a6d5e2a97921468786eb2d98674b097e4a32465391dd37284d49",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "f7f8d7056d2b26f8fcbafcd478085ac37fbf45683e38be9bab55fc8e2a662367",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_tanning_salons_tyler",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-17_segment_tanning_salons_tyler.json",
+   "sha256": "b5047e9b25f59287f5094f7f04cb5a586cdf9f296bc753e6661ea4c74d024d03",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_openai.json",
+   "sha256": "fd36dd14a0f32d72ca0733448c22a3c817339fbf825a14c9148b97067eb32aaa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "12affdbcfab2f9e3638f32a5c5317f120cd72a90ce4142f5cfff8206cf176c58",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "26e2a3d51ab24c0cfe1fc11d998c706b2cd1a8838add9eb8e7b8afd2ddbe32fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "42f2811a4a88ec73adb0be00527961c660be41515a2c8fb131d9f6ed22707c80",
+   "businesses_named": [
+    "Location",
+    "Locations",
+    "Palm Beach Tan on South Broadway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_tanning_salons_tyler",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-18_segment_tanning_salons_tyler.json",
+   "sha256": "898a9e8654e9a2f0d046139f463b6419869bea9ed2f245edf60e376666318e44",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_openai.json",
+   "sha256": "e815da0ba5e605ac839e17cecad6ae12baa22c3b26856908e6ce756aa1cc9f5a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "5a27b997432256a389aebb34b22bfa25703f20cba46589a493f4255d277e1df0",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "416416916589e72d3f60851babce0ae219f0a177f85e902ec9083c2c33596bd7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "2850f90cfb5ae54841154f71e2d6f9666f4436aafca7e22354cfdaf8bb77de90",
+   "businesses_named": [
+    "Mystic Tan HD",
+    "Palm Beach Tan on South Broadway",
+    "VersaSpa Pro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_tanning_salons_tyler",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_tanning_salons_tyler.json",
+   "sha256": "594c8d4ee9ab55a262fb88039bea2163296149b6969dc735a54ed024b896b063",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_openai.json",
+   "sha256": "2eb7249e12dbd7a105303882ec0384f190cbd91f4b4195885843660814123822",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "9f6eff995ec4178061f591b02d3d2edc118c1a1edf410ff4dd4b9269bd7149a7",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "4ef486907a747fc800da2306f9aeab5c3225ace68e9de7881b246d28f74df636",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "0e194e41e5eaf01aa6d2a7504b383136ba18d5a3a05cb75d4aeeb74ad3a0432f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_tanning_salons_tyler",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_tanning_salons_tyler.json",
+   "sha256": "72f5e16e4a6df2b37121e93e69b81b0e9b21c3981373f1c3f10aca9a82bcd152",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_openai.json",
+   "sha256": "554560ae310e48dddc31c428b8ef0ea6a637ac5902a335111c0136915ae1e3d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "2ed255df5128cea1753dfddd33dba2e4b242fd43f0389b69843ba764c0f75202",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "83746f93a93aec5b915ad5fc74bdf0defe3b6a3fbe914e9e05eb4c8dd9d403b7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "e577fb25560b39ff71fb4678df2b0e22dd069b7ef249f8d729221b4bf617b505",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_tanning_salons_tyler",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-21_segment_tanning_salons_tyler.json",
+   "sha256": "075e9202008218ee83cdb3fd43da6ac57888444aa4c75426b2dd5fb026920ce5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_openai.json",
+   "sha256": "24d515465cddf8a4efeddaa9d4e6cc486947716d5eeb76534daf913cd2ec6770",
+   "businesses_named": [
+    "South Tyler"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "a56079abb657b5740674624e38a4c87bfb9289c630a3e6580ecfb6328e772093",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "940020265399ec331e7f9122edf6c1b346e79bb9ae7e90c239e950a55c64d3b0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "5a6906302f276250d23fe406eaf6a0a62f673e1b7b060262d3d39275fc69560f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_tanning_salons_tyler",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_tanning_salons_tyler.json",
+   "sha256": "5e7df97e7fb3bc0833bf76dd5f0e576e91550a5c3bb357b79eeb05ff475e2c74",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_openai.json",
+   "sha256": "92cc1d8aecfaf34054ea672b7c6fd34c1701ff4295cb038dc7afb4c1b77af399",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "313bc6f629b16e6a52c5e67c4acf8c3da9fa709628bd2cec46b189a871d49541",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "e7b3271a99e2dbadfed05ed875f05c0cd033d8ca3c7307bcec91a06e7471e5e6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "1751fb756d93e25c96240263de3e878839c741e8565d6c1269858e60f1be8175",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_tanning_salons_tyler",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_tanning_salons_tyler.json",
+   "sha256": "0cebc01e71e41ddf644765efa2a51d2c1e168282ac0b34fc18b91c878585456c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_openai.json",
+   "sha256": "0ea719e61d83cb476830ddde66094a0dc495e1bdf348dde98b51138a0ae994ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "7b2883ee5808f07e78f14d57b8e48025d6f912cb26c4ac78da05d79ed0e1a354",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "5e4b2bce38cdee27825d0b59c3824cd7c359c22331110aaafdf5842af2fee805",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "904d223ab62acaa110b4b8441f7abd3696635d2b0cdec6eeff195222971e526e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_tanning_salons_tyler",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_tanning_salons_tyler.json",
+   "sha256": "7fbea6c0355e7f1bebb525334234c56c1a364fee67c3f39e726dbf7eb381757a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_openai.json",
+   "sha256": "2250d931bc91e4f79c72046e68e0af4d8fbae3395534d5434b249a135fca0245",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "b7cbfec5c627cd79d0fdb4f2600bdab6d0fa9197d731f58e4667564a63782742",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "d2a7bcfa37b3f54d9317dcaf4b893f63e53876a36a57a68759ab104453574b53",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "44c78d1fe21fdc6558a3ebd0c1816b161fdc5b6b171758d8e6131d5e5317260b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_tanning_salons_tyler",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_tanning_salons_tyler.json",
+   "sha256": "3cb624165804e7c166f327ba6b0671bcd2b6926db6653c139be2344044b004ea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_openai.json",
+   "sha256": "82f097f173d8e80f483da95bedbc1738e8a9f19bd09182fe636b700d2f0cfe17",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "e6a941e20842a43e7bc4df0c3c05289cc39beb0a5efad3f1a844940b1905604b",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone",
+    "Tru Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "6d305253710f4f9c269c20f07ec630ec501b1767bc1c5b01a0e4b2ea8db4fae2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "0f07332d54946116397b10a0336c83d15ad9151e71ed645fd17707c0cb59ee0c",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_tanning_salons_tyler",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_tanning_salons_tyler.json",
+   "sha256": "dbc1fc7353f80c749f36f5550e2dc76b6db05fc483d89779d999aa4fdb0a0f87",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_openai.json",
+   "sha256": "bc69b369bf8bf42d8ef53c000c357c2f1bfda048f4e98ae535940e50e46112cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "9556d69675b3b75cc1eb91f4739f45685abd42acd9bd24866aa652ccacef66c0",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "02e02ad10e890939550b7ce135143b0d9744a941e9ec89c3f606980b70ab141c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "88fe86e02ad060701fc04556d6819a6f4f0ea51e21ed7dd6a8b41a22e1d60b2a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_tanning_salons_tyler",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_tanning_salons_tyler.json",
+   "sha256": "7a3c9ed7522f2526b13b91b5228990fcc335b0049c6f0c0a03f41176672ac439",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_openai.json",
+   "sha256": "5029cb0541e1b4a39efd98fb9f59c0a9c13773f6e84ddf66ae659c1030cc7698",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "5b3334421084a4558929deb55aa7cb3ae15faed1eb31dcd9c27e02f916f9f10d",
+   "businesses_named": [
+    "Glo Tanning",
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "35d6dc47aa6b9212c6398dfba0a08a3f39359161981057c35634b63926041612",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "d116fa45cf2249a0745a34bb728244be4b3904e5ebd0f1278974e2dd81feb650",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_tanning_salons_tyler",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_tanning_salons_tyler.json",
+   "sha256": "fe18c4bda4d0e3817a815d06e943f23103dfefb52d2ae61da00b0dac474c2f24",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_openai.json",
+   "sha256": "7cf7838459294deb60b3ffde567a899a2e740c2f401d496b3045e89348d89132",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "60760d9aac0eac1b0c6fcaa225e794724274348fedbabd12730eccdeb767bb9f",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "eb3608f13b8d431bf801107e717601902865b47f3cb43eb9dda7289f298e9875",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "17dff4c121848ed1ebfaa18e8c528ba11c3ed9244ba3a6fa4a06b2b7258c31e8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_tanning_salons_tyler",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_tanning_salons_tyler.json",
+   "sha256": "2a6c1d296ed2a57c415d871f660604fc4f48f21fa3001472b189ce4ed31a2772",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_openai.json",
+   "sha256": "8b2b8caeaff5347832acdf3cf8e02f0b695e0166d15823c8ba3bb831a5898b5f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "7ffef5765b3e3be8c86e164a3504bf88f4a413285c08e3be12422de7602e256e",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "72ea934a116c2cf3c1af58e4adbea95c165af7df13299b76452fa979c80009db",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "4be826f35b8185fc5f7ccddd679165f5d0b53c118cde5d821467daeff3dc66ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_tanning_salons_tyler",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_tanning_salons_tyler.json",
+   "sha256": "b63c5f7e643144453571632a8f50ef3fccabfda5fd486ebd5dd9aaccc721f69b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_openai.json",
+   "sha256": "0d5a119406762990498887663ff1cb567e34d0f18b65cb2dbd9c9ccd208cb104",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "3813a21712cce667ef4925ccf70d9e951aafb60a77d68947e7e29d286078773b",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "c13d504b1aa6acd11a2a537c4fc023827a64e524d7217f3765305a80d8247d78",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "0e0286ed75786a592df61fce85f870aec683d93294fecd7e033424e0be9c23ca",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_tanning_salons_tyler",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_tanning_salons_tyler.json",
+   "sha256": "f99978852900b60970e283895bd815578cae98a15a0697d5578a41e51190350d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_openai.json",
+   "sha256": "dc27467040edc982352dbfd65ab4de698ad3ef204cd30a08a6bb8c1a735386da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "b684244d92188c28fe486fe87cf386c2d5885d4bd63894485d728f30dfdb1b1b",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "fc64256b24c89307815b03d91d481d58306206547467ecd8ed1d72a8a89cca96",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "d045b2ca36ea1d13fd0bcfcdbe1092341fcc9aff8960aca240f1eb948e58f1b6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_tanning_salons_tyler",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_tanning_salons_tyler.json",
+   "sha256": "3cd481dddb543ca4b0de7b37fee78090c366fac4bfec39b5f484d6d8a406ed81",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_openai.json",
+   "sha256": "07a8d09ce3e870de8d121d4999df20b4a6f0ec48d002c88e4176ed42a61b0606",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "b712ce3b0c88a007ea720a49045eb9ecc8ab0cc9fea8d85c393e75ea1b3882f2",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "19c8c6d77759461ebd28bcf92ae6a44efc7ac39a691449b42472571f473a2aa4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "57db505350175059ecd9c2cca06bfbfd221988420c38b73dbb2a3eb99be914de",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_tanning_salons_tyler",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_tanning_salons_tyler.json",
+   "sha256": "06b379ba28ca1b73e3604920d281a3f1cec3ad46b2cbcb1addb421fc931f67c7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_openai.json",
+   "sha256": "37347521e7fb9bb04e046ba9bbd7d5d528b0874bfe45c7b4cb640b059031673e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "c38d58a1eb537ccff0f57ee09c9bb3d525af42406711ed2c0dbeaceaad1f143f",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "b683ed3f4c2b29402cb253b33e2fed442d5b0bc700d06a485ba39e5e55ead003",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "cbd40afc5a24656e60eb69b93767146cb9e24360e9b4dfad23ee45d25a5e9185",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_tanning_salons_tyler",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_tanning_salons_tyler.json",
+   "sha256": "5d9514d5b47a1dd4c4c05916321be2cbf73dbaca43624f0f8a8e0964e0de7b27",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_openai.json",
+   "sha256": "6daf393681185998d480937fca0b0c761c292bbf5d5107daf8dfe91f513a3bce",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "b575e7a253a2179fa4de908beb6c8ea0de3f5a5db9e1483f6b67eb12bda67f39",
+   "businesses_named": [
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "2214e817179e8359ef52ba8151b04fc459b02792b7e7490697307e0856d32735",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "e3f3f0c9aac9e19609d465dcec865287bb1fc6805b20a900079766f2b2f72f2b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_tanning_salons_tyler",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_tanning_salons_tyler.json",
+   "sha256": "553391c8dc38159416fa07ae54fe93cee47373d30238dafd25782a8d29dd64c3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_openai.json",
+   "sha256": "773efdc288f71c716d92b097d9eb98cca59136d20d5623840b8ecb39e21bb7b6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "e0a82dd5f8b3209c6781f34ea0a047638ad741ede80708e2fb68676017a58606",
+   "businesses_named": [
+    "Glo Tanning",
+    "The Tanning Zone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_anthropic.json",
+   "sha256": "2ca1a889d9538ec86a82e2fca2218f44f613e97b35d1febfd278bf5b8fd1056e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_gemini.json",
+   "sha256": "2101e74c3bec1daa200345aaa459809da7ebe24027ddd91b0b687bf6d1af624d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_tanning_salons_tyler",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_tanning_salons_tyler.json",
+   "sha256": "e5e071a42093881902171c2a7cf979677119fb698e25565fdc94a348ac8f6a80",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_openai.json",
+   "sha256": "102a026afc1a22be24dfa6d7af1e37fc3abed09f3acf03c34c12bfce3335ef08",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_tyler_perplexity.json",
+   "sha256": "9d98b662baf46411168802807e976db1d03a5d70416293994ceb8fec6282fbb1",
+   "businesses_named": [
+    "Palm Beach Tan on South Broadway",
+    "The Tanning Zone"
+   ]
+  }
+ ]
+}

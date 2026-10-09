@@ -1,0 +1,2446 @@
+{
+ "slug": "pleasanton-tanning-salons",
+ "url": "https://namebeam.ai/pleasanton-tanning-salons",
+ "prompt_verbatim": "What is the best tanning salon in Pleasanton CA?",
+ "market": "Pleasanton CA",
+ "niche": "tanning salons",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "Bella Bronze Mobile Airbrush Tanning": {
+   "Bella Bronze Mobile Airbrush Tanning": 22
+  },
+  "California Sun Wellness Spa": {
+   "California Sun Wellness Spa": 5
+  },
+  "East Bay Tanning": {
+   "East Bay Tanning": 22
+  },
+  "Glow House Studio": {
+   "Glow House Studio": 13
+  },
+  "Glow Spray Tanning / Independent Airbrush Artists": {
+   "Glow Spray Tanning / Independent Airbrush Artists": 2
+  },
+  "Highlights": {
+   "Highlights": 4
+  },
+  "Location": {
+   "Location": 16
+  },
+  "Mystic Tan": {
+   "Mystic Tan": 3
+  },
+  "Organic Bronze Bar": {
+   "Organic Bronze Bar": 5
+  },
+  "PF Black Card": {
+   "PF Black Card": 4
+  },
+  "PT Salon Pleasanton": {
+   "PT Salon Pleasanton": 2
+  },
+  "Planet Fitness": {
+   "Planet Fitness": 2
+  },
+  "Planet Fitness (Pleasanton": {
+   "Planet Fitness (Pleasanton": 5
+  },
+  "Planet Fitness (Pleasanton - Johnson Dr": {
+   "Planet Fitness (Pleasanton - Johnson Dr": 3
+  },
+  "Planet Fitness Black Card": {
+   "Planet Fitness Black Card": 2
+  },
+  "Secretly Sunless": {
+   "Secretly Sunless": 8
+  },
+  "Sola Salon Studios": {
+   "Sola Salon Studios": 2
+  },
+  "Spray Soleil Airbrush Tanning": {
+   "Spray Soleil Airbrush Tanning": 2
+  },
+  "Sun 101 Tanning": {
+   "Sun 101 Tanning": 2
+  },
+  "Sun Bronze Tanning": {
+   "Sun Bronze Tanning": 2
+  },
+  "Sun Suite Tanning": {
+   "Sun Suite Tanning": 3
+  },
+  "Sun Tropic Tanning": {
+   "Sun Tropic Tanning": 2
+  },
+  "Tan Republic": {
+   "Tan Republic": 5
+  },
+  "Tan Republic (Dublin / Livermore": {
+   "Tan Republic (Dublin / Livermore": 2
+  },
+  "The Golden Girl": {
+   "The Golden Girl": 29
+  },
+  "The Spa at Clubsport Pleasanton": {
+   "The Spa at Clubsport Pleasanton": 5
+  },
+  "UV bed tanning": {
+   "UV bed tanning": 4
+  },
+  "UV tanning beds": {
+   "UV tanning beds": 3
+  },
+  "Utopia Tanning & Spa": {
+   "Utopia Tanning & Spa": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "776961c481d1a2bedc862798538cc0c4e311acc72e69fd6998c1d1a29c3616aa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "c42a6e0a43a02530e9c66dd9fe998b680acee6263c2eac1c84a404d2c9cab1ca",
+   "businesses_named": [
+    "Location",
+    "Planet Fitness (Pleasanton",
+    "Planet Fitness Black Card",
+    "Sola Salon Studios"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_tanning_salons_pleasanton",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_tanning_salons_pleasanton.json",
+   "sha256": "4fcdf530a956955ac9ea6fd2b35f5b1382454d3cb379b294f2186437c510ae06",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "2e2daf0a624e82670a5408dd4e680c35b83c74e1615f8a073d1988c20da1f64d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "5dff143093d227ecc4c933412015fd851d9a9b5d375da1cab80283053a9a9f29",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "Secretly Sunless",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "b729d4115634e40868f5553e000df1b5fe62de093437461f86d56288fa71ee9d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "01d67c7e307b76a444631cea4aaa33585a736e2a6c7399ac19fc85e0c1b72e4e",
+   "businesses_named": [
+    "Location",
+    "PF Black Card",
+    "Planet Fitness (Pleasanton - Johnson Dr"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_tanning_salons_pleasanton",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-27_segment_tanning_salons_pleasanton.json",
+   "sha256": "c8fb93ee44bb8355af6ebbd444bbb7510faa5e22ea60c6c1371fb19b308d09f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "ad370d4aaeb48d71e1147a81df06f15c778237ea32fd402e80b24a08ebc0e09e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "86628be4b50b355c6abe8b05040069b61b5c2aa238790e9e625975ec1e075378",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "e4660c13afc1ca3b717a7dcd1b2053ccfc0ff11c6739b3cb878c41b26a49c2bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "2bdd5c74f15373de0a540aa8dfc4458a455a9b9f4b83891925b8a4028120921e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_tanning_salons_pleasanton",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-28_segment_tanning_salons_pleasanton.json",
+   "sha256": "5df2f4397cf41fe8fe1a3a40c967660889fa35d42e3976c1af3a51a8f906bd3a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "a5c5da8526317008f1d9bee2e5d24931308d3ad194c042e2f8508257dc21cd80",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "54ebd15916d6f1920c06fe564177599ff1f590e237e59fbde78f4ad30953e9d3",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "e315db1347e9f067342b17890c7bb98ee1dbfdeb183626e2c1be2bd2f5415d33",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "0bb3e45c2655f50af832238a3f0c9f713b0c645d5a9fd2070a5249929245f36a",
+   "businesses_named": [
+    "Location",
+    "PF Black Card",
+    "Planet Fitness (Pleasanton",
+    "Sun Suite Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_tanning_salons_pleasanton",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-29_segment_tanning_salons_pleasanton.json",
+   "sha256": "1fdc098c515be9bd5b02d8f8204450d0b1d198063c6b936b90cbafc871112517",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "eb1c30602045d0f0678d7e8f2f4893b2a65b51798b89a341fd3f58150be2c203",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "3f96e424e445a0c5861906a02b28e28a5a451cdced337f902ed6469714691c73",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "California Sun Wellness Spa",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "aa09e616ef83d46232c1658f6dc0e1cd934ccd19c911254232439ef03062327c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "aa85c35e6c7b170cadff3a349b7d242c12ceac330442f0f146097c4779e6aaa5",
+   "businesses_named": [
+    "Location",
+    "Organic Bronze Bar",
+    "Sun 101 Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_tanning_salons_pleasanton",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-30_segment_tanning_salons_pleasanton.json",
+   "sha256": "3ee091e7230ca07e0d07d777474db841c371d7135d377e383d234a2dd84438c4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "cbc480e23d5c246b6d7b6c5b3130e4f72e533186e7c8818072cc9cd5065c93bd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "ba725c1f695edc7cbe43e5e0b6ee4bd2e8f22577aaac6a9353f3c9c40823067e",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "California Sun Wellness Spa",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "7cde4660c8b5c41df7609fa7372047b294bcebcbfcece45212448687f4cf21a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "6c935ec300961301a232bee33c0c1672d2d4c9d849b880bf47e9a2fa7ea8e663",
+   "businesses_named": [
+    "Location",
+    "Sun Suite Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_tanning_salons_pleasanton",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-31_segment_tanning_salons_pleasanton.json",
+   "sha256": "1c1892774c3f7e06b191066cd0f9870c5c3ab940bba452b260023ba820d73e47",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "1f946b284c453cbeac6a19c205d0e2c54689645c76601e26a3e22a283927cf2b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "a6174d663e49d47abe8a61ea2df7c9f3582bf6c401dc00fdea2a4ee16075d5d2",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "e53115a6b6b48bef4b43d070640333786c2516277afbc882b2415f6fb931d5a2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "c90a63dc7b9e3a02198681b64bb594ca45798b785997a11c0034cfe39ec69b36",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_tanning_salons_pleasanton",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_tanning_salons_pleasanton.json",
+   "sha256": "9f5854e3af81bf4af3d40f453425420abcb2da28565bd516b3d708a950d376cf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "68bca3b63f4c624ab4c9a8a4c8247280e35a3cf00962775b0cd647b3ea8ac9b0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "d73318b2398c61820ae3f30d3c53fd406ef453d1e406f7c30b9397f403875454",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "Glow House Studio"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "a88ca6b7daba71e564097afc5fd87a422b57c7ee6885052a18800c86c484b02e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "2b27f198bb97e22fd6d60ed1d3db87ca574e82b493f8c4b7b7964cb2b8aee50d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_tanning_salons_pleasanton",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-02_segment_tanning_salons_pleasanton.json",
+   "sha256": "9f1a3bf80a0b292c1b6017dba248869288d8f58af5cd3030c50420df54a964c7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "d7dd4a640cb99097a511a7e12e01bb3cf66aebaf2b2a65f36e3f069ab6e80a32",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "4371a6092a76108bf1ab88ae3f9e2436aebe134116490eb20e629c661efaf522",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "9f32dce364c306cc450a126de60ed921aafe9b02dfe343a3aa6a3a965e48c61a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "6d0500179ddfef23cbc4a85bf662881f8f618ee23543706d70d6ea20d80bb93f",
+   "businesses_named": [
+    "Location",
+    "Sun Tropic Tanning",
+    "Tan Republic",
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_tanning_salons_pleasanton",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-03_segment_tanning_salons_pleasanton.json",
+   "sha256": "caa1b9dae9589ff48f39496604c97f262934a7ce8b966689dbe77e125ef1d9c9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "95acb4d7114780699d3a0520324eae7a1a4599d9404f4969a9d04436fb8ebcca",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "d28fdbbd3425a4c4bcb094d87e2d0a3213ac11610752b4de7a8b2a8968e61ddb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "9dbb5b59936347d7417e92da16e3087a3b011f42e21455d09769626478e11a1f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "b51d4b7e2fcdc5a5ac99f545947c0fd9a18013df7fefe76941bdd184c2c165fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_tanning_salons_pleasanton",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-04_segment_tanning_salons_pleasanton.json",
+   "sha256": "4fea1338cb976394f1952ae98e91ede4a8e76517fed78769810ca610903de293",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "cf94de32dedcd749a7c4a42bcba0de28cfa9df595cc1815e9dd3c482e0767caf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "f807f547231d3f8eddc9b81607a213808004a5e4eed76188e5a8d82ffb888a18",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "1afc7be92b2a7de151a34bca142db43bbb244aa81f4a71dcefc01f6c6b77df26",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "33bc2c4429426d1efd84b1898adea92eb2c10afab2859116d7c28412a3e717fc",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_tanning_salons_pleasanton",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-05_segment_tanning_salons_pleasanton.json",
+   "sha256": "e825fe558ee4303448ed5680a7654d499be38d442c2a5bec3c9d3db699141b17",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "30370db20e55580894d7eda83b98badc1c475b7f62d7943428de1e7e79126625",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "b49cd75c787c6cb99110c507a7eac86f92c6a8379b33dceb977b4e7e8678dace",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "California Sun Wellness Spa",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "f3bf183a240c886d260c8210f5082df9d6853572d18350b98ff400f8eda24ab8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "d124ff4f1e4ae4ee438d157494998d10662a87b21437d048d6a52daaab07e897",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_tanning_salons_pleasanton",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-06_segment_tanning_salons_pleasanton.json",
+   "sha256": "c72a0d75e628a94820fe9f8f9b2e51d4b51a69df6c2633482e740fb67623564d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "1673741b889cd853c6799bc73514819ebc3555d34e220bfd55a33be8801c28f9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "f3dfaa6d127237e261f32fd0381ee3a39542570b68e99a47c6ea244cf866e554",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "California Sun Wellness Spa",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "af49d0df5cfe4c5d08ba18596458a7afcb59003897c329e0c8e9e46767d468c5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "4ccfdcbe20e806946ad213093a7c6a127cb82b77d54bdac33bcc9502335c017b",
+   "businesses_named": [
+    "Location",
+    "Planet Fitness (Pleasanton - Johnson Dr",
+    "Tan Republic",
+    "Tan Republic (Dublin / Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_tanning_salons_pleasanton",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-07_segment_tanning_salons_pleasanton.json",
+   "sha256": "fbb973b6e5c3a677fea0763e96baeba968fc965b3b33816d6b549c9e682f5238",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "bbec7872b9d3c5221912a75bea165763cf178f42089933a842fd414fa4ea0d6a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "d3b3479f34e6f519a172149b64efc379ee401a6b14128cbb2e1174298930201d",
+   "businesses_named": [
+    "California Sun Wellness Spa",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "b47a38bdbb1600fd8cbebe5c063dd3a149f6287abb68dc2e5d3b4afc87f15c4f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "660504046040df687282801ca69f34f218e967063027a408c36e6da1c95d3a60",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_tanning_salons_pleasanton",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-08_segment_tanning_salons_pleasanton.json",
+   "sha256": "aeba05bec120819ed7ef056e7502b52cf8802271ae88800507154bb98a33b037",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "f2e34ab89c3c534c7d30184a46cb4f2de434c6041ae6a1bfb8f88fe5cfa90844",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "f0f2e881ac5edf172f5636689f2de8259cc2032e236063c492ab3c0a7455eed7",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "2b273cf9a0159399bfda9bc2c3fdb0d291f2ba576324b6cc8df02185a82f2377",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "f47ee93769c5734b1ca32af7fff0e4bffca4fcc66f5c8680d957d81c6da5669c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_tanning_salons_pleasanton",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-09_segment_tanning_salons_pleasanton.json",
+   "sha256": "a2e7ad97d97a3db51606b73b30f5189ab3bc8b5f565df54eac5b0408717aab68",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "038a6292309b2da14d0ceefd21fce5562445c89370f4577372c77fcdcb013f94",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "e7a18a4301d6a6142fad9446b80389f9bf279636027066c2866e64e9928f0ffa",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "The Golden Girl",
+    "Utopia Tanning & Spa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "4047571041d87d23ecaf0251aefe46dfdcbbcbef4a2723bdb148f715e685a40c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "25fd50751ea7aae827288a9cf5a7c4223b41bff4e119f1b31f1e0beaeb208d88",
+   "businesses_named": [
+    "Location",
+    "Mystic Tan",
+    "Organic Bronze Bar",
+    "Tan Republic",
+    "UV tanning beds"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_tanning_salons_pleasanton",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-10_segment_tanning_salons_pleasanton.json",
+   "sha256": "c20fa48a89a2dbd254ba3815d1c48627883fd22f61b354757ae970210743b139",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "88313f2dd39e9b4a2ebc0ffe1a98451af0c4844cd615ea70b78e3f6178ae99f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "dd45639cc18fc32e4b8d0dc9dae27e832c1bb105784b587a91fb586f65b8ebca",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "5d86250f27d134f335739c574d1ac62b0df5fe8bab5603d5cea3114a3e366136",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "05fe92a8abf058154628f951dedd3e26f909bdf60d6e9399b3d0caf0e62c7b09",
+   "businesses_named": [
+    "Glow Spray Tanning / Independent Airbrush Artists",
+    "Highlights",
+    "PF Black Card",
+    "Planet Fitness (Pleasanton",
+    "Sun 101 Tanning",
+    "Tan Republic (Dublin / Livermore",
+    "UV tanning beds"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_tanning_salons_pleasanton",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-11_segment_tanning_salons_pleasanton.json",
+   "sha256": "b23bc90d69aaa22cc98fea0ead4bf4673429b2953f83cf310e37799cdcc5bdf0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "8dd415adf3984d39add87ea07c8cba0e10cec9133bdc6ad6c9deef4190ba0bb2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "84127228d7410e48a0eff66b5d321a9319c4ca4135c36b9f732d83fa233015ec",
+   "businesses_named": [
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "1bc128caeff137527da11bddc6ca5dd88c9eb02821d0f3f8d3f9a2f3c5d57989",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "64d3c01d3f90ad073da13f71809de38a0cd2587b9738f0dfeddde1bf18f43a21",
+   "businesses_named": [
+    "Location",
+    "Sun Bronze Tanning",
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_tanning_salons_pleasanton",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-12_segment_tanning_salons_pleasanton.json",
+   "sha256": "890badd03a170c2d0b63caf9ec1949ee1b30af45880b8f1bc722c47810ec9b8b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "0ea0d716b9e8ef5b0414ef209279361ca216f7981479863d578090010ef8beb6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "f2523eebb94f25fd60d1f20102824baf53a7412922ba4a057112f57194434de8",
+   "businesses_named": [
+    "East Bay Tanning",
+    "Glow House Studio",
+    "Secretly Sunless"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "08e525ebb9eadd884cb4989e2a16a401a815839174181cb41ca08ae4cae7d995",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "b405cfa561b5b30dfeeee1d6bf0541ce5cf166603fef850e117190e26395e1d6",
+   "businesses_named": [
+    "Location",
+    "Organic Bronze Bar",
+    "Sun Tropic Tanning",
+    "Tan Republic"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_tanning_salons_pleasanton",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_tanning_salons_pleasanton.json",
+   "sha256": "1b688bcd82c674c7c942b252c6542a7d19494610360fda9df9a81749e562354d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "e695f3260b20ca775e1321efe23b903c3f655584410382ad20af491d790daab9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "db2cd1100080593e582e66422739d1c56fa3e41f8f106fdfbeb0b6282a315f45",
+   "businesses_named": [
+    "Secretly Sunless",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "1053f78a47ffc722d61047f767712825ca2ec8283fb956536822ed545b480d29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "c9843a6b344b5a647a0dcf329cfabc1ddeb74a1a9d343824dfde6956f2bf1bc6",
+   "businesses_named": [
+    "Glow Spray Tanning / Independent Airbrush Artists",
+    "Location",
+    "Mystic Tan",
+    "Sun Bronze Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_tanning_salons_pleasanton",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-14_segment_tanning_salons_pleasanton.json",
+   "sha256": "4ae63d1a126b266424313e2be9f47b41c17c09444ef99bd16da94d449d75ff0e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "b16d4a96e38baf7a82bd0f52f190a97ee3b4f9486fe2065c30ef6270b515b2e0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "8c26e4860797ed2edf0716bcafe55c7fb3bb225ed03fa133d2aabd7b53b53620",
+   "businesses_named": [
+    "East Bay Tanning",
+    "Secretly Sunless",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "202046e0ac63a8f46e5904843090b68ebeb28adae88e4373a344bbe486e141f9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "0331929e52e128f5977d43ca212cffbc77196921f102a8c44069645a26f9d30e",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "Planet Fitness (Pleasanton",
+    "Tan Republic",
+    "UV bed tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_tanning_salons_pleasanton",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-15_segment_tanning_salons_pleasanton.json",
+   "sha256": "4362513a08ccba0807f27801ac4ccd2f2870d2bf3f0e832d1c5efc29624372db",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "559b39674ccfc07b8cc22b32dcc5f0ca2cd6fbc0df770749caa87caa3b4b9c8d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "9ece353a9c4c2bba51de25dd2c12cd38d2effb2153676ba00873c776ba75860e",
+   "businesses_named": [
+    "East Bay Tanning",
+    "Secretly Sunless",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "5bf9c32a9e5574467800d61467ce80c854bde06bec19fde03a0180168c3e7b78",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "c887a0fa073eff3776d8dc4093fba2386d3c4709d630f8466d07c0c8fcb24430",
+   "businesses_named": [
+    "Planet Fitness (Pleasanton - Johnson Dr"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_tanning_salons_pleasanton",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_tanning_salons_pleasanton.json",
+   "sha256": "1d368f7ef758c75d895a9fb5f542dc1d450e5a6057950f3a909070c6d9318268",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "e7504724b1dc41a7a05bc64fadee7baa08edfeefcc0e2aa14e3a50fcfbd3fcb7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "f1e778a9d286ae2e5717ec0954871bee4cca20b2c820ffebf9927ff632dcff1f",
+   "businesses_named": [
+    "East Bay Tanning",
+    "Glow House Studio",
+    "Secretly Sunless",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "18a206febfd3bf0d12cf34fac8bf23225eab6223a39ef723c438fa5cbb03411f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "a2565b75f20f16437a58f8a92b9251929d9cccf9cd8200a1c56abf32cc8195c2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_tanning_salons_pleasanton",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-17_segment_tanning_salons_pleasanton.json",
+   "sha256": "33d8403eb8fae07bb78243071c035b992828663b2db824903ddd0530a1348488",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "4685f9ad9fbff9b706571985faefb1706f6d553ca60091c422a92fcd47c27cd8",
+   "businesses_named": [
+    "Planet Fitness"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "ae9c79d3d4abcc060e2ce18393e2fad2d6dbd34704017baf289c201a47da603c",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "8916fbb61c42ed9ac2b208d9703f25fe7393acb76734b047437bf5461520bbea",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "3a3b5307970844ce436e67728ab76589847745995f672d5d2a630a3bf510c005",
+   "businesses_named": [
+    "Location",
+    "Planet Fitness (Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_tanning_salons_pleasanton",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_tanning_salons_pleasanton.json",
+   "sha256": "1ecaf7caee2ad9109be94f1acb6b1471eba6407ee0a9e12d4828ba7761ddd875",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "2a20ec0f6dd660e9b722a1117115166f0ac487798ba3bb6a942f5df37a92f5c7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "fef7bc90294c40bde98767b37709d91e7021a3034fcec8a58a3b5643b7617f87",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "4befd76e9f84fb71bd4e259ab95ad0962d807c06b216c1ce81f144bae635cf72",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "66051cea1cdd340185d06c115399580e9e3c9702aef05f986e49dc21565b4b28",
+   "businesses_named": [
+    "Organic Bronze Bar",
+    "PF Black Card",
+    "Planet Fitness",
+    "Planet Fitness Black Card",
+    "Sun Suite Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_tanning_salons_pleasanton",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_tanning_salons_pleasanton.json",
+   "sha256": "70547f988fb6ce1ef09f5719da1857ef499115960a2e035f9354bdfedef36904",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "29f33c3960547ca84efb700be2a1799ac99c1d6ecc3ce61ef4f42dc3674c210a",
+   "businesses_named": [
+    "Mystic Tan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "a64d2e0878706650f85cae3841a7bc22d7d00c014553c6a11665d52064dc92a5",
+   "businesses_named": [
+    "Glow House Studio",
+    "Secretly Sunless",
+    "The Golden Girl",
+    "The Spa at Clubsport Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "83643cdedc59c01cf685408d172d2abde487201d65dd870c5971a217720633a2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "215688561aef9345c1fc2b3468d5f9b80e709ba1821d2736b33b889444d8ce29",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_tanning_salons_pleasanton",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_tanning_salons_pleasanton.json",
+   "sha256": "7aa5e698ca05ec99372c4889f8d60b00296d5f4f4f8b97392cadd2b6de8f9c3f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "a96e3ea3c7cdd7c4210fbcc2cdb475fdda303608246373ab5ab3d8f8a58a2a74",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "2acd7274f0a4be4d1eb491aaee1be593a849ee1463b7533732b2805d139acb33",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "The Golden Girl",
+    "The Spa at Clubsport Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "8d650bd748cafc3aeed46bf0dd7b65731532e0a01a7860f8ff65d0f3d1156433",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "1a90d5fca63ed5b7256c1c97883744020df4edf60c128a32bbf81046b17d7ecf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_tanning_salons_pleasanton",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-21_segment_tanning_salons_pleasanton.json",
+   "sha256": "5a24acb3c7a4e0ab644934e00f03561d04d260f21a5e9b17f8be0bde8c5f22cc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "0409e4060b56b800da74a5c5e0752c44f859fdbef40b1290c2e5594ab9e2bac0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "907ebf032b8922bf8f9371a2f8f2086d4ef3dc4c711a4a7c643c9ca3658bffe8",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "The Golden Girl",
+    "The Spa at Clubsport Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "3bf7764ee96e0de90d679a196f018d9e80ed6d9d41c0d3ed9fa0a39dc27e7ab5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "cad6479d2b8a3c2198942b8a39892c81f6013828d8a0f55cfb97c4770e40c23f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_tanning_salons_pleasanton",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_tanning_salons_pleasanton.json",
+   "sha256": "2f7c6df999deddbb389a046f02a0c14464db2963d203e60d961691f730db980f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "add9bc806e26d052461877e6b851c27c85b267c40b5e84c2834f0eef0a35ff39",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "e75b0e0747bc899cf5ef03139ac54843bf5ebf2e38e16df21d8c2ec6d1cef296",
+   "businesses_named": [
+    "PT Salon Pleasanton",
+    "The Golden Girl",
+    "The Spa at Clubsport Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "ac158d30e3b8ea82a4c9795393a7a4471f9ef8f3fd89e056cb31ef5b9ee73bbd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "3559bc8b6e9dd28d5fa877d8a0b0bdd3b62e4cd1df4a7ccc38e9e24905fae3d3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_tanning_salons_pleasanton",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_tanning_salons_pleasanton.json",
+   "sha256": "59d802f80c44c4428420d34a0ca622e8bb885fb3fe3e2dd1593f93fd982ced18",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "77124f6117c289d61ee96ca6a005c4e60a80936a606c8a5bb7d1867b65646086",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "ec6f27112a2df43822fc5394c8c2b37c06be0d88406f13e7a552c673b595ba95",
+   "businesses_named": [
+    "Glow House Studio",
+    "Secretly Sunless",
+    "The Golden Girl",
+    "The Spa at Clubsport Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "0c3f12808ddc6ca0b0e930432524d94325f1602b5cefc8a560da598114ae05f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "73af13c9f5132c3d065cb2399e108376c063a74ec1110bc2f2a806b66949f5d8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_tanning_salons_pleasanton",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_tanning_salons_pleasanton.json",
+   "sha256": "74e27714f095563a99d6d0ead42a20d849331c4ae610e8af4be712f6697a8336",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "733f96c4e3be82c62348867c24cf58e660a8de41f55bd3aa7e09e0cdc491df02",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "41284592b6743e2da367aa68c7c65bbe2c1c4d37e5ead878ca91b8bfd4ee35f8",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "PT Salon Pleasanton",
+    "The Golden Girl",
+    "Utopia Tanning & Spa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "cbc663d19940d5cee41eeb0488795a579df037b4539919006b4c3139dad69f7d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "4e44f64c47f847d9d51c1937a16492594f772c2f711fbfacf00263f86adf7333",
+   "businesses_named": [
+    "Location"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_tanning_salons_pleasanton",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_tanning_salons_pleasanton.json",
+   "sha256": "dcb1d032d824cd8416f67807716d86882c6cbb754f01695abe137c46fc0a7dd2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "e983343573316d7c45371a36f4a29573307751026cc830a44c1033afd445e1f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "a325794e65bef2d1794543cbb82feab560529e3a6c0eeb44834f57b984363f7f",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "ceb01a2ef265c2e112acd0f3f4b95a49d815b3c81832dd583564153f4b0cb1f8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "5914177776b182e301b5684e175948960d495aaebc67209dc78ec67ef8a04bb3",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "Organic Bronze Bar",
+    "Sola Salon Studios",
+    "UV tanning beds"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_tanning_salons_pleasanton",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_tanning_salons_pleasanton.json",
+   "sha256": "f4de334e3d5b72408abe61ecbb97f9a5d20dac54221fb040dac577a25e8cb083",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "4f9d1709120897e6eba53469bcf790ae6af68cf7174b45535b531671f7c66ce3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "287896bc17b4725f1072ee24af7494c2622800f93c61e1a31fcb716d59fc36ab",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "b2e93d66f09b15368fa461f73348b6ba9a9779ac9b7bf4042150d8c260bda88b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "d80c532f0c707b0b7301424e79e2267f510dba69904a30347e13285d7b3c6791",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_tanning_salons_pleasanton",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_tanning_salons_pleasanton.json",
+   "sha256": "74ca77e95541a8c1e2bf1f9a33f3d671c532b19652efb17e4d1ec5aa043dca46",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "aa22f02253ff47712143626cc7ad84156cc3a9a84a707b240552bee8fe80adcf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "28e9da2594b9502ad26cc8f4902f72308fb8664ff2548e82745f4bd9d3600b57",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "East Bay Tanning",
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "b76f6f33afac2bbc52a918573ed3e622a514d0ed6133a8ff59e416ea7b9233d0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "b89b15ae13d1c6d0b2199184b92f4e6be049519dbd4af9eb69d22aa58e3717db",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_tanning_salons_pleasanton",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_tanning_salons_pleasanton.json",
+   "sha256": "da5154de2192f4d1965bd3f2140514844ba2cc4ecac93d538f270327bf9ebf53",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "099a0fc8af7a1ec4578a28c9667c2e98d6e6da91836ad45bdda395d623270108",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "8ec521b5ad93ceaac5a082b83c8a53184c5f16de9f749599d9a8848c1ba6addd",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "Spray Soleil Airbrush Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "21ed8fba809a7d14f125c12fc58e99689020ddeeb0d7da296776160e312bf66e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "0489329938d8f44b2d3562b6c4ea98fe2bccc6522e63ee1d16541dfb608f9eb8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_tanning_salons_pleasanton",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_tanning_salons_pleasanton.json",
+   "sha256": "58000bb7fade4e3646be00f2bb120a5dad27f5da9089f3edad152eb264a6a43b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "1e8b60462f15560a4a82eff96c6c7bab54707e64bd9dc38e3cfb0f7faa233dac",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "89c1638d3b84cf57d5a7530118def5ccf59b2eeb35b89f109ec4fa6759fe0d36",
+   "businesses_named": [
+    "East Bay Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "e7c21be207d96447083209a1a07b9355df5f32ef72986c4fcccfbc918c4b6eed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "cb30114ef425c01ca06e48d8ef0ce7b15a6a74bed6d32f195133f5ee6a54339f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_tanning_salons_pleasanton",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_tanning_salons_pleasanton.json",
+   "sha256": "883418ce5876d5a98d76ada4a9eecde763b23af98604227d293141252d677089",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "d20d2edd67fd2ff2d461d01d6ae8b6e60bbd7bc9d9c861d1efe959b2d0d37659",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "18654d3653057355cc1930afe5e1d503f91fa6e27f0e3eca19c032c88cf4d79a",
+   "businesses_named": [
+    "East Bay Tanning",
+    "Spray Soleil Airbrush Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "2ffafc6ecc51972a36dcc1bc991ba1786041727c7190ef9a17b44dc3a2bbba91",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "b38d075ca51d5630be8b8c83e81e752147281096663524e14d7d015451cf3f5a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_tanning_salons_pleasanton",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_tanning_salons_pleasanton.json",
+   "sha256": "17fee54375f46658dc14bc2134648b454275197cd9a769c65789379b56ba8a6c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "d9e5b7e1e05de8674af327472d259378ad1ebff7623f492d95d4387a45d4a6a5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "65dc8637e4edee2951f6f0c98d2db13b88ecdf3eddadc8cc2017b68545a8a251",
+   "businesses_named": [
+    "Glow House Studio",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "a7f19a1a269c45b16d348b33c44114b706b84149625a48f965220e1b7410f2a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "175984133ecce5579133084c0bad0f37a924d46c63907afd7030ffa01b24033e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_tanning_salons_pleasanton",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_tanning_salons_pleasanton.json",
+   "sha256": "9cd0be7c7daa10f7bb959ea404b90ff6a20164830ac25229d89837c2720156f2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "8cc8a2c5263bd6329ee7f48bf0cfb295e7b8ab7e22a947c4d0ae1328f2de7a71",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "66b6ed6d5631af09aa0213d869115ffaeecceb8949e197b5ac57e734603f3d0a",
+   "businesses_named": [
+    "Bella Bronze Mobile Airbrush Tanning",
+    "The Golden Girl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "decd840f08881670045b42fa16e569849866ddc43168c41ba21d512e056adf3b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "908301de9d4c55dc6df31ab0be23171e2f9c8f9826db7f048ebca5a6de6efa90",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_tanning_salons_pleasanton",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_tanning_salons_pleasanton.json",
+   "sha256": "7104ebcb2daa070c923b616b10e5aec42a16ec6bb0fb4beb69b2646bca3b0255",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "59ca9065b6ff41899b711f96ea0b1faba89c9c3c08a394b51ace5a5f016090e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "9fe2765a0873cbee12e011df8156b3f7e25e3c4b4de46a18c2ec110cc69b510b",
+   "businesses_named": [
+    "East Bay Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "3433e3d9282bd9a89abbe04856551c1c3bc70f12e261b28de54bd79f3dcee7ff",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "818f03330ed049fb619be36eecfe5edca578b6fdb3c9c645d4b366c349f66e22",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_tanning_salons_pleasanton",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_tanning_salons_pleasanton.json",
+   "sha256": "d350654807f6d11499f45f7ef7bf1d5064ee14bf4ad221d74de8c2d77742c495",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "d2e123cc93c911237512bd3ac942c46d234d611d99af8628f80c6d1a732ce187",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "cfa5410d2018ec6d799447290c7871f3ff0bd2c351c7e258ba1db331667eb89f",
+   "businesses_named": [
+    "East Bay Tanning"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "a28d7cad66c6ccdf33f39bba85ee195129a71da017361a4e6e60a914d3cc8fb4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "621e98e074758655ae553275f33b774371b00b0e4fae1650ac102d52459f2d2d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_tanning_salons_pleasanton",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_tanning_salons_pleasanton.json",
+   "sha256": "367ff5a9c50cabc0876ac87e440f1644532d77596e27d222632241de2bf9dcdd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "d412257e91ed53e24b3b14e87c1ac42ca9552fde809d9e943bc4a3297f752781",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "7e6cd74056826832245015202f5afd81828821cfc1ba16d140b025be4fcea5c9",
+   "businesses_named": [
+    "Glow House Studio"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_anthropic.json",
+   "sha256": "98d0770feea1eb3fabc0c4e4d01b52d30735c1c4b00f948acaa7ca5fd7f39bd6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_gemini.json",
+   "sha256": "f7477762dcb30021c4fbe17be71b1cb07992eee6404cfba49a219d722612da61",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_tanning_salons_pleasanton",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_tanning_salons_pleasanton.json",
+   "sha256": "0ce0332d7a49274e20746e87db81371ce2ccd677423c90f1a9d4f28b96856952",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_openai.json",
+   "sha256": "0483ac815d7ea63536acaf5f8563c1f87fbed40eaf28837fd5fa75c73f009886",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tanning_salons_pleasanton_perplexity.json",
+   "sha256": "568c63b7ecef9978fe211f69ccfe5212e4fea004a062b927035981b48ef40e41",
+   "businesses_named": [
+    "Glow House Studio"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2591 @@
+{
+ "slug": "pleasanton-tire-shops",
+ "url": "https://namebeam.ai/pleasanton-tire-shops",
+ "prompt_verbatim": "Where should I buy tires in Pleasanton CA and who does the best installation?",
+ "market": "Pleasanton CA",
+ "niche": "tire shops",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "4-wheel alignment": {
+   "4-wheel alignment": 2
+  },
+  "5-year Road Hazard Warranty": {
+   "5-year Road Hazard Warranty": 6
+  },
+  "America's Tire": {
+   "America's Tire": 12
+  },
+  "America's Tire in Dublin": {
+   "America's Tire in Dublin": 1
+  },
+  "Big Brand Tire & Service": {
+   "Seever & Sons Tire": 5,
+   "Big Brand Tire & Service": 15,
+   "Big Brand Tire": 2
+  },
+  "Big O Tires": {
+   "Big O Tires": 39,
+   "Big O Tires on Washington St": 7,
+   "Big O Tires, Washington St": 1
+  },
+  "Discount Tire": {
+   "Discount Tire": 13,
+   "America's Tire": 4
+  },
+  "Dublin Tire Company": {
+   "Dublin Tire Company": 2
+  },
+  "Efficiency": {
+   "Efficiency": 2
+  },
+  "Firestone Complete Auto Care": {
+   "Firestone": 4,
+   "Firestone Complete Auto Care": 9
+  },
+  "Go to Costco": {
+   "Go to Costco": 2
+  },
+  "Installation": {
+   "Installation": 4
+  },
+  "Installation Quality": {
+   "Installation Quality": 6
+  },
+  "Location": {
+   "Location": 15
+  },
+  "Locations": {
+   "Locations": 2
+  },
+  "Michelin, Bridgestone, and BFGoodrich": {
+   "Michelin, Bridgestone, and BFGoodrich": 3
+  },
+  "Mobile Tire Installation": {
+   "Mobile Tire Installation": 6
+  },
+  "Pep Boys": {
+   "Pep Boys": 19
+  },
+  "Perks": {
+   "Perks": 8
+  },
+  "Pleasanton Auto Care": {
+   "Pleasanton Auto Care": 4
+  },
+  "Precision Auto Repair": {
+   "Precision Auto Repair": 3
+  },
+  "Road Force Balancing": {
+   "Road Force Balancing": 2
+  },
+  "Seever & Son's Tire": {
+   "Seever & Son's Tire": 19
+  },
+  "SimpleTire": {
+   "SimpleTire": 5
+  },
+  "Speed": {
+   "Speed": 5
+  },
+  "The Tire Choice": {
+   "The Tire Choice": 6,
+   "Tire Choice": 20,
+   "Tire Choice Auto Service": 7,
+   "Tire Choice Auto Service Center": 9,
+   "Tire Choice Auto Service Centers": 8,
+   "Tire Choice on Rosewood Rd": 4
+  },
+  "Tire Rack": {
+   "Tire Rack": 11
+  },
+  "Tire Rack + Local Preferred Installer": {
+   "Tire Rack + Local Preferred Installer": 2
+  },
+  "Tire Rack + Mobile Installation": {
+   "Tire Rack + Mobile Installation": 2
+  },
+  "TireBuyer": {
+   "TireBuyer": 3
+  },
+  "TireRack.com": {
+   "TireRack.com": 10
+  },
+  "Wheel Works": {
+   "Wheel Works": 7
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "08f95c67f9a11057e2a351ceae3d7e62b7ee7bdfb17c5a71afc62f895929ec3c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "758c05b31604113f236bb979a74d725a41c53c0352316ac8237eb4aed4327466",
+   "businesses_named": [
+    "America's Tire",
+    "Efficiency",
+    "Location",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_tire_shops_pleasanton",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_tire_shops_pleasanton.json",
+   "sha256": "978cea2ae5e02835afaca4e32037d91a07774fedfb507bb724e901324b94e4a1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "769cbddf392d1acfe07338338074b3af9965204710bc8c4562fd78456f6aab3a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "bdab757f7232ec81a4ec54bd03d485a303800358c212e0b1e26bfb12503b5d31",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "8b5ee3f544eb91cb0bf4a1877c9b57fe7b7f3e3e7c68ff21ff1fb8dfc305897f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "739e2faddf8a126a92738d05d3e2aad244e5d4594926c9cf98c71c46b8a7cfce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_tire_shops_pleasanton",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_tire_shops_pleasanton.json",
+   "sha256": "6a3f67f9c34b642dcd93cf18c21b1d67d79bef3209ab60f46e6b7dc0beef0d54",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "f5bfa8e36a28ef9383242e783f97d9301ceaf75669413ef2d383239494663ee1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "6748e253787e99e88939bc19df4672cfbf28b1547298fd640b6b19e030fc2bae",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "d9670180c4373ad098025cfa42dffcf106b911f92efb88f2a9e41822d240b599",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "c35fc5fa935ca2b9b46f704444b9264a5156d39ea3fbef1d2f63f6cf575a4782",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "Installation",
+    "Location",
+    "Mobile Tire Installation",
+    "Perks",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_tire_shops_pleasanton",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_tire_shops_pleasanton.json",
+   "sha256": "dec8423ae012256170e7b2e6efd9454eb219f1b36ba3c3725491e0f7e340cd13",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "2659476270928c0ffa83f2c1f6ef5f76b8206ea414a55c5ba272f8ff39d21d7c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "7dc7cb443c9aa7b927510ecfe1f92cacde796f3ddfa06d90fa0f0172b4284e93",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "88d291c9120ce210f97dcb4a18d885f66cbb83e0415bc5ad984ba19c71be102c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "0d2d04f1d24f75e2bbdd2580a1bec6cd9ac2121fc4d971e0f9a30b6fc0e1f26e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_tire_shops_pleasanton",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_tire_shops_pleasanton.json",
+   "sha256": "0be964acfb18d819890ea332a78454bc76a6eb6ba9b4e35cbe5fac57fb1726c7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "bc32ac3aa5808bc7a9c7295d472fdae1a531567be70295d5941a43c009815ef7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "17932ea49728b4e1c6fd9b7d65d7d530e9275fbe54062478e1c5a6f1dbdc4ef4",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "2e335a1d1393974d6abc392a3f368e8e0b84eeba7f7f2b28463e6da1802ed3f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "48e979134deb54e1f22acb49ba1f78620a0b50c8836010d43a171571f69463c2",
+   "businesses_named": [
+    "America's Tire",
+    "Dublin Tire Company",
+    "Location",
+    "Mobile Tire Installation",
+    "Perks",
+    "Pleasanton Auto Care",
+    "Tire Rack + Mobile Installation",
+    "TireRack.com",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_tire_shops_pleasanton",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_tire_shops_pleasanton.json",
+   "sha256": "54a1a86d013dba745f8c24f2570cdd222bec6f2ed59821c7a5a8f3139c62aeaa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "0eeda6ba0e1d03f50958625d6564e5994becb86a60837eb0f9597fc335673b16",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "e14b246a104ad6a3ebbfc66bcb53c33301409644a7a44682b74675564b496192",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "f2f3a4e1d1e741853c80d4c2d83c1a25b30d9a10b3c75b504673de424c90fa82",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "4d22f16c4e49eb61a167eb32195446a48c8baf690e1ce3fcbc1053a867740c25",
+   "businesses_named": [
+    "4-wheel alignment",
+    "America's Tire",
+    "Installation Quality",
+    "Location",
+    "Michelin, Bridgestone, and BFGoodrich",
+    "Road Force Balancing",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_tire_shops_pleasanton",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_tire_shops_pleasanton.json",
+   "sha256": "d0c978ee73b19d5886a0d19d84c6ffd27b03af16b92b6dddb6b79a8d60b4a489",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "dda3524ba0b6dc06813cf34dbd9ef7f3761570aa549b515b10d138e62e10abb0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "a667402c56e8a99b6ec00b65ac0665eaf75f0fe74cac7910a160286f1e8f2d7b",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "422fe9fa9f2d9f12e54c02f586bc5f6b5c47738ffcf68e3ac372fcd34ebaf94e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "9567d625ab3ce13c466d1dc1a072b33d39a77b145d6241f1232645da2480b886",
+   "businesses_named": [
+    "America's Tire",
+    "Installation Quality",
+    "Location",
+    "Mobile Tire Installation",
+    "Pleasanton Auto Care",
+    "Road Force Balancing",
+    "Speed",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_tire_shops_pleasanton",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_tire_shops_pleasanton.json",
+   "sha256": "0c4d4651871b587abd82a6448bb32303f30387e79d444eba1ff45cca906f41ab",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "ed38d407bed4a179cb8d4bfd5721a6057f58cea601d7796213534c1cc5faa555",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "162742c3bf7313da9292ae32080d5ef1925b1debf64a6f4db91a35aa2651a976",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "ca30391b6c13543acd97513ab362bf8da56350887821f8b41488b5bce709b34e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "85d5cbccae58e53eba99fa17bce3564bf2ce19ce228e1fd70aad4fb4eebd8a87",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_tire_shops_pleasanton",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_tire_shops_pleasanton.json",
+   "sha256": "317c24f9937686ff494d4756f66cbda68147d188c9e901233db8f1f921447018",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "a36cbf7749fa8c937baaf8ce28bdfa50f0a0d38bd5a2fe7963c965bf87416911",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "d09fd62b56b15de2bcc191f38058805aa9264eeee0d21ab8edb9cdade7d59aea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "dc14fcaa2df63c7c0a134f6f54d15ee513856cca660c3a70fb10853950d019ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "faea77a4801f3fee45afe7fec73e4f3fbcb64cc876e7035262cd26b5027bb215",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_tire_shops_pleasanton",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_tire_shops_pleasanton.json",
+   "sha256": "e0d8f2f46ef89c543fbfb67de2810f155465fdfea3035452f9d7af0905ce5e37",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "521815ac6ebf4ebcbd4fef1127a9886a1302f8abb1b91787b87714a094e8ab07",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "11d452b936c5efc771344c385ef7cc8bcfb84063310fc507d1f1226defa9bc01",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "390981e3662cdcfe6cab8ea623afdd675621d6f62304ed00c9f077fc948528be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "d645aeb1f4717f4a4bce57810663bfb4da57c3366f00dc1e5bc1d54799e3e0ef",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "America's Tire",
+    "Big O Tires",
+    "Installation Quality",
+    "Location",
+    "Locations",
+    "Mobile Tire Installation",
+    "Perks",
+    "Tire Rack + Mobile Installation",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_tire_shops_pleasanton",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_tire_shops_pleasanton.json",
+   "sha256": "c303d9510bf52e22c26d13985955a042428344ffdbdb79962d9a847ccd225caf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "483d707591196c32adb431b6a9d6312b42656dcb41bde689b3a2500bff77975f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "65f4d67fc84f5b1179ab813c0cff4880a8abeed12d30813de235b946a5e2e7fa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "b7f73b54a4cc46303a733a56628e8d78610f0abf64d7a29bf93e38b1bb54bc09",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "98186143c8579d2630f2310c7d052bb81b765540a65df8f3ec779fc9a35c586e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_tire_shops_pleasanton",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_tire_shops_pleasanton.json",
+   "sha256": "060496436d731208b9c270391bb8a16b9b64be8e36f6fb52d61e9a7b7f6b7cbe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "bcd94b926e6bf0b0aa14a852e1de85b724ef96202f46ece1c9f7d615712defa4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "a9690a071a8f216c9e1c9a34730c90a779a579d5e636f0208835848d26d31bb8",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "170198b4b38b2ba20949522b58d6a4e583dbfb75c78342c4e882c01e4532ca93",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "17606daf98a394a6c06ff389bad8f552db6915eb2159351344626d72ac4bfb9b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_tire_shops_pleasanton",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_tire_shops_pleasanton.json",
+   "sha256": "dc1799277e8663e9a6b2addb1b764625fb29cd5d05e2df4d889bd0fb9b6d816c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "5053357a55c6dcb59a29a7449567565c2f350128ba11061d6bb30609ba412e02",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "e2889def0939dca3fa575c004145a5ea6e0be863a5bc4217f7a02d4cdac84154",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "a6a4df20275e59572b87cb2e3be89e9d9d67e387e270093145b626a771d818dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "d6bcfb1e6182a34d6e91a091c1156fbbfbdae408f7de0db4b0704b24e750d14d",
+   "businesses_named": [
+    "America's Tire",
+    "Big O Tires",
+    "Installation",
+    "Installation Quality",
+    "Location"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_tire_shops_pleasanton",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_tire_shops_pleasanton.json",
+   "sha256": "a392eaa74bdebb12e7cfc11de1f344daf7228a23c6d5c655f11beed6690d1742",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "7688e7cb7459c1441acf1a2821a1913b8b19b4e7e1b8815d52ca7e6703a9bd8a",
+   "businesses_named": [
+    "Firestone Complete Auto Care",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "108d31672c52758145b99953a49b79aea1d4906fab3a72920b100eb7cdab0f48",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "50399b355c738d88be3062154fd2f9be3412ff6e79172e0bd517f05c31c82eb4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "b854fd94104edbdaa2b459247b3eb38c0746501aaadded2f9a8180756b02476f",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "Location",
+    "Locations",
+    "Perks"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_tire_shops_pleasanton",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_tire_shops_pleasanton.json",
+   "sha256": "8bc97ef0963d4b07d6286ff5bb35495062d56bf2dabd8f6b69e5100b637ce196",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "3f076f42a43c84d658c0f5d055bfbd188ffea85fbb70dca40041ead21b1eb3ac",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "a172b374a1ab07bf40ab397c3b8bb762daee4bcd1d64b2945ee2ffacadd0cc9f",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "fe23344b611f43d92fd07b444417769175b77a9222848bd2c1b3e15775fb1565",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "b2e1961ce35a856b1bad9a9c324849cfe780a19ca68e0ffd4df5d15ed06fa217",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_tire_shops_pleasanton",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_tire_shops_pleasanton.json",
+   "sha256": "caecb4ed845e3637376eda9b02613bed8eb4dfb34966fbf6a003c469a72712e6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "9c279bdf5951f161431f870c67b01f4e22a2ea8556a09f9ffab1682043160fa8",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys",
+    "SimpleTire",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "7d2e95ef295dbbec17b3058c269e13b375ffe344f895125af01232cc28b35b07",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "9666e542f83d930f060fce830c54cfe4f6e052d7ededa89557449e5d586eea10",
+   "businesses_named": [
+    "Discount Tire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "eee1f0c4825c46509449168e5ea6dcb1446fdf768a57e43c6914924fe5112e2c",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "America's Tire",
+    "Big O Tires",
+    "Go to Costco",
+    "Location",
+    "Mobile Tire Installation",
+    "Perks",
+    "Speed",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_tire_shops_pleasanton",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_tire_shops_pleasanton.json",
+   "sha256": "46884cd71218551c997491e9ba7e22bb8f8cbe63fdccdeaa39e11613083022de",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "c652e65cd5494ceb0a3690af6f606ad596bb2c3aaf1d31e5df1ee19aec0dd592",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "4c2784ea22afb85f6f7071ee26cb135b1e2e1c828ed0a5f519ddb3ceec42bb5d",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "e7b6cffdf074c121339241589e6af9cefeca27c54ccd8e36f12d37bba9ed7094",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "f2dce813e1163f0b4d2bc2221b62ecc7948015dfaa27f39a1f92a40ecaeae2d7",
+   "businesses_named": [
+    "America's Tire",
+    "Big O Tires",
+    "Location",
+    "Perks",
+    "Tire Rack + Local Preferred Installer",
+    "TireRack.com",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_tire_shops_pleasanton",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_tire_shops_pleasanton.json",
+   "sha256": "c1f40fcca5b13364a2ea900794b195b3d7b5117c72e48862d4d09485bd977431",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "1fd8aec0b38e789dd5eaab38dfd335ed6811feb4905a8151465e39db33734e87",
+   "businesses_named": [
+    "Discount Tire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "525b5eda2328259921155ec49a04816fdae8767549ee061c28704557413090d0",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "c35d8aadfff60e5f7bae7a398b0f064828ea9ac91aef659e82dbf1b8f08d9869",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "75aabfdee79051c5ceb543f88b64f8496c959a3a1a1240cb9dbed479bcdfb535",
+   "businesses_named": [
+    "Dublin Tire Company",
+    "Installation",
+    "Location",
+    "Michelin, Bridgestone, and BFGoodrich",
+    "Perks",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_tire_shops_pleasanton",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_tire_shops_pleasanton.json",
+   "sha256": "94e9b29030d436015e895783fad9124eaa805930a38bd8315c612096d0a46eba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "350847df779406b5d886c4fc4bc5993067a96a016d2929bdc3bce00cc20a8f89",
+   "businesses_named": [
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "09e4bd1a863d3748dcfb94968198c75406563098847a46edab33c2ac9497a9d7",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "47d14834419870436b94a8c1186e680bb3b73563a3cbab4e575b404ec6b277d5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "500d757542d7fb0a317152eede7f21cc698e3490e3616a47171fb48e63955e33",
+   "businesses_named": [
+    "America's Tire",
+    "Discount Tire",
+    "Efficiency",
+    "Location",
+    "Pleasanton Auto Care",
+    "Precision Auto Repair",
+    "TireRack.com",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_tire_shops_pleasanton",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_tire_shops_pleasanton.json",
+   "sha256": "6ce35babfebcd79826bed50fe7b746bd91ef7f14684beaecd1afc0cb5e7c0421",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "3bbe4f93ff0a76c039723e6b3eb2b35dc45e325063b646c7485e2aebe2c9bab8",
+   "businesses_named": [
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "e6bd59f08ce78c2db19faefccff18e6388e1977bcacbbb0861dc537512791f52",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "955e40ae9d3562d8d67f147f7afeff5685a5a24d7a8c2eb55c77418b99a79582",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "e567f648fe3d29ba5fff64e55b03642cabe03d4f661d8ac145d3434c283718f1",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "America's Tire",
+    "Perks",
+    "Precision Auto Repair",
+    "Speed",
+    "TireRack.com",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_tire_shops_pleasanton",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_tire_shops_pleasanton.json",
+   "sha256": "44bc423c09968cb00581678dafa5d1b281f1e97a15625c4d9cfaa0da4e27d72a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "7b234e7aecac2fd000eeb90ca2c6b04fe72de46f18adbc05d18e7f99418163df",
+   "businesses_named": [
+    "Firestone Complete Auto Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "6c772647dacbc7469f5781de41c853154476abb8141071e85e0790f1d3749ae1",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "2f7b5e2ad5e5ffcaf4ecc8ac3c14d4170517dd74de9633c270cad04adfdd375b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "f0cdcacec1c73584cd19e4b1e7ec9000529f0bf81e7404c13362b36e9abb3f7f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_tire_shops_pleasanton",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_tire_shops_pleasanton.json",
+   "sha256": "5afd5451f33728d9d80e29c1344491ec07b4936395c268ff3382bdd59ffc3ecb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "6e0b7c52862859526e62af639df56ec602732b7642f5b067d9cac79c6deb8d52",
+   "businesses_named": [
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "0294038bd270deebfedeabaa24f579aea295f34170aee5e20699f00aa76d1a5f",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "b12c4e4767f427fa34263134a296b4071fff4bdd23427baca726d218df5d1917",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "980da3847c12a1a061e9ca36f735119c1514f1eb3630e88d33474cab3d610817",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_tire_shops_pleasanton",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_tire_shops_pleasanton.json",
+   "sha256": "681c1a4b39d336e243d78410a2834586134807b337460d1f2695b64c2ce11a9e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "75574de7a685a81751e1ce928c006df1167bac641aa488b424b216997a9602fe",
+   "businesses_named": [
+    "Firestone Complete Auto Care",
+    "Pep Boys",
+    "SimpleTire",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "716847ed9596e51f6fa557efe1e53ec74415bbbc28fc9532b7a11d5c0abfe99f",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "c2b1520d4feaf24f922eb2c5b8de9f565727551a9acb93c6a949c2364371dbfa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "967844bcae0ecec7b15f0d0823f4abd53bba94d2a9e1b15b5c82f89f9bd75ad4",
+   "businesses_named": [
+    "America's Tire",
+    "Installation Quality",
+    "Location",
+    "Precision Auto Repair",
+    "Speed",
+    "TireRack.com"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_tire_shops_pleasanton",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_tire_shops_pleasanton.json",
+   "sha256": "1937ba742ca60a1498a53dccce75056345fd1a331fc4285fddb30aa207b87a9d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "8d34327a0d9ec9e554a008f948dac4f4434996b4812e59eb0a37f422f57a333a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "b042938862bd3283510884d9d710b3640730995b4a684d261fbfe929ede60e57",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "d806a50bb6a6ecd68fcfc431e63119e0fc0ed3ea14566c5d8ef70d3bae242aeb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "1bcf1968d2bc8c0864bbd64c37e5c3a462b24716b12386f846ca5e714cc0086a",
+   "businesses_named": [
+    "5-year Road Hazard Warranty",
+    "Big O Tires",
+    "Go to Costco",
+    "Installation",
+    "Location",
+    "Michelin, Bridgestone, and BFGoodrich",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_tire_shops_pleasanton",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_tire_shops_pleasanton.json",
+   "sha256": "08323cefaa37ab30a8a3210c5217d9b5a66f05c0a0ffc4ed7c19db9c89952f32",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "bf2965b7ab03dd0bee93e8395d7d413ff3dd41644639f58f6f66d3353f70ecf4",
+   "businesses_named": [
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "a1b1bdf706466adc7dc3b5ac00f61d8c823ee6f9a2ba230f12e2facc12bbd6d8",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "980bf191257974e762f0be1f481657dc1d070e6853c4e7f52bc8c650b416e800",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "70c02a02f88a78669d4f6ccd36e458ea8c548b97c37d784d2ec395f0c9f9ad8f",
+   "businesses_named": [
+    "4-wheel alignment",
+    "America's Tire",
+    "Installation Quality",
+    "Location",
+    "Mobile Tire Installation",
+    "Pleasanton Auto Care",
+    "Tire Rack + Local Preferred Installer",
+    "Wheel Works"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_tire_shops_pleasanton",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_tire_shops_pleasanton.json",
+   "sha256": "2bdfe93b200c6a4e6d150e8f4aa76ac9f64a1fba79dbb68b6be5d47b3315e8b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "9ef12dd30d89238424a85fee6ba454ce0af10aa01ef4720bd7e24c58a92e90f6",
+   "businesses_named": [
+    "Discount Tire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "77bb6040178cd90757fcbe7c25322db70164ad9b5621858b51db050863ff7099",
+   "businesses_named": [
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "55febed28c4e1b4f5bf265c4e9d6b229b08aab26fd71edc7cf34aecf52307f12",
+   "businesses_named": [
+    "Speed"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "c283d8e6035e2aaf8ef1602d2bd0a0ef39cec118b94240ec60217065917ae617",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_tire_shops_pleasanton",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_tire_shops_pleasanton.json",
+   "sha256": "9a6caead88699c7805a0a2428abcea9e142798e5d85baccc6465ab602a175739",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "acf30fa514aedd519be7767c57e4461dfcf813d2b1c553e3d8bd585ffbd8e7a3",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "1693fbf288d41bd75c589e86c9437f871f0b1afde5edf87577033ae8d48a8e86",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "8f093b624d9d76cda86cf0b9e3e38a8f1a3c5ed3e5d15f29cd81ef51eb82789b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "52473c2da3bd9982e74e35b1f2a0bc478cf6f6de0f03944713b5e48b9ab3a02c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_tire_shops_pleasanton",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_tire_shops_pleasanton.json",
+   "sha256": "781f54e6c887b5cacc10c9dd66ac018bf13c94501359bb430380bd0f156e2de0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "27da8f1b0c86f67ccb16e8bbbf41b59e6192498b7bd49000ddd8e34197d3267f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "9c631a29a3bfa7e4c8a429a754657e87100b62267cc06624dc6edd52869f0140",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "55d412a9ddf36b785feb7a1ae59843a166b2560a215c15c2bef9a063253064ae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "e7813b9f70fbe41fbded240e1e69e9bf89fa351fd81fc0c6a25d3de62c6ac5e9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_tire_shops_pleasanton",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_tire_shops_pleasanton.json",
+   "sha256": "0bc8be0305704825e3600336b8a67d7e61c1f7c6604730ce4c54a60e8ccb974c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "ca5f06eb63ca0ae8332fc9ffdbceb70ec20460808b33f65028c785554ba4167d",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "8b0da13b5a6c13bcf36c89b11ae21078f9bc2e944793b14f6a6ad5066f911a8c",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "5d71c41317f52aae71873c8c58172172792efbdf1e4365c00d4655ee1aa35650",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "335e8a1bc0153abdb3ad1b58e2d2db19890832265c96c87d95adace77c8b1b19",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_tire_shops_pleasanton",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_tire_shops_pleasanton.json",
+   "sha256": "ccf5c09f8ed565aade24838e82c0ade0439023f397d4b888c8bd6ab646534c00",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "d957c0303fad6a526506bdf8934252bf451bdd9de95d0ba5b33cc5824b83fd39",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys",
+    "Tire Rack",
+    "TireBuyer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "4b6dd5dd7418fce004e15b148773c225022e2244e1286fcd45b0c499337f574a",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "87f81459c4e994d5d8455b540d3c43b2006d429a26c7ea9b818cb547dfaae72e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "4946ae6567941bbbdacddd8e61d1999b45fb4fbb28c92026e0436737c785c09f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_tire_shops_pleasanton",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_tire_shops_pleasanton.json",
+   "sha256": "c04749cf328702976503740500e6981500fa5a55bf85a77a6517353ea581df46",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "c3f4396237fc6daef136034e7283329fd92209cb1598063090d5de7d72d82154",
+   "businesses_named": [
+    "Tire Rack",
+    "TireBuyer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "e87cbd40730ef698eeed05b42981732305ddbfb305bfe6583c57143d82f11df1",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "f5036ddca2b422887723a18dd882f9bbd613c0d0c7d3ed4a114daa3f11f4591f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "1deb0f8455f7d39800765fd737d0fa92ff869e6449cdd916c751f0e8f1be2f19",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_tire_shops_pleasanton",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_tire_shops_pleasanton.json",
+   "sha256": "67786d9a5adcb12c5e34963094d5c6098e14bdcd61b9a020c0fb28366e295c90",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "2c658c1a23002ef20207b7aa0b888eb70ddeee2218e772a4e61a82f6091203db",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "59efbf3bb77d5300d9d89b7d2d9679cd0ee4a6017239c53a26bc628619b3d6db",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "06eb9408f45204bbfebf7c68640c5ecac2a77f80233db8acd62a5b5da5c1c479",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "b06eb41543e8449e46f7a2a770138af7fd0915d67de425a06498960aed2b4987",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_tire_shops_pleasanton",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_tire_shops_pleasanton.json",
+   "sha256": "30a4d3bdaab03142cfa66afce024c6fc213d9571faa5b86e41a917a045c80e2a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "f0ec63a79be72c6826c73ec97fda20a7794251a9929ae25da10ee00591f24390",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "58ad19bff6e8e139da0c3405bd0f47ebe00de63824b671d109550b2fbe0fc211",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "Seever & Son's Tire",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "45a4c2654571152488863105b423e428fde2b6bcde9de56d0f5cb6667ef9b067",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "427eed82d9fd105bdd367926d3c37137c7dd6081c742caad68b08ced69238cae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_tire_shops_pleasanton",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-27_segment_tire_shops_pleasanton.json",
+   "sha256": "5bd2ea6bb63902909531f0ceeec58f163086a4da9659ff74840fd4ad87ba5f3e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "be2ac563a62e8ec9d70f56eafc61d12393025e726071c1bb93817a0868512bb0",
+   "businesses_named": [
+    "Firestone Complete Auto Care",
+    "SimpleTire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "b503d171d2f9b334c886549c5b6ef1f75c207778c9ac2d80b3ea71689c09a23b",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "d75c08abda49b95270e229f87428027be915f6b5cb875a96c64c0c87474e6e4c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "26ceb9bf50fe705faad71b77dec680497864bb5a73125c26bd3c0cab06b5cc91",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_tire_shops_pleasanton",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_tire_shops_pleasanton.json",
+   "sha256": "44c1023a279d828620168d6780489e18236a47935e52903e6be0b57ddc39f7ad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "bce226d70463eece17fd320d1f10d71435f7d46d3ecd95017525ddfaff523d51",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "bbe1e6c2a99d8daf6382eaf7cd685b35af195e4a0b2461704dd52950718ff845",
+   "businesses_named": [
+    "Big O Tires"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "f0225b5b7f9de21c21ff5fdbbcf42ab80d6554ba0d839e1b5b3e6213d2edb7af",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "fbe892959300e237e46535316f49b8595271276a1dcd3a71f53c729190def027",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_tire_shops_pleasanton",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_tire_shops_pleasanton.json",
+   "sha256": "885164c6ab46a79f8fe2ac878dd89d3d388cc705acd1172aa0974fd5298ebbc9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "dc1dda938adf31d40552f70a5126be8b01855042109bbb6aabff4f6b68ab077d",
+   "businesses_named": [
+    "Firestone Complete Auto Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "9e286bd03a77393eac4c287352e2829cfcfb5a309288c1c8c3570482639b62f5",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "6cf0b1dd2c8ae2e103c9923cee5ff33093de8fb1e3912d71cf237065616f5b9c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "14044ef7b76478f2cbb3d5a2fc99e3b2cbddd7e6131fec006ef1f4555ca1c3b7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_tire_shops_pleasanton",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_tire_shops_pleasanton.json",
+   "sha256": "eb24767dbcad6682d97cedab6752044a20105f02f99380b4178f55886843a56e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "ca3f4607244e894478c0341f41a24a35a5b02a300bd9378f3229faf6ad74804a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "04c9839c65c73dc1e5f2d392c8d19b9d1aa702c5750f54361122414caa6ece0a",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "125a435db7570c90561ef0721d1526b1aed8d9c1e29ed3b18874c1133bf6ef69",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "fa71abc7a126e37ca69d9ae3b71f8a5642e2c3ba2840894bb31be025b0049bcd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_tire_shops_pleasanton",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_tire_shops_pleasanton.json",
+   "sha256": "706acc568ff3928f502d997c9730a336ccf762f4159abce23a1d40fcb8e59280",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "c1fa70e8caa89a67c266a544da10f7d08fc2fd3bfdbb1b4c9950897d2396671d",
+   "businesses_named": [
+    "Discount Tire",
+    "Pep Boys",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "6540193f29a418e6d4014c3072baf5812cac1d8a28855c403f0b3dfe3975b124",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "166de721553009a9d9ac2a01fa035d7afb83c2ade5b67be0d892bcafa1a5599a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "e5ad72e94d66e9826b3b93c60b99e0137fdac9eecdf9cc6dcced9629b28bcfc1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_tire_shops_pleasanton",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_tire_shops_pleasanton.json",
+   "sha256": "707ecfd653c1b916cb096f1b5fef13d02018ff456061502ba16ad1fb1e7b31c9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "c179f0a1009f42dabf5dcabb266d4b8d17eda65890d5e040fb5c4d057234fa6c",
+   "businesses_named": [
+    "Discount Tire",
+    "Firestone Complete Auto Care",
+    "Pep Boys",
+    "Tire Rack"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "68a8bc5022d1ab913ca9712c9ba5b023b25adfb2cc7593c1f3ecbf02d0faff21",
+   "businesses_named": [
+    "America's Tire in Dublin",
+    "Big Brand Tire & Service"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "d82c11e92d9e15a884289669c40bbef8336b10b727d90faa73cbf638ab2dfc76",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "5f77e429388003306cebc58f75664bae8a0d7f5e902912a7764c602b2025b448",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_tire_shops_pleasanton",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_tire_shops_pleasanton.json",
+   "sha256": "ba3d3d83934ee90d1488098a95d1911afb7d6ae4e2a037574b55c0d8b146c5bc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "4bd2b2730ba8dbba20e04350f11be81929de40e725884244ab011741a5a58f1a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "6b02d5e3da3e9114250a75754be210d52e2b9b4f01c61a35a6a794c02a68f598",
+   "businesses_named": [
+    "Big O Tires"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "8796d8ea6d2778a7473f1efe7dbd2c56b6e3c09370d1567e87b7d024f90e5d8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "02e3658151468b16f711ebfc28dba98214384dd03ed754e552d692f5b0d4efad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_tire_shops_pleasanton",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_tire_shops_pleasanton.json",
+   "sha256": "bd93afa1c6b51e62e4add7c3af47683c9762e329d400d5ec76e34eaa0ac0b809",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "9c5536a0cf1b1d17d77dfdc7da7f94acbcc51ced4f0cf40af292a58b7749617e",
+   "businesses_named": [
+    "Firestone Complete Auto Care",
+    "Pep Boys",
+    "SimpleTire",
+    "Tire Rack",
+    "TireBuyer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "1191c39e6e532ff66f068ee91ba76fff638436df2f3b78dc815e6bf5a9b48a57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "7025f559ddf4c30c1d5031a918e58df2cabdb34f464043e0f629c8b25bb493fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "ead2a7373df5418f9769ec0a0a432d9d311622c4bb3998a82e91ace169629516",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_tire_shops_pleasanton",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_tire_shops_pleasanton.json",
+   "sha256": "471cb7c2b7337ec4e87809082e00a1d1515db2ae582704534de5f69eb8aee6f2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "2a51cd5d3ce9634bc7738f6a3fbc4e76891eaa909b803f359a11dd5dda5edb03",
+   "businesses_named": [
+    "SimpleTire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "15be80b7ad236c1d98bf3928944f471bc56d9c165114ffe61300e01f6169e292",
+   "businesses_named": [
+    "Big O Tires",
+    "The Tire Choice"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_anthropic.json",
+   "sha256": "15339755f5e98fc9809620318d4709cd6db2b7d5e91061faf1d5263bac4c567a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_gemini.json",
+   "sha256": "d1ba2713ae1325b6a1811fbb1116b64afe44f5425c5ecec4015245acafb4a1b7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_tire_shops_pleasanton",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_tire_shops_pleasanton.json",
+   "sha256": "31ea0b7e534477f0cd3a54265aa7059b39355c7022783c2e7a5d0120bdb46c68",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_openai.json",
+   "sha256": "bafd01647e7b6fa861a181ae6ebd9b7cccece1a7f3929bc1ebc9443781322658",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_tire_shops_pleasanton_perplexity.json",
+   "sha256": "3848e594f12a4afcef30f974468fea288f267a5b0115e4b31337741607bc3aec",
+   "businesses_named": [
+    "Big Brand Tire & Service",
+    "Big O Tires"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3746 @@
+{
+ "slug": "us-short-term-rental-booking-platforms",
+ "url": "https://namebeam.ai/us-short-term-rental-booking-platforms",
+ "prompt_verbatim": "I am planning a trip. Should I book on Airbnb, Vrbo, or Booking.com, and how do I find a good host?",
+ "market": "US nationwide",
+ "niche": "short-term rental",
+ "window": [
+  "2026-08-05",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "1. Airbnb": {
+   "1. Airbnb": 3
+  },
+  "10-15 reviews": {
+   "10-15 reviews": 3
+  },
+  "15-20 reviews": {
+   "15-20 reviews": 2
+  },
+  "2. Vrbo (Vacation Rentals by Owner": {
+   "2. Vrbo (Vacation Rentals by Owner": 3
+  },
+  "3 to 6 months": {
+   "3 to 6 months": 2
+  },
+  "3. Booking.com": {
+   "3. Booking.com": 3
+  },
+  "4.8 or higher": {
+   "4.8 or higher": 5
+  },
+  "4.85 or higher": {
+   "4.85 or higher": 2
+  },
+  "8.5 or higher": {
+   "8.5 or higher": 8
+  },
+  "8.5 out of 10": {
+   "8.5 out of 10": 2
+  },
+  "8.5/10 or higher": {
+   "8.5/10 or higher": 5
+  },
+  "Airbnb, Vrbo, and Booking.com": {
+   "Airbnb, Vrbo, and Booking.com": 8
+  },
+  "Airbnb/Vrbo": {
+   "Airbnb/Vrbo": 2
+  },
+  "Cancellation": {
+   "Cancellation": 4
+  },
+  "Choose Airbnb if": {
+   "Choose Airbnb if": 5
+  },
+  "Choose Booking.com if": {
+   "Choose Booking.com if": 5
+  },
+  "Choose Vrbo if": {
+   "Choose Vrbo if": 5
+  },
+  "Cross-Check the Property": {
+   "Cross-Check the Property": 2
+  },
+  "Entire homes only": {
+   "Entire homes only": 3
+  },
+  "Entire places only": {
+   "Entire places only": 2
+  },
+  "Fast response time": {
+   "Fast response time": 2
+  },
+  "Filter by Recency": {
+   "Filter by Recency": 2
+  },
+  "Filter for recent reviews": {
+   "Filter for recent reviews": 2
+  },
+  "Genius": {
+   "Genius": 6
+  },
+  "Genius Loyalty Program": {
+   "Genius Loyalty Program": 2
+  },
+  "Good sign": {
+   "Good sign": 2
+  },
+  "Guest Favorite": {
+   "Guest Favorite": 3
+  },
+  "Guest Favorites": {
+   "Guest Favorites": 3
+  },
+  "Inventory": {
+   "Inventory": 2
+  },
+  "Inventory Type": {
+   "Inventory Type": 2
+  },
+  "Large group (8+ people": {
+   "Large group (8+ people": 2
+  },
+  "Loyalty Program": {
+   "Loyalty Program": 5
+  },
+  "Most transparent": {
+   "Most transparent": 3
+  },
+  "Never Pay Outside the Platform": {
+   "Never Pay Outside the Platform": 3
+  },
+  "No photos of the bathroom or bedroom": {
+   "No photos of the bathroom or bedroom": 2
+  },
+  "One Key": {
+   "One Key": 3
+  },
+  "Only lists entire homes": {
+   "Only lists entire homes": 3
+  },
+  "Only rents entire homes": {
+   "Only rents entire homes": 2
+  },
+  "Premier Host": {
+   "Premier Host": 19
+  },
+  "Premier Hosts": {
+   "Premier Hosts": 4
+  },
+  "Pricing & Fees": {
+   "Pricing & Fees": 2
+  },
+  "Pricing Transparency": {
+   "Pricing Transparency": 2
+  },
+  "Pro Tip": {
+   "Pro Tip": 2
+  },
+  "Property Types": {
+   "Property Types": 4
+  },
+  "Read the 3-star and 4-star reviews": {
+   "Read the 3-star and 4-star reviews": 5
+  },
+  "Red Flag": {
+   "Red Flag": 3
+  },
+  "Red flag": {
+   "Red flag": 3
+  },
+  "Response time": {
+   "Response time": 2
+  },
+  "Search for key words": {
+   "Search for key words": 2
+  },
+  "Search for keywords": {
+   "Search for keywords": 3
+  },
+  "Search for specific keywords": {
+   "Search for specific keywords": 2
+  },
+  "Sort by \"Most Recent": {
+   "Sort by \"Most Recent": 3
+  },
+  "Superhosts": {
+   "Superhosts": 3
+  },
+  "Tone": {
+   "Tone": 3
+  },
+  "Upfront pricing": {
+   "Upfront pricing": 3
+  },
+  "Vague Location": {
+   "Vague Location": 2
+  },
+  "Whole homes only": {
+   "Whole homes only": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_anthropic.json",
+   "sha256": "147d61b1322956918e4f86d0ea711e6512816e61a98e3b8271274d4c7ba8bc8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_anthropic_r2",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_anthropic_r2.json",
+   "sha256": "d36e95fe012a82316d324cf271e93348ba49e0b988b057bbe086968010a90902",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini.json",
+   "sha256": "cdad7a3a89c186e4801af6e53e3692d1ac35717d4f3c1cb717e11f73d80e9def",
+   "businesses_named": [
+    "15-20 reviews",
+    "8.5 or higher",
+    "Premier Host",
+    "Search for specific keywords"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r2",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r2.json",
+   "sha256": "01a9f290fb9a505370c4e21d77e9ec35ec470fa1acb798b25c06d9dfb1a83d3d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r3",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r3.json",
+   "sha256": "27efbefc7e2fa19faa71364e7daf1d51e357eeb93f9aa2cd91dd58294d8e9c18",
+   "businesses_named": [
+    "4.8 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Genius",
+    "Inventory",
+    "Loyalty Program",
+    "One Key",
+    "Premier Host",
+    "Pricing Transparency",
+    "Search for keywords",
+    "Sort by \"Most Recent"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r4",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r4.json",
+   "sha256": "6f9692458e2c691fc01b843a0e3de1545ea94b721dbe4dd5a4499b49e93ef529",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r5",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_gemini_r5.json",
+   "sha256": "b798c429f66edd8311ce5f8602a0c83a5698b79d617a2bb1811f430da26b8e72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery.json",
+   "sha256": "7426c655171f9789b618d4d7b78e561dd57f394db8324945ecf39012b98884e0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r2",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r2.json",
+   "sha256": "ab335bf3cc3c2dc1f37e1bf4fdb2092d58e85ffe613bf9b96e2d3b0756a0dbba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r3",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r3.json",
+   "sha256": "51d14adeef79e5c6ead2976320e2438ee3d4e4db25df38fc22f07f29e9abbfae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r4",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r4.json",
+   "sha256": "08206f96aa2395892ce7485532501dd57ea40f4b239fd5685ac458777e9e38dd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r5",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_str_guest_discovery_r5.json",
+   "sha256": "525bb8ce0cf0439f645401c5f38b6adece79c817f8e0ca6f1277151f7f864edf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_openai",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_openai.json",
+   "sha256": "66764472b0a561b0e1b59368e1f8dd3bf766102a2edb8966148d071b5678a0b4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_openai_r2",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_openai_r2.json",
+   "sha256": "cff67a5fe02b2ddf9f8d1acdc98b1aad38f3386c816ff8d8968b7f1eb4174556",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity.json",
+   "sha256": "2b5c00657010ffde38f80088b86717214c74952bfb9d2fe65eea8771bd5a6857",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r2",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r2.json",
+   "sha256": "f0ff764d9c2a30f57fb9d25c6a728d2de77311677955bdea8b28c34968d3a318",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r3",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r3.json",
+   "sha256": "5ece5537ca7115184470daf9424694ca789182ef191b6833a66f2331116f28d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r4",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r4.json",
+   "sha256": "a4f2ef4c76a6bb6133a6b5a240d50703616509253a37c7a2b1625d373695ec18",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r5",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_str_guest_discovery_perplexity_r5.json",
+   "sha256": "10cebcacfb52a73bfae3e1c8f2e3bd65887f82d31f90fa78d1daec78f28cc1a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_anthropic.json",
+   "sha256": "fbf66496aa0f017e3f9135380842644271fc8b7b44aeef7fcaeabbc8bb9dcf7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_gemini",
+   "date": "2026-08-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_gemini.json",
+   "sha256": "dacd4ee04e52ed3177f3aabebd7dedf89f37ff38431efd3bab48b85b7edae752",
+   "businesses_named": [
+    "Airbnb, Vrbo, and Booking.com",
+    "Cross-Check the Property",
+    "Genius",
+    "Guest Favorites",
+    "Never Pay Outside the Platform",
+    "Premier Host",
+    "Search for keywords",
+    "Upfront pricing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-06_segment_str_guest_discovery",
+   "date": "2026-08-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-06_segment_str_guest_discovery.json",
+   "sha256": "13fe4b2ae83197d655ec803e33df52078155ca522e3d8105083aae64494ecbf2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_openai",
+   "date": "2026-08-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_openai.json",
+   "sha256": "57133f8b81254c7db658c4ad0434827ffc7ce090e6a378fa17889e1c2f480d58",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_str_guest_discovery_perplexity.json",
+   "sha256": "4c30df85a8083b854257aca0d244d9d8d2376bb3d13e733972582422997b15d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_anthropic.json",
+   "sha256": "e929d294494f56611cc0229e646bab34f2478e2ce85c41f27e5e70ab3ce1c431",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_gemini",
+   "date": "2026-08-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_gemini.json",
+   "sha256": "318b33f15f8bba653d64ecee5503299d98ac7f1e9608f96b193ba6c61ddbb5e8",
+   "businesses_named": [
+    "8.5 or higher",
+    "Guest Favorite",
+    "Only lists entire homes",
+    "Premier Host",
+    "Response time",
+    "Tone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-07_segment_str_guest_discovery",
+   "date": "2026-08-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-07_segment_str_guest_discovery.json",
+   "sha256": "cfe2098d52819849a4add6e494819c5d3f905cf1833ff52bb56561b66ea868f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_openai",
+   "date": "2026-08-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_openai.json",
+   "sha256": "bdd7e8eb155e0f245949c3ff99ef6cc8d527932bbbf22c282a05bfbb1805779c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_str_guest_discovery_perplexity.json",
+   "sha256": "3dc833c88be840f3c49662ed2464fb5f2fb0a83f4ebbe8e5e9f5fd60cd1f05e4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_anthropic.json",
+   "sha256": "75a4b818ffe39950698c4bc0431d6277fbecc07152fec49cddc654188c1a35c1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_gemini",
+   "date": "2026-08-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_gemini.json",
+   "sha256": "b729f98a8c468500bba800c973f198e6682d7222ee5dc87825166c15280b9b79",
+   "businesses_named": [
+    "Only rents entire homes",
+    "Premier Hosts",
+    "Red flag",
+    "Superhosts"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-08_segment_str_guest_discovery",
+   "date": "2026-08-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-08_segment_str_guest_discovery.json",
+   "sha256": "2beca1af78a1af69a16adc2669f390feb5ee43052ed3706c718ef58d2b9659e2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_openai",
+   "date": "2026-08-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_openai.json",
+   "sha256": "584293451cf179acd77631a1870d9fe715e3055c862a5be7f5ee5d4a3de87b9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_str_guest_discovery_perplexity.json",
+   "sha256": "8587e5cd5a3eff28a4305ce9c308edee15cb54d1ba00328ad291c63fa52192b9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_anthropic.json",
+   "sha256": "19d8bad8d18a61c8df6768d99867502f7c564a4219a2964c457de454baf6b3a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_gemini.json",
+   "sha256": "0f7320190ae86623a7aa66f7c3fdf215c61e3d094743ed3fd054056308e513f3",
+   "businesses_named": [
+    "4.85 or higher",
+    "Genius",
+    "Inventory Type",
+    "Loyalty Program",
+    "Never Pay Outside the Platform",
+    "One Key",
+    "Premier Host",
+    "Pricing Transparency",
+    "Red Flag",
+    "Whole homes only"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_str_guest_discovery",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_str_guest_discovery.json",
+   "sha256": "85a5264f4b18f9486d13309ac64e13ee244aca529c2d6aa6ba5df50f1df1d8fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_openai.json",
+   "sha256": "17c392d8d8f35f8a585afbddd994b567dd9229fa09ac18f77850416036295d8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_str_guest_discovery_perplexity.json",
+   "sha256": "b945d10d4eb18ca303305e00874d4a9a9159f9887d5c948f165f8f520bc75699",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_anthropic.json",
+   "sha256": "25bd80834e8398305f007006650ba4ad5787bd33bef4ab93eb24248b776d0968",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_gemini.json",
+   "sha256": "d895771245d462ec86e00bbba49f744f03570d682358ee05ee38d42bf6de7610",
+   "businesses_named": [
+    "8.5 out of 10",
+    "Airbnb/Vrbo",
+    "Cancellation",
+    "Inventory Type",
+    "No photos of the bathroom or bedroom",
+    "Premier Host",
+    "Read the 3-star and 4-star reviews",
+    "Upfront pricing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_str_guest_discovery",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_str_guest_discovery.json",
+   "sha256": "4757b0e8581aab24c6bafee7647db03a3fbfa4ed9d493ef04fa57131ed3b8346",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_openai.json",
+   "sha256": "e150f20d239032d34ad3b16a668e82a1b16533458d5aaf2e233c0712552894d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_str_guest_discovery_perplexity.json",
+   "sha256": "f170c673c49429c3539ad996d36a783f1c0d04603c68900377d6228c8abad6c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_anthropic.json",
+   "sha256": "4eac827bd7acb873c61135f8b968af1e7695bb96ae079932729ef4c6bb865f3d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_gemini.json",
+   "sha256": "585b9e4ff037b376c613f71fd7355da896fe9d5c90fa9541c2f851eb5a35b799",
+   "businesses_named": [
+    "8.5 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Choose Airbnb if",
+    "Choose Booking.com if",
+    "Choose Vrbo if",
+    "Genius Loyalty Program",
+    "Premier Host",
+    "Search for specific keywords"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_str_guest_discovery",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_str_guest_discovery.json",
+   "sha256": "5479f6b719d47731b66b3fdc09e54d8e7b4c288cc8499f2bfdddedded5e38370",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_openai.json",
+   "sha256": "1cdbfd22ee6690567f991cbf6735ff76dea454fdc84d30cb0e6d4471c02df284",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_str_guest_discovery_perplexity.json",
+   "sha256": "985e843ee34fe6e48969780ffc783e7f8139363a2c2695851213bfdf46937656",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_anthropic.json",
+   "sha256": "a2fe23d358945f501de5a242b17c38e79a9957ff0ac208c286a88d31b956b199",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_gemini.json",
+   "sha256": "987afda6bce8da61210dd04eb953459c1f76998c4311df1d1c0bcfc6ed6e2ef4",
+   "businesses_named": [
+    "8.5 or higher",
+    "Choose Airbnb if",
+    "Choose Booking.com if",
+    "Choose Vrbo if",
+    "Filter for recent reviews",
+    "Premier Host",
+    "Search for key words",
+    "Vague Location",
+    "Whole homes only"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_str_guest_discovery",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_str_guest_discovery.json",
+   "sha256": "f26f40f936ccb13e882d59cfeecfb259a3f3f890442bd18a7ed7501e1988899e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_openai.json",
+   "sha256": "17905fe3e15ee30f4fc110f2d163111a15cd8b694bf46b0e3863c5e04d10636a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_str_guest_discovery_perplexity.json",
+   "sha256": "4b9c31072aacd74f19a68559893bb520efcf212d0dd47dcb4f7ed4809dc3564b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_anthropic.json",
+   "sha256": "405e35b231f3804bb27e6a91e1bfd90fbfe44c785ad4cae5d228d85f587494c4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_gemini.json",
+   "sha256": "73854b7e10c4e8066baa0d93eb893deedc39a7aea4e5890f709c50ad6510ee22",
+   "businesses_named": [
+    "Airbnb, Vrbo, and Booking.com",
+    "Choose Airbnb if",
+    "Choose Booking.com if",
+    "Choose Vrbo if",
+    "Entire homes only",
+    "Genius",
+    "Loyalty Program",
+    "One Key",
+    "Premier Host",
+    "Property Types"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_str_guest_discovery",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_str_guest_discovery.json",
+   "sha256": "6899bc35f6b1510cedd81dd35b00f48be70b994a8c239111b01f6d3b631dd15d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_openai.json",
+   "sha256": "3618394d51c78bb5982af011f280ba0611767f4f1a614a62185266a78482f767",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_str_guest_discovery_perplexity.json",
+   "sha256": "041e43c73592d6892a1f868caaf4952dd601ca2676d4873c63c3162fb7a7f827",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_anthropic.json",
+   "sha256": "3157d00315722a160356eb5098ec07b813ff94eabe63b046491028caf261058d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_gemini.json",
+   "sha256": "7ae7c7362cb06dfda6cbbe6899d0a1f8d4598874c0247cf421716a795afd1b29",
+   "businesses_named": [
+    "1. Airbnb",
+    "10-15 reviews",
+    "2. Vrbo (Vacation Rentals by Owner",
+    "3 to 6 months",
+    "3. Booking.com",
+    "4.85 or higher",
+    "8.5/10 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Only rents entire homes",
+    "Premier Host"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_str_guest_discovery",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_str_guest_discovery.json",
+   "sha256": "68fdfb47c78cc272eadcc674b3d4a406fb67d578ea1b4ce374ad706517c04281",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_openai.json",
+   "sha256": "397471125680ba6bf1ec79fdda2898e7995f0adecf7a6923575501eff4bc0f19",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_str_guest_discovery_perplexity.json",
+   "sha256": "c85f0cbab9ef5bdd908ef320a6d38ce8975a39cd9f647634dec07fb47ffb3dd3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_anthropic.json",
+   "sha256": "ae97024e8284f5d5e31b348e12b0df7d6f25edd79620d5192cdca5f50a4b984a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_gemini.json",
+   "sha256": "323330e768c860d304ac6f243c593681da2a1f59ab7372280712f5bca3e63c85",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_str_guest_discovery",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_str_guest_discovery.json",
+   "sha256": "a76be5826534b12b9971ed2db50e12f361ebfc185a7282cd2b13c003a980feb0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_openai.json",
+   "sha256": "acd453c529d940f151a0c14bd9b95b65ec9a65deae999c751032fe9599cfb541",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_str_guest_discovery_perplexity.json",
+   "sha256": "60bf9b0211ef36f771da901b72ed68094713aeacc8fb90c5ae4e7adad5948956",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_anthropic.json",
+   "sha256": "31ed6796a90f33eaca40dffc0f8d2cebab1e77e844137dd1b015b9faf0c26ff9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_gemini.json",
+   "sha256": "5dc2af312c24773eca5532c919272503aaa6155db0a0624cf06952df49387596",
+   "businesses_named": [
+    "10-15 reviews",
+    "Genius",
+    "Inventory",
+    "Loyalty Program",
+    "Most transparent",
+    "Premier Host",
+    "Pricing & Fees",
+    "Red Flag"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_str_guest_discovery",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-16_segment_str_guest_discovery.json",
+   "sha256": "9f69b880b5fe60267f5b8ff72ea2a55b9768d8fe53c3fa092a1c47d15789a5ba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_openai.json",
+   "sha256": "23abd3c360ddb681551fe5bb4080516ca08c568868736d970f1da46bd56d3c97",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_str_guest_discovery_perplexity.json",
+   "sha256": "782e0832f16008bb65de8c3768ac64cc68d4e9da417d8d1ad3813f5740d3141c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_anthropic.json",
+   "sha256": "d73d1c35202e045b2845fcdaed2204c558ccc9d5d4521df55209a58d57502f09",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_gemini.json",
+   "sha256": "b7035a932d18df3049ce31fb6d8d36860fce0cc960fc8d380614714874ead2ca",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_str_guest_discovery",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_str_guest_discovery.json",
+   "sha256": "fd357fd3db35e4e67873c15377cadf407ed0dac26ca78ac297a505f58531bb1c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_openai.json",
+   "sha256": "00fa8569a310a657040acd779a37c5d21d4c933fca482817011ab25e9b79b2a1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_str_guest_discovery_perplexity.json",
+   "sha256": "58d91eed773bec9f9a609402850aae0bf511222432a97e39872121124df1df18",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_anthropic.json",
+   "sha256": "252faf17faf76187a81c5b4043049e1fac80bb96d92f528b5875d592c9e69f11",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_gemini.json",
+   "sha256": "edbb7b0944688618aedd23c0147c851242ecf23669f90c517dec0dc5d6c0ac77",
+   "businesses_named": [
+    "8.5/10 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Choose Airbnb if",
+    "Choose Booking.com if",
+    "Choose Vrbo if",
+    "Filter for recent reviews",
+    "Premier Host",
+    "Read the 3-star and 4-star reviews"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_str_guest_discovery",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_str_guest_discovery.json",
+   "sha256": "7e3a0cceb4c2ff662a2ea58c7c5d0cfe41c0131388eca47a0d71e4df5851dc54",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_openai.json",
+   "sha256": "3d46da299b9c92f51d7782d7bf62aef37671523c721bdd1ec34faeb83d4d798a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_str_guest_discovery_perplexity.json",
+   "sha256": "0882716b49f149790f47eedc06a7682eac5924044370fc0d28080e2bc915070b",
+   "businesses_named": [
+    "Fast response time"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_anthropic.json",
+   "sha256": "94b8c06d4299065e6cb4c7f63c278f073e419967131af1e3cb5468315ff27a53",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_gemini.json",
+   "sha256": "984fac47dc98565ac5a46f99c38a203fc613f24ec348fc15ee3e65cc4958f1d9",
+   "businesses_named": [
+    "4.8 or higher",
+    "8.5 or higher",
+    "Entire homes only",
+    "Filter by Recency",
+    "Loyalty Program",
+    "Premier Host",
+    "Pro Tip",
+    "Property Types"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_str_guest_discovery",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_str_guest_discovery.json",
+   "sha256": "9258f40b8c8e53a8a59cf96211ccaf301f1a39236a9b70af4fa61f49ae0cdb97",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_openai.json",
+   "sha256": "0de7ffe24101d77b2ad01d19a489aaffc2087e808ad20ad38c6346fa7e4c63f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_str_guest_discovery_perplexity.json",
+   "sha256": "4e84d487788005752d13055d1e6d53742e01a16336c589afff7c18890c1ea100",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_anthropic.json",
+   "sha256": "e65ae605429f89cfcf530bada6591a15941a7cd9e86f1cef50564541b88c628e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_gemini.json",
+   "sha256": "0247a86ed046927e642ce9d833b2b321649ee7bfd1563b44bc9ae9e9bab359d4",
+   "businesses_named": [
+    "1. Airbnb",
+    "2. Vrbo (Vacation Rentals by Owner",
+    "3. Booking.com",
+    "8.5 or higher",
+    "Genius Loyalty Program",
+    "Good sign",
+    "Premier Host",
+    "Pro Tip",
+    "Read the 3-star and 4-star reviews",
+    "Red flag",
+    "Search for key words",
+    "Upfront pricing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_str_guest_discovery",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_str_guest_discovery.json",
+   "sha256": "0769598e5e84225629da2f3a19f3f29c853b5f12fe5ef0ffb4f27fc7f3f56014",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_openai.json",
+   "sha256": "fba7ecefe6ccfe039cfd64da09d823060c9f10b3702c91a7378e1d8f94f611db",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_str_guest_discovery_perplexity.json",
+   "sha256": "86e628967b2cbd2269f9fb8e80b71a619c44dc3ec0dac2da7d83c35f7ecd9d8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_anthropic.json",
+   "sha256": "192b659850a8833da8183942ef0001fe3a174d0a5fecc31ec42ecd9f744fa4a4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_gemini.json",
+   "sha256": "cdd02cfe2c67c5f00768b02741675ba531f6eb1bca1707310698f59eab8e3786",
+   "businesses_named": [
+    "10-15 reviews",
+    "8.5 out of 10",
+    "Airbnb/Vrbo",
+    "Cancellation",
+    "Cross-Check the Property",
+    "Entire places only",
+    "Fast response time",
+    "Guest Favorite",
+    "Most transparent",
+    "Never Pay Outside the Platform",
+    "Premier Host",
+    "Pricing & Fees",
+    "Property Types",
+    "Search for keywords",
+    "Sort by \"Most Recent"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_str_guest_discovery",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-21_segment_str_guest_discovery.json",
+   "sha256": "26af9f02b9389cd6f8f2782470ae5e8bdc8f8523356250b82f9fa1135cba7f69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_openai.json",
+   "sha256": "fbffa516d9c48bc9a44f498b3348a3a8859366a929ef043376d6615107d6f895",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_str_guest_discovery_perplexity.json",
+   "sha256": "a4699b83c29518227511a9b12bdd3fc254fdf3048f30cee88c615933d10520a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_anthropic.json",
+   "sha256": "52492f599ebebf5bfd53c6fbbb53485a15260e3b974e54530ab07a374d61dfce",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_gemini.json",
+   "sha256": "cd0671e0facc06a414f4b62c3cb4af60e1937391f81709f846a4dd16ec33df02",
+   "businesses_named": [
+    "4.8 or higher",
+    "8.5/10 or higher",
+    "Choose Airbnb if",
+    "Choose Booking.com if",
+    "Choose Vrbo if",
+    "No photos of the bathroom or bedroom",
+    "Premier Host"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_str_guest_discovery",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_str_guest_discovery.json",
+   "sha256": "ea9c0ccd85786abd5975f67f916be74cc397c4eb2ac19e5d1012071a83c58821",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_openai.json",
+   "sha256": "7cb675bf322500a4cff77c9045349fa6fcd36bb5b8d088d8ab62c9e6b303d993",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_str_guest_discovery_perplexity.json",
+   "sha256": "575856662af16c1bc19d9cd71646b8c408f66eba22e1ab7d08e96292ccb00e91",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_anthropic.json",
+   "sha256": "7764d054f215c1369ae4af463b6896c2c1f172d241ad2570cdbb882ed1f8a6c7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_gemini.json",
+   "sha256": "ce2a6713851fa772d3b6c92a864b47fe0a8a364878ae6ba82e37b256d90453ba",
+   "businesses_named": [
+    "8.5/10 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Guest Favorites",
+    "Only lists entire homes",
+    "Premier Hosts",
+    "Read the 3-star and 4-star reviews",
+    "Response time",
+    "Superhosts",
+    "Tone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_str_guest_discovery",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_str_guest_discovery.json",
+   "sha256": "0fa0318fff0a0aaf65bd25bae6641fdb7946f5935b849dade20fd0136214d895",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_openai.json",
+   "sha256": "b3f3aed3fc852f96b26856e8e0adbcbe136e90e3c4450b035118898a115f2958",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_str_guest_discovery_perplexity.json",
+   "sha256": "a057e62d535c6fb0cbb5ad380c878bef3ae5f9f8697004eef49583447d4acfcc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_anthropic.json",
+   "sha256": "19f78702f422c5884d4953d24bfe8e064a2377d7c50dff82cf8bfee07ade6bad",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_gemini.json",
+   "sha256": "06f3159d6a1d6ae5bd5bf1ae783d5c7d43a7396d408ac1e3bfdc9c28a157efb3",
+   "businesses_named": [
+    "1. Airbnb",
+    "2. Vrbo (Vacation Rentals by Owner",
+    "3. Booking.com",
+    "4.8 or higher",
+    "8.5/10 or higher",
+    "Airbnb, Vrbo, and Booking.com",
+    "Premier Host",
+    "Tone"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_str_guest_discovery",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_str_guest_discovery.json",
+   "sha256": "71d0a2c9712d3cfbefeb6a09ca683fe5cfa999836d1b2b9b78f7d6d68a9cafac",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_openai.json",
+   "sha256": "ac023d0838bca899c8001bb8cc25888814420d8bebf85cc409927346d3516541",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_str_guest_discovery_perplexity.json",
+   "sha256": "bc36678b3b44daf08a72992de4c97e274988fabcb629edde5c98dbbb9686f634",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_anthropic.json",
+   "sha256": "fcfbaa5beb81db3b9f952d0e64a8ebd352ad81258093e43b2176aa7872a25ce9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_anthropic_r2.json",
+   "sha256": "92bf6d60888ecddd17715d0ad516b4f8f3ac4bfdb820b5f6a704c285162e8ecc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_gemini.json",
+   "sha256": "ab3ab21c7b1ccbe4420e8f85332ddeaa107296ac0895a716afa634e40711e35b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_gemini_r2.json",
+   "sha256": "ce6f9e1112367d9214b2d6276e2157a33b99bfcf550a8b390dc0e9fe73354418",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_str_guest_discovery",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_str_guest_discovery.json",
+   "sha256": "56b826350c77df3956381dbf62dc6bfb8cb82be68cc949301714fd9659bc14bb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_str_guest_discovery_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_str_guest_discovery_r2.json",
+   "sha256": "d0074324e6c885da193a078257c3e5607647a0e57b21a16aac225d526ef9b3c3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_openai.json",
+   "sha256": "0ca40831c53c0f6c6d59c7f5cc5287fbd6354bfc1c10e1592bda30c947dd8163",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_openai_r2.json",
+   "sha256": "f92479f1a3a645e105362d6d717a7d618e93c78d6e17c3109cbb5fce0f7c3a22",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_perplexity.json",
+   "sha256": "e5b3acbded6e17676066918d9c03898675ed467d2ccd6a90f59525f7e366ce6d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_str_guest_discovery_perplexity_r2.json",
+   "sha256": "2625b7716c4aae28aa32f236a7b56046925e255ad081901113b14758f99e1b87",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_anthropic.json",
+   "sha256": "1f248f900bb8f9108742dc8d488ee1646499a43485c8a3ab460ff69d62d81b2f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_gemini.json",
+   "sha256": "8ff77a1e41f14502e4f5f188fbf3486c7b3819ad7ef5401cc879dad96ef83c85",
+   "businesses_named": [
+    "4.8 or higher",
+    "8.5 or higher",
+    "Large group (8+ people",
+    "Only lists entire homes",
+    "Premier Host",
+    "Sort by \"Most Recent",
+    "Vague Location"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_str_guest_discovery",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_str_guest_discovery.json",
+   "sha256": "130c59592ec96c83fa9e35b996ce54e48cfffd238ae84df2cbea7421c9123edc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_openai.json",
+   "sha256": "265941f058871d77f1a976ae4deb1129790cbd454b787ea585d4075320a4fa8b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_str_guest_discovery_perplexity.json",
+   "sha256": "0c413de104a27f0d072e8920dbc5417bebccb15d7bee8b116c427e6db7f99a56",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_anthropic.json",
+   "sha256": "b70edc86f06fdbe257460bc2ef53f9ecdf41f57833ded859828023835da96adb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_gemini.json",
+   "sha256": "2646d28d260d8faec26cc510cbe381d67a0180ee5b30b1e24a55ee6b058fedc8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_str_guest_discovery",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_str_guest_discovery.json",
+   "sha256": "57613fae5028b6516e06fd79fa18270a510b4df0fdb860d3bcc7e3ea0e354c5e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_openai.json",
+   "sha256": "811f717e49f8d7f3539bbac12e35607260b088a3306af1f608167250f43cce9d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_str_guest_discovery_perplexity.json",
+   "sha256": "23865883b93fcd92cb97ce0f2fedcd5726731e13de79faf5e647f61d8f30d330",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_anthropic.json",
+   "sha256": "8fa95ba3b7f4abc49254fcfed809ab54006cae6c33d301b3d9034b6b7cff4195",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_gemini.json",
+   "sha256": "a72d14827670cc10dd8115114e03c7ab655806c8ede67e4b4166b366252fd48e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_str_guest_discovery",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_str_guest_discovery.json",
+   "sha256": "240f9e1f9175b1b61f34db6a7f81e73c424f029feb4704a3e3f1e8c8bbb6398b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_openai.json",
+   "sha256": "bd0651e6b1653ccdcb036c2dc54bdaf2f01e2e45833c5e790c1be8855bc8bb83",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_str_guest_discovery_perplexity.json",
+   "sha256": "7539e7e37753c0d2281c5d6112f6cf6dbb631679adefeeaa71cef117f5a58791",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_anthropic.json",
+   "sha256": "7dbcfcd9c3c87af5942171cf577a81870040e57922dac9c9ff66285cce6b25d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_gemini.json",
+   "sha256": "19fb6dd952c44b7a8f17b370f662e47ad2580f2d5704fa1d5da65284ae0d17d8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_str_guest_discovery",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_str_guest_discovery.json",
+   "sha256": "de9f53115a1e4458498e6b5459c4a1473456c9d6f3e7d75cff1b56a9f70ce2af",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_openai.json",
+   "sha256": "e24671bcafdde191cee1ddeb831e1271a5cb15de74eba161fe21dd383ba4cf57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_str_guest_discovery_perplexity.json",
+   "sha256": "2502ceed5d8b6a9a4ebd6d2a1d963c70dde67088620af5fa90efcee2b13abf26",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_anthropic.json",
+   "sha256": "1b3d4b6b278ac704c86e3332c93560065ea65207267cc01d445f3ce75d6f636a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_gemini.json",
+   "sha256": "ad340b05642346d675ac5588c8fdafe311c2c4d523ae352806dd054996213eae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_str_guest_discovery",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_str_guest_discovery.json",
+   "sha256": "6ecfb7c1089c2b071c46a1b8271798f5d6ba682b498812de52f83cd1cccdb1a8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_openai.json",
+   "sha256": "8968aedc890616ea1d66399f2ec130be5ae20312f5d16787428ccfb6a7e12cf7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_str_guest_discovery_perplexity.json",
+   "sha256": "aa9cbe46463bb7770f350417342fada4fc0457d79534d50c7417e91659efdd57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_anthropic.json",
+   "sha256": "d700bbf6529953989c4505041ceb12b9980fb981fc93efcbebfe4171f2f225ab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_gemini.json",
+   "sha256": "afcd22f684dfdb5faf6d35e4428fc2ed4028727e321f4b97b7e717389261921b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_str_guest_discovery",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_str_guest_discovery.json",
+   "sha256": "2cdbb08e49cb754aec61c935c1d17ea8cbe5985a68335a0b7177028dd49a84a2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_openai.json",
+   "sha256": "82d2ff08ef3df0a5e95ffcdfd2dd57705dc86f3b8f056bf907141cc578e79a29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_str_guest_discovery_perplexity.json",
+   "sha256": "8cb496f96426fef8a57a6a1811ef4bfaa8da5b301f30531242ebb2a1cfea7425",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_anthropic.json",
+   "sha256": "a2e35fc2d375272c7b1a8a2a40474f8aced99079219d06585e1476f7223e948a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_gemini.json",
+   "sha256": "48493f92ed498281586c7f72f615830ea096dc19e4fbbd8b9bf5dcf4ae46ecc5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_str_guest_discovery",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_str_guest_discovery.json",
+   "sha256": "7c9f0aaf025bea64ab8f6f17ae9898ce69b4aee93661078924d5d5ee1295fbf0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_openai.json",
+   "sha256": "01f0c95db1711dc7d3e2547cc527ea7951066ee0e3a9840e1ca845b887585a30",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_str_guest_discovery_perplexity.json",
+   "sha256": "045bd27a57f28411fec6f67dda2c59a3f8925da667ff90cddecd329849efb1fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_anthropic.json",
+   "sha256": "69f602e66928c9bdad100d1240e5def285a33d026dc5c81380b1ba54eed29d02",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_gemini.json",
+   "sha256": "77c8fdbc81356ba0e86886784dbaf98f56be686718d01fa53397ba3643695b6d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_str_guest_discovery",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_str_guest_discovery.json",
+   "sha256": "7846011d45dd2c958095f4bd535ca6af81b8959fde8ecddf856fac2de6e155d2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_openai.json",
+   "sha256": "ecd80785e418bc194ebbf36386d25eb4b335a9a3576fd5d3d5b5bf8e7ca80efb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_str_guest_discovery_perplexity.json",
+   "sha256": "2e3caf492a235f712f4ea17bba764d85d425cf167df4a6fdba02f1d158367559",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_anthropic.json",
+   "sha256": "d0c808240c4f31bcadb78125dcccb489ad7015a028bf7fe2226b1ffc2292be57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_gemini.json",
+   "sha256": "788c3bbba1dde7fc04a56c6d4b258fd664a65a1a0f7e6a3a9ba7e878be807810",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_str_guest_discovery",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_str_guest_discovery.json",
+   "sha256": "1827516074ac28f265650b6eb814e4eafc7667c42727bd7c8b135b93b2ea80ff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_openai.json",
+   "sha256": "360bce85657ac2eb3670028f567f4c7bd67ad7a325ef3f73fbb77a28842c2e20",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_str_guest_discovery_perplexity.json",
+   "sha256": "49ef65f742bb0ed173835a07ea641c9d6470b04b3426e1f43d53bc1361a32b82",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_anthropic.json",
+   "sha256": "d99e258dc76e3721375fb4acdbecf256b174f8bbfef906a7e3822627a0ee8f57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_gemini.json",
+   "sha256": "c2975e6e3b3d012d50d37edaaf0f6fdb89533120f467572eda78f5e42485f1f8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_str_guest_discovery",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_str_guest_discovery.json",
+   "sha256": "c52f8e4373ca6457f8cbea9ffac57dfa966dcf61022a64d89995a70b0176d5f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_openai.json",
+   "sha256": "c101c0b4088270673c4205efca072dc8aabac08c819db6c28cf44428b4bf4d93",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_str_guest_discovery_perplexity.json",
+   "sha256": "8c4941f9f21d1dc0220fd3008783b224c497073be72ffb7a7642495c60457f38",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_anthropic.json",
+   "sha256": "fe766b4735ae52e3d4f2da66739f77bc41351e5a21c98160c9189d71fd46182d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_gemini.json",
+   "sha256": "f58f8459d256989fa89f166cd2e77dfedfc805e3afba07fcbc8fd5f830b91342",
+   "businesses_named": [
+    "15-20 reviews",
+    "3 to 6 months",
+    "Cancellation",
+    "Entire homes only",
+    "Filter by Recency",
+    "Guest Favorite",
+    "Most transparent",
+    "Premier Host",
+    "Property Types",
+    "Red Flag"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_str_guest_discovery",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_str_guest_discovery.json",
+   "sha256": "38f902a500d1b9b4b9cc65d8349d364583f0696233c04ffed79a75cf50a1a1cb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_openai.json",
+   "sha256": "d90b80635fb5bee1fb9b876d1ba66c0e6496cf73fdc07d6bd536e70e1d56949b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_str_guest_discovery_perplexity.json",
+   "sha256": "29dfe18bab5eca261b17aa720ee0fc55e1a6c17ed727a14c0b8bcdc939e6b222",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_anthropic.json",
+   "sha256": "1c3602f024260ac54423e1d649ace5283b80617dad8b22900b6f5ea646e71c6e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_gemini.json",
+   "sha256": "7c4507bdf67499bb01f45852df51b2c99629c81cb24ee2c4def387c5ec5cafea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_str_guest_discovery",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_str_guest_discovery.json",
+   "sha256": "0a98f0900223abaff6da8e4462e1b8601cf59e29ab66bbc97c71fa0b4ba39c2b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_openai.json",
+   "sha256": "4ccf165d5e0c6f4411e915598562524afcfca5d28eb0db4c20782e61a5d5ea83",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_str_guest_discovery_perplexity.json",
+   "sha256": "e981ffd71e13ce1b49ce672ca41e263072c394ef6fc6d4a574d2c6c853717f32",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_anthropic.json",
+   "sha256": "7a2708f94217d751197ee636018dca7368fce005ebb9756c40a6d31a0fb956b8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_gemini.json",
+   "sha256": "a2eacb80c715d823f6122ac3921084f310a94cc96387f2fe2160be561e91d9ad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_str_guest_discovery",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-07_segment_str_guest_discovery.json",
+   "sha256": "34d9d9b2f1fbd1acff5a98b86ce22fa686bf38535241e361a549b78ca6a736c1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_openai.json",
+   "sha256": "5d1d9bb0370a8fb5a9737563c0d8ea4bbaa8c895fc0e15694ef0c311bd1a1cb3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_str_guest_discovery_perplexity.json",
+   "sha256": "93d01df110e227a5407db5e83c3629f51d391bc555b7957b7979057e7abb0706",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_anthropic.json",
+   "sha256": "661a5117d383c3a21a1b29b8e3386806a48224780c457ea8613722ea5bb2bf2b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_gemini.json",
+   "sha256": "067ec9c556474ef1485208d1b00ae3bc3cf247e4219448ba00a5467e3ddb616a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_str_guest_discovery",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_str_guest_discovery.json",
+   "sha256": "33c0ddf4e0979ffc0168251386592f6626c015045d4864ebd12a70690982d9d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_openai.json",
+   "sha256": "f3347e375b8bbc057180c3a5609fc38f3b341e08e63fc75f475e9565819a63d1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_str_guest_discovery_perplexity.json",
+   "sha256": "bbbfa4d8e06270307f10f9e87241eb5119f22ff031f2f7649e67347c49215fc0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_anthropic.json",
+   "sha256": "e88e87c797d42707bda2f51b3d7a5368cf6a1cf806ee34e0a1acdfbf3aa63e89",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_gemini.json",
+   "sha256": "e118da44b08bb1a9cad2375d99fd380b230bfda520f5c449aec5dbd0e26a3e7c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_str_guest_discovery",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-09_segment_str_guest_discovery.json",
+   "sha256": "f94b5fbb60edf1c55677ad49f8e91d64c6b0bdc556c57cc71aa228c03cd6eb9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_openai.json",
+   "sha256": "eeb5e70b98941515779d29fce199c3a23d8b4037d9eb4e09279b4adb7629802a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_str_guest_discovery_perplexity.json",
+   "sha256": "ac7f2489019b762656ccd7ae56bc273c8a612d489c7cabaa51f793a8d547d7e8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_anthropic.json",
+   "sha256": "782af65fbff8ebc5cfb268b3e9461dfec315536e2c1cd33693171ea794cac775",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_gemini.json",
+   "sha256": "ba1daf35630b90a09629e8b1807b28b1d1145549faaff912850079476ee774e0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_str_guest_discovery",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_str_guest_discovery.json",
+   "sha256": "3911f3943d7ca2f111441fd0c4378866234a40d3fe1180bcf9f96bab17130330",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_openai.json",
+   "sha256": "80a90b8ca02093651658c2dd75830f417a4934f21eb7ab3e112bf23b008bf0a4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_str_guest_discovery_perplexity.json",
+   "sha256": "7a95cd9e73dcbd18590a6a6732cd040d53690e60d87b0d21706d777cb06daff1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_anthropic.json",
+   "sha256": "adcd142aa95f82045250ccbec9a64eed48c16572b3fbb398ade075331b94ca0c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_gemini.json",
+   "sha256": "f409fa01eff9a9fc1a6504f1837b04de21aa86f8d93b46ed027be11c0abc4326",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_str_guest_discovery",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_str_guest_discovery.json",
+   "sha256": "a4b8fbc67c0478f0f3179c238599525e24db9aad090cf0e2ad69a5a618fbe3ee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_openai.json",
+   "sha256": "e0951789b67235ff1e59785d2dd3c020d4fa1ffd4d2f661dda6a5d858be9b138",
+   "businesses_named": [
+    "Premier Hosts"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_str_guest_discovery_perplexity.json",
+   "sha256": "5fdcd5c2b4fbf9e2ae0a880e41e52d30109cb2e57a1cb47a27efecfc611982bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_anthropic.json",
+   "sha256": "e5fded2e2426ac79ac62d781856132c01c6deb9d8eadfb715a3efad3e90158c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_gemini.json",
+   "sha256": "de2c999232acf9dca381a82c58b1d0dc63519d01e4d737dd1269e08eeb40d04c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_str_guest_discovery",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_str_guest_discovery.json",
+   "sha256": "4007d01bdadf5546df9a2a594027627ee0e22ec79ec7812c5fcb41216b3fad32",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_openai.json",
+   "sha256": "44fda464f59be239d8d7558dc36042c3693ebeabe94000c30675842e0a90a7e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_str_guest_discovery_perplexity.json",
+   "sha256": "1371b2e524a4d95d00f19deceecf1b4be83710d28e7875c2acea603ede9c2749",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_anthropic.json",
+   "sha256": "b05d257d4cfc06ed4f24c2adafef2d3b8f763cf0449877762503604bbed388c0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_gemini.json",
+   "sha256": "53135474f4a953c1961c3920ccaf0a031fa50259530f810ebc5ecb674cb1b767",
+   "businesses_named": [
+    "8.5 or higher",
+    "Entire places only",
+    "Genius",
+    "Good sign",
+    "Guest Favorites",
+    "Large group (8+ people",
+    "Premier Hosts",
+    "Read the 3-star and 4-star reviews",
+    "Red flag",
+    "Superhosts"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_str_guest_discovery",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_str_guest_discovery.json",
+   "sha256": "920c24918d8f598e664e3c3ab4d536d88f4634bbbcd557385a5aa5e98dfda66b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_openai.json",
+   "sha256": "d601b19234b9e9192aaa51cf2aaf4fbde09e5f4c0b0d4e047625a38859230c87",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_str_guest_discovery_perplexity.json",
+   "sha256": "e0c3f93383ef488fff4522714df9191b8b1b46bed777272fa35e1c5a7e4214fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_anthropic.json",
+   "sha256": "5fbd4ea77939ea69e70b8bc295f7b79d6f1a5e4cb970aea3b6c6fbaf686a7658",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_gemini.json",
+   "sha256": "a3d5ef7a1de7a5f7d48ed206b0734198b09824f5028f8ad0304db98790a31269",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_str_guest_discovery",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_str_guest_discovery.json",
+   "sha256": "8a820224016984c2c7635f9968814660173867b63ec7ef995ea39a56d141c47a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_openai.json",
+   "sha256": "f59271126903758ec0e64fc17e919c00602c01fc97df0856a310282441ec0a56",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_str_guest_discovery_perplexity.json",
+   "sha256": "82ca804110acba839318e37babab4be829066e7b9f719797764d0b38688ea165",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_anthropic.json",
+   "sha256": "67f9b0525719bd23c625cee6e8ab7256224ec92e8e73d6a4fe92cfdfee5c18d0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_gemini.json",
+   "sha256": "5a4ec321f7dd5853ba999a017aaadb225d0ae4cb651cff36ecbf01a60fd8f856",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_str_guest_discovery",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_str_guest_discovery.json",
+   "sha256": "54122aa139693d97f822feff3b25511e5ac09a44fdbbdc03efc51ce119c4576d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_openai.json",
+   "sha256": "c43ed204b0dd3c70d3f5587d13b5d29516fea6996512e3ba86ccfdb68beaae44",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_str_guest_discovery_perplexity.json",
+   "sha256": "34df848c4d2e2a2028bcdbc0aaee313bfc2a6647954e4ffb8704c1d85d3eca8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_anthropic.json",
+   "sha256": "353ccab72ee12b1190ef0cadd564ce62f47ec7988d6882a5ffa03f2177dddb07",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_gemini.json",
+   "sha256": "84e3bdacb33ac1046dc6c1bb1bc53376c630881509346f99e2d824c6f038db01",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_str_guest_discovery",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_str_guest_discovery.json",
+   "sha256": "58f27866fb1c0c50fb2ab32f4a3a29aad77c4534f556f2ef5dc0e79147e0967d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_openai.json",
+   "sha256": "685d454c3103bb195edb6459dc12468fd667c4b27be9ae8e895032065b05c3dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_str_guest_discovery_perplexity.json",
+   "sha256": "4fbf9c0e86020479fb86942ebb481a357614eed98719f45763c70d5d5ea6cc16",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_anthropic.json",
+   "sha256": "8edb9c1f126183360d8a0312975d2dacc6b066c0a6069e7d4d519e6424ab89c2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_gemini.json",
+   "sha256": "0a05a01ee0d078cd0cc2e6dc8d9dfdb0af2ae3108ef9f7728efd8249dfe539e3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_str_guest_discovery",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_str_guest_discovery.json",
+   "sha256": "509e7d57971f56d828f449d0393f40f11a96b6618264c6cd3d44d06516c3133b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_openai.json",
+   "sha256": "1beb04edefaefcdf7d5ab770d0dd0a6e60e24690c1192d719e87793698d5c269",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_str_guest_discovery_perplexity.json",
+   "sha256": "83db561cd750f3ea0700d8b301c201d9b6f6ddea39a7d77304dd48e185b457ee",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_anthropic.json",
+   "sha256": "539ce2b152af8e82ff02afcfeae942ea543b2b9b3ec316ba761bade84d946cd6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_gemini.json",
+   "sha256": "5c345ef8f92624d1df64dfdd327375bd6d461174f9c49413cc3c3b68f517542f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_str_guest_discovery",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_str_guest_discovery.json",
+   "sha256": "d2b4adfccd9bcf2a20f7d9f5e366867940ee68a830c8141c3befc549954c9fec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_openai.json",
+   "sha256": "4d2aa32873c4f3746da35c28d76c5303be32f797d7832254f916eeef46cd2caa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_str_guest_discovery_perplexity.json",
+   "sha256": "27197dd91ab48b016885c4ba59edb382377be3d27d31d84f83d9626af2d25352",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_anthropic.json",
+   "sha256": "904797217948ced78d3df2499246a1406aae01785713644bc5b70b1d7a015511",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_gemini.json",
+   "sha256": "f532b7e333bfc9cf5b6b8e430df05202bfeb13b9883787db398f61d81606de27",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_str_guest_discovery",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_str_guest_discovery.json",
+   "sha256": "20a4d5454dc30a43b954eb860f5a68e08839a7c3c8da2b0f9f9d3bce565d9d69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_openai.json",
+   "sha256": "a39cd55be137dbb8297c72051069dab77d998b4d1ec1e1f1d79fa7ffd51b4385",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_str_guest_discovery_perplexity.json",
+   "sha256": "ca038e5c60b1d02333fd90511c04d5453a4d868a972e630eca8d1a399783d89f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_anthropic.json",
+   "sha256": "20fbddf5934aee3ee519ed1bdc2e1d13697c5053a87be2fbc2490d8f4fd4f5e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_gemini.json",
+   "sha256": "fb941da94eef259bcf68fe429eea588f406c161c8fb9060f42571105e50a39b8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_str_guest_discovery",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_str_guest_discovery.json",
+   "sha256": "afa365ee5827814d8086846198eee2bca0827244c10860f50bf6ab01e32d1729",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_openai.json",
+   "sha256": "3b68701839d33bfb5c2bcdfe3549ac783a376a3f86254b3aea397dbe58572a2e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_str_guest_discovery_perplexity.json",
+   "sha256": "0363efdc002a48639648fc9c2e40f039f3b426ec83e33f1ad8a7efc642f57f14",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_anthropic.json",
+   "sha256": "46e19d90c166b87142e5d509f1babb678a34cdb62e97d918a5239da5d0be19e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_gemini.json",
+   "sha256": "2917e19f2d9b10a2647c08be343d7aef49ed4c064d7c75423a73f078b5445d88",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_str_guest_discovery",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_str_guest_discovery.json",
+   "sha256": "4c2a97d8e89572e56d976edc5b2178750fc6499b818e0c18664d67635dc57801",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_openai.json",
+   "sha256": "523343b2641f2fe5bcad15c1aaa1a99046fa956c4855fc6dbd6e3b554410fb53",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_str_guest_discovery_perplexity.json",
+   "sha256": "172ad935a655e4308268a4ad3f29400446c895e2af15984044a8b4e5fdb2acb8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_anthropic.json",
+   "sha256": "231ceba561a3b0288830810f3a74d8d050367cf57c4682941c55551a2e431739",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_gemini.json",
+   "sha256": "e4f155c86105761b84b24e17bec611256b2192502713c7b0e7c81b941e998968",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_str_guest_discovery",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_str_guest_discovery.json",
+   "sha256": "1abd42a49d9bef5134998fd5b4185959e7026a8c2977771c7e59facba68129d2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_openai.json",
+   "sha256": "fd6f74abad058802c5c4b199a19950902d0fa119c8eaaff763078f6abe17d7d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_str_guest_discovery_perplexity.json",
+   "sha256": "2e1eb6f920ce8eb8d354aedcb56d32f44c52242081b1de35e3df5ec897caab6c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_anthropic.json",
+   "sha256": "8a7760781510551202e83de007dce6df7f3a70760bad9ff313c726ba52032192",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_gemini.json",
+   "sha256": "3509b4d3ba916d7b874dbed39bf7c4be6238bc1b28d421996c56c03c8760feed",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_str_guest_discovery",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_str_guest_discovery.json",
+   "sha256": "65993ac7e39c6db6ccb5086bee77c8ea5c66b6b3d8c8915b6a2e4156cf8196ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_openai.json",
+   "sha256": "22c340c1ee5b1c82fa0cdbfc264857ae1e71f6fc2a37b229c8df444491776362",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_str_guest_discovery_perplexity.json",
+   "sha256": "ed610de615bae34cfad80ea2ccfa6029133bec9058623593e87c522e05036552",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_anthropic.json",
+   "sha256": "9ce7362fe6bc352f90197d56c4d598834878228d3c62598a8d246c3e19ec19f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_gemini.json",
+   "sha256": "653528c8ae4ad35aa3fa886547882e5716a96da638237925665434d4b437663d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_str_guest_discovery",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-24_segment_str_guest_discovery.json",
+   "sha256": "200b66a0311114e9bc25bfa870df1b16898ce9ceef1fb272188677d4dd60b183",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_openai.json",
+   "sha256": "f9b3c58ba6e270890354adf3da948f6bca91b0808060a93e3f0a27db7f2f5e0a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_str_guest_discovery_perplexity.json",
+   "sha256": "7a80f1ee1a16d404046bbcffbc10d19b43dc29fbd710ec2c749eea72e4a60786",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_anthropic.json",
+   "sha256": "828b26ba700883f574bcdb210a78911c55b0a781222643f6885ef4e18a9a7a4c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_gemini.json",
+   "sha256": "b565e9ca22db08a1e52c26c3af5d5778c680102b4ab5e89db6ec3855ed7c3fb4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_str_guest_discovery",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_str_guest_discovery.json",
+   "sha256": "8a309dfd1fc3cb5eaa9b2fe60c37e42fe672ee7e9c89e91dc842a33fd3cc925a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_openai.json",
+   "sha256": "1b9aad0fee762d7244ecf8883d6db5d1c9505a0c0f9a9feedb72e0d8370f4c99",
+   "businesses_named": [
+    "Cancellation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_str_guest_discovery_perplexity.json",
+   "sha256": "3ab69980a0a5528107629d85f38047f369cf7bd1d414da198ff7b00b8566b647",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_anthropic.json",
+   "sha256": "c81fe037b681a80e27f37f63bd0a2bfa3566ff17302009e5291203da74388cc0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_gemini.json",
+   "sha256": "ff05c77490d09b9d1e473eb35d4f71e9da8bd46e43724084c0beaa4f6ec1d7f9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_str_guest_discovery",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_str_guest_discovery.json",
+   "sha256": "572bbb3c42a0362c981b482985bd22813febcbe888a78609039019c433cbd8a8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_openai.json",
+   "sha256": "ebe7fc173a6690c1aae9944b0def28bd4b034e8ca13e1692d5c49dba9bad1b01",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_str_guest_discovery_perplexity.json",
+   "sha256": "e325b354fa5034545c515a82e054f08a0360dd13bd860b17859445e713bd0f45",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_anthropic.json",
+   "sha256": "fd5de3174e013ea12e958149fc8087c4cfac7e91c8e39a3d8a611f78208348f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_gemini.json",
+   "sha256": "26118ea5b29f4d23021a4cb9b572aa2166e3aca72e2dee8bdd4322df9716a052",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_str_guest_discovery",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_str_guest_discovery.json",
+   "sha256": "307ed7394645e5ab9ca56ec6644a0b31228f6a67c2597b41ad6329a9ddc74a3a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_openai.json",
+   "sha256": "0dce38c78ff6453e294dcc10e992f942b31038e08aca016430b7ac444610ffdb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_str_guest_discovery_perplexity.json",
+   "sha256": "f17a36c37202478903452f480c6419429c6323a6ab21d5d49e5844b7f3bf688f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_anthropic.json",
+   "sha256": "1b661e6257f51cdb8a41b9bd54d2a1ff45fb21b2c251575e9fae3cd075bc542c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_gemini.json",
+   "sha256": "c7361fb2b092b0989ac8bc375aac0dbc93f49200d32f20790b06e3dc66adcf79",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_str_guest_discovery",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_str_guest_discovery.json",
+   "sha256": "e0c31759ff9de9eec1019cce4bea864349187c49f320df70c7194cce81d3c8d4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_openai.json",
+   "sha256": "0e5752da7648ea48ddc6a704043a1d8f3955c9841df45a9c65b9d54f3dfc84a5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_str_guest_discovery_perplexity.json",
+   "sha256": "314358e5c51a2fdda97053dd7aa332c0ca20c8ab9fe8bebddcaf348bb5dbf787",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_anthropic.json",
+   "sha256": "0bf43e4cadd4f7b59165872bb8fa1ab5e45297f75fbce8f8cbc4286f76d4e439",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_gemini.json",
+   "sha256": "7e9237f0f8b04f945540faf3e08487426f8dd51863bc9fe0ed1e6affe653cf45",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_str_guest_discovery",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_str_guest_discovery.json",
+   "sha256": "5d661aa02e3d3d66797ed804767bc8a7491355ff168b316d7b45f67c149bc15d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_openai.json",
+   "sha256": "ac7a3de9321c77c646de3db4172d436f3fe454a74f77a4eab9e9347f23123692",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_str_guest_discovery_perplexity.json",
+   "sha256": "78d416d774adbe36670e2514de01e9aabcb22efc9985be3ecd3f70a784c94ffc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_anthropic.json",
+   "sha256": "e0493f320be104589ab70f690112196a24bab24eb775c3947e562b2628f905a3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_gemini.json",
+   "sha256": "dc35bb46bb70c3a43f5cd1e423808aca1cf5e08b0c750e809e3e4cc4cf0909f1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_str_guest_discovery",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_str_guest_discovery.json",
+   "sha256": "f8d3c9d8f9f118a43c8adbda870bca679d0fe6b0ed1602117d338c67cd66a593",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_openai.json",
+   "sha256": "0685be2327fa97589073773efa4b3d61f553d9055bfb6522930ec6582c4cc389",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_str_guest_discovery_perplexity.json",
+   "sha256": "778d8b1b1a66698e631ecc1255acbe0499f464b72bac1003eedaab52f15fb6b0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_anthropic.json",
+   "sha256": "9ea8c1e233aa6e852c79bd1ed3912e63126af70d8c597167159081db982e2593",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_gemini.json",
+   "sha256": "0be75b1d3e786cc04f856c8a321a49e77e95e32e35185ad7fdb6f66653af0405",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_str_guest_discovery",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_str_guest_discovery.json",
+   "sha256": "3a485d47457849e431a322e4c3fc89abe2841f405b060db01e7bfdbc2c258a37",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_openai.json",
+   "sha256": "4023e71f4540977721d6b3d41a59dae7b2209afb8a6d5d79587164bbb6dbe9f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_str_guest_discovery_perplexity.json",
+   "sha256": "cbdbae4bdcd1610c4a66c3d6f607e1686d03a3523a94c2cc1c87f6ed63fa2399",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_anthropic.json",
+   "sha256": "67e3834bb4e9ddfc10976ce3f03dd66f686cf4de40f999889151ff552c9300fe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_gemini.json",
+   "sha256": "c1990011dd0e910e96a05a0ce4ef3c65bfb152f64443f1f7b1c28dbdaf671dfa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_str_guest_discovery",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_str_guest_discovery.json",
+   "sha256": "7c3b564cc8d021712d2a2580b7a868cce06e73957f023cad5899c7fcb084ac1d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_openai.json",
+   "sha256": "706e6916883b59a7cd43644f047b98d8d58fceeb6fd6eb9c4a788967a439de64",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_str_guest_discovery_perplexity.json",
+   "sha256": "78e4366d13594683961809972236cb9b0bc92eeab7638bde3f493fddd455544c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_anthropic.json",
+   "sha256": "99807d20e9d77122e90345eeaceff5ebceb2e80b36d1464273cc5b77a0162ee5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_gemini.json",
+   "sha256": "3d843db79a88c519e0388717ff906d66c1bec1eb03172d5fc4700b9211a71fb5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_str_guest_discovery",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_str_guest_discovery.json",
+   "sha256": "0cab244b08739abe134aa17db0a1cfe2ae1b2af87e0f57ea545ba9cd7811b58f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_openai.json",
+   "sha256": "6edf711fad2eda771217932bf1c90fc561d3c224a30e4d2c1021f5ac4005b1b1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_str_guest_discovery_perplexity.json",
+   "sha256": "1a9c38cb69bf270fe9ce39ce2e6a130cc37a3069454cc465e1588342b1c7233f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_anthropic.json",
+   "sha256": "b43996439bcf9861ed49d9645364add8a49de0b365f664140edfeb9d8398e97e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_gemini.json",
+   "sha256": "3f5aa58a2c0f03363d09e9cf9823ff8b51b7fa404975c90ef5440168d62c82c6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_str_guest_discovery",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_str_guest_discovery.json",
+   "sha256": "30581040b8fbc9bb258b228eb00ea8c0c9a205bb98461502d5be0fa904e8965e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_openai.json",
+   "sha256": "83636e94013b13a9782ed37a86ee1d89d6526216e0fdb1c6159b99453740fe37",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_str_guest_discovery_perplexity.json",
+   "sha256": "ec922df021ad5fdd10539e78fb47df8beb725d286e654bca2f68cbb9420ac8cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_anthropic.json",
+   "sha256": "13099cae526770fd84b10228f97dde5d438d2402ebdee8b476b65a64f53466f6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_gemini.json",
+   "sha256": "96dd7adbab0b6b7e26f9fbcdcb9dd7b5000060a1217ef0a7331d42e6ba239d43",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_str_guest_discovery",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_str_guest_discovery.json",
+   "sha256": "5625aae7bfec4a66c8acf2e061de5da6b8891ccdf67d9d38a31b05ec620a66b4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_openai.json",
+   "sha256": "a74b65952f23faa67ecffef7d996fe03703d440afae0282f63521bd8652a8fdc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_str_guest_discovery_perplexity.json",
+   "sha256": "b41eb148d4caf631d717d18180c05675ac517f6ffbc331046e122ba23abb95e2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_anthropic.json",
+   "sha256": "aa3719aecd1beb759002dfa6f3e87896d66f32fb3b6e919ae4be613723d0379a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_gemini.json",
+   "sha256": "c974c08a52b32f8ae3eaccfc4001b6b630cd669a55c5bcba7aceb5fdbdfd7a61",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_str_guest_discovery",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_str_guest_discovery.json",
+   "sha256": "a80e84495f6b75b891610b30f137255e994738afff873fc9fdaa423675ec8655",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_openai.json",
+   "sha256": "d436b26a209ff6624453488914ab10a9495585a01981110a8e0937437e37904c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_str_guest_discovery_perplexity.json",
+   "sha256": "c7ad9eb14b0e1742876d5d2b2cbd7d43b628cc604261bcfb48a3881a394dfa12",
+   "businesses_named": []
+  }
+ ]
+}

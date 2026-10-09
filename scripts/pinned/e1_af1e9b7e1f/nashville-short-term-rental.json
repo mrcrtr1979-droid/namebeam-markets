@@ -1,0 +1,3829 @@
+{
+ "slug": "nashville-short-term-rental",
+ "url": "https://namebeam.ai/nashville-short-term-rental",
+ "prompt_verbatim": "What is the best Airbnb or short term rental to book in Nashville for a family of four?",
+ "market": "Nashville TN",
+ "niche": "short-term rental / Airbnb",
+ "window": [
+  "2026-08-05",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "2 Bathrooms": {
+   "2 Bathrooms": 2
+  },
+  "2 Bedrooms": {
+   "2 Bedrooms": 4
+  },
+  "2 Bedrooms / 1.5+ Baths": {
+   "2 Bedrooms / 1.5+ Baths": 2
+  },
+  "2 Bedrooms / 2 Bathrooms": {
+   "2 Bedrooms / 2 Bathrooms": 2
+  },
+  "2 Bedrooms / 2 Baths": {
+   "2 Bedrooms / 2 Baths": 2
+  },
+  "2 Bedrooms minimum": {
+   "2 Bedrooms minimum": 2
+  },
+  "Air Conditioning": {
+   "Air Conditioning": 7
+  },
+  "Bathrooms": {
+   "Bathrooms": 2
+  },
+  "Bedrooms": {
+   "Bedrooms": 7
+  },
+  "Bicentennial Capitol Mall State Park": {
+   "Bicentennial Capitol Mall State Park": 4
+  },
+  "Bode Nashville": {
+   "Bode Nashville": 2
+  },
+  "Bode Nashville (SoBro / Downtown adjacent": {
+   "Bode Nashville (SoBro / Downtown adjacent": 3
+  },
+  "Bonus": {
+   "Bonus": 2
+  },
+  "Country Music Hall of Fame": {
+   "Country Music Hall of Fame": 2
+  },
+  "Dedicated Parking": {
+   "Dedicated Parking": 3
+  },
+  "Distance to Downtown": {
+   "Distance to Downtown": 2
+  },
+  "Drive to Downtown": {
+   "Drive to Downtown": 2
+  },
+  "East Nashville (Lockeland Springs or Five Points": {
+   "East Nashville (Lockeland Springs or Five Points": 2
+  },
+  "Filters": {
+   "Filters": 3
+  },
+  "Five Daughters Bakery": {
+   "Five Daughters Bakery": 3
+  },
+  "Five Points": {
+   "Five Points": 4
+  },
+  "Guests": {
+   "Guests": 3
+  },
+  "House": {
+   "House": 3
+  },
+  "Ideal Layout": {
+   "Ideal Layout": 2
+  },
+  "Jeni's Splendid Ice Creams": {
+   "Jeni's Splendid Ice Creams": 6
+  },
+  "Kasa": {
+   "Kasa": 2
+  },
+  "Mint House": {
+   "Mint House": 2
+  },
+  "Nash 2BR 2BA-Private Balcony-Free Parking-Pool": {
+   "Nash 2BR 2BA-Private Balcony-Free Parking-Pool": 1
+  },
+  "Nashville Farmers' Market": {
+   "Nashville Farmers' Market": 4
+  },
+  "Permit Number": {
+   "Permit Number": 2
+  },
+  "Property Type": {
+   "Property Type": 4
+  },
+  "Sentral Sobro": {
+   "Sentral Sobro": 1
+  },
+  "Setup": {
+   "Setup": 2
+  },
+  "Sevier Park": {
+   "Sevier Park": 15
+  },
+  "Shelby Bottoms Greenway": {
+   "Shelby Bottoms Greenway": 11
+  },
+  "Shelby Bottoms Greenway & Nature Center": {
+   "Shelby Bottoms Greenway & Nature Center": 2
+  },
+  "Sonder": {
+   "Sonder": 4
+  },
+  "Sonder (Multiple Locations": {
+   "Sonder (Multiple Locations": 3
+  },
+  "Tennessee State Museum": {
+   "Tennessee State Museum": 4
+  },
+  "The Duo": {
+   "The Duo": 51
+  },
+  "The Koselig Korner": {
+   "The Koselig Korner": 2
+  },
+  "The Vibe": {
+   "The Vibe": 4
+  },
+  "Townhouse": {
+   "Townhouse": 3
+  },
+  "Treetop Bungalow in 12 South": {
+   "Treetop Bungalow in 12 South": 2
+  },
+  "Vibe": {
+   "Vibe": 3
+  },
+  "Warm Nashville Home": {
+   "Warm Nashville Home": 41,
+   "Forbes' \u201cWarm Nashville Home\u201d": 4
+  },
+  "Washer & Dryer": {
+   "Washer & Dryer": 2
+  },
+  "Washer/Dryer": {
+   "Washer/Dryer": 9
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "e76859c3481234806f4d66cfe5c8283ba1c6d34c6926b3572b5d0f74a990e96a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_anthropic_r2",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_anthropic_r2.json",
+   "sha256": "eef120d834c34882d0353cc0e13ee318e7b5bdf852975c23b082193dd507da2c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "bbccb3e18d1040126772bfc26ff8c1684ef9041c6e235f863ba672b2cc7c46c1",
+   "businesses_named": [
+    "Filters",
+    "Five Points",
+    "Guests",
+    "Sevier Park"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r2",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r2.json",
+   "sha256": "420ec3a857f12aeffa043f5bf276224a2dd92df20e942aed53391c9fbef5ce0e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r3",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r3.json",
+   "sha256": "f656ba8ccd3ef8a1ba6f4965701081c75b17e0a1ca7010c154d99e247a96db6d",
+   "businesses_named": [
+    "2 Bedrooms / 2 Bathrooms",
+    "Bicentennial Capitol Mall State Park",
+    "Five Daughters Bakery",
+    "Jeni's Splendid Ice Creams",
+    "Sevier Park",
+    "Shelby Bottoms Greenway & Nature Center",
+    "Tennessee State Museum",
+    "The Vibe",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r4",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r4.json",
+   "sha256": "7e4ac42082c8c9480c2cda9589093f5066503c22c9db828f1ce3666a731ebaa2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r5",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_gemini_r5.json",
+   "sha256": "4f425193b169ffcaf87075ea67df715341fba2a99c81ba0bb00da927893c7640",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville.json",
+   "sha256": "baf38550f5c18e3f8bcf652eb532a296c4ab623e8020827b97503d874a50093b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r2",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r2.json",
+   "sha256": "22c7fcab5fbb47804a14d057476405c3711c5fbcb5bad9b148a9d7a569cb841b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r3",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r3.json",
+   "sha256": "20a30e6bfa2e73edb8fb50529b9a7e04ca0c3f4a3377495e17cfdd3db98e32a1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r4",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r4.json",
+   "sha256": "92a395fde4a424cc4da6ac399cba8d17cdeccfa77bc640868cc589a036029c63",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r5",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_nashville_r5.json",
+   "sha256": "d97817f863929b3464d3be6a680218204bbb267be29264f3c8c4cbdcac1650f9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_openai.json",
+   "sha256": "780c0f5bcf7fa61dbd80ef79b6685567889d8ca1c90774206858003857860f07",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_openai_r2",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_openai_r2.json",
+   "sha256": "d8252fe4f1486ed630c813d488f5dd110ea88329aa27db7400db35a53fc184a2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "906aebb3b72eeeddde4b047bdba1cba7b6d567e8649301a1f5ff29be0ef8bbfa",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r2",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r2.json",
+   "sha256": "96ce97bc41bc54892b4f1a52b01aafe190ff8b10ad063a88b91d5bb82edd243e",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r3",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r3.json",
+   "sha256": "a5b063bd9485b3730e759ebebcbbae95bc990eb0aedabcaf10fa82281d38c5c4",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r4",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r4.json",
+   "sha256": "73bf7b80cc72701c672979818a5a5a964c0a0ac010dd7e3d2602270f233971ee",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r5",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_nashville_perplexity_r5.json",
+   "sha256": "a54076e703c9adabd4112883b28813610c530b40e5240a5d157e07eb27d92abf",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "74abbe0632b788789058ca44bab149e97297439bb766c540e3f455d5dfe8e6f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "f1f941bc6bf877d30943582e7f878947ab8d1221c1c94e9745485d28878adc0f",
+   "businesses_named": [
+    "Distance to Downtown",
+    "Sevier Park",
+    "Shelby Bottoms Greenway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-06_segment_short_term_rental_nashville",
+   "date": "2026-08-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-06_segment_short_term_rental_nashville.json",
+   "sha256": "23d6d7b922391141a9c1dc476bbc40543c9a6b2790cb216b464c0a4533869a3c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_openai.json",
+   "sha256": "f0ae13055a211d175fe6cd033298ac8b186b1f588f21001ce8dabf7ac235b8da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "3d0ca1663fa4caef26d0bdd3ae41c625184e06403adec27151153fbca7adc5d9",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "ef517e435595da7aab027bfcb56a0e5b170c6e9be48c51584fba38ef08cf7163",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "85c296fc4cc417e51f92c907497634b01bcdac9fc4418983f4227be3d3eb827e",
+   "businesses_named": [
+    "2 Bathrooms",
+    "2 Bedrooms minimum",
+    "Air Conditioning",
+    "Bathrooms",
+    "Bedrooms",
+    "East Nashville (Lockeland Springs or Five Points",
+    "Ideal Layout",
+    "Kasa",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Sonder",
+    "Vibe",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-07_segment_short_term_rental_nashville",
+   "date": "2026-08-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-07_segment_short_term_rental_nashville.json",
+   "sha256": "e99bcdfc17d4e1ece9e77dce25c5a94590f16582f7c0efdac9fb27006d7490e2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_openai.json",
+   "sha256": "3e2e94c2899e57b1a0caf7c7e832e2d9a1be2cbc00a81a07d7ef2a95dc29873f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "8beb7949d1d09ecd8e63bd68dd7bcfb2a9d40af3ff72f368422b90f6565a2f09",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "910d314860a5f42556f96a0731fe3ac420b0b74340fb20a1b1f114336ef9dbd0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "f38b0b64177a35d08baac8353d7437c31521cee5d9e43e2b191718fb44524b24",
+   "businesses_named": [
+    "Air Conditioning",
+    "Bedrooms",
+    "Bicentennial Capitol Mall State Park",
+    "Nashville Farmers' Market",
+    "Setup",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Sonder (Multiple Locations",
+    "Vibe",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-08_segment_short_term_rental_nashville",
+   "date": "2026-08-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-08_segment_short_term_rental_nashville.json",
+   "sha256": "d89d07ed543c21f1ddbc37fbff467287ba4136468969424a12234305047f8c4f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_openai.json",
+   "sha256": "9162a4e2ec7f0fd5cc8cc0eee52035e7f6e9622e323e522ce8f18c89eb8f8760",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "30da2b6b419664677571aa2f7def1407442e787cb41d932417c7f95861aaa0aa",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "7f43b80341c0b4962726cfcf5bc50117c531fc53d6e74958dc1376f19f5e7ddf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "8decda743fbbc928f5fcd10f4ec63e944168d5c17e9a2e4eca8a9307dbdcc736",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_short_term_rental_nashville",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_short_term_rental_nashville.json",
+   "sha256": "02d468ff2ac3e4417c55b64668a44e4b05b8ed73c8bdd12cfb12d363dcad9d91",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_openai.json",
+   "sha256": "9023265d55906644a46df16ea288cb0eae6d95059cde6eb497e85623b5b454c4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "8a409ee669192fd8d3473757bd9756cd58f5665503d82c9396117cf28243f16d",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "4e70c2f23829279bccfb3fae901dfd883fbab93c1a59446db920b4546b2011e5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "3a33c72185ac9ea0dd01e3cd95e1c222156269d05f0ba422a733b9593f5327a8",
+   "businesses_named": [
+    "2 Bedrooms",
+    "Air Conditioning",
+    "Bedrooms",
+    "Bode Nashville (SoBro / Downtown adjacent",
+    "House",
+    "Jeni's Splendid Ice Creams",
+    "Nashville Farmers' Market",
+    "Property Type",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Tennessee State Museum",
+    "The Vibe",
+    "Townhouse",
+    "Washer & Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_short_term_rental_nashville",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_short_term_rental_nashville.json",
+   "sha256": "f8d6e9bb7f1016fd8cf6a41e73f5b7f9691e72ddb722739afcc4ae59a1eac43d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_openai.json",
+   "sha256": "8b92747036d32d8afd3bd8c3767c6256e9e7ff73dd7dd08db2fc1616b2690385",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "c6aac50fe5a8b8004e5a841a3bbe94b2f8631732ca8c748a1c20e555ae7d85be",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "ebbbca802532f5cfb6275a3d21ca6f5b5399c760dbbdefdbd7385f08b603bb18",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "c7d58f75ee11bb197eb6d92270edfad6cfa1a81cd3b3dc4eeaf4a6355b9e6dcd",
+   "businesses_named": [
+    "Air Conditioning",
+    "Bathrooms",
+    "Bedrooms",
+    "Bode Nashville (SoBro / Downtown adjacent",
+    "The Vibe",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_short_term_rental_nashville",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_short_term_rental_nashville.json",
+   "sha256": "6e809696fe532f235f10202824f372735f0a4eda23dc876b00253b2406e72bb1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_openai.json",
+   "sha256": "9b70f0f18a45eb715cf8955aa71d98eaf15a999a61a3096345fdacd19c42f501",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "242ee4a542cec84c6b57efd973c95293d81c2843d4300e774db0baacb9e4c696",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "4c3d89e6c166b138f4afa7fdbce75a31198fd79f13319a82c8392bbc7fa11d08",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "496122cf62cd5d767198fe9b3ba0a61779e85f202facc578b37395cbff0286e6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_short_term_rental_nashville",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_short_term_rental_nashville.json",
+   "sha256": "43ed8f5f3af3a5d5e7faab2ff4b452f7e04f03c9592b48fca98d3cdd9cb0958c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_openai.json",
+   "sha256": "c03f711cff34193b4e6148d16279bf76da87596c55e27894f327d8cd3c51dc29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "2d1cad21387ea44ae5a3a8788b0fd2bc499535499e5c7bd79935ce5d159518bd",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "216dbbd88b3b7c59a106091b3435a0b5e66ac01d962137e4e7400a414d590f0e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5178300caddee487e0a87ec6d5e2bfbc3adf3e8355cc06e69049b2c12d5d6132",
+   "businesses_named": [
+    "2 Bedrooms",
+    "Air Conditioning",
+    "Bedrooms",
+    "Bicentennial Capitol Mall State Park",
+    "House",
+    "Nashville Farmers' Market",
+    "Property Type",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Townhouse",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_short_term_rental_nashville",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_short_term_rental_nashville.json",
+   "sha256": "38bc2af69883eb31df40934e2c93035665843b12779c436f5abfa56b76047ccc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_openai.json",
+   "sha256": "4269a92364dab3c3daffb513237bbe71e9a40d6b388d815a6cc89cc2281ae414",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "0ff31627c64d6b4f90a03883b4668954a0236591bdb89c4daa1d43697438ed74",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "2b90ca8dfe4343cde3216d67fd71f5ae08ef982440d8df9dd86f9b6f511be08b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "69420e3500588fddc1fec4634ab03fb1d21e23718f6b13be080784a9ae20e59e",
+   "businesses_named": [
+    "2 Bedrooms / 1.5+ Baths",
+    "Bonus",
+    "Dedicated Parking",
+    "Filters",
+    "Five Points",
+    "Guests",
+    "Sevier Park",
+    "Shelby Bottoms Greenway"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_short_term_rental_nashville",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_short_term_rental_nashville.json",
+   "sha256": "6816587a5665026e21eeb100b69db22c04d9f0b801a6ceccd1b1fd76364135b7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_openai.json",
+   "sha256": "a3e836edaf2981ea879a8371c3cd8e1e4ef272cb9a0703746ba86c2e7a776b27",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "da97122c81ecc26006bc992fd011794711341af0b2be8353eddb4c3b35c7ac28",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a00bd5340e869c0fd5d05bec2b7197e7ad480ddcdc5d3be7abae9769ab6a1497",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5193f61f845108aade257390f1caf2115aec3387ba1dfecd1bb4970be1272ad1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_short_term_rental_nashville",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_short_term_rental_nashville.json",
+   "sha256": "cef1395d4ea78796e9f0e933040f6936bd86a81b1d789f08132eed826fa49669",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_openai.json",
+   "sha256": "de4dfc44376b05139312595881a2e942b7a1c140771ea74cb06791185a21e72f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "c24e7c7a7a034b636c314d5877bb2073bdae58c6850352d4226280ee3dc930b3",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a9d2b6d0414ba62f6517714b0ef453240180eea737f61d523a0455c8e865f585",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "4a816198c4ade6e1dcca72ab95a7ccc3e7f6ac1794defc28b8430e93c555e83a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_short_term_rental_nashville",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_short_term_rental_nashville.json",
+   "sha256": "036e9bc1932d65306071115bc607cfb540d6452ffb0c31f73dcc78fcbdbf9191",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_openai.json",
+   "sha256": "5412c4c9f3170b032d43fe3804e5f4ccb2d8ba7dbb6135516a1e4aa1564a8838",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "64c675fcadc239c99095abba64f94e92613d4329c1363b56596b1c37f48dda42",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a1f00938a0f8a664af42944ef611c33da2103ba8b7da0a1af5c8de1893566c48",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5e73c94c3aea42d62d73752d08695ad8ed8f59c3ff3840660c91809bae4e313f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_short_term_rental_nashville",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_short_term_rental_nashville.json",
+   "sha256": "3ea3003b87450d59e4a9168ed246fb3a4ebdc692387da9092a404f2e5e571d4a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_openai.json",
+   "sha256": "1778dda79ffc057d0e2312c5270efcdc260887b7603ff16e1dfb0366add68bf1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "d36e2712a44c54221c4e3df4e4102433a414c15acb8d19206e1b8831b25f6248",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "e6110fa3d6773b233cd2e70281295b25899afe60b2ac15415ec93ce794eb74dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "4569631ceecf23d80f38cd6f68b32f9b62d975d16d9d37397af0761f3117d192",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_short_term_rental_nashville",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_short_term_rental_nashville.json",
+   "sha256": "092348c87157ae7742c82d5c41285f9636b456a71b94596ca7a1667a5510ae19",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_openai.json",
+   "sha256": "d28dad738cff4065074635c0f882b128fe465d47591221427154b80e2099cbfc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "4cd3efc8888462524624fc4f2d32262cb77c2d68c98caa4990b08774aaef4e4e",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "6efffd8d99ec84bb322ad1483cc65327626bdfae40c70f82527a9f64dd5c20bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "8289efac4f05b51ceb0e93cd52f6de3052ebafa50ea7971720c6f190a6708a22",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_short_term_rental_nashville",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_short_term_rental_nashville.json",
+   "sha256": "cd8db011fa8f7aa646c595f3e5fc7eedd6aa4d72522547bc4d4de520ed76be2c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_openai.json",
+   "sha256": "940b92c2886ab989921b84135d29446abcaecfea01444e0e5b747dc5dfc8359a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "bbb1edab923fdfb270d4561a1e9867d7a8b3e7578cc07d709c54f46b4819edbe",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a67700e70d05e11f461b55c309a331421905f152fce72c594b1eb262c8374b56",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "3799c2b1ffab7f507085095a821b846651eeec4788aa95fe2e97fb400f3f6607",
+   "businesses_named": [
+    "Property Type",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Sonder (Multiple Locations"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_short_term_rental_nashville",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_short_term_rental_nashville.json",
+   "sha256": "42d8863afd6b813b08d408b5960359c8aab360c27b7a7985fc7da66ec5e580be",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_openai.json",
+   "sha256": "f36648ce55e6dac19d643a5d213ab45791dbb2544463499a35f3d34d7700d5d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "157dd5aef82cfa14c399a4e10f4d21423d393c84e18df800d8167dd2b8fa6f9b",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "fc552a310aabef800113ea2671a92a77868a5f2f08a822214decb672a7c61a3e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "d211bc57dc5d046cc47b3195fb47ba4fbe03578210a43124c2eb7e22deac9bab",
+   "businesses_named": [
+    "2 Bedrooms / 2 Baths",
+    "Kasa",
+    "Mint House",
+    "Sevier Park",
+    "Sonder",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_short_term_rental_nashville",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_short_term_rental_nashville.json",
+   "sha256": "cd99fe9a0f7017052b169fb75723ef68fd7997d1ad64c0fd07ef88d8181fbba8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_openai.json",
+   "sha256": "a4936204c5c98b1140ff1fc7ceda08836d3248bb1b308630d95397df926330d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "2dd318f0fbb093de4f72a0e0ae15b766dbbcbf766b18231205a10c930cf9e1a8",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "5eb520ee136253d32ff62d4645f8ccd9d3dc6d039a824d77541ee364c4e11b0a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "42990117da8de4079f7748caaecdac405c6808cd52d409960be1e634a0a765fb",
+   "businesses_named": [
+    "2 Bedrooms / 2 Baths",
+    "Bode Nashville",
+    "East Nashville (Lockeland Springs or Five Points",
+    "Permit Number",
+    "Setup",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Sonder"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_short_term_rental_nashville",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_short_term_rental_nashville.json",
+   "sha256": "fd63053ef1d43b3562f171943f3c5c6541edccdbb276f0a0b81793abbbeddd05",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_openai.json",
+   "sha256": "ce4c0a5659c2438b956ab7d54d34b2caccbb3dcf3573b8c79330d5fd6fc6a659",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "2f0de54be4e7b17e4cb6186a8b4c084d9973d7087dc7fe0a12345bcd80f7f116",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "ce620cf717a6e11fd0dde3cfdc6fe4f035895a92173266e4a6af3f534f019ca2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "d1d5a6a44b91ce98daf0fd64016fdcef0422f56f9179e04583988264706b2f44",
+   "businesses_named": [
+    "2 Bedrooms minimum",
+    "Air Conditioning",
+    "Bedrooms",
+    "Bicentennial Capitol Mall State Park",
+    "Bonus",
+    "Five Daughters Bakery",
+    "Five Points",
+    "Jeni's Splendid Ice Creams",
+    "Mint House",
+    "Nashville Farmers' Market",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Tennessee State Museum",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_short_term_rental_nashville",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_short_term_rental_nashville.json",
+   "sha256": "b40318f9a15462fe2f0b7907bbacb59d891c9cf4518374128c0f5cc163d0a70f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_openai.json",
+   "sha256": "761edaffdb16ead15a7d3b82344d066306d9a7aeb51e19dcd15513013a71b567",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "a85831bb7fc1d32a07a809feeea05e13897e91f42e62b2754c29182903a841d2",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "3c20dfc6266853e529be160b1486cf6b57357b4bbf1b8c31c8333e6a3faa8c10",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "3b22ae03ab80db8fd43ca4570ac20fc899eb41e47f4a7e30c4fedba2948ba952",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_short_term_rental_nashville",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_short_term_rental_nashville.json",
+   "sha256": "d854a40cd16de53c98206dd7fc8220ed29e4f58923cbe89c648707fc9f4034bd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_openai.json",
+   "sha256": "7e3d1843e2c02ea498b88cee372f70906650273cb12ea04f6fe73381ce6ae378",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "6401d78ac6840e71a5604580334581aa0a63cfd72cef58f5220a8413530b1a3a",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "e2f137e2895375b81bcf4547fff13d264c8e2ff204bd58d78d0112d604d130bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_anthropic_r2.json",
+   "sha256": "bbabd50b24d886c0b1661843f8debe890b361f5b0f4ad39f794745eb08a06924",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "57d84f8e19f3bbd32b3cac7f1f6cae9afa8d7ac7f423709b39f13973581776a6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_gemini_r2.json",
+   "sha256": "1c6bb0f8a61e0b57cef2355df17ced4db2b0fb49240d498833b9f7d7291a7d67",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_nashville",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_nashville.json",
+   "sha256": "7bf306c69ba81dc0efef93065a0999a33068bbad3c3d0145fb7be9452d5b032f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_nashville_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_nashville_r2.json",
+   "sha256": "e3ce02fa38c7cb4fcb44230fe0ac6ae9606b68830d4af3e1bd445128d5f35635",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_openai.json",
+   "sha256": "533b740ffd7cb4241c9e4435193410c41901004bbe4f2adf6d73b1fcdadf9417",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_openai_r2.json",
+   "sha256": "6a4c3d057fdc69dab8f824fe8ec462df093c190c1b39b4b5691401f0fde7c809",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "ebb37889200d9a421aa055326088b8bed883409ec2804e1b14f60d2adaa86739",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_nashville_perplexity_r2.json",
+   "sha256": "f4228341040ab4deeff2e89053b28c631969d7c03a60027a962f834d875acdcb",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "8f6515e5f87748dbb6e62914915ad4f1fa181a3284ec9d618530e7cfd4cf5077",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "cec66529b3442fb76183a03b4deb53474fd46921dce19e478f945f7ba5623ce0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_short_term_rental_nashville",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_short_term_rental_nashville.json",
+   "sha256": "225d0a52e8ae43c157d76031b84b71158de0a9aed6470a7ceb2c08a309d8339c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_openai.json",
+   "sha256": "3c673dc7179db26a92cc876217a36f71df2eb932a334921b2f774f40541839b6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "23b651d465933b1668bab762840f3d3d8c749f8a1c98e4fe23dc079ed8b44a38",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "8d17a67d1f74feb8dd11db5b7e74e4745bbb4d3ef07f25f5ad970e40b772b414",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "317b29610cd46681116ab2aea87fe91a81c631bfecd4b84262a30e369cff73da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_short_term_rental_nashville",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_short_term_rental_nashville.json",
+   "sha256": "fb9365e693750e02bcda5cbcfca1cabacc962bb1c61524dc30203d9c5e73ec08",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_openai.json",
+   "sha256": "924bcc672fef3471e54fec0b2e6a714d6ed6c493154b635c37ad161865f7be98",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "bb03d7f6778b3cd48eb5416ca536d0b0abd0861050196a4f7034c9d54ed92518",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "b0c6b5f35b020f3da40a4ffce430b1a100e470e9173c84c24ae0c9d4c50bcd09",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "0db8e17a1c7dfb5af7bde6921ab0a071a3d3b2f4b53f7f887bfc295544590c8f",
+   "businesses_named": [
+    "Bode Nashville",
+    "Country Music Hall of Fame",
+    "Drive to Downtown",
+    "Five Daughters Bakery",
+    "Jeni's Splendid Ice Creams",
+    "Sevier Park",
+    "Shelby Bottoms Greenway & Nature Center",
+    "Sonder",
+    "Sonder (Multiple Locations",
+    "Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_short_term_rental_nashville",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_short_term_rental_nashville.json",
+   "sha256": "ed6d7b0cc118a5ce07728cd8d67ea4a0086dd6e1ddd5022ba1c7f00eccd991ad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_openai.json",
+   "sha256": "b35c59a4e9f51e799afabc0a203947058aadcfe0eda1145cdc7ee8d3df322b45",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "4b5fe4f41a6fb84e4d33cb1a69861c78ac11843048b3f153c0d97f7c499b692d",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "d9d85ce589726be776b1147508a88f08fe4ae1626409cfe339c7ed016a412567",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "95f726cd9e218113adee8a96994aa5c84f90d12c91d3096e01a76d1959f388b8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_short_term_rental_nashville",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_short_term_rental_nashville.json",
+   "sha256": "a3638d19adedc87475173f4c745394902289b00f63f11453b587d437e79e53a1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_openai.json",
+   "sha256": "adcf120a7f6a687be7719c2eacd48a4b080ddbffca047104e0d04c73edaa1198",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "5c5577991c898dda80bf837f808e48ea4a979ed933d7be4cb0e62952314027fa",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "1d98466daec1dd557bbaf13ba48bfad171627d2d9266ce5172d2a2d07c9dfc7a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "e54a5693e796d9fa3ba5941ac4eb01904c0f7d8425299af1e9d5d46c23b7f40c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_short_term_rental_nashville",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_short_term_rental_nashville.json",
+   "sha256": "bd95a6ee9e49832e703f3ce6aeeefec208b4ee01082e1e2e9b63c23b78cd55c0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_openai.json",
+   "sha256": "360e52a0ee0921bbc67e4fd7eaeb1653408a7dff834666b5be32828d88e144a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "ac692ec98d46ee2158f2a506252c7b679dbaad714a356e9cc3ceca5398bf31c3",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "c92a1829f0f3f9a138e60ed8e2b6bc5895ae8ace36c862ab027644ff11131f43",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "3708dca8647a8049f32763aa5c0aa168dbaf8e25d0c702b6cef5ebfe3fccee26",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_short_term_rental_nashville",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_short_term_rental_nashville.json",
+   "sha256": "fbce8c24805bf4b09f75e9ecf48b0e3a1b452619059bcf6c4bb79ed7b9d2ed21",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_openai.json",
+   "sha256": "6c63a52c1c5df3f38b3cdb3c2a244e0e290d210791193d19ee2f6e9723c350a3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "0276af48c987640ad98570ae582fca01f9fedefc7223c5afd035a79775f06c24",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "121e10f49a09ea7dedf11f0f6cbd410518e9c7a0af35fb4add1b8c1a0f44e69b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "b78aad0ce786afccae6783861816bd7e7f5514de9f6d6a125958c769f22ba87f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_short_term_rental_nashville",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_short_term_rental_nashville.json",
+   "sha256": "55d8816bb1de99298b9e255ec31d56f004f57d637058eec776d0828da54e3c9f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_openai.json",
+   "sha256": "0ed6890675165bdd8abebc02009796c3c1f0f9d050cf51bdbb22befbe7878f7b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "24d942e499f767323eb7e9fd569c5ff0037108dc92ffb108b7670c061d97e2dc",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "fa2cae17a0b25ac6048b167c9abe5a02ebd37dfc5966c57d391df005b204afa7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "e5e8a3327012e6ce9fd560d036cb08b9f7a124486ca36270db05229d1fcfac72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_short_term_rental_nashville",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_short_term_rental_nashville.json",
+   "sha256": "201d0df8a6acacb3f95d8071313b240eb1c1eae30c04d502dc5f4de69127ebee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_openai.json",
+   "sha256": "83353c25d3a4c4fddfd097c5de0beedc01a06dc1ae794ddb2cdd195854dc6fab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "0a5d770cc2c7e76c3856988355a75a97780c439acd5131ee162af950f3db4038",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "c45f6d978cae0effcfce3626136950b188a816e3059897507f98eede5f5d3ca5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "e328773994e78b7f08c3096dd0e9909760bc1dd6aefa216cf463ab6c9262da5c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_short_term_rental_nashville",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_short_term_rental_nashville.json",
+   "sha256": "29ab9643d932d2e34fdab5a1a8aa0064025d85b46bffee95279a4fd889c385df",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_openai.json",
+   "sha256": "dd424a4292e445e0b96d3401c57cde93a019535044f5ae296cdaefc32f7407c9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "e5bc5b453267bb1f622b0dab1639eb814dd08f0ddc8eb159616ede871406e3e8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "f14ce57c6f69504ec624092aa03732fdefc95dc0b2e1260067a833768a4fc66d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "91c59adad5abb5d62620ba4538830f41390d7ae357b63b92db3adccbeb94adec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_short_term_rental_nashville",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_short_term_rental_nashville.json",
+   "sha256": "640f7b804b5c2147b659c876251bf13e001f3fd3ab3099943a98d35f1e34c4f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_openai.json",
+   "sha256": "5f6a409fb5c87ff46db6346ae1fb15175ac73a41a6be3ffb4c1fe6e7f666566e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "fd8c1cedbe52477b43a8e340aedb72e64d848805cbfe43c338b1c85a1897265c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "d281f1a9025e25d671633634e6e6a3bb5aeeb2f2ab2ff5d85a47caa96c96b9be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "a3d567fe5322c626d3a9391f0ccc4f8f7e2c211de81e8215a9ce0081685963bb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_short_term_rental_nashville",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-05_segment_short_term_rental_nashville.json",
+   "sha256": "9399e8646c43d257d5a05442283e4c931a6723bb36884e76cacd56c524074505",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_openai.json",
+   "sha256": "cb9b69d48f83a737cccbc9ef7e22ddaba593f2bc7739575c4e61459113f64a81",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "b5506776653a45b968e50584874d538f56e541a8f88225a0022987d30609d7bb",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "faf44bf71676f8848ab378fc78887929d584012724382b4afe84441225f37063",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "f8711652a43a5f50f9446eea8ff02977bb86305e00d3d3b490748fe7d4879ff2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_short_term_rental_nashville",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_short_term_rental_nashville.json",
+   "sha256": "66c81009f6cc7d560840d5ea64c4c5ca5ab96b93fc2658cee2fa00b5d813c60e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_openai.json",
+   "sha256": "038c1d7789d6a578aa285da858beab787eb05b9ca7952e51fb26b3dc799c2189",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "2eabe2c62fc95be74da9378d64c853785d6f7888777375314ccaef173c7dd0c3",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "f0cac147772f73aec0b6a270f5e61a470b416c21c04cbc82a6fb4eb5b925cd9d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5c43b565a0f8356329f3fe5d3a6798146ac03e7ffa42c52c7aa81a830d83e3be",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_short_term_rental_nashville",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_short_term_rental_nashville.json",
+   "sha256": "193326b626d86701ff32a1cd276f85f73cbc62c17571a4798f3680c1028fd875",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_openai.json",
+   "sha256": "d02e225646b4e8a285b086cb2af9ba205837312c33901a00c70b64e9286c02da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "ffedcfff2448360b543884a1e8559e1e5b5b58c1f5451877a15c5f4aab038ecc",
+   "businesses_named": [
+    "The Duo",
+    "The Koselig Korner",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "edb3cfb6f5aeaab9f007770bc81f6b628f68339f25c59dfa1276dd5fcaaad95f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "f58f46bf6094a8cda23880f36ce30e8b20fe7485aff2aec87115318b0aa0eb02",
+   "businesses_named": [
+    "2 Bathrooms",
+    "2 Bedrooms",
+    "2 Bedrooms / 2 Bathrooms",
+    "Dedicated Parking",
+    "Drive to Downtown",
+    "Jeni's Splendid Ice Creams",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Tennessee State Museum",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_short_term_rental_nashville",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_short_term_rental_nashville.json",
+   "sha256": "7470764ed4066e9cd96346b2986b752d3aef49743e66c86c13076f01f228c687",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_openai.json",
+   "sha256": "6d18ecc7b5e5e00824ac22cface2853c55424b15bc83babb70915673667f36ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "a4f999b6addb330d2323c9bc3087a9cb0f7e1e392c95331a4ed6540ddf828843",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "cc8e6ddaa63ad55d6235ce607ab2a7b47f18b6ee5b2c601e67347f90b59132f6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "78b8028213754f1f8b09421affcb8e895afe1e056067d215f64287c1046ad03a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_short_term_rental_nashville",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_short_term_rental_nashville.json",
+   "sha256": "b55896a9617cb8811c7aa8b014229af3fb6bf441088ae3381fc23ef86b7ab4f2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_openai.json",
+   "sha256": "afb91dca308dda5296f380d025c06882ffcf0a7d40dbbc07732578a73adfef7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "fb082d7bd8768107db5b558571825139a765817a40a581f3b2c27032b8e96e31",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a45ac90fa04933967675e8e1b512aa6403c7381f77e9132e2febe14fb62702e2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "9a70594f64c254ea936f6da8424ce7d4956ce0d79579c30d5380af2041b4a54c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_short_term_rental_nashville",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_short_term_rental_nashville.json",
+   "sha256": "5e2b3ccc24ac6454b67e3b101bf42343d93a5530f372789784f395b69b641f55",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_openai.json",
+   "sha256": "42742930326389edda507f5f5fde11871ae9d2fef86fe36ff9cf95c6d1c305ab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "6154554071372a2781dbbee903cfdf526185321ba93047a49f93edeed8915f3a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "ae6d735100cba11cdaf45dde23897cfdb3ed06fdb7c602e9f0a23be4c36b25e6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "ca8423cef3bb0c99bce7a56def7db81c40b6f3de296bce04e917d2badc5e04ec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_short_term_rental_nashville",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_short_term_rental_nashville.json",
+   "sha256": "cee0178af44949771d832c411cbe3a31cbe0d20f8a7e4621ab8bc4fe3be0b5b9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_openai.json",
+   "sha256": "b3c8632957a3d9fcfc4b430c7c01bd2d9f0ff817c0071d61c79df7cc6b37c68a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "3e524d4914598fcb8c18ea1137e5fd3717e4f210ad8b644d2cdb3d963423e701",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "ed371d7e6f21ecf43713c455e8f4ae9162037209880899303920d6850fad1e2f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "f8d4497850f465d3800058adade75c954c484a8b99308490a6d0afb5a5aa944c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_short_term_rental_nashville",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_short_term_rental_nashville.json",
+   "sha256": "49ef4fba9a57409eaf9c5b8bcdb238ff1c5d39d985b69d72abd00af8a08db77d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_openai.json",
+   "sha256": "a6078caabcf7636efaae23e89163e7965fcacc7b5d6647e32055f39f2ebceb06",
+   "businesses_named": [
+    "Five Points"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "1a2401f4f1ef745e3454f3d8276edc10e6830f8797f821c396213a27574d90ec",
+   "businesses_named": [
+    "The Duo",
+    "The Koselig Korner",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "2c7a75609d77853ba2de1d17e5402bf2ea567e91271ca9e2b4f54f743e856a9d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "d812629aaba1dd1c563202586d49aa82bf6eeae66e652b12c5e3aa975373c204",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_short_term_rental_nashville",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_short_term_rental_nashville.json",
+   "sha256": "fdfce515fd312a85bcf025e416b9eee2b7f5af6e8bcc29ba8504e8259f62b595",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_openai.json",
+   "sha256": "c4b9f852062268dad47a1acb373832d8b28cfc063b0d93bb8b45dc6873ffd4fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "0e6845cfcff7ab64e31006b2017d03b1cef21c4156becf3fb1e36d16adc8782f",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "a5e688e48428314a066887256d27e56591a77688b47335c11a9535fa48128139",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "8fb2db45759abd8ae14c3add011f361ce969d3b8265ccb0faa12a3f3aabef9e0",
+   "businesses_named": [
+    "2 Bedrooms",
+    "Bedrooms",
+    "Bode Nashville (SoBro / Downtown adjacent",
+    "Distance to Downtown",
+    "House",
+    "Ideal Layout",
+    "Jeni's Splendid Ice Creams",
+    "Property Type",
+    "Sevier Park",
+    "Shelby Bottoms Greenway",
+    "Townhouse",
+    "Washer/Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_short_term_rental_nashville",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_short_term_rental_nashville.json",
+   "sha256": "df7b489db1586dddb50593a11ba03e2c8afe0992283d298b3719f7cfc40aa258",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_openai.json",
+   "sha256": "856c0e655ebca67005b95bffbcdd581d4df21bcaf1cc837e94a0cb35f68f3f77",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "5e108f4411916c992a6df8ed7688e46246abe10cbb9e2efd03c64f2511042c24",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "bde49c7f236b5af39c1ef85d82cb7581339a76a963e80766a8a0cdcc53d4a0d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5e968fe0f1006849f64de4a12e71c5d2373c7d6562ce46ed88f12e75dcbbeb63",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_short_term_rental_nashville",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_short_term_rental_nashville.json",
+   "sha256": "6143a94e3556ef42cbf214333ba748a6335cf2be5bf4329cb1c74cdc471cde68",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_openai.json",
+   "sha256": "83b1e8e847c8be6a9258217e9e16a705dcb29170268bee03a020c0da4b3d3097",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "c85620df2267923be32f848fc845bc5eb6fb3e41e27cdf7642d586546a5dfa46",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "72de084389fa5e386e02d922853922303c308e0b25ade83a5328e5d9c9024792",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "d4a2d9c25cd684fbab183a1af6e3f35f88b01e889b1e7a89ae4339b5cbb59a3b",
+   "businesses_named": [
+    "2 Bedrooms / 1.5+ Baths",
+    "Air Conditioning",
+    "Dedicated Parking",
+    "Filters",
+    "Guests",
+    "Permit Number",
+    "The Vibe",
+    "Washer & Dryer"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_short_term_rental_nashville",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_short_term_rental_nashville.json",
+   "sha256": "846ba8849f15e127d9362165075ef74ba19e665bdfe17fb03207bf941b993f9b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_openai.json",
+   "sha256": "d3e824bbaecca45997499fae1f458eb22219e7d248105b0709edce69e4b03c14",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "b59817b4182b0f45a9975bddea8b0d5982594e83adc929b46d757269fc8e009a",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "806177b5a462853fc4f26368075a2c362b7909f4abf2c5a6f9cc2f47ae7d6e22",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "e19c7ee138c630a9339998558d1ae71280056cea1e1205c4ef8cb55a66ccddee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_short_term_rental_nashville",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_short_term_rental_nashville.json",
+   "sha256": "f6fa7f81152d3823f5a81c71bee1a6b27de656c56b7d7f046ad1da8857fc3c01",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_openai.json",
+   "sha256": "c9d179d5f8a7b2ecfe197c623a44043579de113c288d7d27c5a0d0b105418b55",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "00d936c39986d6856416ee5f82eda8aff11e8527b36603262933c3bfb0401785",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "3f29294a914bd65b122aaa885588c881783afd110cdbebd392093f52f5d560be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "5aee1f57be7f03688cc4f934e10b8b14001d613cea72f78a344aee6931b97ea9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_short_term_rental_nashville",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_short_term_rental_nashville.json",
+   "sha256": "151857b98ad34cb69fb33c65a5556f4d8605d5fcb1617247948c05e7048ba283",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_openai.json",
+   "sha256": "ec595f9d7ceef881d8043d7ee1cde37df739bd7352012f9f05342fe4a20086b4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "1518f9e1b6b5bd0b3da7822ecde2da0a2988d62997d51d3bf109ca91540bac42",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "3823fec592ab1fc2f9d89a8f780573188353f2902f029a69a30cc3896d1eb8e4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "76b0aad1d88238c4db2ef77773b98163f50ae4120a0ad55068b2c977ba56aa67",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_short_term_rental_nashville",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_short_term_rental_nashville.json",
+   "sha256": "749cb7b3c10ffdb1b86765794536f8a02da4d98b3daaa89b71c5ae0b38574177",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_openai.json",
+   "sha256": "023543ad9dcf29b4606ee5748da9a926ce081560f76fc2b742d99d2d64b460ea",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "7fd5656f911f40d09b3a34fc8f8cb939f1c2c1640c1693f7d74d7226679c5949",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "1f4b79f60b1b2878ce181574aa02a819d9c1bf0faa07ac7b145b8a3739e87629",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "8ba967803dfd785f18637b154a87c025ac97bc7832594063f44b068a14ea1963",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_short_term_rental_nashville",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_short_term_rental_nashville.json",
+   "sha256": "d9376ff97e7bc3b83ac59e5ef8786c0322b7814691f7e8f4399b9cca484fa882",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_openai.json",
+   "sha256": "92a6f1b489704d6ebff6e15e214728bac98e20becfaee03a879cb6c2fc7aa3c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "b5e4b8030bc2c7a1b9f0a3ffb015d528fb5815596a8be83db81d147e60307fef",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "b5f5d9677e417e28d4f8e4ff1fe40f6042836b8bf51b76f94099b9f7fc8eeab7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "cbb3aadbdfb31d550973413210215eb5cc8dec9f1eb221cb6140f8ab0cb680c2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_short_term_rental_nashville",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_short_term_rental_nashville.json",
+   "sha256": "a7a175ca0379915279592452d51d178c63c8c946069f80b717b048df7df3ca9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_openai.json",
+   "sha256": "1b4cebfbfc862ba610595ec16e59ede988b3525b14f64cb158a3fc6cf7c0bee8",
+   "businesses_named": [
+    "Country Music Hall of Fame"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "11a3e6068d5a9d53d603e65c36cbd83c9975c18c58633cafdb331fa9bf8ea414",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "382365ceba72364f02769d3ae094b5896582cd087a3181cf5432e5b509746d17",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "b1c467285a360c46995307de5b68fc0f35da0478e640a82ca5c9e312362132bd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_short_term_rental_nashville",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_short_term_rental_nashville.json",
+   "sha256": "bc2db5f112eb48abbeaa13bd8f66a73c4e287455056a0d8ed2efec27a6f7e647",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_openai.json",
+   "sha256": "6cd3d7b01466370bba27c506e619463dde935dbdd6900b19031717b3131d8786",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "869c06b79c3d7a86a2f59cd9316a375ae655d6f428c2c8ad250215e7bf61e1cc",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "d99303e7afbe6d6d51920573ab988a9e3c2eb1f5ccf868ab7cd8cbfa79735d4f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "6e02ce4a00472473072df906bbad8cf1aec15a98702a1181169ba8936485b89b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_short_term_rental_nashville",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_short_term_rental_nashville.json",
+   "sha256": "8e2f2f02b62f2cca9bb2f906c00630e11ddac1eea90575369623cc8bf76f939d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_openai.json",
+   "sha256": "2ee3549f797b7413c7580a66f68ffb9288eb2f8ef4c67566d37881882c9b0c5d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "c1f00f2572a73852e7e7aa953a4b1c5ce05b4085907e3d8dbfd34709f8207069",
+   "businesses_named": [
+    "The Duo",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "b24d93677dcee3f997574e7cbcae7e7e3c2fbac44207b8f562ff9e12de7de6cf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "084442fb28475328a39fce420b2a9acc5dbb40b7137fb8396b351aba8bddef86",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_short_term_rental_nashville",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_short_term_rental_nashville.json",
+   "sha256": "ced73ae46db0299549ed7c4c8ae7f6864b365aa27148426393dfb161c54b7ef8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_openai.json",
+   "sha256": "868dd008481efb74c5343990dc315d0cef146aa20324916afcdec634c78ce300",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "563075830df5e8d322a588ddc94de98b34543d08f8ace49e76808610d2e618a7",
+   "businesses_named": [
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "f3b552d5593d72fcf77ddf3ee53c4d523e12063b2a7518d2eb14d97c9f713c8d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "fdcf79d61c0f0ef6df5d84d61e80efb683a5a09bc60c2d22fd2ca912a8d03999",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_short_term_rental_nashville",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_short_term_rental_nashville.json",
+   "sha256": "0400d05afafe0be847e155068d0e225d9ff30befc8a0220ef6aa38258f2dc749",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_openai.json",
+   "sha256": "fba025e839eea50d361b07fdbce2da4c02d4c2f587eeb214ac4d6901b418f795",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "aad05192d230f2ad076596c4255e05fc5395dd27045c945f77aa23be4c75b99c",
+   "businesses_named": [
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "79beedae90f3bed469b8b7f0e1f48d6503227631be87c92ce8fc24d4e1ec6dd8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "3d845d66fc3487efc9518160d912814c048939b74373df635d60da179b545f9b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_short_term_rental_nashville",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-26_segment_short_term_rental_nashville.json",
+   "sha256": "9bb7b080f391584e3eaab006f14e55acf9c4c9986bc447dbddcd6fdd4f996116",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_openai.json",
+   "sha256": "5502d694abf63e1a3779cc67ef04f97121be7790e7e1011d50a47eeb8b3f3a14",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "5108025ddd35568f6233d761d7b59605f2829671b7a6cc4887f3b3a3f07e88c1",
+   "businesses_named": [
+    "Treetop Bungalow in 12 South",
+    "Warm Nashville Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "f3e8f0f5c1663ea68d26e152eea40558b4b5db87209fd485d26d0a12fdeca047",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "45b6bc189cbdc6ce733969d73e0de6ce693b882b5a7d7d0dd414b1968da3b030",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_short_term_rental_nashville",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_short_term_rental_nashville.json",
+   "sha256": "9c034610660d65c0c91de7082aa1cf408a22411359fa655157e957109351e720",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_openai.json",
+   "sha256": "96af95c3bc22710d85b28d097823b3adcdf8f6e2f8d3c7038a6c5478b388a8e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "7ea6287c0846f0d2a67d162da1b30c45edfd7ae925c8892f44f24eed4459e6ac",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "1a52f764b9961563ecebf6053627a4e5216eac9e232bf8111a797dc4a41b44d5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "486ff2ede7bf993a50f4c54e96ee75c346d125e9807966ad85cb4ca427ed21cf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_short_term_rental_nashville",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_short_term_rental_nashville.json",
+   "sha256": "978b58a3f075bdf75df1616dba96d481a6cfd62cc57e5d3a35cbbc4d740f7d68",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_openai.json",
+   "sha256": "99dd0d6b85083633c90fdd96d8a94e607110b1f79e3830cba8316d514e908bcd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "5152cc6d7f51b7640be4ed8d313ba48a700cb6d7c9b0d10bbe15b49b1ad63e65",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "d321fa7884838ac6a7b8a9af72bf1f588198d6ed1d8f0030a351ef802017f939",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "ed56c9689dafc6a78c0615c24eb53afd8f42b557b6b7f4f7e23ce926f2c515c4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_short_term_rental_nashville",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_short_term_rental_nashville.json",
+   "sha256": "a5546b8d9f5fa094b2ffceca5b13105784621280efeb5dd93e9bc68efd3adefe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_openai.json",
+   "sha256": "c1068d0281203b98d7cb55a1368cc26ec366c1060451a6d0728457b37f70c44e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "05467e4c2eafd4fce6b1bdfae19fcf1d56d84435df0821738a185031f40b1b90",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "3d7b358ff85891bd598030d7ac591dfbaa19204536231cb7153fca6f1b34296e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "69a3dafdc0f323aa907ecd9af6493550abefe5fcd04424467b9fad5d415f13bf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_short_term_rental_nashville",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_short_term_rental_nashville.json",
+   "sha256": "8ad9232e652d84ee7f9272e3d47f5843b16d95947e4a17d8b50740d96ef0e82a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_openai.json",
+   "sha256": "764bea41b08c7dfaede56f2d32dc8b0859d2859980246b067dadf7cda188c314",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "56551e7a8045e8d486031526e2b7d59d20b5d3550a611313e9be8221a9edd8f2",
+   "businesses_named": [
+    "The Duo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "03e93f3eebde59984ccae23055382c3c45f22962344bbefa9199023001ab6723",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "61db6666ae66816ef2610e96ff205648be4c5ef8f14120d8a0fccb95209d9d87",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_short_term_rental_nashville",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_short_term_rental_nashville.json",
+   "sha256": "2d5f05518475a11084bc047d902fb0c3e6ae3b121026d4abf76599f675beda23",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_openai.json",
+   "sha256": "bcb24c70194ce7e6eb7cdc190ca1be8d370fec18a90afbbb9befc6623cdc8d5f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "9c235bdb10cf0e547581cb8d6527fff26fa5d12762493ecd4d747c4dccc39a43",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "6cc1c9c2d24f22c834a108863cb2eff03b140e3e715e1359b95393fcdbc247d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "fbe103c163c6e37c7683b903468346c31077788222cfe5886fa5c7360571cfe6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_short_term_rental_nashville",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_short_term_rental_nashville.json",
+   "sha256": "fb12f5a7330b7c688dd734a9aef8a6aef0367865845f4dc463d05195af551d62",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_openai.json",
+   "sha256": "3666a5e67d8eed30694a806bca01941bb119c2e708583101ce3e6c10e3b8fee1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "946c96d72da6d447ed0098cd3e44e5c5c9dea15870751e25eb40ff40fbc54cca",
+   "businesses_named": [
+    "Sentral Sobro"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "aa798fcd33b4e63576768a2596e7b9182098a4bc7363598569fd443e7f939d58",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "e44f289d73ffb0db31a70a5ffc9dc524af2f05fa368ce9fb5dddb12016e51d59",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_short_term_rental_nashville",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_short_term_rental_nashville.json",
+   "sha256": "774e7d24da794f1bb8f0e4f74e60aa3678fccda350a85acd778c8989115d0612",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_openai.json",
+   "sha256": "4f95dc794a98583e4feb2649efa41ecc3588012375e483a7bf908a4a0eac76ce",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "b2668bb2bb0bbd9c2234bfbd769f188718371883c4e76ddb6248dfaed2a7962a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "847e30dc2c3d64c0116d58ca4cc94a172fdc1286bd345ef805e85e89a208dc61",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "ac289ce95279cec58620bd0f2b0b3e1fc37685ef32114592370ca783de8c2da4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_short_term_rental_nashville",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_short_term_rental_nashville.json",
+   "sha256": "9d64c03ddd79f4f5bb950374abcc9a24b284b228e1f820a8b3f8bdfb314cd8dd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_openai.json",
+   "sha256": "c4a287eef2bea100afde2c462233aaa93a268715673ebe2d20be037b1c4956ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "8f8d553976e13c86f92595498b866bb34fc68ae44cb63f6ccad12767c4093edb",
+   "businesses_named": [
+    "Treetop Bungalow in 12 South"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "da2992d52d42c180169698c4ca5a16450cfd3d4e64a5ca193f1d04cec93fb976",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "500b527c72d5c39635f94e398ebef7cdf98abc4037cff80257710c5e54b2974c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_short_term_rental_nashville",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_short_term_rental_nashville.json",
+   "sha256": "4913b157b3984ff9da290ee5c942842dd2c2e2a459240fd8c806695d83b2c113",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_openai.json",
+   "sha256": "854cc27439152060562a835ab1abb37d08a367eec6f8dff3f74c6175d9487830",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "8a6c53b15949081d879051c5b8a11965c24b7d6b6736c808137a0cb8e0f0a965",
+   "businesses_named": [
+    "Nash 2BR 2BA-Private Balcony-Free Parking-Pool"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_anthropic.json",
+   "sha256": "61df8214989522a3e30719ad745f18db27ed9049af3c13070227dafa7d975f9f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_gemini.json",
+   "sha256": "7c6ccd9329c0705ad0eda4093e6bfb56ea0ab0b26426dd1a193165dfe9dc8e2b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_short_term_rental_nashville",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_short_term_rental_nashville.json",
+   "sha256": "a8e29b586e11aa52b4826733026ed5191281b834a7d542f84a3bbd8cf1680e3b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_openai.json",
+   "sha256": "3758d5fcdb21ec941efa9302f847610085acd553d24ad1836c699f4644740c7b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_nashville_perplexity.json",
+   "sha256": "a40b71a9f90bf184044cad201de7730cac48c8f413e77011edbf388eee1e73f7",
+   "businesses_named": []
+  }
+ ]
+}

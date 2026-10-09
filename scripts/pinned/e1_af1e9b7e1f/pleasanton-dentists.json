@@ -1,0 +1,2529 @@
+{
+ "slug": "pleasanton-dentists",
+ "url": "https://namebeam.ai/pleasanton-dentists",
+ "prompt_verbatim": "Who is the best dentist in Pleasanton CA for a checkup and cleaning?",
+ "market": "Pleasanton CA",
+ "niche": "dentists",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "Alisal Dental Care": {
+   "Alisal Dental Care": 1
+  },
+  "Bernal Dental Care": {
+   "Bernal Dental Care": 3
+  },
+  "Dental Hygienist": {
+   "Dental Hygienist": 2
+  },
+  "Dental Oasis Family Dentistry": {
+   "Dental Oasis Family Dentistry": 4
+  },
+  "Focus": {
+   "Focus": 2
+  },
+  "Focus on the Hygienist": {
+   "Focus on the Hygienist": 6
+  },
+  "Gateway Dental Care": {
+   "Gateway Dental Care": 21
+  },
+  "Gateway Dental Care (Dr. Rick Kitagawa": {
+   "Gateway Dental Care (Dr. Rick Kitagawa": 3
+  },
+  "Gokani Dental Care": {
+   "Gokani Dental Care": 2
+  },
+  "Highlights": {
+   "Highlights": 6
+  },
+  "Hygienist Reputation": {
+   "Hygienist Reputation": 4
+  },
+  "Hygienist Reviews": {
+   "Hygienist Reviews": 2
+  },
+  "In-Network Insurance": {
+   "In-Network Insurance": 2
+  },
+  "Infinite Smile Dental": {
+   "Infinite Smile Dental": 20
+  },
+  "Insurance Network": {
+   "Insurance Network": 2
+  },
+  "Jerry A. Sanchez, DDS": {
+   "Jerry A. Sanchez, DDS": 8,
+   "Jerry A. Sanchez, DDS Inc": 2
+  },
+  "Kindred Family Dentistry": {
+   "Kindred Family Dentistry": 5
+  },
+  "Known For": {
+   "Known For": 4
+  },
+  "Known for": {
+   "Known for": 3
+  },
+  "Location": {
+   "Location": 7
+  },
+  "Location & Hours": {
+   "Location & Hours": 5
+  },
+  "Mona Lisa Smile Dental (Dr. Mohammad Khandaqji": {
+   "Mona Lisa Smile Dental (Dr. Mohammad Khandaqji": 2
+  },
+  "My Favorite Dentist": {
+   "My Favorite Dentist": 2
+  },
+  "Office Hours": {
+   "Office Hours": 2
+  },
+  "Office Hours & Location": {
+   "Office Hours & Location": 2
+  },
+  "Office Location & Hours": {
+   "Office Location & Hours": 2
+  },
+  "Pacific Dental Care": {
+   "Pacific Dental Care": 6
+  },
+  "Pleasanton Dental Care": {
+   "Pleasanton Dental Care": 14
+  },
+  "Pleasanton Family Dentist / Sara Soleimani, DDS": {
+   "Pleasanton Family Dentist": 4,
+   "Pleasanton Family Dentist / Sara Soleimani, DDS": 1
+  },
+  "Pleasanton Ridge Dental Group": {
+   "Pleasanton Ridge Dental Group": 16
+  },
+  "Pleasanton Smile Dental": {
+   "Pleasanton Smile Dental": 9
+  },
+  "Pleasanton Smile Design": {
+   "Pleasanton Smile Design": 2
+  },
+  "Pleasanton Smiles": {
+   "Pleasanton Smiles": 2
+  },
+  "Pleasanton Star Dental": {
+   "Pleasanton Star Dental": 2
+  },
+  "Pleasanton, CA": {
+   "Pleasanton, CA": 3
+  },
+  "Recommendation": {
+   "Recommendation": 3
+  },
+  "Santa Rita Family Dental Care": {
+   "Santa Rita Family Dental Care": 3
+  },
+  "Sohum Dental of Pleasanton": {
+   "Sohum Dental of Pleasanton": 2
+  },
+  "Stoneridge Dental": {
+   "Stoneridge Dental": 4
+  },
+  "Sunshine Family Dental": {
+   "Sunshine Family Dental": 2
+  },
+  "Technology & Comfort": {
+   "Technology & Comfort": 2
+  },
+  "Zhao Dental": {
+   "Pleasanton Dentist / Shirley Zhao": 3,
+   "Pleasanton Dentist (Shirley Zhao": 2,
+   "Shirley Zhao's Pleasanton Dentist": 1,
+   "Dr. Shirley Zhao's office": 2,
+   "Pleasanton Dentist / Dr. Shirley Zhao": 1,
+   "Dr. Shirley Zhao at Pleasanton Dentist": 2,
+   "Pleasanton Dentist": 1,
+   "Dr. Shirley Zhao's office (Zhao DDS": 1,
+   "Zhao DDS": 1,
+   "Dr. Shirley Zhao at Zhao Dental": 2,
+   "Zhao Dental": 2,
+   "Dr. Shirley Zhao's practice": 1,
+   "Zhao Dental (Dr. Shirley Zhao": 1
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "bd532fe99af6983972f8862c41fb82eb4f78b4242df700c4b6a7f0927caa8def",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_gemini.json",
+   "sha256": "a0a71ca05caad32068c1abf4dd0fdce1e83f3a703cdf4ef1378a0dc31defb2f2",
+   "businesses_named": [
+    "Dental Hygienist",
+    "Focus on the Hygienist",
+    "Highlights",
+    "Location & Hours"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_dentists_pleasanton",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_dentists_pleasanton.json",
+   "sha256": "d566d32e15a19c86dbdb6f253496a15d5b38aa98e32d1663271a2d5c9b917f7f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_openai.json",
+   "sha256": "454fbbb4f5d164dff9b3d02db7ded191e8ca7f66124ebce6eb4c35c76c2df8b6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "f8ecc142dc384e5dcc5559a4edb50746b6ef78411a0035dd812a18a806f6d568",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "c8ad1889d97c6ff03c697de7b0f9c86640d91a4c649b4965e90e04fb215167cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_gemini.json",
+   "sha256": "34aaf5e725e0959f1da2dae9188f5efa498dc6351f72d4bedf70c12c0b43ee42",
+   "businesses_named": [
+    "Gokani Dental Care",
+    "Highlights",
+    "Hygienist Reputation",
+    "In-Network Insurance",
+    "Known For",
+    "Office Hours & Location"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_dentists_pleasanton",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_dentists_pleasanton.json",
+   "sha256": "8d8fae8dc2d106996027a02583e0711d4088adf65f8e83d8af8cee9e54b33d1b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_openai.json",
+   "sha256": "8572ebaaf43b34d41825eab7858b72554eb7611b83705746d459b9ed13c26831",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "f55ea5abc8b5c0729013ab0f1478b51ef28d089db9ac16abbffbff93dc4e6ee9",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "My Favorite Dentist",
+    "Pleasanton Smile Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "ce8f6b330fba984ea24cb21746ea63e88afb3d4850de640429d8bbd4a3b26363",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_gemini.json",
+   "sha256": "96927a868353e81f1e51f7a80e7fa94572a5cc9c6f4cad2161c34843f0241984",
+   "businesses_named": [
+    "Focus",
+    "Known for"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_dentists_pleasanton",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_dentists_pleasanton.json",
+   "sha256": "5f2b1b2ef1edabef248952deccb6b4914fad5cff99df10ad3a8f0e98634f48c4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_openai.json",
+   "sha256": "afef95cd8fdd48c86b83d27bc5287388af6977e1328dcd248fde7e3b6a2f2402",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "963f3c06d03b805c339b5a15b1c9beb94cbd7f296ab63486fce068c63ade66c1",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Ridge Dental Group",
+    "Pleasanton Smile Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "67b69b67bc2273000d3b102110d09bbc935e321cf057675f3f453ad5bedf2dc1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_gemini.json",
+   "sha256": "68dbe0ba7cfe7fa9528be9a799a2a2fb77e4581c5c6d47f362ededed91c82418",
+   "businesses_named": [
+    "Focus on the Hygienist",
+    "Location"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_dentists_pleasanton",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_dentists_pleasanton.json",
+   "sha256": "7014bdde0c5f04122e77d9902e03162e44dfca2137ca61d76367207acdcb669c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_openai.json",
+   "sha256": "447e9548932a1a6da4afb2d58a2f042a53a27ef1791f6916d60c5dac2f4244f5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "7580d0966e8f69ccbdd390df58bd50c98121aa03c0963147720dfa7fc7cdfe8b",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Pleasanton Ridge Dental Group",
+    "Pleasanton Smile Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "c5b66716fe5ded80f39fa49f1e9c54052757eb01a405719e89e9ac54b96ed002",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_gemini.json",
+   "sha256": "752ff36a24f1232f6a1744e64d259286b0229575f804ebc73d40d0ce9646b2ad",
+   "businesses_named": [
+    "Focus on the Hygienist",
+    "Location",
+    "Office Hours"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_dentists_pleasanton",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_dentists_pleasanton.json",
+   "sha256": "effe76cb900fab58e21d753f8f1f51a69cabde28abd37609df4710f04ba31af8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_openai.json",
+   "sha256": "f2e1c5d08ec3ff2e23eccb1941a0c03d1b0c6b3beb27aa0e9b6e0064a5f41459",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "db7d227644dae0f0ae17965d9ca88fd07ba8e8162a4fffb17073059c0eb551b4",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Ridge Dental Group",
+    "Pleasanton Smile Dental",
+    "Santa Rita Family Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "3c3cf0de3d60df4d2dc27788cd41f554f8dd12fc968b03c4a1154fa420efbe04",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_gemini.json",
+   "sha256": "afe4e12c34c86259baf17b0f99973313cbcada89c3c79b622defae7a8db02ead",
+   "businesses_named": [
+    "Focus on the Hygienist",
+    "Gateway Dental Care (Dr. Rick Kitagawa",
+    "Highlights"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_dentists_pleasanton",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_dentists_pleasanton.json",
+   "sha256": "6365e7d27fd36015a0e5db343f9ca27769847c34e5237c3ea04388aa9f5d48de",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_openai.json",
+   "sha256": "70cc1ac8710dd6f6653da40a7068d8f550522f049407068761122d699a19f7f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "ccbc39f00a8e01b324462c55f34e349ef48263a366e37b7ad81d96f040402b2d",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Ridge Dental Group",
+    "Santa Rita Family Dental Care",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "df8bb6d3735275425184d7ad5bc1160e865d5d65f0a138c6729630618e45c951",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_gemini.json",
+   "sha256": "bd5dcce47736db1b4fdc700628ffffa0a9dec400fbb1c11eb5e63245043ebafd",
+   "businesses_named": [
+    "Highlights",
+    "Location",
+    "Pleasanton Smiles",
+    "Recommendation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_dentists_pleasanton",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_dentists_pleasanton.json",
+   "sha256": "134ca34d33c303488e18fb97281a937f477858f738fefcce99aefed99b92dd6b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_openai.json",
+   "sha256": "2b0312ca8779c5e201a4f4f8b2b4195fc8a83ee1e20efdd05d58de2b88f9a003",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "4fb1b520cb178507e89aacf13da3b95de7ebe8ec984dbc0ea535bbad50a59c7b",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Smile Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "7aaea4941f15baee389f6f0a51f671c760d0447f4fcbdc24f7c16ede978a80be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_gemini.json",
+   "sha256": "5c8a1c107c5101e5607b22432107e435e7decc9e3112ccf5ce764c55a489b020",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_dentists_pleasanton",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_dentists_pleasanton.json",
+   "sha256": "8fa8ece8843cca08f950034b3d92914ce58746a531ebca90b72cf9fe96646a06",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_openai.json",
+   "sha256": "4e4e24e8e4c69307ff12f5d29e25e382c57c00d8e215868fe7d2f94a4916656e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "3aec8a77a77b0526c9308463a24cb0eaecbc4cde3ac2c163dfa88dc11861fb55",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "c8679182826d8b4b0485e2a0f270ae05ac0b3e00c62509713a06049c2ee57401",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_gemini.json",
+   "sha256": "8a9fd661a5fd9bfacee4040623f32629b8180e7f13dfc30fbb46d23b23f98dfe",
+   "businesses_named": [
+    "Dental Hygienist",
+    "Gateway Dental Care",
+    "Hygienist Reputation",
+    "Known For",
+    "Location",
+    "Recommendation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_dentists_pleasanton",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_dentists_pleasanton.json",
+   "sha256": "5b5963c3b193633bbf5d534448cc07140cc717f4abd721e74edc0634deb883b3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_openai.json",
+   "sha256": "4eb83593c4d3e155e549da8ed40ad195e6ae146fe83309babd332d6fe344faf7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "73d263c88eb68dde9816ca43927682bfb78e827cf06be2cfc7100112ddd99dcb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "ba78da08f778ce09ed5b4ea138321476b9ee32469f0d2283d3f7941b394f913e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_gemini.json",
+   "sha256": "35d6b37214f2cf1c34bae5fdc511bb06918e5680c9dd6c57fdf4fe14af17f05b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_dentists_pleasanton",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-04_segment_dentists_pleasanton.json",
+   "sha256": "c1eb83f1e73b5a7340bdc65f969f1043f002737b0e3580e595aa55520ab21343",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_openai.json",
+   "sha256": "c849c600e87a3db46612bf6f766b951bf66fcf251f103ba26126207b197d9e41",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "208881a86d99dbee85c7945ffe7a457c3ca25a543263a7cc47c51d24a92a3e94",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "624a05043040dbce3da511bd94eb4df0fc1e1bcf94ad873a5bac524d410497ae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_gemini.json",
+   "sha256": "180eb72be6f5f4d9e05045c2f807b1b2ab6c4173bb6540c84edc6d927a18a3ba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_dentists_pleasanton",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_dentists_pleasanton.json",
+   "sha256": "9828fae84a279c1af2dd8f475b13b637153bab6bf9ed36ff2384016e45d18baf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_openai.json",
+   "sha256": "41f11c82bac432904637c170cdc3e50ac2c5bcf0c9e1172e95648f91b775506e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "d007563239794018fc2ec80fb604f4597aba4c3a8ead5c6f164015b6eaccc3b2",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Kindred Family Dentistry",
+    "Pleasanton Dental Care",
+    "Pleasanton Smile Dental",
+    "Santa Rita Family Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "2128cd262b42a599bbee797b59bb02975140967dbbd3f359b9bb8079514358b4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_gemini.json",
+   "sha256": "bcfefe803e45f073e849a146fec5c79f24579c5171df76ec75368b9f7ae01c7e",
+   "businesses_named": [
+    "Known For",
+    "Location",
+    "Location & Hours",
+    "Mona Lisa Smile Dental (Dr. Mohammad Khandaqji",
+    "Pleasanton, CA"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_dentists_pleasanton",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_dentists_pleasanton.json",
+   "sha256": "99f08bf221452c589a98df7d40a4e1a34474d5265f13da6a309f908a0dc31b34",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_openai.json",
+   "sha256": "816085dfc0c109171d9e47c35b54f213834266913584a68e9df19a5a4b152e95",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "0570327c29fb5dd0446684dcf51dbaea789ec76696ed6e9adb043f11826862ae",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Pacific Dental Care",
+    "Pleasanton Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "84b880ccb8d3cf3781fa2ff536474cffe51c4769868d261cb7bad5a5c1e1b7a0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_gemini.json",
+   "sha256": "b5a7c5d3b164fe1b677f9073818c27fbe2697eba0a61112747c7e76d3824cb32",
+   "businesses_named": [
+    "Highlights",
+    "Technology & Comfort"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_dentists_pleasanton",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_dentists_pleasanton.json",
+   "sha256": "af5ff6326d6aed1fd6e74c689c40eddf167b86ca1aaa18705effd1289170ccf9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_openai.json",
+   "sha256": "5b26cab920439c46b5c9ecd6a710e5fdc81cda0486288ceb45069b3254c1f507",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "03702b81e8d01464ae8506d95367fa493729643d769ebc5ee187cf60c3005402",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Kindred Family Dentistry",
+    "Pleasanton Ridge Dental Group",
+    "Pleasanton Smile Dental",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "d2752d4d1b61ce23388c3cc20fe82e350eafc849daa3a8ed5190a1a736baf508",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_gemini.json",
+   "sha256": "57ba0480f223574ef8d81430ccbba19e0f7494d17a8967e9445ae06a4710003c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_dentists_pleasanton",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_dentists_pleasanton.json",
+   "sha256": "611bc98eb2075bc9a8cba81e63c2270779b116540835c585c21610c92fc1edf5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_openai.json",
+   "sha256": "3f57862952de475983a74004842c047e0af738d3a4ab5a5574c2031f00cae505",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "f79b3ca9f7e8076996892e23685b7f2c5738c511d55f70f08a45fb61b9733422",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Kindred Family Dentistry",
+    "Pleasanton Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "1c9951587a54214d46536dae8fd7e57bd56ae823b7de375edd0e85612acc3784",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_gemini.json",
+   "sha256": "34e6d96e246791eca84f11eefc5753d1c1adac5f641e2224077bd062e4f5e27d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_dentists_pleasanton",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_dentists_pleasanton.json",
+   "sha256": "7d301f23b70d692060cfa815c830a8a4b158df80c71a5fe9706af2df38cd9af8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_openai.json",
+   "sha256": "81c2f5c2b46f453363ce5689d6490db4d7d8b6992c78d640e1af5e14c5e66bbc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "5e1e618af3843296e11c8990e97bc83346a1e83794aef52547de4c322cf9d51f",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Pleasanton Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "590a489761e51901266b083a91613816c3dda5388b78dda15c5eff0996327410",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_gemini.json",
+   "sha256": "a36254234fc46cb77fc7a88dea40f3a14291b0245086a253b1c15c0a25aff2bd",
+   "businesses_named": [
+    "Focus",
+    "Known for",
+    "Pleasanton Smiles"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_dentists_pleasanton",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_dentists_pleasanton.json",
+   "sha256": "a3b3473ecea41c40952b0d95ec213497fcb7c6cc0bfa85bc8ce8432ed7194890",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_openai.json",
+   "sha256": "26da5be022a2815c7beb5659714e99e73f1d8817250cf921a390d7e10eb9dddc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "30a21a91f8679a0b07b3580d90c03cc0d483e903b65293a016c23e29e3a4b17c",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Dental Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "874d14e723fdf3a7f6fe90539610f364d0af575c90f9856e9eab191ff3340fb7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_gemini.json",
+   "sha256": "1a9b029de4827f5663d7337bfb413e027e389b5fea0579bd94090fed8d6923d0",
+   "businesses_named": [
+    "Gateway Dental Care (Dr. Rick Kitagawa",
+    "Hygienist Reputation",
+    "In-Network Insurance",
+    "Mona Lisa Smile Dental (Dr. Mohammad Khandaqji",
+    "Office Location & Hours",
+    "Technology & Comfort"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_dentists_pleasanton",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_dentists_pleasanton.json",
+   "sha256": "7d3862f9047c95c1640fa42dd59e6c7e337cf0d93ec76d852072e1be2a4bc1d8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_openai.json",
+   "sha256": "2003c8f96227fade535b2de9f335e8aa5ea690ef7b7de6724978ab27be3bdd66",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "bd94da45cc29d013d553864efe2d66b474d91cd829c61723ebaa6fd6701b62cb",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Pleasanton Family Dentist / Sara Soleimani, DDS"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "2367b887f8df2d23717a5f22de0c7c06587fafcf3769332e3403bb4f3a40dca3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_gemini.json",
+   "sha256": "2bc8a2b9b76f5f876d61269966d583847f4ed26be72467f01612f35b62862900",
+   "businesses_named": [
+    "Gokani Dental Care",
+    "Hygienist Reviews",
+    "Insurance Network",
+    "Location",
+    "Location & Hours",
+    "Pleasanton Smile Design"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_dentists_pleasanton",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_dentists_pleasanton.json",
+   "sha256": "84fe82cd2bee1273167efb57255007e379dee591a19fef2adf7f7ce7fe47e1a9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_openai.json",
+   "sha256": "bbe01bb016ddf57876acb6a2396618fb4214cbcea95ca21a3a8e7b9522513589",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "c0d716a3e0a6a566774cee3740bbc7d288fb26b11f5dd089907ac02c608503d0",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Pleasanton Dental Care",
+    "Pleasanton Smile Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "729a830040d4a138525d8d5ee6719ad161a0bbe8d4f966cf12d381c7f2d67f2c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_gemini.json",
+   "sha256": "875682981a3fcb8158936a1475721d56f9cb11bbea2c95d486c14f9640547465",
+   "businesses_named": [
+    "Highlights"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_dentists_pleasanton",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_dentists_pleasanton.json",
+   "sha256": "b149958d385cfd48028563564fbb8e4b1a5431905339e7f0795ac839f8fb00b3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_openai.json",
+   "sha256": "da00dc80dd0a78e1e3bae73503e25b2a6c606f025fe185c0b42659946218ac19",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "bcd03406e3a0e3e6baaf079bf004e372fcf0699f24c89adcb380cc69c1c74891",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Kindred Family Dentistry",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "b5545ed3957f95982d7b172992dcb1e89070390207c73cbabb983d2262cd029f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_gemini.json",
+   "sha256": "c73a2dc99c06534a173bfc28729948ab806be0de3c1519abed6f79a99c2d53ab",
+   "businesses_named": [
+    "Hygienist Reputation",
+    "Known for",
+    "Office Location & Hours",
+    "Pleasanton, CA"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_dentists_pleasanton",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_dentists_pleasanton.json",
+   "sha256": "d555ff40b4dd6dab854a94f00be84e708fe1e04fc9f4593557b9201021342274",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_openai.json",
+   "sha256": "3126e60d21ecb050c4d048f2ad8457dc4e410b441b02630661cf46cd219e6cc6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "9ac3d46b3daa1d6bfa1f0c6c2e62e836675af2fe7859b26d3418786854fae5c6",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Jerry A. Sanchez, DDS",
+    "Pacific Dental Care",
+    "Pleasanton Dental Care",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "f1c7d745d08b8aeab10b8991cbe5c9199b1505fa720a722c43064e2b6dd66f5a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_gemini.json",
+   "sha256": "c16fafe076d86f131be801711e68b6bcd9c8fc6a2097dfb2d06f2115fafd0a10",
+   "businesses_named": [
+    "Hygienist Reviews",
+    "Insurance Network",
+    "Known For",
+    "Location & Hours",
+    "Pleasanton, CA"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_dentists_pleasanton",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_dentists_pleasanton.json",
+   "sha256": "11e9a59f25d4136c0f7cbf5d373b5fe32f0bf49e12b50cbf81f52fb2af674325",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_openai.json",
+   "sha256": "ec8ae9eb73305cfbfe21b93368c5f6ca99b72b87e3e4615b0b7ecfaef0d6b0ee",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "90fab745a93eb17e58f8b0e5937d1c6ff7d21244f2b2988c6e2b5b5e0b1d02b6",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Jerry A. Sanchez, DDS",
+    "Pacific Dental Care",
+    "Pleasanton Ridge Dental Group",
+    "Pleasanton Smile Dental",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "fd5fd2e19710c9541fcdab6633a01f1f7b7dee5dbb5c30276023eb98c38910b1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_gemini.json",
+   "sha256": "7d6abbd36a742b366980df69f54e9394dbb5a568b832eee2f7cb0af3fe4af1f1",
+   "businesses_named": [
+    "Focus on the Hygienist",
+    "Location & Hours"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_dentists_pleasanton",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_dentists_pleasanton.json",
+   "sha256": "7cb839f577dec7ece9f48ac0cfdfdb940097df0d0ec7c7c14bc993453dafc17a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_openai.json",
+   "sha256": "62792a22377de951e6bc621e4982c360e4ba3bf85557caa68670b5644a5febe1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "deb93933059e0aeebf38fcd6b1951a687b5396801157cc22d1c6069de46fe696",
+   "businesses_named": [
+    "Bernal Dental Care",
+    "Gateway Dental Care",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "1b69b00575696e0fc62fda0ef21503dd4152c95061dc2dcb1c3aa5298c15c67d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_gemini.json",
+   "sha256": "0e0ad61b382275a0134a58e6f488e473ad433f77f6eaf928a19d711697534dc5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_dentists_pleasanton",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_dentists_pleasanton.json",
+   "sha256": "9c8cae67ce8011cbeed7a4f688cb885cfa8eb595ce5aebf26bc9d91a0f511948",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_openai.json",
+   "sha256": "80e68434006a811017796e1cd3cbe3e835c7fc10fd978b21c71933895f9f05c1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "34bf9a17cdff8d74419292f716980df248a7cedd5913e11d1359752df300e658",
+   "businesses_named": [
+    "Kindred Family Dentistry",
+    "Pleasanton Dental Care",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "84a05c2cc491e44fc9b0af475db256fb7a36e2aed6928bcd3e8cd8c7fb1e1e1b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_gemini.json",
+   "sha256": "85ca5536d37ce7db876b540908ddfb808305c09d1bdf3a8285f17db293eccf02",
+   "businesses_named": [
+    "Focus on the Hygienist",
+    "Gateway Dental Care",
+    "Gateway Dental Care (Dr. Rick Kitagawa",
+    "Location",
+    "Office Hours & Location",
+    "Pleasanton Smile Design",
+    "Recommendation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_dentists_pleasanton",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_dentists_pleasanton.json",
+   "sha256": "ae79c5fa30920cf3cf83b2efb6806ed89a00d47975ee87f1dcf787336b9f8ccc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_openai.json",
+   "sha256": "3364d2344370564a19181b8dc0e2e32cce5969002bb6147c09620556957a9e29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "1afdf4c6a99b12ee0b7743a54871fb8ddf84453a783d046ae843de78f0dc6c72",
+   "businesses_named": [
+    "Bernal Dental Care",
+    "Dental Oasis Family Dentistry",
+    "Pleasanton Family Dentist / Sara Soleimani, DDS",
+    "Stoneridge Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "b306dcb1dbd2589d63e7652d976677b16546dddc05850d5c9ea2a83e1eb07716",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_gemini.json",
+   "sha256": "b9a1af532cd8fb09cd39ff93b89e06c7a63a919940366730975abe7e9ce5719f",
+   "businesses_named": [
+    "Office Hours"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_dentists_pleasanton",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_dentists_pleasanton.json",
+   "sha256": "fa40d377409d45b7531a58d57f12bcccaa1b6f0cb2d83688c7a3c9dd2174d26a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_openai.json",
+   "sha256": "922adc456ec137ee691bd16cd1377847517bc53ec31b61c6ed8fee6cc976c105",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "587dba58d647c555464179e7eb75313f57a33ceca5f41131c3e72fdc3ac7bda3",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "My Favorite Dentist",
+    "Pleasanton Dental Care",
+    "Pleasanton Family Dentist / Sara Soleimani, DDS",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "80e2bed3a02114b35e85b3929a3bd693c34e52738cc0d4bdd281fc3ee4690c99",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_gemini.json",
+   "sha256": "96f2035f7e7bfa1edca1c49d1ec23139f943fc3119e575ed00f962a3a84bbf49",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_dentists_pleasanton",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_dentists_pleasanton.json",
+   "sha256": "a65c266c04edaff9307cb8a72cfba4368189f58c90e92d4df80788473d06bbe7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_openai.json",
+   "sha256": "432e1d60c06bf688664207c7d3f2410081e4fec70891074dae8f3fa7f852380f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "48ce80fb6c2549c81f0b46fd4bd2e8888a0c60a9beec3086f7c10c91543ef07f",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Pleasanton Ridge Dental Group",
+    "Sunshine Family Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "850ddc299066307e90ca317577a693b47030bfba7f9faf9e345a4c3289ce1256",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_gemini.json",
+   "sha256": "389ddb91f2965bf106f41ecfb79e037fd5913af4c3b3d4310edfe266975e4f0a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_dentists_pleasanton",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_dentists_pleasanton.json",
+   "sha256": "5234f628990de33e1e642f7bd999ac4d856c7e9ee69e3a62d19f386ef3558adf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_openai.json",
+   "sha256": "6f7948eca6f34fa3061aa82c307e61bef04e48d7668a8e6bfc103c17b59be705",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "e78819aea8d70c3a541c4477bea144a669d16de43938bb6c7af2e298301e691f",
+   "businesses_named": [
+    "Bernal Dental Care",
+    "Dental Oasis Family Dentistry",
+    "Gateway Dental Care",
+    "Infinite Smile Dental",
+    "Stoneridge Dental",
+    "Sunshine Family Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "e9cb0480802a16ac5cb793033e54226241f771fc25c4d6a51daeededb68c0947",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_gemini.json",
+   "sha256": "fa0ce5c2a0f5cf52e66dd08621ab5b4f818af47fd42f06d3c7dbef18c8c62a88",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_dentists_pleasanton",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_dentists_pleasanton.json",
+   "sha256": "e09013603ebafea8622016477d5dbcf239ffe65208b1034b4a10be4535a6e618",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_openai.json",
+   "sha256": "e8f855e86678d336f6c6ce53351e6bbe0e0c71b754b8569b4678bf44bd078f2b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "fe64474228178fabb6c36f8a85ff0c9cc0e25ba90724781424d5fa64ac1d65bd",
+   "businesses_named": [
+    "Gateway Dental Care",
+    "Pacific Dental Care",
+    "Pleasanton Dental Care",
+    "Sohum Dental of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "0e36ed310ebbed3b4a52ebcca21f46d83a5cb7fd6a699bd7b41ac1aa7028e098",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_gemini.json",
+   "sha256": "6ec1de67f8a8e231a0981e5d406e4fa7de7a4b625b717fe9fdee8da0702ad092",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_dentists_pleasanton",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_dentists_pleasanton.json",
+   "sha256": "b015e49a3ca8adaa392fa6621cf02b5c4c92b6b21b8386f04dbfd05844de6cf5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_openai.json",
+   "sha256": "deda3644ebbdb3c9eefc66a21590c7e3e1c20c263f097e29a297ff1a8c0c8274",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "f3d7849f8c765cb4a28cc1d55f4979d109dd654d2ae53edac3027735e0e9a8e1",
+   "businesses_named": [
+    "Dental Oasis Family Dentistry",
+    "Pacific Dental Care",
+    "Pleasanton Dental Care",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "bab938f1828ccfb189ffd5406853de86a1f62e8a7a1c7fe4e7d2dcc9f03a8881",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_gemini.json",
+   "sha256": "7be4069745adb9f74c93b332deca8322c1b05e00cbdcc93c79f2f5cbc429f1fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_dentists_pleasanton",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_dentists_pleasanton.json",
+   "sha256": "bde2b4103cea5c138acd08e31201bf87d16de5fa608008dcecda6457e32bc3c9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_openai.json",
+   "sha256": "64d0a3dfda2cf765a2dbbf08747b321973e8a73963deee3524a8c968b881cd16",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "2709f19e82b2139c621504be1a5ac9393df4c33967453b29d5c4a9b04be72bf7",
+   "businesses_named": [
+    "Dental Oasis Family Dentistry",
+    "Pleasanton Dental Care",
+    "Pleasanton Ridge Dental Group",
+    "Stoneridge Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "0e304b1c6af4cc073ddbed9161fc69c6653a693b5b9833732ad015818158d6b0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_gemini.json",
+   "sha256": "bf24a87ebc34cb0baf3ab7a5e6b65457b37c08ea15801b3c71292b4506923822",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_dentists_pleasanton",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-25_segment_dentists_pleasanton.json",
+   "sha256": "e36bf48d5065578535634c44d80194c41239e3ece9cdd0d6e1402000d773ea04",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_openai.json",
+   "sha256": "1a715e1d6ce0355e13efe38eec4eab11fedb7e8b4f26a4716a3ab4291a5e3ceb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "c3cf5d412e2fd7214bec19ab7bb8cc4dd9ead4ea53679b7a098cbdf0f009a094",
+   "businesses_named": [
+    "Jerry A. Sanchez, DDS",
+    "Pleasanton Family Dentist / Sara Soleimani, DDS",
+    "Pleasanton Ridge Dental Group",
+    "Stoneridge Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "f22e0407d4600a543f839f46fa3217d7cc0d11da06d98a75e345cedaba7e322f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_gemini.json",
+   "sha256": "f2ccbf6cef0db16bdefd305a823baffdf8d17abab034d06c9cfadca02217ec08",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_dentists_pleasanton",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_dentists_pleasanton.json",
+   "sha256": "da85ca854ef527cc3ea4e8b0f10857c6d4d4605bcd65363b4496681be9accd65",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_openai.json",
+   "sha256": "ad58e66c2012fad198bdb639208829cb4202a45393897981eaa5e0a1a46c6219",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "1fd1f22e82aeef51259dd3ba79b2616ee206fc34c32f16a6c3378ce307b28d71",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Pleasanton Ridge Dental Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "bfdf41b46ef7f65347e711cff4ecca6fb7c433ea0ebbf5a770df50656421daec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_gemini.json",
+   "sha256": "14f67c23a981e39a0f9bf69afd4364b1e3d64290304beb4d789fc54ca45e9130",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_dentists_pleasanton",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-27_segment_dentists_pleasanton.json",
+   "sha256": "d89b72f9e2065cda1d7c71e7daa5207e1e77b7efb59761411e3884272b116edb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_openai.json",
+   "sha256": "60bd23fd2c4307e11807f7c43741b01154074038ac2ec593dac3ca290b8dc087",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "d4961c66558ba91a5b5e578291b01f67e518b970c22da1c49e273976c4b58864",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Jerry A. Sanchez, DDS",
+    "Pleasanton Star Dental",
+    "Sohum Dental of Pleasanton",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "d561262362dd2f2c90c8b66f96e305101c76f3b75127f4900cf5955059d3cb1c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_gemini.json",
+   "sha256": "83e8a45c50d9895f19f5cff45df6275ba82ef5ddb8128f88c29149ab483bedf6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_dentists_pleasanton",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_dentists_pleasanton.json",
+   "sha256": "f65853d0c0d1de896b00eada88828bf858b7d54ea7dea8cbde4a34b87e33296d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_openai.json",
+   "sha256": "6030e1ab22bfe12afd13cb8d45242141f31493ab0e2ff372dbff3a583bf194f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "f34ee50e326c2e8df58b233e7a9bb3b5b2514015cfba4cc62d93c6477b56fba3",
+   "businesses_named": [
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "9e006dac76a610a47a0031b0969497a3135c938b0e3d88d58728279e84f92efc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_gemini.json",
+   "sha256": "5cb319acb6d96875d935f93ddeb46964b7171895dbcd02fbd3092d624787d837",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_dentists_pleasanton",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_dentists_pleasanton.json",
+   "sha256": "0c5dbd8335f4991bab39060bea3e9fbe103a062f8766c706cff85a7d34941c77",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_openai.json",
+   "sha256": "bd4b856a0b8c18be0dc3d97f44fec0db5cfc13073a04284fcdc7366f2fa146df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "2484d96ba1ec7295bea383792ea73ae83ffc24d73f6b57568990f0fd238093a1",
+   "businesses_named": [
+    "Pleasanton Star Dental",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "88f15c649da0616a1a8afc34be82a566c8240b1efbeaaf18fd82ac391000ac86",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_gemini.json",
+   "sha256": "8b89269602e050494bbde95eaaaf6286cc1c4097f928601efb001ea686bbfebc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_dentists_pleasanton",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_dentists_pleasanton.json",
+   "sha256": "51a3fd59503876f4243a99a2059dfb4c3ba6f3b2a976a4593a844dcf4602cd41",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_openai.json",
+   "sha256": "94b1634ac7480544ee29a486d583fee8d4e7321cf8d3181bb016cec539cee27e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "ece28b65bc3e0574a6356205a9925821599c5cb5a770ff7aef8c9e4edf365695",
+   "businesses_named": [
+    "Alisal Dental Care",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "60d4be0cf8fd737f31b3f79bb6d54a8cc8207a9c564bcab5307661cc1d23444a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_gemini.json",
+   "sha256": "3f71952e21f29d0a99ffb852ee4b6757957d534a1bccc592e8272f63a45d09f0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_dentists_pleasanton",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_dentists_pleasanton.json",
+   "sha256": "25558e3d755d7ba7ac9364f47d1d9652453f1e4c5e2ddbb135301fa98b5d4fa6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_openai.json",
+   "sha256": "9a5a2a855c04ae0ef1b5ed8cdd9d7c56cb91d0bb7488351b6fe0bf28446f1a57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "e15402ffb5a4ca7f0def94084b90978c77169e9e76722980d63d871b303e8f87",
+   "businesses_named": [
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "c01af08924543ba5d854fc47fe959101b5d31e2e68595cb282c6b0320ec17e7d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_gemini.json",
+   "sha256": "3dd348a0936860bb88b0b5be09f0b4e18977843625aa1b2705ac28e8024cb927",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_dentists_pleasanton",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_dentists_pleasanton.json",
+   "sha256": "d4a725481211824a1f684677477bc424e2f876c9baef1865f6b172a6c96afa5e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_openai.json",
+   "sha256": "89b49c1e0e6a114394cacd47ed6547da8ded62b35b0454f37bda135e69357402",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "275f1d4b561a751934e54863a538de7a7b69753db1cb96dcf380ea5c7ae30729",
+   "businesses_named": [
+    "Pacific Dental Care",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "f9f3735e486dc763383221a782fa493ed32dfd1e73e282c82224e10f7654ae16",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_gemini.json",
+   "sha256": "483350a39128b470c154c96e20cd205ffeecdace3fedb1a4f4915841ef674b69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_dentists_pleasanton",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_dentists_pleasanton.json",
+   "sha256": "777ada1d01057f2fcbe3ed1970afaeba86618f33103d0390e9dc94ef269650b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_openai.json",
+   "sha256": "1c2ca97f5cc1421f46dc8efd4c662a5bc4a771f7e9a9e374b839d296babb9cc9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "08ea80b9b7762626b278b35663a24c16b471ae4af12e35b215c3311d84755c5f",
+   "businesses_named": [
+    "Pleasanton Family Dentist / Sara Soleimani, DDS",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "2cebe3fde05ae5c89cbaf1c40098ebc895e8aabf753249d3321150ab3fc158f8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_gemini.json",
+   "sha256": "2efa3fbbffbcee706a54f144544a25933cb7fcb92efe1347cdadb21c706a164f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_dentists_pleasanton",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_dentists_pleasanton.json",
+   "sha256": "c31d82847e2274a308d961eb0416956e328fcca782c7371e45de941df3d85ba8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_openai.json",
+   "sha256": "58dce8f79d06bd50025ca2ed653b24fc2aeaf5b80d1cf95fc0d86ad45168f42a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "265d05170cc304fc724c5706adc7940b7f910ceaa0409a78b6899d0c9028436f",
+   "businesses_named": [
+    "Infinite Smile Dental",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "f95f7764c41c4466378e1e32fc371c5afaf16625cabe10e15b37a94d32b0defc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_gemini.json",
+   "sha256": "efd0f57373c3eb9581e2a1b76493e7b10b0a7a9d20e5c69a95ab192e69ed4b60",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_dentists_pleasanton",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_dentists_pleasanton.json",
+   "sha256": "58471c943fb5c8f6eb1caed35c9114c770384e0626ae69fb13d5cd4c28a7569c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_openai.json",
+   "sha256": "b513ab9cb0678d4e47f4abd97ed1fbe9d5054c0467ce252ea9b2f69b42876158",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "6040bbebfadb6c81a9738099d4327319389b9cb32505cf08d069e76796d6545f",
+   "businesses_named": [
+    "Pleasanton Dental Care",
+    "Zhao Dental"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_anthropic.json",
+   "sha256": "13a7fb675f64b66f1eaf947068000718fdae3e6f45008f304742fe15a7f444d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_gemini.json",
+   "sha256": "b0b51c971b6e14866b4f30d50c00576f402dad9ff5df924921392760a68e4832",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_dentists_pleasanton",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_dentists_pleasanton.json",
+   "sha256": "0af569aa9b1bbabe3c3386969a4ec26bd6ec73873e4cae811046fc12fc41ee22",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_openai.json",
+   "sha256": "d5d726ba2ca6c15ad9d5a3b856c008d4b50fc0b9ff4129c767b3e78b15357159",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_dentists_pleasanton_perplexity.json",
+   "sha256": "4aea66acaedcd9416be176caa9b98a0c6fc9f8827f7ed80664b471a002fd7fba",
+   "businesses_named": [
+    "Pleasanton Dental Care",
+    "Zhao Dental"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2821 @@
+{
+ "slug": "pleasanton-home-care",
+ "url": "https://namebeam.ai/pleasanton-home-care",
+ "prompt_verbatim": "What is the best home care agency in Pleasanton CA for an elderly parent?",
+ "market": "Pleasanton CA",
+ "niche": "home care agencies",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "Alameda County Area Agency on Aging (AAA": {
+   "Alameda County Area Agency on Aging (AAA": 4
+  },
+  "All Seasons Homecare": {
+   "All Seasons Homecare": 7
+  },
+  "Always Best Care of Pleasanton": {
+   "Always Best Care": 8,
+   "Always Best Care Pleasanton": 15,
+   "Always Best Care of Pleasanton": 4
+  },
+  "Amada Senior Care (East Bay": {
+   "Amada Senior Care (East Bay": 7
+  },
+  "Apollo Home Healthcare": {
+   "Apollo Home Healthcare": 13
+  },
+  "Assess Needs": {
+   "Assess Needs": 2
+  },
+  "Background Checks": {
+   "Background Checks": 2
+  },
+  "Bayada": {
+   "Bayada": 1
+  },
+  "Beacon Home Care": {
+   "Beacon Home Care": 2
+  },
+  "BrightStar Care": {
+   "BrightStar Care": 5
+  },
+  "BrightStar Care (Dublin / Pleasanton Area": {
+   "BrightStar Care (Dublin / Pleasanton Area": 2
+  },
+  "BrightStar Care of Dublin": {
+   "BrightStar Care of Dublin": 2
+  },
+  "BrightStar Care of Moraga": {
+   "BrightStar Care of Moraga": 2
+  },
+  "California Department of Social Services (CDSS": {
+   "California Department of Social Services (CDSS": 2
+  },
+  "Care Indeed": {
+   "Care Indeed": 2
+  },
+  "Caregiver Continuity": {
+   "Caregiver Continuity": 2
+  },
+  "Caregiver Matching": {
+   "Caregiver Matching": 2
+  },
+  "Caregiver Matching & Backups": {
+   "Caregiver Matching & Backups": 2
+  },
+  "Caregiver Vetting": {
+   "Caregiver Vetting": 3
+  },
+  "CenterWell Home Health": {
+   "CenterWell Home Health": 2
+  },
+  "ComForCare": {
+   "ComForCare": 3
+  },
+  "ComForCare Home Care (Tri-Valley": {
+   "ComForCare Home Care (Tri-Valley": 6
+  },
+  "Comfort Keepers of Pleasanton": {
+   "Comfort Keepers": 4,
+   "Comfort Keepers of Pleasanton": 3
+  },
+  "Employment Status": {
+   "Employment Status": 3
+  },
+  "FirstLight Home Care": {
+   "FirstLight Home Care": 2
+  },
+  "From the Heart Senior Services": {
+   "From the Heart Senior Services": 2
+  },
+  "Highlights": {
+   "Highlights": 3
+  },
+  "Hired Hands Homecare": {
+   "Hired Hands Homecare": 1
+  },
+  "Home Care (Non-Medical": {
+   "Home Care (Non-Medical": 5
+  },
+  "Home Care Assistance of Pleasanton": {
+   "Home Care Assistance": 9,
+   "Home Care Assistance - Pleasanton": 6,
+   "Home Care Assistance Pleasanton": 2,
+   "Home Care Assistance of Pleasanton": 3
+  },
+  "Home Care Organization (HCO": {
+   "Home Care Organization (HCO": 4
+  },
+  "Home Care Organizations (HCOs": {
+   "Home Care Organizations (HCOs": 2
+  },
+  "Home Health Care (Medical": {
+   "Home Health Care (Medical": 6
+  },
+  "Home Instead": {
+   "Home Instead": 21
+  },
+  "Home Instead (Pleasanton / Tri-Valley": {
+   "Home Instead (Pleasanton / Tri-Valley": 3
+  },
+  "Home Instead (Tri-Valley": {
+   "Home Instead (Tri-Valley": 2
+  },
+  "Home Instead (Tri-Valley Office": {
+   "Home Instead (Tri-Valley Office": 2
+  },
+  "Homewatch CareGivers of Pleasanton": {
+   "Homewatch CareGivers of Pleasanton": 8
+  },
+  "In-Home Care (Non-Medical": {
+   "In-Home Care (Non-Medical": 3
+  },
+  "Interim HealthCare": {
+   "Interim HealthCare": 3
+  },
+  "Licensing & Insurance": {
+   "Licensing & Insurance": 4
+  },
+  "LifeGuard Home Health": {
+   "LifeGuard Home Health": 3
+  },
+  "Long-Term Care Insurance": {
+   "Long-Term Care Insurance": 2
+  },
+  "Long-Term Care Insurance (LTCI": {
+   "Long-Term Care Insurance (LTCI": 3
+  },
+  "Minimum Hours": {
+   "Minimum Hours": 8
+  },
+  "Nurse Next Door": {
+   "Nurse Next Door Pleasanton": 5,
+   "Nurse Next Door": 6
+  },
+  "Overview": {
+   "Overview": 11
+  },
+  "Pleasanton Senior Center": {
+   "Pleasanton Senior Center": 5
+  },
+  "Pleasanton and Tri-Valley area": {
+   "Pleasanton and Tri-Valley area": 2
+  },
+  "Pleasanton and the Tri-Valley area": {
+   "Pleasanton and the Tri-Valley area": 5
+  },
+  "Right at Home": {
+   "Right at Home": 8,
+   "Right at Home Pleasanton": 8
+  },
+  "Right at Home (East Bay / Tri-Valley": {
+   "Right at Home (East Bay / Tri-Valley": 4
+  },
+  "Right at Home (Tri-Valley": {
+   "Right at Home (Tri-Valley": 3
+  },
+  "Right at Home (Tri-Valley / East Bay": {
+   "Right at Home (Tri-Valley / East Bay": 2
+  },
+  "Right at Home (Tri-Valley / Pleasanton": {
+   "Right at Home (Tri-Valley / Pleasanton": 2
+  },
+  "Right at Home East Bay": {
+   "Right at Home East Bay": 16
+  },
+  "SYNERGY HomeCare of Pleasanton": {
+   "SYNERGY HomeCare of Pleasanton": 3
+  },
+  "Schedule In-Home Consultations": {
+   "Schedule In-Home Consultations": 2
+  },
+  "Senior Helpers of Pleasanton": {
+   "Senior Helpers Pleasanton": 25,
+   "Senior Helpers": 8,
+   "Senior Helpers of Pleasanton": 5
+  },
+  "Seniors Helping Seniors": {
+   "Seniors Helping Seniors": 1
+  },
+  "Seniors Helping Seniors (Tri-Valley": {
+   "Seniors Helping Seniors (Tri-Valley": 2
+  },
+  "Silversun Home Care": {
+   "Silversun Home Care": 1
+  },
+  "Sky Home Health Services": {
+   "Sky Home Health Services": 6
+  },
+  "Specialized Training": {
+   "Specialized Training": 2
+  },
+  "Stanford Health Care - ValleyCare Home Health": {
+   "Stanford Health Care - ValleyCare Home Health": 2
+  },
+  "Stanford Health Care at Home": {
+   "Stanford Health Care at Home": 2
+  },
+  "State Licensing": {
+   "State Licensing": 3
+  },
+  "Supervision": {
+   "Supervision": 2
+  },
+  "Synergy HomeCare (Tri-Valley": {
+   "Synergy HomeCare (Tri-Valley": 2
+  },
+  "Tri-Valley Personal Home Care Services": {
+   "Tri-Valley Personal Home Care Services": 2
+  },
+  "Visiting Angels": {
+   "Visiting Angels": 11
+  },
+  "Visiting Angels (Tri-Valley": {
+   "Visiting Angels (Tri-Valley": 5
+  },
+  "Visiting Angels (Tri-Valley / Pleasanton": {
+   "Visiting Angels (Tri-Valley / Pleasanton": 4
+  },
+  "Visiting Angels of Livermore": {
+   "Visiting Angels Livermore": 7,
+   "Visiting Angels Livermore/Pleasanton": 2,
+   "Visiting Angels of Livermore": 1
+  },
+  "W-2 employees": {
+   "W-2 employees": 6
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "3cf2cb18d94b575d7e5a2608587c251d65386e4650f8000cc1da22c6f366cab4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "a85b2334e8f359dc1730a1ffe3e217ab5949a2ebe64fcfc976287a2e5de3fa05",
+   "businesses_named": [
+    "BrightStar Care",
+    "California Department of Social Services (CDSS",
+    "Caregiver Vetting",
+    "Home Instead",
+    "Licensing & Insurance",
+    "Minimum Hours",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_homecare_agencies_pleasanton.json",
+   "sha256": "600ec78edff058f8eba75c376c059cacfe6cb5194e5b809519da2c7191246f00",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "742f4f0899542717bc21e31c771a2c0188c54b17dbc309ea1d13b27911ff6ac0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "7abfe200efb1c01facfa3e5494d9f55b8772eab89e815781990c00f115211445",
+   "businesses_named": [
+    "BrightStar Care of Dublin",
+    "BrightStar Care of Moraga",
+    "Care Indeed",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "9c973f60967138d5c6ef2063478b83d905f99e2bf983dbc1457186e860204244",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "a49b2dc44831008462a3430004c507e0ea049235f64f0428741c65e23de3b190",
+   "businesses_named": [
+    "Alameda County Area Agency on Aging (AAA",
+    "Amada Senior Care (East Bay",
+    "BrightStar Care",
+    "Home Care (Non-Medical",
+    "Home Health Care (Medical",
+    "Home Instead",
+    "Home Instead (Pleasanton / Tri-Valley",
+    "Minimum Hours",
+    "Overview",
+    "Pleasanton Senior Center",
+    "SYNERGY HomeCare of Pleasanton",
+    "Supervision",
+    "Visiting Angels",
+    "Visiting Angels (Tri-Valley / Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_homecare_agencies_pleasanton.json",
+   "sha256": "cb6b0cfa24201d7f8bd29abde55a990b478135844943f92c9858b594b0fc7662",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "fffe942bc9ae09d14b9bafde8d5a5094f7d7189250fbbde42521c9e6a3ec4333",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "1304a498ed68b32c1cb53f5065241832db4dc9203e4c53a171ecf31c930f9969",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "4fd8e263298b1453028a8c27f84baaaa0a4e31af9dc977c51a8d377d2d996572",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "5648378251dc1598ec9ae94938fcc1fba6a3eb9ef5aa3df618be50cda5cb4659",
+   "businesses_named": [
+    "Alameda County Area Agency on Aging (AAA",
+    "Amada Senior Care (East Bay",
+    "Home Health Care (Medical",
+    "In-Home Care (Non-Medical",
+    "Overview",
+    "Pleasanton Senior Center",
+    "Pleasanton and the Tri-Valley area",
+    "Visiting Angels (Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_homecare_agencies_pleasanton.json",
+   "sha256": "d244ef00ee78db992da4b6f1228897f4abf5caf6359164d91d2baf03272384bd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "9184eebbff27255330c9d1af054ae26f640d45c19dc23fb86c624ecd20b0d6dc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "3ac19b98ab48304c155a61f71ea90abf877596aebfc9124d18304166b067092f",
+   "businesses_named": [
+    "BrightStar Care of Dublin",
+    "BrightStar Care of Moraga",
+    "Care Indeed",
+    "Home Instead",
+    "Homewatch CareGivers of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "6cc6e738d626d317384c37c659bfae45e6dd52b67bab6ec73e307547cba79002",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "6722ffbe0b65a55f016fb770fad1d01ddd48a795a2652b5d580822604a305862",
+   "businesses_named": [
+    "ComForCare",
+    "ComForCare Home Care (Tri-Valley",
+    "Home Instead",
+    "Long-Term Care Insurance",
+    "Long-Term Care Insurance (LTCI",
+    "Right at Home (Tri-Valley",
+    "Visiting Angels (Tri-Valley / Pleasanton",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_homecare_agencies_pleasanton.json",
+   "sha256": "ea2579c242830da4f0aa0bc1911d3d0dc826cce445cb6a16738e3adf6ff42b86",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "a06c695e7e497013a77843eb320b558c5eae65b130d7da6f69d0e19308f6b148",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "c4001b0dad4bb5e63f686b6c0d7d051c45f2fdc9ddc4c868d86c473f6c4f164c",
+   "businesses_named": [
+    "Apollo Home Healthcare",
+    "From the Heart Senior Services",
+    "Homewatch CareGivers of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Tri-Valley Personal Home Care Services",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "2700aac2210aa45bcf93c86cc6398b3203fd00b9d146452b44a17cdb7873670f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "738b3ce7b33c1e7d255923d620cd51dee0ffabace5275c5bf7445a9dc2fbaceb",
+   "businesses_named": [
+    "BrightStar Care (Dublin / Pleasanton Area",
+    "Caregiver Matching",
+    "Home Care (Non-Medical",
+    "Home Health Care (Medical",
+    "Home Instead",
+    "Home Instead (Tri-Valley Office",
+    "Overview",
+    "Right at Home (East Bay / Tri-Valley",
+    "Stanford Health Care at Home",
+    "Supervision",
+    "Synergy HomeCare (Tri-Valley",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_homecare_agencies_pleasanton.json",
+   "sha256": "0e84d56bdac5407732bdca7732e8ce9059be4cc190d726548e0bd674074ceadc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "f58d10ae82f58029bb96224e236a417dc08a399ceb59b30cc89a900ea7f1e4d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "36d82324978c45038d8f6944554574fbf210172cd8f7302dc45d81c4c9f74bff",
+   "businesses_named": [
+    "Apollo Home Healthcare",
+    "From the Heart Senior Services",
+    "Home Instead",
+    "Homewatch CareGivers of Pleasanton",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Tri-Valley Personal Home Care Services",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "26e28d834dd4891333a6a5c4fc74b96b5dee8ccba32f55016f196973716fed70",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "6cfa18f04a48ad0ded321c9cf344f0ae4cf56a4c05ead18fcf1de9abf018ffe3",
+   "businesses_named": [
+    "Alameda County Area Agency on Aging (AAA",
+    "Amada Senior Care (East Bay",
+    "Background Checks",
+    "BrightStar Care",
+    "California Department of Social Services (CDSS",
+    "Caregiver Matching",
+    "Employment Status",
+    "Home Instead",
+    "Licensing & Insurance",
+    "Pleasanton Senior Center",
+    "Pleasanton and the Tri-Valley area",
+    "Right at Home (Tri-Valley / East Bay",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_homecare_agencies_pleasanton",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_homecare_agencies_pleasanton.json",
+   "sha256": "954d774af0d552fa2f06b6db6e09778c117d8072102c3509f609d54b8f87bca9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "f77f2275962f6aacdd79bf7fcb8ffc7bbf91bba7d316249ddd44c29b86aa95f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "420446751f63ffb6f1a768b3b3cba8edbf838531cfab4617fb933fbaf9aff642",
+   "businesses_named": [
+    "Homewatch CareGivers of Pleasanton",
+    "Nurse Next Door",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "a4d84855b1174db2857c72b4e5dcce8dadab50a5479db98af010e3f40009b890",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "da6151c7079e11fc244ac85abc125c7930766603dc2a641aa0f9d6e9c3ce4a97",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_homecare_agencies_pleasanton.json",
+   "sha256": "32115294ebdce95eacb8741a459abc628b165a00503bcbba44a6098c39189b03",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "ea01e4e54f04a4c88c253c2d646e213def88e0d7a6d815e5bb257acba39d7ded",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "5b57cb572e9c0a9f24fec0fc8112085068a500c11f2e72e82e1ee12986d1d618",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Homewatch CareGivers of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "603bbfe32129a481bd5d33e2701ab23f99a0365a76e71e0a2e3482ac513d5729",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "a770faa9163192ff8738de4ba25569247a8ebb0dff316916eb4e4b6bac59d085",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_homecare_agencies_pleasanton.json",
+   "sha256": "df0d4d90e813935b3e26acd2ac6a4b276a97a1f83d5316cc01cc4feb45ab740c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "24fffd3d24ab9b2e9d7ea4193d63a7f722c04973c5cf61e2a32b1bec2a02cb3e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "5cdc530f4b34d6ebbbbf645f97d3d0904c1f9182df10f77a60ec52f254f576ee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "bc89df6227cb3c16789d1862c2f8fbc9a29d440dee7a6a50b69f5567d1e0b061",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "6d00bb21ef889e5036bf05a14d00d6e67cfae7c3ade58906a45fd09ae60a36d9",
+   "businesses_named": [
+    "Assess Needs",
+    "Caregiver Vetting",
+    "Highlights",
+    "Home Instead (Pleasanton / Tri-Valley",
+    "Licensing & Insurance",
+    "Minimum Hours",
+    "Overview",
+    "Right at Home (East Bay / Tri-Valley",
+    "Schedule In-Home Consultations",
+    "Specialized Training",
+    "Stanford Health Care - ValleyCare Home Health",
+    "Visiting Angels (Tri-Valley / Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_homecare_agencies_pleasanton.json",
+   "sha256": "3462b4e560d70b46fef2cc3e94fe01b0de024af7cf2b0671e05eae18a435c1f8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "c2380d7d1e7ccaaed83f73e74002d027c9a7ef03f9025ce31d3cc54511f4abed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "38ded23e38d43a67dd5c1c1b5627fc712124b9e63d7666be32dc5aedd27ab124",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "c3be17f1b0e915af04251ae92a29307cdeb36ae94c677ac9e2ddeebbfdb614a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "ce1629e76c02259c1ddaf3d14dd9065b05d565981a968db7bdba1058d4fac382",
+   "businesses_named": [
+    "Highlights",
+    "In-Home Care (Non-Medical",
+    "Right at Home (Tri-Valley",
+    "Schedule In-Home Consultations",
+    "Visiting Angels (Tri-Valley / Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_homecare_agencies_pleasanton.json",
+   "sha256": "ba39872dba1a618551b6af02ee0f68ecaf985fb51c2893918cf84de3ed736f0f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "42fae08eac2fef5d3e8687573141287848e8f6d2ee4fa05896f713e6f80c4bcf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "2ba320d26d7f7c42241f5efc67b7bc2a780e4ba15d1c0e3bf45e8ac226a2a597",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "f8418c5e6eb8c49668defaed6e4c118460d7d9af05771da010f7a993b3874cdf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "29d7fbc511a9b24e88f0aa768050474c81d74a3ffba80d8e297f1b9a76a1a888",
+   "businesses_named": [
+    "Assess Needs",
+    "Home Care (Non-Medical",
+    "Home Health Care (Medical",
+    "Overview",
+    "Stanford Health Care at Home",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_homecare_agencies_pleasanton.json",
+   "sha256": "c40f8929e14b2e517ee1d267ef25d6e1fee7c40832f701e2bd001f37f411507b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "27a3d6216afc1a43b5d5b235a3c08fdb1f458c7f7900a2f2f180247db9b1a1b9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "5a8a33bd9b8c08f29518689cd0466599fdcd8ec0121bbc7e286c3d7ee6c81e44",
+   "businesses_named": [
+    "Home Instead",
+    "Homewatch CareGivers of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "f4c03632c93158d64fe8718386cd48089f50b6eddd2d3d03b9dbcea9043bd2e5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "5ae1ae0f24cdf38e836f926233288d73e99075626075bef5ca9c4a0be480e684",
+   "businesses_named": [
+    "ComForCare Home Care (Tri-Valley",
+    "Seniors Helping Seniors (Tri-Valley",
+    "Visiting Angels (Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_homecare_agencies_pleasanton.json",
+   "sha256": "39dc5cf64225a9307d96f5f71722f6c3eda8e5e66776a6b80cd809efe741788d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "156a372267cfc4263a10846520b55165c604f9e11fe4c7aa58b5c57350ec5401",
+   "businesses_named": [
+    "FirstLight Home Care",
+    "Interim HealthCare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "16334d989c90e6c5da401fdb9b1c0084afe3bd8c30a32d0c30838e4fd1f87628",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Instead",
+    "Homewatch CareGivers of Pleasanton",
+    "Nurse Next Door",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "46379c7846de35591017ec8d9f4b20f0e860fe64223ff3941fc956022b7192bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "95ec9163a0c467f594c38a083d54518d2a376dd0e491621e31fa0052d9731de4",
+   "businesses_named": [
+    "Caregiver Continuity",
+    "ComForCare Home Care (Tri-Valley",
+    "Home Care Organization (HCO",
+    "Long-Term Care Insurance (LTCI",
+    "Minimum Hours",
+    "Overview",
+    "Pleasanton and Tri-Valley area",
+    "State Licensing",
+    "Visiting Angels (Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_homecare_agencies_pleasanton.json",
+   "sha256": "14f2eab42ce1447f3c8293664464ca773b90fec24290297a58be8503a7935ead",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "0c697a87fbccd82ee4ab2157225f33755da5759e43d3185c6f26ac4d0b609f83",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "87c875321ae354551c4209601aaef95afcbcd24be8bce6ee36fda8635f4362af",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Homewatch CareGivers of Pleasanton",
+    "Right at Home",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "786d3d79903b2e42afc37aff8af6196d436c093c08c88cd9a6fdf39104bb7388",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "1b0b9e09ce57fc2fcf989bf5c32ade86b6c666d57d2971040356d0d1a8614ca9",
+   "businesses_named": [
+    "Caregiver Matching & Backups",
+    "CenterWell Home Health",
+    "ComForCare Home Care (Tri-Valley",
+    "Employment Status",
+    "Home Care Organizations (HCOs",
+    "Minimum Hours",
+    "Pleasanton Senior Center",
+    "Pleasanton and the Tri-Valley area",
+    "Right at Home (Tri-Valley / East Bay",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_homecare_agencies_pleasanton.json",
+   "sha256": "18502b9544b0c87e4457c7eedbe4bf7ee47a389ddd7de45f43449020866798ba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "e06a6432ade089a1b746237704e336c0ce3ab4b1fe296a0b22129b0e4b82ad0f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "7679c12028a40ce80b2979637d73606b6ebf39935e7172247de8159179738c9b",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Beacon Home Care",
+    "Nurse Next Door",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "82ebb999d8f854d2286fee106054c3d73e70eddfa7ed977e8f2fb381ba75ff2d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "55236f95a2650c946c76dcc3b45f4658b0b6610a2189c3d69aac62b7fbae5e7a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_homecare_agencies_pleasanton.json",
+   "sha256": "5e9192007d6b943b513f0a1192e5558c2e017a5b42252628456663ee548a4543",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "d2a67d4f00dd4f3eda30147c49f131dfdbfcd3a0ef8066a0fc5d050bd7e755c4",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "a136c412369aa72e327a946851bdaa9146c6c726483e12cfe7b8f3a3baede077",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Instead",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "31ee23032381d430340ad3faf17248280d11c70f92fca97644679840b2ba4e87",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "63106df0948d3c8ef508e8dbcef97bd31f4f14dfd3101916bb69bbae1eb5a617",
+   "businesses_named": [
+    "Amada Senior Care (East Bay",
+    "Overview",
+    "Right at Home (East Bay / Tri-Valley",
+    "SYNERGY HomeCare of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_homecare_agencies_pleasanton.json",
+   "sha256": "50e7cbf9a38356b1b027f093dfcc89314c9bab1ca27ef0f8446e262f75a88a3f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "c50b0a5038309d3546be1359b7e9ea6a90987e41545251e372c444524ba2af9f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "f1374b80df71fbe5c1b1ac5702589818ca419e488b632f6147f5b54ebe8db009",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Beacon Home Care",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "12fcadab2a5ff701b4d888c231b7262383b74ea5f5236afbb6930ec923c46c78",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "70c7a43921be5d2921c889bdda76c34eb979eee35c34fddc7d8bc2a5626d7afb",
+   "businesses_named": [
+    "Amada Senior Care (East Bay",
+    "CenterWell Home Health",
+    "ComForCare Home Care (Tri-Valley",
+    "Home Health Care (Medical",
+    "In-Home Care (Non-Medical",
+    "Long-Term Care Insurance (LTCI",
+    "Overview",
+    "Pleasanton and Tri-Valley area",
+    "Stanford Health Care - ValleyCare Home Health",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_homecare_agencies_pleasanton.json",
+   "sha256": "cfb6f758fe13063bf818ceb0c8c7cae28767189f4f8e334f6125116795530674",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "cabb88e02804231f38cdeeb75f7da58b30a917c9e4d1f70fbbbda4426c722693",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "181f69f7626f7b644119f4b2785e0bc389f68cac315cd327dd5e60149192cb58",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Nurse Next Door",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "0465e931db83066fdae9c19264535b1044573ed1583d28184917e910516049e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "88d6d2d2aac15c5f7b8f5402ecb78721b6c1a8e5365216c41a968328cdf72105",
+   "businesses_named": [
+    "BrightStar Care (Dublin / Pleasanton Area",
+    "ComForCare Home Care (Tri-Valley",
+    "Home Instead (Pleasanton / Tri-Valley",
+    "Minimum Hours",
+    "Right at Home (Tri-Valley",
+    "Specialized Training"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_homecare_agencies_pleasanton.json",
+   "sha256": "c489464df3fcef450a8ade928ce5ba81520b79242989222289d7d658ad051d30",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "fdb5c94aa3a43734297eb3437802290d40676fab4699a38e392ec5b9da61b115",
+   "businesses_named": [
+    "FirstLight Home Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "b086aa5281481973ef21ed2d844bafea063ebf29983ea47a216791027d208c3e",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "LifeGuard Home Health",
+    "Nurse Next Door",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "2e048fbbe29e17628fd244fad23a7633224444fcd24983897e1b54176bcd58e8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "a355edd26f2513e8ad20dab601a2269965d7bf3b1635441ac615510a8abb3d1a",
+   "businesses_named": [
+    "Home Care (Non-Medical",
+    "Home Care Organizations (HCOs",
+    "Home Health Care (Medical",
+    "Home Instead (Tri-Valley",
+    "Licensing & Insurance",
+    "Right at Home (Tri-Valley / Pleasanton",
+    "Seniors Helping Seniors (Tri-Valley",
+    "Visiting Angels (Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_homecare_agencies_pleasanton.json",
+   "sha256": "0494e3e506f7d6677c27c16ac6eb8c769e8258396dde70e9c930e1a9a68c788a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "945ea739ced34611fb4d5d44d49291288e0da3cf4edbcee4a5ce0b28f11aa106",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "cb46bb64f68110c04c00f53485b92ce61bbcd16cc5046dd5759f007fcbe375fb",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "7ce58b06486249d3c035bb4ba378607ba30f5ff6a4568fdc9fa8fa864b0252d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "82f8a19f271c99e4b75de63e10083895b0bebc8fd6c34a465b111ccd7e904f98",
+   "businesses_named": [
+    "Caregiver Vetting",
+    "Employment Status",
+    "Home Care (Non-Medical",
+    "Long-Term Care Insurance",
+    "Minimum Hours",
+    "Overview",
+    "SYNERGY HomeCare of Pleasanton",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_homecare_agencies_pleasanton.json",
+   "sha256": "9978ca63a21f97b6332c205cac42b82b57c99afe6755781511f7f8d7c8ddfaf0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "de0bc1f41fb3a03eb67ea53faec998f83d0b591c648be9b2bcef29cb35ce15da",
+   "businesses_named": [
+    "BrightStar Care",
+    "Comfort Keepers of Pleasanton",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "af97c3b14efaf74f135fd5c584bc579433745e53c298192eee1e49d1d2892029",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Instead",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "a51d92024f84afa365fbf9e6bc4071ce1f498e4083e31884702ff5cb84f83d3f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "607bc7a2935b13cad3a89baee64672eb2fafc74f5fe2f224d35b5564e6c1b5d6",
+   "businesses_named": [
+    "Amada Senior Care (East Bay",
+    "Caregiver Matching & Backups",
+    "Highlights",
+    "Home Care Organization (HCO",
+    "Home Instead (Tri-Valley",
+    "Overview",
+    "Right at Home (East Bay / Tri-Valley",
+    "Synergy HomeCare (Tri-Valley",
+    "W-2 employees"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_homecare_agencies_pleasanton.json",
+   "sha256": "3b84d907f6d2c8db531f5f385cbdd482026961cc1c46347913d0c2e6bc321722",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "c193c5f95d5264185c5ae22c8423fd8dad353bd475747980c9d59f9d9828c430",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "9ff22b5c788f2fef1e8c992858a57cec4aeaf642ac8fc914dbed8bd69d66640d",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "7ddfce27c6072993266c1cedb4954cca25fbd0ee79e6cfdb98e26a0a46f5cc91",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "fee6515681ea8915c18423ba1f909fbcbadcec13952b2a4bfcc9aeaf769d6a60",
+   "businesses_named": [
+    "Amada Senior Care (East Bay",
+    "Background Checks",
+    "Home Care Organization (HCO",
+    "Home Instead (Tri-Valley Office",
+    "Right at Home (Tri-Valley / Pleasanton",
+    "State Licensing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_homecare_agencies_pleasanton.json",
+   "sha256": "fc32a3740387cdf1e97b37681349f48d775d6b2c0a6e4582c40ac8bb189d90da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "bd5e547dd09c9e72de6c4989d6b05c81625c2666ad8c5490303ecd530f8354ca",
+   "businesses_named": [
+    "Comfort Keepers of Pleasanton",
+    "Home Care Assistance of Pleasanton",
+    "Home Instead",
+    "Interim HealthCare",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "74ee7c1de80bff5b08e7a949361d39a1c227911fcb0770964d310d698d3b4574",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "798aa99e7de83662fe894907e9cd56dcf30cd3d9dee828d3826876007bf1f806",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "3eca91a8db53f066cb7887f53569a1d2d99dc1a5e8e8b40777b3cd729396cf03",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_homecare_agencies_pleasanton.json",
+   "sha256": "381aa90fc5fac7f3c6b3c055b19b982308a012ea8ccc0b61a1d3e84ad108d348",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "2ed4eddfa16597e9ea361a7c6a067c3b1e0d01ea1bfc42238ab1fceb154a9794",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "557e88d9900aebf9f45200bc7dbf2c352a1f39b845fb138314b1948dc9dc0770",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "666eb93acea8f0fbc854146e8f70edd6d8946780bf7e7f4c410736dbaf7baf27",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "4118dd07a7ee8a7ca27728c86b505b138c80c9234467607ad5f10b3a4efe2345",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_homecare_agencies_pleasanton.json",
+   "sha256": "664f331d8f6e725e299d01ef019ac19687c7afbc48de782e619006d5195df555",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "32da1dab177925f0d07f71202e0c9318032c5d078a8f334d7524921dc5522403",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "9d29075fbb85415c6e4d1b22e95cd82d7b02a7bcfc8da3fa53db9e1ac7753bb4",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "9098a11f56f8a7d88d0887ebfc5e040916cc36a11bf60a8e63af04ffd6891efa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "832917280fb24c3549e7b43af9967dcf19a5f2d83ecccd158cf3e3bc99f7a880",
+   "businesses_named": [
+    "Pleasanton and the Tri-Valley area"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_homecare_agencies_pleasanton.json",
+   "sha256": "3df87c05a6a0a8bb92a5dd64616f4bffdedbac034e797e4e0cdf1640dfb2d967",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "0cc85a776435e6f2cd6922c96ad04f400e893db2f82e60c127226ce8787cd850",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "a91d98423e7422fd6df56898ce298222bfd02a59f5c714577def43b6b6dc92b6",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "79fdd25d366cbbbde0e905611d53d33721effa727bbc6e75cfae8f4494fd2633",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "297ef4edb3df883085bf336217b20393d09253e6dffb350664dc778ef2d33bde",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_homecare_agencies_pleasanton.json",
+   "sha256": "a9a1e10d4cb252d8d85fba3cbea2ca9bc48ff7ec7e39e605073da74928e0e4fb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "ca2c823d865f4a75ee87cf0b920d6de65ee13803d4fa412a5b012d863afb942a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "6405be7bda6cabfec017cfbb059f1e76df69355b38b49a48d4eda51c2cef3136",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Instead",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "fdd75f909542fe1b976654d71f7a04650921e068ce58e59b1acb23670d779d02",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "b5362d7032e04ff498ce09b82ae0f962b603152a77ad1783e8cbc058e66926c0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_homecare_agencies_pleasanton.json",
+   "sha256": "c6397d05835dbcc848298d760ab33b996d6bc92c80919f0f9fbd28f8a7c21d17",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "10d7fe6319f669cf2c385c8b5db136e89a2d74e5ef866d30ba853d91a643b440",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "0665ef2c54b60fd77ce0e0ec0a8b5f6b0523c06b6ebace6be8cf37f7c2da630e",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "cf3409ba0993dc7a7988ec763e85927364fa356df09b3279270cb288f98d9467",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "64bac51a58ff1d47fb598ab56aeb6d39208b19d603ba13737358c3ddcd76fae3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_homecare_agencies_pleasanton.json",
+   "sha256": "041523d124f44138d2334089b526ca01ca70b6b689d6762b408aafbb076761d3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "2997154a93f6663ab6886a4725068dc240862b9f7c10e2c5ecf7cc7ddcea5618",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "61b596c5ea986150691edede0b29b48ddeedf2ad912b31484cd1f6e71d686d5f",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Always Best Care of Pleasanton",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "4111da7964aaaf35616d7188ecc7d1c06784b2f1f7b5fcaa9843b3042351f8b1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "ef4580266cae47f45c4766acac92cfba6f6fc34fc51c0c5cbb07b2cfd7668ffe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_homecare_agencies_pleasanton.json",
+   "sha256": "c874a3d02f21e46746b3d6bb4f2f87a4ad2b4c8cac8709f620746556a480812d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "f708bd632da7a5ba78bf06f5a8446799ecb92246b6d35da747993c9f4df65ea5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "262116c9e6928e7e5a1aec7c3415c2de73235e5eed114393c7f3785cb22d2dd4",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "LifeGuard Home Health",
+    "Right at Home East Bay",
+    "Senior Helpers of Pleasanton",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "ba12e3815010877be23ba2a598a1a2c94952347baf04f6a1458e7fc01374d428",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "5ea1261cb1e78b618cd9b16a773d6626e5fdb15fe5538327322317c232488edf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-24_segment_homecare_agencies_pleasanton.json",
+   "sha256": "ed10abe5013e5cbcb78949ba9c095b23c55300d7f043673a5f817865feebe01e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "19896fc34afbdf31f204e32def9a8e6d58a3613d90baffc03e77fc8089848cc4",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "84f32d726c1ffd72411d899155f89e0865f3d7bb7e18ca56f67db6978942f885",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Always Best Care of Pleasanton",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "c69dbcd8e8036c832697a0789798e0f00f1d7457a90060c7fa4939a5adccb5e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "cf1219947a0c28042034af0f7439bc872df0d6ecba7ea9ba1f8b475a9a7c5c0a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_homecare_agencies_pleasanton.json",
+   "sha256": "320ced348ceabc18434cb464e1c78f4dd80359275a297d9cc0482e0c498041b9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "5fd29d7a5c728dc4ba7c20ead1bc1ba509d4e3b95ffec8fea57dc5101b29dfa0",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "5dc558e4a0f09eef37656d8bdd993a945043bbabfd16dba3fed9a57248c866ff",
+   "businesses_named": [
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "c4dcf43df2304633233eec83d65499891dd10c7732de025aa16e02aba83a820a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "28186558fa66e03c30b2fd958ec38b0c6be0b41b379f43f8e22018a21795498e",
+   "businesses_named": [
+    "Alameda County Area Agency on Aging (AAA",
+    "Caregiver Continuity",
+    "Home Care Organization (HCO",
+    "Minimum Hours",
+    "Overview",
+    "Pleasanton Senior Center",
+    "Pleasanton and the Tri-Valley area",
+    "State Licensing",
+    "Visiting Angels (Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_homecare_agencies_pleasanton.json",
+   "sha256": "5f886f127416170510b1e4521de685496404b02afbaa9223a4110ce8c8f0b5b6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "8a384cf94dba2e3096ba6a53513576f3a5f9506911be2f249d2c12cb00a21d95",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "bebdeaed9c75f3db2b3b792f873cba1c890f249c4be85ddc65679d4da9720dda",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Apollo Home Healthcare",
+    "Home Care Assistance of Pleasanton",
+    "LifeGuard Home Health",
+    "Sky Home Health Services"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "0844a4d2b2053a85c32a03098fbb9f59c07648a42f0f7c146dea5a235f43676e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "fdaa206697c302ade1bd2e3f6cc684cbc791a1cdc92dce75fb7816c9415a9e9f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_homecare_agencies_pleasanton.json",
+   "sha256": "659a9445b874271f41cd1b615350ed01ecf840ff2db14d632b8289ad27a354b1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "1bd5cdaada19eed6b6278cb2ba138df020caba256b1bd211b73c53f231b80b98",
+   "businesses_named": [
+    "Bayada",
+    "ComForCare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "35b154dc231bc664c899df58d16584c940c438b9ef340e128bffe0d459abe210",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Care Assistance of Pleasanton",
+    "Home Instead",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Silversun Home Care"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "e0046a9cbed50a5eb239e2ac516aeeb8908108f50aa17c85be34068000de0d47",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "33555078e59d892844e63c71ce740d29774a01ba14cda97539176ad28d66a515",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_homecare_agencies_pleasanton.json",
+   "sha256": "d88f4d6a56f715190523fe4768d4777e15430785b6e0c146aef6a734688f063e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "e657b209957a610b907928117cf0d3aac10729ad78f5f8ff6bf36436e4419f65",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "557ee1dcbb87cbb23b8f5042f3b8b6527bc88316b78e8ca440ece07b8a98d08c",
+   "businesses_named": [
+    "Home Instead",
+    "Senior Helpers of Pleasanton",
+    "Visiting Angels of Livermore"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "6399d4b66c25def607399b2e6b00376b1bf176a5a51e9c68cfa9d03934f20f55",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "2daa924b57303c24effb4ce59223596e2b9dc687a050d407bf05a5f4a47c99f2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_homecare_agencies_pleasanton.json",
+   "sha256": "4712b98acbd32a3105da14cbe52166804de263622574d97ad810fd6729b5aa69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "49fbab1229d7ddc95d21dd6a4079b33ec3a78eabfdf066a51620de32c0080dfb",
+   "businesses_named": [
+    "ComForCare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "ba28aee7fa0b53fd667cf0f29fbe1ba4f70aca39949c4d4ca41fcf6ab94670ab",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Instead",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "c328921973c0728c09cacb9bff4214121eeccc048d55befb669091e801e024b2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "a2a2a94a3b37dd284ef48b00bc880c5f481de1dfe61ff9b1b118eb95edfb465e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_homecare_agencies_pleasanton",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_homecare_agencies_pleasanton.json",
+   "sha256": "fd3419d0b9190a96ad0b2437d67024060ed1a5d163229db258daa4221b59fe3d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "2496ceead268f86ff17b2ac609bb4de35c9676ee8f804ab6d21a863e1075d0f7",
+   "businesses_named": [
+    "BrightStar Care",
+    "Comfort Keepers of Pleasanton",
+    "Home Care Assistance of Pleasanton",
+    "Home Instead",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "1fb059aa06d734af9c99e19a9f7f7ce906b5242070c72c2db57a7533e372c59c",
+   "businesses_named": [
+    "Comfort Keepers of Pleasanton",
+    "Home Instead",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "dfee8508c87c1fecfc7a270305f31d1fff49cd23c6d080b6b38ea0507300840f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "8971b5bf5912b293b3de3c88d6d5b7b0185f6855189160e1995dc26a52312fe2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_homecare_agencies_pleasanton.json",
+   "sha256": "31ef392504a6da5802485565351ff56f72cbecdda75665a6b932cc582eefa722",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "d9d05be9ff8faf289e79f39b507386b9bcd2d89c6649a88f8dc77122af5160eb",
+   "businesses_named": [
+    "Home Care Assistance of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "e340c78679b903949c8d8da2f56dd9704335023335dd6bde36b83c397bae08f4",
+   "businesses_named": [
+    "Comfort Keepers of Pleasanton",
+    "Home Instead"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "46098a340e501bede158c9ec2606b6e0c3d640ddb09eb01458906b1b50ac1360",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "71bf8f82c38c71f6229c887a297ce8610d433ef526897b51a024cc0e12a31de3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_homecare_agencies_pleasanton.json",
+   "sha256": "9e0cb680d8f28d8adf64239c763884e89d7906792917c5bdd31b499b31cce0ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "4ef4b90d68347c5180331cf14c92ee876376ca182bb7f3c78b023d17c9b8045d",
+   "businesses_named": [
+    "Interim HealthCare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "dcdb30449bbd7df13289781c361ea9440a3c8b58af23fcd61a27e873859549cb",
+   "businesses_named": [
+    "Comfort Keepers of Pleasanton",
+    "Hired Hands Homecare",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "623c4bc4d42f89eb9931b8ffd474e150a8da6a3de28bba4d0ac8885f52def96e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "9d4acbe24612b6bb69d5cfc05c62a37609bd7c2e0303abb8200327d85d35798a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_homecare_agencies_pleasanton.json",
+   "sha256": "127d3506fd1099b9e98f7a7efe7e7ebfcb9a604d8a89e49ac675bc8d57cbd63c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "f79a1381c174054497f7acf23a2d7087976d62278999b5610023b3a368e03e7c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "480dec25a2722a8a45658445e5b248b7b74c0ce532f7956f690299c0a3867997",
+   "businesses_named": [
+    "Home Instead"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "7dd45256f7529de2a4c680441970e435f258aa88f81c345297ad8ae087acfa39",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "8f73872cabf5d8af1627bf1abeba43a7294858f7b2278b3264a25178ab010099",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_homecare_agencies_pleasanton.json",
+   "sha256": "c949764bc7703ccf3fd3d172b9d2d0dedb8e86d185d57645cc21a9f409f0fe47",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "617b3d76e22cf468044d9be28f2c8b9a3d2e1c782efdf43b00a5d2dd982c8991",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "6106f3257a794d62d406ba531ec558b68ed3a7ad98d428384fedbc4d6d36a48c",
+   "businesses_named": [
+    "Always Best Care of Pleasanton",
+    "Home Care Assistance of Pleasanton",
+    "Right at Home",
+    "Senior Helpers of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "247f045388afa6cc841843959e0428429571eed38045800860dbe0a353564307",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "943da1bd83b7ca8cb81ab57483bb42092c93a8ce20bd8b70c24b22f6137d444c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_homecare_agencies_pleasanton.json",
+   "sha256": "fa0a3f7ad8c2a625a6ee904bb013769bdfbaf2edea9ee7623a2c820958809b1f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "444f948f1aa51054d33f08c47986ec95988b18f7311b99c110ae0289db952b22",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "4147a0e22a7646f373299a44a374f77b045e21dcf24305d539b24a33d49c5036",
+   "businesses_named": [
+    "Comfort Keepers of Pleasanton",
+    "Home Care Assistance of Pleasanton"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_anthropic.json",
+   "sha256": "78609877adafa0d40e7d9f72903d3922eb2a21f50a823b8d8d457f4796f0a585",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_gemini.json",
+   "sha256": "421828a61a5e055f170b0a664fee8d9d9dbc40c0cc21c2a47287a911e326d88e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_homecare_agencies_pleasanton",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_homecare_agencies_pleasanton.json",
+   "sha256": "911ad7576403b9f399e25f17d38d56bdef8af03488309ff635171755a54bd891",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_openai.json",
+   "sha256": "f888d681cc6b4cfdbe8fafb467e96216a758ab098e37d6b5ec4f693fff1acbe6",
+   "businesses_named": [
+    "Home Instead",
+    "Visiting Angels"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_homecare_agencies_pleasanton_perplexity.json",
+   "sha256": "e107ac6e638f377cc63f40a630ab21eacb28e4642fc7bdc711223f3fa36559c4",
+   "businesses_named": [
+    "All Seasons Homecare",
+    "Right at Home",
+    "Senior Helpers of Pleasanton",
+    "Seniors Helping Seniors"
+   ]
+  }
+ ]
+}

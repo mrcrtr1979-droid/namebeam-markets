@@ -1,0 +1,2604 @@
+{
+ "slug": "pleasanton-real-estate-agents",
+ "url": "https://namebeam.ai/pleasanton-real-estate-agents",
+ "prompt_verbatim": "Who is the best real estate agent in Pleasanton CA to sell my house?",
+ "market": "Pleasanton CA",
+ "niche": "real estate agents",
+ "window": [
+  "2026-08-26",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "2 to 3 agents": {
+   "2 to 3 agents": 10
+  },
+  "Anil Kumar": {
+   "Anil Kumar (Keller Williams Tri-Valley Realty": 3,
+   "Anil Kumar": 11
+  },
+  "Berkshire Hathaway": {
+   "Berkshire Hathaway": 2
+  },
+  "Blaise Lofland": {
+   "Blaise Lofland": 4
+  },
+  "Blaise Lofland (Compass": {
+   "Blaise Lofland (Compass": 4
+  },
+  "Blaise Lofland (RE/MAX Accord": {
+   "Blaise Lofland (RE/MAX Accord": 2
+  },
+  "Coldwell Banker": {
+   "Coldwell Banker": 12
+  },
+  "Comparative Market Analysis (CMA": {
+   "Comparative Market Analysis (CMA": 5
+  },
+  "David Darby Group": {
+   "David Darby Group": 1
+  },
+  "DeAnna Armario": {
+   "DeAnna Armario": 2
+  },
+  "DeAnna Armario (Armario Homes / Compass": {
+   "DeAnna Armario (Armario Homes / Compass": 6
+  },
+  "Deanna Armario": {
+   "Deanna Armario": 1
+  },
+  "Doug Buenz": {
+   "Doug Buenz": 29,
+   "Doug Buenz (Compass": 2,
+   "Doug Buenz of The": 2,
+   "Doug Buenz of Compass": 1,
+   "Doug Buenz at Compass": 1
+  },
+  "Gina Piper": {
+   "Gina Piper": 18
+  },
+  "Hyper-Local Experience": {
+   "Hyper-Local Experience": 2
+  },
+  "Hyper-Local Track Record": {
+   "Hyper-Local Track Record": 2
+  },
+  "Intero Real Estate Services": {
+   "Intero Real Estate Services": 2
+  },
+  "Jing Xue": {
+   "Jing Xue (Coldwell Banker Realty": 5,
+   "Jing Xue": 11
+  },
+  "Jon Ahern & Camille Ahern": {
+   "Jon Ahern & Camille Ahern": 8,
+   "Jon Ahern & Camille Ahern (Coldwell Banker": 4
+  },
+  "Joujou Chawla (Compass": {
+   "Joujou Chawla (Compass": 5
+  },
+  "Katie Moe": {
+   "Katie Moe": 3,
+   "Katie Moe of Connect California Homes": 1
+  },
+  "Keller Williams": {
+   "Keller Williams": 9
+  },
+  "Keller Williams Tri-Valley": {
+   "Keller Williams Tri-Valley": 3
+  },
+  "Kim Deol": {
+   "Kim Deol (Intero Real Estate Services": 4,
+   "Kim Deol": 11
+  },
+  "List-to-Sale Price Ratio": {
+   "List-to-Sale Price Ratio": 2
+  },
+  "List-to-Sale Ratio": {
+   "List-to-Sale Ratio": 7
+  },
+  "Listing Presentation": {
+   "Listing Presentation": 2
+  },
+  "Liz Venema / Venema Homes Team": {
+   "Liz Venema": 3,
+   "Liz Venema / Venema Homes Team": 6
+  },
+  "Lori Olson": {
+   "Lori Olson": 2,
+   "Lori Olson at Compass": 1
+  },
+  "Mario Gutierrez": {
+   "Mario Gutierrez": 1
+  },
+  "Marketing Plan": {
+   "Marketing Plan": 4
+  },
+  "Michael Tessaro at Intero": {
+   "Michael Tessaro at Intero": 1
+  },
+  "Ponderosa": {
+   "Ponderosa": 2
+  },
+  "Pricing Strategy": {
+   "Pricing Strategy": 3
+  },
+  "Ralph Hurtado (EXP Realty": {
+   "Ralph Hurtado": 2,
+   "Ralph Hurtado (EXP Realty": 3
+  },
+  "Reputation": {
+   "Reputation": 4
+  },
+  "Ruby Hill": {
+   "Ruby Hill": 2
+  },
+  "Schedule Listing Presentations": {
+   "Schedule Listing Presentations": 2
+  },
+  "Stacy Hale": {
+   "Stacy Hale": 1
+  },
+  "Stephanie Wedge": {
+   "Stephanie Wedge": 2
+  },
+  "Strengths": {
+   "Strengths": 3
+  },
+  "Sue Flashberger": {
+   "Sue Flashberger": 1
+  },
+  "Sunmeet \u201cSunny\u201d Anand": {
+   "Sunmeet \u201cSunny\u201d Anand": 1
+  },
+  "Susan Gao": {
+   "Susan Gao": 1
+  },
+  "The Gamache Team": {
+   "The Gamache Team": 2
+  },
+  "Tim McGuire": {
+   "Tim McGuire": 2
+  },
+  "Varsha Upadhye": {
+   "Varsha Upadhye": 14,
+   "Varsha Upadhye (Coldwell Banker": 6,
+   "Varsha Upadhye of Coldwell Banker": 13
+  },
+  "Vintage Hills": {
+   "Vintage Hills": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "cfeb3b00ba9494cdfd387b753f9e1e4c7ac182a3bdb88c84f9922adf2e5969b4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "430e55647d4ab9ee78b5e05f73412a6cdc96a21e92dbcd167593c4e02f63fc27",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Blaise Lofland (Compass",
+    "DeAnna Armario (Armario Homes / Compass",
+    "Hyper-Local Experience",
+    "Joujou Chawla (Compass",
+    "Pricing Strategy"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_real_estate_agents_pleasanton.json",
+   "sha256": "2ae608c073cc7220c838f62389f114cbabc62a1dbbb3cf4fdd481013c0333f69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "22947bedfb5cd4caeca701b9ce1e45600f10a128b5f408887f85dec121d474dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "6a1c49b88d827175cb85a70ab8c64731db37ce6baf04e208289a2cc8c7dabae6",
+   "businesses_named": [
+    "Anil Kumar",
+    "Jing Xue",
+    "Kim Deol",
+    "Ralph Hurtado (EXP Realty"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "0d1f1a8108302a97bc38fd704334fda7ee6eb56f930780314a6ed1b368edb6d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "66295b958b897a4d9e5cbb160ccfc39fc2ff0f7b062cc1025ae4ec7737fa43c8",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Blaise Lofland",
+    "List-to-Sale Ratio",
+    "Marketing Plan",
+    "Pricing Strategy",
+    "Strengths"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_real_estate_agents_pleasanton.json",
+   "sha256": "1d6f3bf222f5a4feeae1d34df2259c2accd6dffd20b9263b916ced45cdbb5772",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "37aafbc8ff4a6dacde255c6c462a011beb6542a9c03b803801a5e70d33dffc5a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "ca549aaf7266ab9102055d483f5b5cc97484b922aaad9e73d5c555df890e424c",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol",
+    "Ralph Hurtado (EXP Realty"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "f38803befb1cad5682bef2b4fbb5be448462f7776589ec6cbcb879d0ec24c6ea",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "d854e526f08da916a101d8eb6f2b2b2b39dcc8c0fbf10aff78fbc25e249c7958",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Comparative Market Analysis (CMA",
+    "Intero Real Estate Services",
+    "List-to-Sale Ratio"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_real_estate_agents_pleasanton.json",
+   "sha256": "e61730e8ca8e8325a40be6fe437323624d5041bbeaf492dec56bb7139f42d841",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "80f45b9469a6182bb8865431bd0df10c6e81c52f4a82bc095d48f9279c5cae67",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "a2f9115705a3577b37f5b1b44a1baec1ab0b36be43b0c86701850148ea07c31a",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "d94c5b80f0f511475578100a90b6eee449a4cedd613c8800fe8c7109818eac31",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "bcf248d9210868cdadfba93e26ba265b1f48a65b9475f0372e4d1a68585422ed",
+   "businesses_named": [
+    "2 to 3 agents"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_real_estate_agents_pleasanton.json",
+   "sha256": "3d76ef14a4458d0202cdcf887c650c00a26647eff8a3fb33804513751837836f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "2165cef82e817a66f7c73b82f9012f9b164a41c6c87e55d49061ef7532778d57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "46415ff77f7ea9f34b9419391479396af1c284a826c29dc2ff8c9e882d58e2b3",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "54ebc96068e01a8238827939d4cddfd4e622581d75dcb7aa99a7d02e837369d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "b2067a9d13257f3788f400b372d60399e3b82b30ad88229a3c22c9a290cbf7f5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_real_estate_agents_pleasanton.json",
+   "sha256": "fbe44ee7d6fa367d30104b186978e09f3874bad63c72040b650e265d9277e112",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "2c42ecf25eaedd0fff92544b18d376e5c88d82680a30836f0e98cd6887a32de3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "65fc50fec66793df985741685599b94f3312e98471fa813bc82a7736840b8990",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "6557fd53748edfff53f8ccafb2741efc2f0e44929abc34e4c497bb5b21485a7b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "c7003a4a572ce3bf1e2d31f74064469d927b02ea79dd40fc0a31bd34bda98f2e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_real_estate_agents_pleasanton",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_real_estate_agents_pleasanton.json",
+   "sha256": "ce82d1eb1e1cc5d184420111cf1e12fd6371cca3f197912fb1365ab06d829892",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "af8208d8391293bc7c7976e536c5c4264838ef9c3b8ca4857e73d69615cec3ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "fdfb2984fa01843a86ff522232659edc3185eef541eb35771a10c8d541046e17",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "31f7f565483babce8bfdbc6dc3cda92ff9eac08a42742445077807158c619e5e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "bfac453484e7868b5f6ced384cd21af10884d8034b91dd9bdc572e766b8ce20d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_real_estate_agents_pleasanton.json",
+   "sha256": "5e03ae08ab9082fd2708fdc2d94a9f0f86c5ba9566ab0aa7a021375745350e4b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "2fee127573a236ba892ebb648a97d8e0a664535391995d71659b97d1bbba7f7c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "63486dabfbabbc2115e4bfb7ab9fa6f83cde87a2e97b619ba073af653c77db31",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "0c3f0d3e38e47e901b41b37ad9cbabc3ef2439298f946796228fe981ced3d9a0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "4d90d8b19b53fb9f3b7fa3907cef5c4ce593d9cc495884cc260124c2b39f8825",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_real_estate_agents_pleasanton.json",
+   "sha256": "24214279eaa548867459664b31e300a9f21ff0dd9c74cba61ab8afaa7cd62c50",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "9eae75246c708f7d9a490c73f481d18839758f22f21c7fdeaee1a3ca40c87eda",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "79e805a9d07aa205c94b45b301320368790d23cf6dfabf1b2afcd4fc1daf341c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "a20757db0a74fbefa3eaa241c6ed5a3c9b570c8546b2ef12925336ea45b0baee",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "9ae994eee447ac01f96aeddac081728862f0967cbf0b6c54e0b6ed5f8a18f6ae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_real_estate_agents_pleasanton.json",
+   "sha256": "e68b927ab24c1ce3d89ef81855b50891e763eaee30167b22fe5b8d72bbe1a489",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "5838aedf82df1e8b6d7dded7ef4556581bb4546dad563f68db10341afb04ac81",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "2ee1da3142a1e98f8056f120299b15a7aeb71981624a11a52396ae151e327964",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "7420ffb97fb2c4e2cc4f38f86a7f36f0d96eb0d02c3303802a38befac001f7a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "c03e7170c7b94e8858a680ebb6af1b3fe78e3262dc7bd8a5933788c2cfa65528",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Blaise Lofland (Compass",
+    "Comparative Market Analysis (CMA",
+    "DeAnna Armario (Armario Homes / Compass",
+    "Joujou Chawla (Compass",
+    "List-to-Sale Ratio",
+    "Strengths"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_real_estate_agents_pleasanton.json",
+   "sha256": "a09303a432ccea22056baf50e8a3c75cc33aa9aa700fc83bcedea79d3d8e6e54",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "6b0bce4c039106028e6979215f50b1e15c6618015cdcce4ba8f70757ee247f1c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "17d93ad539947fa2401535cde98351967d57d34b7671cbfa688b278b8ae3c5fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "db0f7f3d36858a2655c5b40b91f5392f88db414ecc8aacb6f57b7ea2aab37eee",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "8a0903f9fc1ce46ac54af1c28ab413b828e7d47c0e934371058d33b267e86bf5",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Reputation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_real_estate_agents_pleasanton.json",
+   "sha256": "96d360d4a1668c4948b0d2641b20d7256a1548de0826ca075a28517d5857c738",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "bce7c8ddfef3a3f4c67c1f2b20b6a610cf421304c0e93277c4701aa7f11c695f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "d9e109dfb44a1d3b5930c7bd81377eef0e6a42c3ea1bf51597e15bafa7a14ea2",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "35f7644f730a95f9aa940f1b05020925be19ae95dd6ae787afaf441a1b53d5d1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "15b58b547034d2523a06d6ec7902a7fbe18b2c9a37db3392b80a28054708e10b",
+   "businesses_named": [
+    "2 to 3 agents",
+    "DeAnna Armario (Armario Homes / Compass",
+    "Joujou Chawla (Compass",
+    "List-to-Sale Price Ratio"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_real_estate_agents_pleasanton.json",
+   "sha256": "ab803928882596dc113021c6ca2ea2e8fd1af7c3655d80aea9f7820fa57fcb46",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "af434bb6e8ad95d26ee153274db085857d88cfad9ff31e28bc968425b9d57e99",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "dd6f5b2a7179ec26202febcfebc4043c333eceb8877ebe478de9a7de712b8458",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Kim Deol",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "befd89c12c16b6c04c251a4673edc865d717d2bffcf557b829bad3b21b7b6fb8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "d7ca84d65046227f11276892b0737f195d3f9b3473ed99f1182abaa1043b7596",
+   "businesses_named": [
+    "Intero Real Estate Services",
+    "Keller Williams Tri-Valley",
+    "List-to-Sale Ratio",
+    "Marketing Plan",
+    "Pricing Strategy"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_real_estate_agents_pleasanton.json",
+   "sha256": "985a2d35850a37dbeffb27616c12045f3ee98c1fed37499b811cefcf1e5362ce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "972f144ae2525acf0c84d78b4401c50a0fa1458335a3387611f977d7b06acf2f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "b36335130154ce6feb060917af91f74069f3458f4b662e8176faa1914b5932da",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Katie Moe",
+    "Kim Deol",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "228dac33de02489f0d1360084de5087fd3dc8f9dd1c5f7121ef04ce16f0211d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "5481e9ebb7c3dc240f2bdc9728cafc3788474cdefa3c40b6bbce5542a069d181",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_real_estate_agents_pleasanton.json",
+   "sha256": "74fbfdb58fd2b806ab4bab955fdc1544b782b359be6ddeb63f2e6b5117f88725",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "7024cf7e97e12823b61df20f503eb6ee2cdaa56d05e290f9f1f43a62bbb30e85",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "ff3e2d64b149682cd67e63e684f3d838ca7771abeb441e254f6e5cd2089725b3",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Jon Ahern & Camille Ahern",
+    "Kim Deol",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "a9570d88958c6f8125a65e39bf25ccdd54f62d1010f93302c310f4ef894a650c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "a48164d51e498cde9cfec781947907743f7f6ea5da3b83e542ab94f6c5fd3d9b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_real_estate_agents_pleasanton.json",
+   "sha256": "e292a935579bb12746ca19dfae4fcf9000cf97e0b7fab8a9ce5896e67db2629b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "e5643181ed58569d41691b542f6d656da57896f8d39425784d815728de065761",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "d6aecb0912977524dbcc7d9368068ee10c0efbf964a372647ffb3281d4151c33",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Gina Piper",
+    "Jing Xue",
+    "Jon Ahern & Camille Ahern",
+    "Kim Deol",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "f9a76292abb02a9d10b37fbe4fb0cfe57dbdfcf4b153825adab447596f5dd524",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "7398ec61e6e45df5f493910eb8548cdf983ceb714a7465aee4b7a95cb4343553",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Blaise Lofland (RE/MAX Accord",
+    "Hyper-Local Experience",
+    "List-to-Sale Ratio",
+    "Listing Presentation",
+    "Reputation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_real_estate_agents_pleasanton.json",
+   "sha256": "63b273a62bf10495bd6005056abd0296dadf270fa43c0ab3b0fb7bff2ab54e0a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "13f6474288cf85c13f5a90b0bb8e6d71724e3ec03a8203ebdcfe46bed4931067",
+   "businesses_named": [
+    "Berkshire Hathaway",
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "103457e02db195951bd414d2e75510f9706fa1ed759ba19daf6a1b2365364883",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Jon Ahern & Camille Ahern",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "fddcdbd7ef6560d043afcf346776fbc6cb1739238d1ccc8b917a3114d0aa3bae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "a0e1f5928439ad3a26dee9cc44bed33b9cc8b96d6db48de66cb25b2547ba01e8",
+   "businesses_named": [
+    "Blaise Lofland",
+    "DeAnna Armario",
+    "Gina Piper",
+    "List-to-Sale Price Ratio",
+    "Ponderosa",
+    "Ruby Hill",
+    "Vintage Hills"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_real_estate_agents_pleasanton.json",
+   "sha256": "4e3c4fa7a1063c4df4dc5d88c6301771b629be701c8d5c56a84cb85534a5036d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "f5d4ffa1dedb4228e1114c8c6bef9a6f04737e3f0ea59da87491cc3946278ef9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "f4a62e69813dc456789ed4778334c0d8bcf276cbcb50a1d6bd65fd0bd1478b03",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "4b229fae0141e78888410a0241c90c497050a52dbe37178f0610916afa18a72a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "834112863f20d4002e12cca698709968a1cb37525cb60289829ca7c8a54c590d",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Comparative Market Analysis (CMA",
+    "DeAnna Armario",
+    "Doug Buenz",
+    "Reputation",
+    "Schedule Listing Presentations",
+    "The Gamache Team"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_real_estate_agents_pleasanton.json",
+   "sha256": "bb8f5b7cbc67e53ce967ecf94248044b1764a50524516c95ec7feb3da077a485",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "d729b1de72b8891e4ff884830800e80b657c7312c0352c0c2047f5aa5eb89aa1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "7aa83593267e3f334e4bd0ef1f9973ed2eeaa125e5f5ec73f3b7a20913dda566",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jon Ahern & Camille Ahern",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "68edd70ffbf42c281646523fe34152d5fec955f825aff93d5b0698fea9a84c90",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "9f07e4a8936c3e6cefe4bbcdb874257d3f38ef759b1295aedddf0c98dc82c0c2",
+   "businesses_named": [
+    "Blaise Lofland (Compass",
+    "Comparative Market Analysis (CMA",
+    "DeAnna Armario (Armario Homes / Compass",
+    "List-to-Sale Ratio",
+    "Schedule Listing Presentations"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_real_estate_agents_pleasanton.json",
+   "sha256": "0090acf303737c548159be35cea60dee9a794afdc493ebc476dae50842a79d45",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "615a15b97f6fb6699a174d22b5d4ff59dd076e3a1a97ab6d24c36de1e3093b67",
+   "businesses_named": [
+    "Berkshire Hathaway",
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "43d00f53c2aba75b1e9bac6054f3b911a98f1be8cbdf8842ae4e3ce654c40724",
+   "businesses_named": [
+    "Doug Buenz",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "10c0b4b2d05064575a9ca16b937cc4d4d2cd40fe76c5cf56bfec937906688dca",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "0530cca524094cd620e16fa7e788d793e2797c1ad559c7a680867c9abe4fc98b",
+   "businesses_named": [
+    "Comparative Market Analysis (CMA",
+    "DeAnna Armario (Armario Homes / Compass",
+    "Ponderosa",
+    "Ruby Hill"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_real_estate_agents_pleasanton.json",
+   "sha256": "db30fde29c639a42d77fab25136d9c8b23f15984c37c426dd3c3bddabfe32f04",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "f93ccd38f077c3836e4deba2edbc75e6bb636c14ff69aba09f2ed4697d9bbc1e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "487ebff817e01fd36acba6c4f12fd9640e6f55162ceccb4a47c3d4832697515d",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jon Ahern & Camille Ahern",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "881a66b6b59e80c8a1f16d0dbbf3accc7ea7b3b1f0ea2045d32bf929529f2f19",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "d36a5e751a3fd0253a0a1f8b47a80e8b6f05ba6e49ff47d23384dbdf9a34adc4",
+   "businesses_named": [
+    "Blaise Lofland (RE/MAX Accord",
+    "DeAnna Armario (Armario Homes / Compass",
+    "Listing Presentation",
+    "Reputation",
+    "Strengths"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_real_estate_agents_pleasanton.json",
+   "sha256": "9a628c498479d65a2796f19b846d6f4a1e0bced9acfd802d18564c85e7ab6c04",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "50b8a7a99f19c4d529cd99a9fa4a1a02e5217f9db81288a2d079e1fcd882c2ec",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "90aec45ee64b024a1a8c9e606363fb0ee0a91efd251b51be108c14816fdb56a0",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jon Ahern & Camille Ahern",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "7213a87422961b0b96e3484be23d88c13d322e62293d381bc7fe41580fe7258c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "0fce7629a9dd08d68e5b85fedf0ffb8e82e9ef505e17a83dccfe9bf19be81202",
+   "businesses_named": [
+    "Joujou Chawla (Compass"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_real_estate_agents_pleasanton.json",
+   "sha256": "0bc1c8c591ff3585e8c63c7ef1ab363d752a69501288319cbc22b79e56255cd7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "30f79f8b185e1301256b2e0177c35d172563113236d5535860fa0158a519f783",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "a9631dc753ee9802322d578e255612729e42a2a18a55a7431720217eddcfd13f",
+   "businesses_named": [
+    "Doug Buenz",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "66c4371b125f775333a95beee449f29d830185acc6994681c78130198e5f3d8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "4c828dfa5960d981ea3ce0598e255673dde1dd25fbf1cd955189cb246e32374c",
+   "businesses_named": [
+    "2 to 3 agents",
+    "Blaise Lofland (Compass",
+    "Hyper-Local Track Record",
+    "Joujou Chawla (Compass",
+    "Marketing Plan"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_real_estate_agents_pleasanton.json",
+   "sha256": "01baa37dcf93929ba4490232bd119ba17d7b284a9148f506006c943c509adcd4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "97b14ad6852a024f9565414a47659017c568c8ad084c5052863b163d9bbe626c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "8352ef629d228ea66c9cd38aebde235e492f2320a8b84396d01805525192b5d3",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jon Ahern & Camille Ahern",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "b646bd4d9217e8d5dacadb20192526956ddbff10ffad050af4e442f74dacb95b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "05f7330725ed270a529ade4720f3f91fa5f2912145be341ce8211c8fa7f8ab75",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_real_estate_agents_pleasanton.json",
+   "sha256": "286a64bcf7c490389500bccca2d8f459211484566e384f4e42bf92f1cc938f6d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "03a8d69bc7d42b35eada5bf92d7d04323a84f9bf164e77e0385f7302aa68cab0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "f4e9920e76a76d3e35e3bc2350cc7e14f080be59f79de095cf91b84f885aa4d1",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jon Ahern & Camille Ahern",
+    "Liz Venema / Venema Homes Team",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "40cba4ed974e9c4ba0a7844ee2d983a2e019715b1afc4db2c5a29097f13c448b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "d247ca431a5678d355d45f09e13935fb9ddf1a546ddad33927174d5deec6409d",
+   "businesses_named": [
+    "Blaise Lofland",
+    "Hyper-Local Track Record",
+    "List-to-Sale Ratio",
+    "Marketing Plan",
+    "The Gamache Team",
+    "Tim McGuire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_real_estate_agents_pleasanton.json",
+   "sha256": "22220d033a58c17da3dda09fdb92be36d458403c05bb071f1b0b2886e754e82f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "7e41c3d9095b558e3b0ecefa151b7601847f320579386deaef09af50ac817db9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "5a6588d73249dc98133da5b5daa3d50d39d272c7c768be6279ec49bdcf55db02",
+   "businesses_named": [
+    "Anil Kumar",
+    "Doug Buenz",
+    "Jing Xue",
+    "Jon Ahern & Camille Ahern",
+    "Kim Deol",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "a4c8f917e4aaf58746465afd12ecb88b3a6b2305dbb58dd446ef397ca8b1a350",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "1902fb5fdbfc3b97760158540a0fa1a97f9eb1374ac0ec4f072f1d214817c68a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_real_estate_agents_pleasanton.json",
+   "sha256": "9e653a2cd70e6a986a3afe4593d1d9c7b59130425793a820c118e78d3c54f60e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "1787f79bfd76bc8c84312060e42543d00d452e8ff9a3f0595361f88e29e5dfa8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "5dd51f2fe9999d65b15fe9f0988d71ee114f20186ba43f0e7fe058b3c982b83b",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "b6e41d9ac5398ffd5a19ec4c53f2a90f20cf5a3a5cb6e19febc954c6cd71fea8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "a6911f273f80d61f336816e71f9bc5976392d41ab310d5e2b9fda99518dd4c03",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-21_segment_real_estate_agents_pleasanton.json",
+   "sha256": "95e2e5f0277bc324665963573476ebeeed2f2198d49efa9837d2e3c147272954",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "9e179ff77ff482e6b05cd300c91abc8ae1ec26d6520041e0a45b754e6d979420",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "af2aeca8fc45b2cfb618ebd8b8d45e87ccdac5fa34a5d1911fd0e01a1108240c",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Jon Ahern & Camille Ahern",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "551020223950ac661301b61439345a876ca290f1f687102acd9cff3a24c31d06",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "2baa5e660eba0089c07c3c54734dc12a16165389f7cf8f907aac5f1eaa3d0af3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_real_estate_agents_pleasanton.json",
+   "sha256": "a884ba20031baa8472ab0e6a833c046d5ba7621afd42bc2d6ccbfc582dfa9859",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "b3bc3a33253a30fa02a05f4207559812e27109a4186e14b974ec511f7fc394fc",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "42ba14501eee38bc4477348c60dfa6808863ce780b2bf6dd5b85fa7005d8ed0a",
+   "businesses_named": [
+    "Doug Buenz",
+    "Jing Xue",
+    "Jon Ahern & Camille Ahern",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "0d7f7e384dbcee2e06f04007274a5d3ad7fa07f4ada3124e0a955aaded4330ef",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "6370641f758ac94425e5095c16b51015c044368d8373b43969c0aed82e63b9e7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_real_estate_agents_pleasanton.json",
+   "sha256": "6ca7a36cb28f63256f1330fc32c0d1bb59fc94e1189a6720cf0308943b3d7bcf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "6cd245f0e989dbf93dfd725855225cdcf7dd89c4777df0cf18aee7cebfe983f2",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "40e336e3c3e96ba55df72b3c3fab9413a58dc0aed1854d9d171d5708ddd66704",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Liz Venema / Venema Homes Team",
+    "Ralph Hurtado (EXP Realty",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "4d7855859d15c0951e04a89f8137a8b9def11ad9ebfb4cca62a9b2172a7eeeb3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "d3317f6d2b17887d0ebb02a350706a765c61d76b302ddeb8a9ac2aa5c7ce32ad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_real_estate_agents_pleasanton.json",
+   "sha256": "e50701c93ec30b7f9c5c14a88df464842029400f5bd75729915d2ab4a2765233",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "14c59b19d905a4ce80515787ea93ac7cb5d104ca681d426d5b5e81d472abd94d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "fb80db42883b18d639790a93cb4a03f5f02e84527d38c53084b43280a8c01fcb",
+   "businesses_named": [
+    "Doug Buenz",
+    "Liz Venema / Venema Homes Team",
+    "Stephanie Wedge",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "68df8d88fe3bf3d526575da420e36d4482d07ecc889a46e936a04390f4867f95",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "6ecc0ea8228207d3a445b73db550de9ef2063717338fb1467cf11dc5a336ad9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_real_estate_agents_pleasanton.json",
+   "sha256": "741523e2338d661d302c70750ccb6fa68787c419054a6682a38c72d9a0508a35",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "899de85bc617749832b0b8c89e5c73143742914c461a4af71926de2f1190bcfd",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "bd62313e03c0a0c5bcb8d270669bf57bd7d59074a5fd24587a7d3fdbc1c7681d",
+   "businesses_named": [
+    "Doug Buenz",
+    "Liz Venema / Venema Homes Team",
+    "Stephanie Wedge",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "e95556ece912eefb7e2e900a206219bc0d268a18656ffdf230fe9dcfb6fe4f56",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "f78d1022f71ee05cb64b71298d0af78bceabfdfe0b7726aa03d208abd07a1532",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_real_estate_agents_pleasanton.json",
+   "sha256": "23c782f345bd6188a9e25fe74bec2ea13a8198446c066b8e78902d13aebc99ea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "e925cdee48ca56c7d3543326149082d58a7d856cfba56417a37543ccae5439ac",
+   "businesses_named": [
+    "Vintage Hills"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "6b416840202e9d47e363fa3ddfdead453ead720adeb32924f5c68062e82fa952",
+   "businesses_named": [
+    "Doug Buenz",
+    "Gina Piper",
+    "Varsha Upadhye"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "46f171e0ddb4df427578fce0febf282c28fb6bd2adcc1a9a1f5149e260d9517a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "89791fb4d7615c79feb3defbaaf5a91614f8c567b540399effb0f88768478d7c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_real_estate_agents_pleasanton.json",
+   "sha256": "68aa334224c8b4d4fd8085a1deee13e458907903e488015ababde11187b11e48",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "6542a463185ba308568a4fe77daf465f963efd71d0901ac914a05efb20f0dfb8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "2bbe8706ed697251db133f8318b36f2d19b2c7a5c061e46829d09359042833d2",
+   "businesses_named": [
+    "David Darby Group",
+    "Doug Buenz",
+    "Mario Gutierrez",
+    "Sunmeet \u201cSunny\u201d Anand",
+    "Susan Gao"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "25c71256560d626a4a51c13b77e39aba1f073f6b01a4bff1cec68751bd677418",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "b3c16a0ed8a6f905abd4a293d593d3a36b4db54b4993aeb10c08d64a0320749e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_real_estate_agents_pleasanton.json",
+   "sha256": "07b7ec4c8f4f80fc96f068c202c11a6571b1c5e35f3c3416cc6dc53224639b61",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "b81a705f323737e3bbc527a72c5e29ef7ad2679a893474a4c67ce22c7a0235f9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "005ca6722b794fc12be0932e9f0f5c86ca92667de4db674440381e58aa1c4b0c",
+   "businesses_named": [
+    "Deanna Armario",
+    "Tim McGuire"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "3d56ad967270e974fd821b566dfc16ac29f77e851234cdc1197a2b74183dfae0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "dd666e0e2ec20e79725cea862b5268a70d1190836e525930475b63ab5738c668",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_real_estate_agents_pleasanton.json",
+   "sha256": "9064502165c0876be224e7986d14b1010fbb4c786dde211d02cc3af3be167963",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "3560f8763c3b6c31c47f936578365a64f117236f0291ef564d9b21508bae5583",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "4a3305567dc86aaa4b5557ed2f0b33609d6380659bb06d06cc036cb3490144a3",
+   "businesses_named": [
+    "Doug Buenz"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "d610ccc174c097c01ff355b156966d7a1cd46a0759e37157ed8de6d015665cc7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "c55eed5db6efbe25fba39e2322a88953a7acd9aab8da859ed8a25efb38903e9f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_real_estate_agents_pleasanton",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_real_estate_agents_pleasanton.json",
+   "sha256": "a5521728e5edecdcba4a5aec088a3758254554ded29ceae2f78def9b347f3d6c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "6891821d7391739ca7bc315cdf52bad50d42073727623f4c5a9cc7bb28d9e9d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "e79f67e223e3ea4667d73673db6a88ce93ed0867ba8d334187bbaa13d20b5208",
+   "businesses_named": [
+    "Doug Buenz"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "5d9ff2b5648f5c41cee037ccc59d80be6c886f017fb9faac19188cbd88b09555",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "706c6f0d5806dbd2dcb797b458e114e478367ba8d4dd9215a3139423dbfe91c9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_real_estate_agents_pleasanton.json",
+   "sha256": "9cffe9884d8a5c0c1d5376c5db3a5ccd2289454a327267d8505cbe0c5feac1fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "34fac9cf806304ae1016047cb6e54c8ea5477b2a10b8052f618c382e4faf6145",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "d5de055e0eab610dbd27b93378182201737e3648f9467daee342a66bc43d7d59",
+   "businesses_named": [
+    "Blaise Lofland",
+    "Katie Moe",
+    "Stacy Hale"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "bcc688da9cffcca9015c65dac75ba85b431c86d1a79c6ddbfc95e90144c24136",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "ca9e238571e6eef3b3e2df6500e0243dc612ebad128e452d245afb305eaefdc8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_real_estate_agents_pleasanton.json",
+   "sha256": "1aee2a74cfeab0698914b6a858359fc5dd1bb3ba61e9ce2f01ce31734b0852df",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "66d38ccb56dc2233b5e1efbc8f0e523efc52c335b8906586370dceb74958e0df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "bc0f0c1c8847ccd94a679f11b82b22241267aa0e5b9313122b687f7c4cc7dc71",
+   "businesses_named": [
+    "Doug Buenz",
+    "Katie Moe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "8b25491e2c51e05168f49758268c64fd5b023fcc1bd7ebdcd6341e4f299a4258",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "7beb5f09740cc34b9a5965d7c7ff1ab93834e1b57acf6284ecb0b940d2a3188d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_real_estate_agents_pleasanton.json",
+   "sha256": "f3944a70d3df72385072769af847ac4a7ce66dca91f39914695e39c88a1623bd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "1ae9e4778b35caf5aa49cfd9d455bc883caaa32292b2137e231c491fc09451b0",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams Tri-Valley"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "4c06510517df5267a147980c4a5fffd22255927f01a3671a4ec741cfa55c98f2",
+   "businesses_named": [
+    "Lori Olson"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "59b22900fa94bf89492ed196faed35d874abb9f96c521498ac08cad91be4f2b5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "0d7c7e2d6ed971d9f20037ccd7cf9535f06ffd0bd1004abd553960b9fbbc7243",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_real_estate_agents_pleasanton.json",
+   "sha256": "0e0b2c9150e70ebe0f34c1123abade446fde6537554277869ff33a72280f3678",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "abcb6f5364559b5a212a8f41dfe26c22182a2ef9c91b94e00ad8f1c29b1f9ef6",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "4603233ebf4f78d6acb3c8ff84cd6413a3f4a8e857c923ba4d4ccf07ba7e6816",
+   "businesses_named": [
+    "Doug Buenz",
+    "Michael Tessaro at Intero"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "15a844bccf691d8c62308b9e729b902d0801983d0def8d32e1691ab07224ff69",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "1b6fbc25ba5e8828f52a23affb50ed3b94067a0506ae05e5e0ab6d43d172b777",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_real_estate_agents_pleasanton.json",
+   "sha256": "d2c51f56af37b2756c3b491adc4a38c6570b65521194cf348fddfabdf2e97b2f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "86a2cdabe0567efd3e79bd251f808c58283974ae693becbd14c4e33f9723e9be",
+   "businesses_named": [
+    "Coldwell Banker",
+    "Keller Williams"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "182918fdf1101df3c631d4cae7da07ff2ae4bca658048b0a608dac53c7873926",
+   "businesses_named": [
+    "Katie Moe",
+    "Lori Olson",
+    "Sue Flashberger"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_anthropic.json",
+   "sha256": "4e236d2f1c6c7e602f3ba2c478ff2640a7b8f2c54b07eaa530ab0e4356ab4d69",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_gemini.json",
+   "sha256": "e185a9909d3f8a9c318f0f976148545c8fa89feeb98e0d51d6334f2c5e14f61d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_real_estate_agents_pleasanton",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_real_estate_agents_pleasanton.json",
+   "sha256": "0ffe105d5f99a8cebd73ad071fba671b17a23c23817666cf1af0821cbee2e74e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_openai.json",
+   "sha256": "0052dcfe1cda79ce41c3b723fc9cc0cbe9279cc95cdcb71c49b516e400018ba8",
+   "businesses_named": [
+    "Coldwell Banker"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_real_estate_agents_pleasanton_perplexity.json",
+   "sha256": "d4cfc6197f5ceeedb7c1f7ff2aea4d968f93e9919bad05a9d0f00d1e4d3f62ac",
+   "businesses_named": [
+    "Lori Olson"
+   ]
+  }
+ ]
+}

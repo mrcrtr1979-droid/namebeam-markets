@@ -1,0 +1,3666 @@
+{
+ "slug": "santa-cruz-short-term-rental",
+ "url": "https://namebeam.ai/santa-cruz-short-term-rental",
+ "prompt_verbatim": "What are the best vacation rentals in Santa Cruz County California and how do I pick one?",
+ "market": "Santa Cruz County CA",
+ "niche": "short-term rental / Airbnb",
+ "window": [
+  "2026-08-05",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "3BR family getaway near the Beach Boardwalk": {
+   "3BR family getaway near the Beach Boardwalk": 3
+  },
+  "Aptos & Rio Del Mar": {
+   "Aptos & Rio Del Mar": 3
+  },
+  "Aptos / Rio Del Mar": {
+   "Aptos / Rio Del Mar": 2
+  },
+  "Aptos Bayview cottage": {
+   "Aptos Bayview cottage": 1
+  },
+  "Beach Gear": {
+   "Beach Gear": 6
+  },
+  "Beach Gear & Bikes": {
+   "Beach Gear & Bikes": 2
+  },
+  "Beach Gear Included": {
+   "Beach Gear Included": 2
+  },
+  "Beach House Rentals": {
+   "Beach House Rentals": 6
+  },
+  "Beautiful 1 bedroom in Seabright Beach area": {
+   "Beautiful 1 bedroom in Seabright Beach area": 3
+  },
+  "Blacks Beach Retreat": {
+   "Blacks Beach Retreat": 7
+  },
+  "Capitola Vacation Rentals": {
+   "Capitola Vacation Rentals": 3
+  },
+  "Capitola Venetian": {
+   "Capitola Venetian": 3
+  },
+  "Capitola Venetian Cottages": {
+   "Capitola Venetian Cottages": 2
+  },
+  "Capitola Village bungalow": {
+   "Capitola Village bungalow": 1
+  },
+  "Capitola Village home with a parking spot": {
+   "Capitola Village home with a parking spot": 1
+  },
+  "Capitola architectural cottage": {
+   "Capitola architectural cottage": 1
+  },
+  "Cheshire Rio Realty": {
+   "Cheshire Rio Realty": 4
+  },
+  "Cheshire Rio Vacation Rentals": {
+   "Cheshire Rio Vacation Rentals": 2
+  },
+  "Coastal Stay": {
+   "Coastal Stay": 2
+  },
+  "Dedicated Parking": {
+   "Dedicated Parking": 2
+  },
+  "Fireplace/Fire Pit": {
+   "Fireplace/Fire Pit": 2
+  },
+  "Hot Tub": {
+   "Hot Tub": 13
+  },
+  "Inland / Mountains": {
+   "Inland / Mountains": 2
+  },
+  "Kendall & Potter": {
+   "Kendall & Potter": 3
+  },
+  "Kendall & Potter Property Management": {
+   "Kendall & Potter Property Management": 5
+  },
+  "Outdoor Shower": {
+   "Outdoor Shower": 5
+  },
+  "Pleasure Point / Eastside Santa Cruz": {
+   "Pleasure Point / Eastside Santa Cruz": 2
+  },
+  "San Lorenzo Valley": {
+   "San Lorenzo Valley": 2
+  },
+  "Santa Cruz Vacation Rentals": {
+   "Santa Cruz Vacation Rentals": 6
+  },
+  "The Coast": {
+   "The Coast": 10
+  },
+  "The Coast (Santa Cruz, Capitola, Aptos": {
+   "The Coast (Santa Cruz, Capitola, Aptos": 2
+  },
+  "The Mountains": {
+   "The Mountains": 2
+  },
+  "The Mountains (Felton/Boulder Creek": {
+   "The Mountains (Felton/Boulder Creek": 2
+  },
+  "The Vibe": {
+   "The Vibe": 19
+  },
+  "Transient Occupancy Tax (TOT) license number": {
+   "Transient Occupancy Tax (TOT) license number": 2
+  },
+  "Transient Occupancy Tax (TOT) permit number": {
+   "Transient Occupancy Tax (TOT) permit number": 2
+  },
+  "TurnKey": {
+   "TurnKey": 2
+  },
+  "Vacasa": {
+   "Vacasa": 5
+  },
+  "Venetian Court Condos": {
+   "Venetian Court Condos": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "bd5ce69880a1f88c00600feff9c7c0cade11bf3112a1a767aa2c00d6606ee3e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_anthropic_r2",
+   "date": "2026-08-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_anthropic_r2.json",
+   "sha256": "fdc4b3b4ca40856445e483622d57cb72e4082192719d5dff5cf0798aba3429a3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "8a23a553e44bf106c6a3576f2d7a2f97fbde8b4048a13e68498b0c649d23d76b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r2",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r2.json",
+   "sha256": "4d38fda002544792d0ed3b967873c48186bc0dc563182acaa0439881542b84cc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r3",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r3.json",
+   "sha256": "4ad28b5382dcb01ba495b7a744daec67a1f9b2129197fc06f620c812bf568e0c",
+   "businesses_named": [
+    "Capitola Venetian",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r4",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r4.json",
+   "sha256": "f527b2cfdf3a4b9db68f018d8cbd0731d9b7591cde73c926b206e2cbe0ec175a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r5",
+   "date": "2026-08-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_gemini_r5.json",
+   "sha256": "306b58666df92efc266a325411a1bdc54d1a482486e09e8054ab8e31dca8adc4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "c2e733674301875f1abd048cdf70524f70f3f72198c6a7dcb3781b227667f16c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r2",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r2.json",
+   "sha256": "6b208ea02565464f562dd48ed111048c393a5d48026872eba7adeaad7fe4a4ae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r3",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r3.json",
+   "sha256": "5674d25dd31a57a8f1c38dea44002ed3544bd61c97b6c7f09c57358c9341c4f9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r4",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r4.json",
+   "sha256": "f56549a77d6cecd6bb67b0c4b3c8f9ae4a4d637bb9d66bec7ab87ef7c93d18d2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r5",
+   "date": "2026-08-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-05_segment_short_term_rental_santa_cruz_county_r5.json",
+   "sha256": "52fbdcc487159fd8a4138691c0d5f23c9e66e575da787360e280c4fc6b899f0d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "ea4136e5ef906554eb1b4f01dcbd744b31e28378045675cdef24d4b7b1d83a7a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_openai_r2",
+   "date": "2026-08-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_openai_r2.json",
+   "sha256": "01672c106ee610a3189f2eae39cf034c058858bf16e10368e9de216acf186018",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "dd5abae68f8a9215fcd20a6280477a438352b1894bb6ed40890611077acafe32",
+   "businesses_named": [
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r2",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r2.json",
+   "sha256": "74d497c5a7cd6d27a8cda1c98b3ab9a73744faf1e5c244176c0f0c628591126d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r3",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r3.json",
+   "sha256": "fa1bcc44a3fc65f8eba423d70bd7552dd0422410384dd857b19a85dabeb760ad",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r4",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r4.json",
+   "sha256": "5ba52f8dfb07ed1e12f6161be10e98620bcd353f9a2c23cd1378bdd584be609f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r5",
+   "date": "2026-08-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-05_segment_short_term_rental_santa_cruz_county_perplexity_r5.json",
+   "sha256": "455dd5eb39d9a4e3e152f059d91e00433761b0e23e536554b047385da47e3752",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "8c2e1c3f4aaf20a8d026f328bf44337a1ec0d7af1cebc7705b27b2d2bed32885",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a3810f8c9ac961a7fadf652a1ddf1f2769768880639612d65b66cefb6046d7b3",
+   "businesses_named": [
+    "Beach Gear",
+    "Beach House Rentals",
+    "Hot Tub",
+    "Kendall & Potter Property Management",
+    "The Coast",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-06_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-06_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "fcb181fd9539a63c08c0b8e9bc85947ac7ca5cf12a28720bbaf709e9630c2231",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "7301dea04eaaa6dba9abf2c00ccb7c615eb8d401530b4c12a46393ef4374f099",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-06_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "e94cf8f2bf7307abccb53467df86e3bedd6a6a368f45b1c7013039a9a5b4e5d2",
+   "businesses_named": [
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "e9e10c351a2cf2fbd37b157c475e025ebbcf7734fd98d5af5714d99beb753262",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f626991e17d5f53fc96d78a39e38bcea3880e217dc7b966e971cdd0b6e0ae9e3",
+   "businesses_named": [
+    "The Coast",
+    "The Vibe",
+    "Transient Occupancy Tax (TOT) permit number"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-07_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-07_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "e93bd7f92c11a83905f3984fc0ffda4b774d8f8c420707d585c8aad1c9e5c872",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "309b2c6b5abebff4bd24ce12be4ae0dac212aa53e6f3c2f747fd7494ee9a0846",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-07_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "1f3c3add72dd9c38616c47e31bbb98051b85e6eb2f84e6daf15b7bba3602d5a1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "03bdd601bfc56c69dffeba8a71dbecaebc71311acd37d20671d383b8428c710b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "10a7535617bee426d388289eb2206f14f3fdfa119e04fc853a2624cbe3011d70",
+   "businesses_named": [
+    "Beach Gear",
+    "Cheshire Rio Realty",
+    "Fireplace/Fire Pit",
+    "Hot Tub",
+    "Kendall & Potter Property Management",
+    "Outdoor Shower",
+    "The Coast",
+    "The Mountains (Felton/Boulder Creek",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-08_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-08_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "cba97d5d881b7a13641d37863ca468b90199f5d919886bb39c522f423cfdd1be",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "c302e1162c34ea024c8259922291bd85be792c48688a885fda7c793c73da2e70",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-08_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "88d9ce1659ea8a0d8b56d93651bab2bb414f0f913ebd6f9421f27190ce51cb57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "c8812ca35c50f9018dccc4982823fd6515a6ae4435e30e6eb836d966aebde8f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "131cc6422836a6690b89641c87ea8455ae4bec249357553bb90a4fdedc252fa2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "07af1d2aac2a26ebe6180aa0b1ddaa17de762f3c30b2f31671e349b38058b2dc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "566cfc2850fcbd27fd8d30c60b5cc96dbbf1adb59739113770bc5fac3cc6e07d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "d9d9d81065506ec84e31aeb882f65c05f242acdbdb968bd5ef6e80c8a8ec3b2a",
+   "businesses_named": [
+    "3BR family getaway near the Beach Boardwalk",
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "9ae639a1b3fc92f451064cecdf3deac41e568207ad0aba907abd506c032f5823",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "7aadb942fb9c8205d269f42675a7dbdb4616e57b3df5c14ace71ab0b5949d688",
+   "businesses_named": [
+    "Aptos / Rio Del Mar",
+    "Beach Gear",
+    "Capitola Venetian",
+    "Hot Tub",
+    "San Lorenzo Valley",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "861b667694df8c2b9ab18047f9fefb523a7666ea04435c32b9ed38b5c604333e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "247c7e4897be5adbd7d0dc9ce533e7bc2f7da1d8f9671dc95cb51db22f8e0357",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "5aecfd589927fcfac9c91b6a9b7e7f5a1ce6e6d989add04cd54524ecb42683cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "db109b515964a225b7c252895a7ce912aae5d9f7822f17019573af910109267a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "9e00a8698eae113f4636a038c6c7d6e39f1a59e1a1f2baade938dd0194271388",
+   "businesses_named": [
+    "Aptos & Rio Del Mar",
+    "Beach Gear",
+    "Beach House Rentals",
+    "Cheshire Rio Vacation Rentals",
+    "Hot Tub",
+    "Kendall & Potter",
+    "Outdoor Shower",
+    "Pleasure Point / Eastside Santa Cruz",
+    "The Vibe",
+    "Transient Occupancy Tax (TOT) license number"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "052e2af0e40f5dc173547049b303d9ad582827d01ae8d26e2efe481bf509052d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "296f6f31b15ea0144a42ee4d34d2a1a233478a90194ae01b4cfec38725115290",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "1472c769175ec7978769e23e5d493a8b6f4c2e62574d405cd018077f493ada67",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "ff99e63afec8531277e42fc3258c35d399e3c3b7493a9f98d486d5c3b69e47e0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "ea0462d4e06bd052621f8cbc261279e5afe59afd36d77b7a3b04176c3847d85e",
+   "businesses_named": [
+    "Aptos & Rio Del Mar",
+    "Beach Gear & Bikes",
+    "Hot Tub",
+    "The Coast",
+    "The Mountains (Felton/Boulder Creek",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "b2fe5dcecafe420b5094874130b74bb4a68926a7e75eda85ca3d632a22df2896",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "72e31c2f2789a1ef809e5098dcddbf7c75ed00d5d6f354c3a691fcff5780f981",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "daa57fd655a2efa69613e2a342930e981e7dc3f93906adf24735af0befecedd8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "fa238f2c0212a026547ed48216118c2220e066ea586d3a4da30b6d09c3e628d8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "9385b5663747ba38491b75b10acc99e541e0a27ff431a7c0fd237d0d3911650c",
+   "businesses_named": [
+    "Beach Gear & Bikes",
+    "Beach House Rentals",
+    "Cheshire Rio Realty",
+    "Hot Tub",
+    "Kendall & Potter Property Management",
+    "The Coast (Santa Cruz, Capitola, Aptos",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-13_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "1fd615fb8ede0bb9ba144f7e2f8524c89ae5a6cd0e9ad112c23031d74f7e2bb6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "35f7155f2944e3d268767c993cb0a70113e158d6c67c0fde0fc1d352d8ff9180",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "52bf7bb438f605f093a21ee1d655ef5de8a1b7ef28baacfe336216409587bece",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "565143346b24cdbc4eac1fa90f9bd48442bcc65256a5573225232debd1821f37",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "57aa1bf8038ef8b6715c03c1c50d647516fc2e5162a6bd8bba7c8b39a83e8788",
+   "businesses_named": [
+    "Beach Gear Included",
+    "Capitola Venetian Cottages",
+    "Hot Tub",
+    "Outdoor Shower",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "7f2b30229dce22df365b87ac1449f99b8dd1a71d9ea52f8abba16a0105fe30cc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "30361e330827cbaf41149ebaac5e9d97b15767287b1c9b88836cb0f0c47070c2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "c4e6cf1c88e00ee359bf5d6f196bd5072b3852ec60b04f77c0d81d6707164b64",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "a45cfe23df443d8c91d6d6b636073a3479afbfb8397ffa288446548e3664cecd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "10bbcb2529085fc93786ac4da56b2791580a4c59f31f654e8e6748c9d6992c57",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-15_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "acd57ca7af97ac63aca8502958162fcf58df9ff97e02a16e4bf5884d49682dfa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "3a14090a3609b8eaf7666306d342703bb782301d1a5e56d879b065a74b568293",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "dc18252dda5ddd3ccab678b4d6e5bd788d445fe44c2ecc966737c25cc6eeb23e",
+   "businesses_named": [
+    "Beautiful 1 bedroom in Seabright Beach area"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "2aa0b7e8a347a09343e8392917ef9e540f477dc73a960cd76a264fddc5a2445a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f4192c140f790c86add3320126c623c8587714c8359f12e5381490bd324a5e03",
+   "businesses_named": [
+    "Beach Gear",
+    "Fireplace/Fire Pit",
+    "Hot Tub",
+    "Kendall & Potter Property Management",
+    "The Coast",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "59e34dea26443e2ce003a4b3613237a8f3e9e13a5933ae55f0dada20d72da94f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "df5f83ed4050856af12c204b4569fca81647fc05e3c721a938580c84a6cbec3e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "fdb45a167abf1d4f950fb28ba4dd9dcf64279340e0bdd8ed8b5830e9ec07b683",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "bc1fc4b3a3cc0a0ac6b8a5aad651ff902038da98b0f7fd03859d5928c77b3121",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "27c379c770c873f4a18767bada9d03c33b6d1de032c5eb72a0b337674ff0aecc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "aeef63dad7f6b1838521b5fce8dcd425e6948517f61054f7c0f003e99e533c49",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "09d2ef9c8cca0a5728d475a6830edbff9445d521d4cff03b596cd0713fbd361c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "9f0c8ad39fc7c1f7f8389229ac5a56337ea9fdede63e4af62e841164f87fcf03",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "320aaaff663527c92fba36b66c5f798e66bf53b384ffd3b3e0672e85801e7462",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "1ff6306fd996c3bafdb446cc97c0eeae75f036faae8a9fa17e832982e193f748",
+   "businesses_named": [
+    "Beach Gear Included",
+    "Beach House Rentals",
+    "Cheshire Rio Realty",
+    "Hot Tub",
+    "Kendall & Potter",
+    "San Lorenzo Valley",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "1af204d74134fc2aba53e619ab1f87423f28e1d73ed793788485737a49538ef8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "d7b5fc1f86d4bca49b9b8b3cd9e3f5f4b70084cc10b6b0e930209c6034043261",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "d817ef06da26bc97d420dee849ed38e301939ad35672a028be85b4718dcc21da",
+   "businesses_named": [
+    "Beautiful 1 bedroom in Seabright Beach area"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "9b99b93327bd4c1fa25d611d9bf8b573af34a7b014779d2864bd227d5efdf0df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "8951cde729e2ee4dc0fee4cb4ab2988547c9fae7a6cf1452641d3631577b0eca",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "c63fe59bed2db49e040cf7d3233687a5b377ff295537c928554503312ee9e7c5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "b1936da5a42f8488075ab11e9b14957be0a1220c1689410b4db1d6748b27eaa8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "a349e42fa021ec4c4aca209be9975120e2ba9dc6348252ebc820fc105c7482e7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "97febff2c2bffecb51ecc1498e7faee9dda13c60a55ccc7edac8e6c359e9280b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "2dc395d8b6731370b0b2d1704ebc0a6b50af55bfcf2963982d6de3a467be677e",
+   "businesses_named": [
+    "Capitola Vacation Rentals",
+    "Cheshire Rio Vacation Rentals",
+    "Coastal Stay",
+    "Inland / Mountains",
+    "Outdoor Shower",
+    "The Coast",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "ed9dbbaa60a10fd0f700ba8e7598fa337b409cafd549e26ae1b0faea66367747",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "e83ca9b5117ad35656c68788066086f07557809379c6cac3f442a95dd91b2db6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "92d594b657786220e05fc59ebfb489a26f570ce948b5abf66bde98b7e4923b84",
+   "businesses_named": [
+    "Beautiful 1 bedroom in Seabright Beach area"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "9c5b2f7c0e1e6acb4134146c7aef9045fd25354fbcacb6cf19fa7d1a66afb1b2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "519e4a23beb80140f44119ab06f92b973437f16b1bdd754142a82287462b7e4e",
+   "businesses_named": [
+    "Aptos & Rio Del Mar",
+    "Pleasure Point / Eastside Santa Cruz",
+    "The Coast (Santa Cruz, Capitola, Aptos"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "3e0c580870adc2d89283fffaff53c9425de57e1dcee1f41aa2ddb233c261d5f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "e249b76eddf31dc7b3771087548243d34cfa2e6556b5eb63dc03e1c088e7c730",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "75d45229a672e40dc71175feedce40a588dac1a3a307680bb89f9c6d352b6147",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "3e333f066f37e692faabf10fc96880a8283398f348235ecd4213b4114b60c5b1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a6a7542d7bf7bbefdfc6a65ce56bf738f918fd3da7ebab24fd0e69308f5c40ac",
+   "businesses_named": [
+    "Dedicated Parking",
+    "Hot Tub",
+    "Inland / Mountains",
+    "The Coast",
+    "The Vibe",
+    "Transient Occupancy Tax (TOT) permit number",
+    "Venetian Court Condos"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "82578fbcea30f2657e4c36439afd31ed8620ff585310b6e039b7cde7722a0e32",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "870381b6931c77da56164566e4e504d99cdf573f83bf6b6f0c1a923f4381aace",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "ba1455852f1f78c8ba42e3a5c8813b3194d5a1123076dd5829c01319d8de4466",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "2cc2b63f42d117f36e3f1c13361fe6382fc524a197cb7f4a012bd56a96efd4ac",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "196588afe3d34bf75dcd9050d03c6f74994e5e88d7fafc1e99babe9dd0db0f52",
+   "businesses_named": [
+    "Beach House Rentals",
+    "Kendall & Potter",
+    "The Coast",
+    "The Mountains",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "9e7726d0c705d8b75f5310a1cc0cb47253492cf27c812f523e4a4d559cc24cef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "034cad809a38e43385738a40c048f408653be59a2530599c8ffaf8568979f7b7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "2651a155a56cb7a8abf02d5858c48fbe8678be32806899ca0f06e97ae98b4cd1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "63df46ebd4e50a3bd401811ebb4941c42ef6b4f5a0a77195e4e53717c9c50943",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "c2d5eedd1dbde7bd94c384e42461ab17e358150b89dab7bde0fd1cb790c2f70e",
+   "businesses_named": [
+    "Hot Tub",
+    "The Vibe",
+    "Transient Occupancy Tax (TOT) license number"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "bc378c39e6db5d2b05274328aaadb0bbe7c0b0d7737b785bcce96192361d5f17",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "86c53fdf8f0339c882a89bfabb80da5ee780edd0caa7a5e7b14ea6bc1b743409",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "fb5e862f877dfdf5978945362c2a034bc5abbbccb2c8b0c41059be2eef36ed86",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "5fd9aee8409b388f51272e4eeb9a63f4cdd80e1841bbaeb8749a6063d50484f5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_anthropic_r2.json",
+   "sha256": "a68e527308d7633daf686ab9dfd0a3b2ec29ade094d25cbcbb95fbbf41371e1a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "0ce11f7ed40066d35777724a96bcc248cc3b6ed04d1fd131438682a163e30f06",
+   "businesses_named": [
+    "Dedicated Parking",
+    "Hot Tub",
+    "The Vibe",
+    "Venetian Court Condos"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_gemini_r2.json",
+   "sha256": "e2f3d16fdc482510e3e76fc77f0e9ed9d55fc9568c5dc47497c0a443f446e96d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "4f1eee517d86f90fa24782358d9d0f4cf35552ea3ee7c888c128a0fb8417197a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_santa_cruz_county_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_short_term_rental_santa_cruz_county_r2.json",
+   "sha256": "bac326b32d4eefcf146ca94ef7216dc5659b59f5519e2699c3860f675cc68389",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "25bbe44b66da89b2abb8c52916cf410e2ff11d8c9a6df4c86dde873dfeb4d3cc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_openai_r2.json",
+   "sha256": "d4bdb6966ab5c7c4a4f61ad72789509d63fac0d62c658224f6b26a5525502935",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "1d26c0754c92e03838e87bb6771d2edc3486bd1a641b336080708244a8b430f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_short_term_rental_santa_cruz_county_perplexity_r2.json",
+   "sha256": "27ccede5c1e5e752023f748d0f1830f9ed7879c502a5b0b90c0389ae9411cf37",
+   "businesses_named": [
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "b9c37970cfd1ea0ea4d13871ce36eeb3bdc327d7fb97b9b47bb2cb95994b8ddb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "441844f88eb73da944631c282df91a67dae19b03f78620149e12e17509fb76ab",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "0373523324fc9afdf79e0a1279e938b7728f8c3907eb71b9df8428cbb6a5d6ce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "ffb16a608ef137c103c24ee54f560948b52269cecff92eca0543f7661ee89267",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "b07e30043292a97466b3c45750f60db8640d04c5224088d8278a40d287ec7665",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "fbab2be9b66bc59984720f2b7eaf1fec63cf6e62bc7cef78e88f303e7b8f3f62",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "05a565f8b165ccdac883ebb3fd97a1c639e01e8c9b5ff55bcd01dbb8bf06e5a0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "743671dd3376b973a920d4c6b2ec436869d79a85f8f1dc3b545b82e94929185a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "fe7973b55e3c6de594944775fca55ccb188bcd1bddf6b18a06e53b023cea2f3b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "d5f5aece6620a5758908b52b46d3fdda49f1519ff0391599aae3c7177089044e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "720e3e46fafdc0affa96970350e974ea1a517438020b5fa04b0bc9c641a3ce9f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "8c78b19e10d41ead84845462b5595f0d1b27d9823dbc39fab4685432e8e0be75",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "bb04659cf413162050c0937294eb4e6a3c5579928039a0df0dfa92aa4eafc55b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "1182360f8ed67404a2237ae2b70b566714066c6394c508cf401466f4320804bd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "a750ea0afcbb2925f8c7cd3d10e63141b6d0587de4e66114f81c15794834d03d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "9d42e8d93fda1bced8daf9b5d74560bb09ddce62bdc5ec055bf5473ef923c463",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f14476a600415d3e2247f52ab2dcd123ab84eafeffc551c7238f2e47c93315b3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "1f99f57526c204387aeb047b7b2507d4cf61d36db4753fa1a735d73bd5c3b576",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "b1fce0b1303e74fc764c769918f80be7b3c15049b90c9c1985c1e616a9183f54",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "8e4f706fc6963674d6e3a23e32c0d999fc86f9945f4a53574ae42bd6fb53a751",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "ded792777a56915c1bec37451a81888cf0dfaebbaeb5044cf58463fc11c87e2e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "43f130679f38f4502ed0f383dcfb29b64df841b1b958708387517309aed5a5e0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "0e114b57eb840025b2ee35a81a7a2c21aaa28d8ee33736534b317c7e7f736725",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "1e9f8c952955e3e3d8c88b6fa82816c24eaf7a93577f7f86e0966be6267b97c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "477f9a6d7b0ce0e1880fd049069eba3d3d88dee1563b81343e5b17aa4da19c54",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "e904f03f80b05a974a311a548c4f44e4c379f059378b83ef426e60fab8eeaf10",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "4099e52efc96acdd9dae59dc9f16e041c1fb318f0f751fabd8521f61036e0d91",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "feaed6a0208ed6c7a0f33ad5b2e263265fba4113df44f6ab4513988917b688b8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "03da9eb79e3d9a55cc2f9c3f70bbf0fd2d9fc1d46e5bcfc72ce81d2d620e5228",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "b0c938bc866cbed7441baa6e5ba1f27048082ad718d9b02147c10335562cff8d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "cad485d29db067d6e0284bf7c5a9058e35324f20e45a523a8d1d107c0c4b478c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "106ff1dde654348b397bf2ba7b5aa3cfd65758a73bc087ed1c26b7a8b2584da3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "584df83123a78e750f7a169f66570efe56cdf78ab3a709b6fe3dbc3ada1efda4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "e2bc0debfcbc945fd0d6932dbf712f0b80305d32e7464c22806387cecc903bae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "79b085b85a043d2d11ab39a5c242dea69e133313ce3129457cdc3d62b4255596",
+   "businesses_named": [
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "bcb2afc1ab7dba91566be209e42124bc5e4fdc9d2103b3539ab23ad1dbf34848",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f109d458f6dc018454ba8311b720ea2b72ffbcc9c5b6a8db442dd0b6e58e8769",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "cf4aac0dc850c82e4fabe3165b7c9c0e7cc71c642b7cd6f95830f7eb5a581f72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "5ad26f59fb5d2e4105fef503dd7ca5ee51991756774955e7f089098ede055b64",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "13debc09215a073f89853f6c18e550d1fcab2bbbba050fb07ebdb91218cc196c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "61bc8644bd48fe8982a088ad0c1bd94943c499d6e03def93d447532f2cf19bda",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "bdb978a6a2f63189eac6cf03a46b4e781ff8019bde9074b70a1c8c1c13c96125",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "0764e6f2ce8a2f528174596c9a25a6402ee266c33bd62d487387c1fd2a1572ff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "f56da096e3d191058c41467fe44fa4f0110efec33d84ece0b6549b8b57a29170",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "785067c82d16e87e25388a3e7cd65c08814532663ae3917ec795554a15ea66a0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "e84ecab9eec005cfbc882db51c4ce978804d9e84ecf9821455a4ae37ceb12b46",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "367fa61bc214483545acaf692f83cb0aeffdfc3c6804c888ac3d5dd142c6aaf0",
+   "businesses_named": [
+    "Capitola Venetian",
+    "The Coast",
+    "The Mountains",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "a910151a750def05a0667323234a0a70964c4fbe325daed95543b056ec3ef532",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "6d6ea7ebeee4dbf15264cad5a767db95259813bd4cb3077d384306abfcec03b8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "1d13303c29ef2de41ad878ffe05c12ee62ac13689796f7c2a58d6ab8e8f29b45",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "b27719dbdc34655de2a322f77f0d74faac93cfb7c7c07dff3863c293f9cccf0b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "d5ef5588f3a22e4f4dceda9c064054b884faff5ba78d3a4d158b8fabe3f6a0b1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "038f1051a622f7398d139fd04c80c0ec90f83f8cc09a0ffcad3568abd3f317d4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "e771541dca3c646a4756b730550814101520dce092d27511eb75431a6b1311d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "e90a04f143467058360cb99bfd0e653bdf96b7879d30f4c96331ae7db4627b7f",
+   "businesses_named": [
+    "3BR family getaway near the Beach Boardwalk"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "05d8c42c996f444bcc1dfec39cf16bb8b99c627265e8ef5bf324bcbd8a81926d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "6796cf07b01b4c8b88e31b6932b0b6dd2f34cd93f1160f7cc0222b3eab838683",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "d0c53f07981533d4d2ab8e7e2f55decd4857842704fce44107b68c2eb99078ab",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "5f3592b56763288f0d7280f1b42b061d9603c9f434be564c21ba99ce6f946dbf",
+   "businesses_named": [
+    "Santa Cruz Vacation Rentals",
+    "Vacasa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "f03503ebff9f2d4eb9b275d7c64fbbd78539784dd45decfb54f4be2adfc408c9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "03341bb738acb39bd3ee7675341b226c9fe1cef320008ac9959ceb72ae514f89",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "26349f61da7d4f0bb2b4eca3d12632347766600e08f04016379df4cc357a156e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "5ec5610125e43315c9eadacc8f7adb3d07bbddd657a60caa2398531acb441c5c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "827b41eb22fc3ace2aea18336ac8c265abe4bf069a9631dc847aab1f6c44adb4",
+   "businesses_named": [
+    "TurnKey"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "c9c6747fb4bfbb68907688c2eb8eefec3918e57bc2f99433cbfc4235b98ef8de",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "9c082058dc20b3d3184912f782d2b8c2eb976aca4008f39fb42fcc838cd6b75e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "3625d298809b410d90bb46b32adf45f1067d6902c2b2d7c643f752cf3fd46e82",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "d07586ae30b51d508f2a703ee51a761148d05c877136101013a49313ca14fd79",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "9f126627115e4828257a963ef857efda043ecbeaddcc90e0afd53b1637ada488",
+   "businesses_named": [
+    "Vacasa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "49ae38bbfb4f740f045b2e334ab8b8f59f45eb5dd852ee27e954f0337b9c1b8c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "d6e36912b7ccd95773f0929255ebfa151c3f90853f8712453fe3ffe3a587b242",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "13b7af61bd046150eb96e4b1ebd26e252a33f7e7a0e1fc902539d875504bafe9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "c7c147071d9d4d824c6d2f4b3b545d0178adf0ebb9c6d1ea54a69db88d24e36a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "4ef47c164fd7f7649855066f5df1d886877b1f0854f1f297153ae5aa46c447e2",
+   "businesses_named": [
+    "Capitola Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "04701ba443a58c85737188825d7177320266fbc96ed17980ed4267d6323ca870",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "8702789afc711cc9c59191c56b3caa0387af70b21fb769081edb415b910f4f02",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a78710acef358820c9ed9d906a2c600fc42ca8ff8c842ffecf56c02ed32e7d86",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "d271c4d6030872b62c1fa6c48d262414c31f2f274ff5832c2267810582f1fcbb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "80a1508737b862fa33c755bbe274ca554e08e5e610be245f875b93ecdb2d3fdf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "fc1f4404eb4825a71b3d2ac2d64ec64f153a15d333afc6804812b403f393cfbc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "17e25d64a652a7b57477484118a1a20a6befad58681b4f29f429695bb124e249",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "58f1911e06c3d3a10fb48fe54238ca529c62c6c86b0d05d3a2e144fc0909c9fb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "684a1280ca5e632af0aa893425e0b71749566bbbeb3139a98c4d2b1a30093a59",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "5910590b456c0726f734d4e67e77f43c81c5a1c3c8b9063a066beb02f2a6bb84",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "8378a5e0e5b3b2cf6a96a1bb9d3ab4ec37306432fa48d428a7f1c7608517b06c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "211c53197689d52ec5decf47fcd2b181db184c10d4d3c25a50a54d6be4e6e32b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "883586f5b7315f725654c249118471dd91e85fc7c5f4f95cb06c2164658690cc",
+   "businesses_named": [
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "5bfd99ca114062a1e58cddc4213465cca80c888ef88d5043a6352315ef471b58",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "0704ca0fd06b603e019d4df2be844bcd5c8520c4fbf94a640f0ff062f9d356a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "3275452d6d46f5161124d2d6166f52e7a3a4b48eee6c081a2a0490d05aa3338b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "6cdeb006679dfb1eb772c8d63c43162032e254d2a00b0c93b6d193c73e138343",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "41d386213c0d6e5ea794e6b30a68e6bddb392d18937f77417f6089aac3a4c9e7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "36ed3d45e106f6d2681a6f17eda768ae40153b41ed950565d3cbe546388cac72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "28a917e6ea22dc3d91306beb164e8179ea9771e81bba06982bdb39d929780cc8",
+   "businesses_named": [
+    "Santa Cruz Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "0c95eeba19adabe7a2eda4d1389ed8281588cd5fef8cce2e23cf58071c5b2f5a",
+   "businesses_named": [
+    "3BR family getaway near the Beach Boardwalk",
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "2c7323d28d40e3d91cd59f39567fb8bbb21e56cf50d2844aa6c9af92f6fa50f8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "3e85e0fc5a4187a3886a6f33574170e7456ba1c1d031e71a5438bbc9440b1625",
+   "businesses_named": [
+    "Beach Gear",
+    "Beach House Rentals",
+    "Capitola Venetian Cottages",
+    "Cheshire Rio Realty",
+    "Coastal Stay",
+    "Hot Tub",
+    "Kendall & Potter Property Management",
+    "Outdoor Shower",
+    "The Coast",
+    "The Vibe"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "5b4346fd215db77c6237e928f245f11c9b4f426fd775756ea00cf035f599c9e1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "24cbf5a178d732224d23ad47e567b190df4da42d077f6c05ff43dfcea1dff5cf",
+   "businesses_named": [
+    "Santa Cruz Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "acdf1a44559d09b598bee2c7b8921afbff005f6eef157415d1c4643d9ac2050c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "7db6a61843c6e82ab225ffc622ae71ad40adc55e353cd8109aa5bc6003d7db9e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a1ea095677a08c2d824feb1687ca841a7f7cf86e01ce87fd564a969f8689bee9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "d889fda0198ebbe1af37f1896eddae463db0010bd80d6e1542fcc83f30917394",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "c2f43f1935dacd816bae5086007545cbbe6387d8761b27f4beae750201b2c277",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "6369ebc7bee9171fd9873b0ccc842372211ce8aec42026d7157f0dd7ae2c3664",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "2f982babd3efff726ef27bc5b399607057dde9d2ce318bbecdb9930fa44921c8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "8e7a0a0985fba789221bbba76aaa57dfdd9612d5cf76fe6c8aff92e8454dc592",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "a6703a3e19512cdc27f97db766ec807c08cdb80b44c524ab95583f7548235535",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "115c982af16c02106cb234862ed488bfbecc5ccad0018a9eda049e3e70a0df49",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "4febbe50a0f23f6fd4f1e924b55b4ed31014ac8edcdcac74bdae23164cb3274b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "81772025c3bd7280e25ee01d238abc4a5784405107eeb480b4110a37d33811fe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "9c41514317084af3c206c24740ca0cd655a881598c6fcb7d0c02bf53d4c205f3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "ab92a93901ffc1a5539876d475d4db8ae2d5c0c2ef9026e48033e792f64c8b80",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "78f74b84d885864dc0191562038f44d7ac86f6510924bee3df83776e60b1e1c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "4250f8e38e56fbad283b4c98121c170589190782fd417202a190c4b98728c12c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "12e6c2a416f0e76f54942e6b2ac3f13901d840dfd74b20cfae778efebde10d3e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a4511608a1a4e6585241cec084db985a1031a19355bfd8121d9427959108a97e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "c221e93b0d6460f7cdaa7245df3dd7c918eeef5a6b8726775dfb74c7ce6ef7ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "0e218abbd30ca3d99306885727a68880be3519e5f9ee86470991741211db42c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "adc60ba6fd1a28c38aa4f345c54d745ce6e9958086c2f5bcf2b1ea53e003cf8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "74201c18f4a60f0dfacec24669385d60f982a159e55156ce2149f264d9954b29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "ea5c3a44a117bcb42798aa0b7da5bcfe95bf4aa9f3443b0859761c042c5d7df9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "39418e4df907a6c59c70976b83cb9c8cd1b81d000d07224fa694382bafd1ccae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "36716b52a6bdba98c21e9f6f64158dfd86bcc8f84cfa1acff038babae4c7b28a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "8564305b19b3ec83cc222c006fe49171637d9cd9b9eec2d71ed135214940b896",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "b0a69c11ed114b320177ffcd3f57df06bbfa9252fae40abafe2d40b19d28b62e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "2886a536c0bed267a58de3179265aba18ce2fc28240ebdf9f4617ac8918f0648",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "686d433622e5e9c8833d9a0e25bee922a332272aa7b3be2038fa7f8b7cd05839",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "c370f71092c0df0eb34288f2bb310ca6a1b82d9988d766c9247ea7fa7c4bda41",
+   "businesses_named": [
+    "Santa Cruz Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "72dd4f958d957889428897db477c1bc87ecc9526a657d84f4b38f78e5b9fec2d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "79aaf61a053264d7169228ec0f4c3e43d7fe8cb929c5133a52b0d2b3ce1c7a10",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "9ae206e24ba547c319bc5888022d5162569e348470b14bac898bef92535206ce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-21_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "05f16211b59cf508363d7ed6e8dfea4da103c04619d58f6f403ab2ef3da984ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "1643c8be476e109ffcf41cd5e6190c1afa0c65ad22cec301662d6fb45af10c46",
+   "businesses_named": [
+    "Vacasa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "8aba28f1073fb88e41d697bbee7d18f24e1d9d51c5d8331db07bbbdb35eb2529",
+   "businesses_named": [
+    "Blacks Beach Retreat"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "6fb7bbf78835e9c4a6daf3b140c8da3cb227116d2613bcf8766dd57393e772f6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f7f5140d20e36d2e164bc135d3d310f745098d0178a7dceca8d2c8d8ce4b8ece",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "44bbb4c49b93f3bf440cf63f07022cae79c3d04dfa5696d43321615d993735d3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "7739c67ba9add39d9162a921efc6695933d0cf60ab35eb490ae97cff90093465",
+   "businesses_named": [
+    "Vacasa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "ef6826b7533ec2238333cc98de0c40ea8491edb2b9d634b1e7607ec01f8c081c",
+   "businesses_named": [
+    "Aptos / Rio Del Mar"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "f6a3ec647db4ba6a72dfbbdf766cf23ca6b8cd6d1164e3053099461209f8468c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "9d71f6bdde421f08875e9567533cf656460e878f449176cb290aa4fbc69a4011",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "e08b2b462cdf969d8297fb02fa32be8dabf168187158d6badc6f06c2710c1f79",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "8528cf89f80e283b0fea3660738ebdb2c8839fda07091697ca8e956f543a92c5",
+   "businesses_named": [
+    "Santa Cruz Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "eb7eeb5aeb01499ce9c0134ff0afa911201b0154cbe910a9ff8c5a927f8c00e0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "66c3abef9ef8e28b8b041f8b32ed77990ebf1bd1b0a62f3b72b03ee9069cf1bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a179da83f398525731f9709f2db9860da11143a5d4210f9f5eb6e8c78973f134",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-24_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "9b19340f1c04c3b63b681bee1f34de149b6f67461d05eab63b7aa4a1026a2273",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "ab32918c2025a36f7398d15adfdd89ba017dd2bab1297a6d4a10ae7ac9ada935",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "bad483742de62b2c94bd2f68f281d92982c509cc969610a9e56b07e6732270f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "a95cf62e2c9f9b1bc14cc1051d847512c91684a6b0760c9cb7b2099945b92a17",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "22b5c81b313c2604bf2bae1be53ef24fedf9de779b838fe25a220a45ac9276a0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-25_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "12df42f0ce7064737a8c1b94b931cfab71bb439ea3975a8f0e1a4e38c6d4d57d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "979eb3945e2cc73c8d8e9c7a769108d08c8ff88a766ffec841b64ef462640ac7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "d46ca49e1b1fcf778756aef769858785a67597ba2329b523250b8d8f18f65e5f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "93a3d209ecbb43222a537f2b564995d9b348b9d138ad4bba86bccfe3029e8f4d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "d139543e7d48a542040de6e2be9a00ecdddabc244f84abec67b898f0837557ac",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-26_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "4b97571887aedcb3f0fbaf4f570ff23d5c8ff4d9d229073e1997a48c76386081",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "8c9101b0e20890d38cdac971f3cb5eb1263925ba87a576530aeb84b1b8c3ea1e",
+   "businesses_named": [
+    "TurnKey",
+    "Vacasa"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "b19869f55f65f6cc039486c02e7f41637073490486eb19ed9c7db0fd33583076",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "f83e65af60ab463740367c3505e45b7493cea99ad19474059c556dfaad221365",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "a30bb732bc651383d2a216b749e23e02d169f8a52309c8f80db0a536a4091f57",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "d817cf287777c0bb61e73800059e9ffe8d871da7eb057e9c82c74155dd726d81",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "9acfec726c914ac0a8b3cc38519bcbaea3c7a0c4d637f3aa84ae6c845a1a6a25",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "e22f20cd532614d6a5c9f54e89cfca5c2f37b1f595c12375b188c8b7ea614ef0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "8319ed6ef55a9bd15ed825962868216718dccf1e4160dda5842774cf59602722",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "6a79d8ca12d4878b3bbae47c94bb73c158a87ce15001f8f4555ecea9aa42cb5c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "5ea0a9dc4e4c622cde8f52d8804c167dfe383262987ffa761bf9ce4a619e022f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "a2e985bd3ebfabc74fb7a7b4edf3a8f5f2fc53336f9b88037d90449579616c9f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "b5ba12f11c90299b201fa191f502221badcd868b4819215ac03215df421be7f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "82d3ee681d6af1895463dbc55f2ea0f76bf05df5d82f9c257d6af532835fbf32",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "f286fff39c7b40c2f0eb9259acbc37536697d50684d11e6d0e548227a238d133",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "cb27139af3ff2be258be1b6b2c525727d133e4ce67975164b55c299b9a8f3e80",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "ba50fd00c9a16f9d55274ab51ded10162e29b90e1773c9a9a9418d148b6e24be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "07402698f37f6d96d575fe564e2a4bdd7efe1f7f58d1084ca8779daaaba3873b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "28797a24d9806775d0a5bdfb656cb1b5e9ca9422f0136caf3782aa0a270164a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "066bd9cc7c4843115b4da0dcd15474df53700af51f6fd9ba8353e32613f4087b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "6c2472ffed0f8c26bda490040a7fcd9a860360d003b0e42397e7fdbe0402bead",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "7e656152837b9dbd705e897c783fce08e31d50878fe296adef6742d4897e2174",
+   "businesses_named": [
+    "Capitola Vacation Rentals",
+    "Santa Cruz Vacation Rentals"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "923885c15a471fc4cb9abd6446e89a23576be1efc44cacfedc87fcf9f66422d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "65835b4fce0e8948d1f3cfd0319ea195532e8b42736d6818bdfa5cb2dc2ba7c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "d99710b790d7eb74568fb9e99cb5a40db02030d14c382850d5389ebd70b832c2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "c487a0edb2cb68c6b2958aa1f059b3265a218a6a3f3641f52e78c3a334062078",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "f058eaed66db43337a37f1b221c2c3261576ebc97551ee3a0f4fe4451e45e7cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "9b69163467322c129cb5861487adca0a289f2854860629939af58ce0a502a387",
+   "businesses_named": [
+    "Capitola Village home with a parking spot"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "81a724c443fb77354c00d342cec3bf7246a5b8f2e166d2d9e5fc1243bc0d9c77",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "961763c21b68031ec642e86aa9dc9d569253297dcaffdacadbf4a5d01b5b901a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "5dfd0688f49e919e467627f56ef4bb7fb018bdbecc147c93bc1bc5e1b8c4d1c6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "f12ad47d584befc99afac122997465314ed55df743cec964dc4c436c16781311",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "8984d28f067cf27b637f5a046a4942bc7d47e46554be0e56c61cc54181a8f31b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "a75338387d7d9e6755d82dc88118133e9492e4b8c524d29fafdd642f43d527ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "427fd911c86abaeee16c613fd18fbe38f9bc55cb7b0176e081a33c527196c584",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "49e9b1b0d8dce2cd2145287ea4e849675d8d98f2e9f5e1d31610a9e786c2dff1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "a45a18484fd8efbe3d4ab563bfd1d6bd6d08398fa95e7b14404708fed539c539",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "61e801613871c70ad9affe3aa9ceb85f336b29e74fd416cbd16f3ded37406669",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "a92550b2e86833c30464fc550bf39ebc71313a859c7540923332a807adc573a6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "b8fdca1c4cabb352f59adebb4c32df343238529beb95f44da8045a1193b765f7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "f662149ff08200f5af71720407b2e1f8f0a28ec9d9b5edb455d713a5848526c4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "88604a46dd7cc96929abaffe8e8e4d8d53cc8e3ff9f902b26406d92ba9073ec2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "2e2e0d23ca62be86f299ec6ceae0d73af6c3e98b75e7ea75f4a41ce13c94c2a8",
+   "businesses_named": [
+    "Aptos Bayview cottage",
+    "Capitola Village bungalow"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "70ec47283c13e5e4d2007b5550430cba58154e60c5f532213ab06ff6c3ee4b7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "62ffb45b88bcbaa7454dc196596a95a070ee3b79d1ba8b7608f54e48b64baa9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "7d5b64ffa769c1b4844973f2fc96a205f05c0918846ef6661c48ab64529bf99a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "df1dc8a87c0e71cd243ea72b744b2c9dd288f97e0e8a2b630d5d8315ad15ed28",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "334d7f424ad81a6eae81f3da413b009b399f7595b66b5e3d4f90babec0b4a10d",
+   "businesses_named": [
+    "Capitola architectural cottage"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_anthropic.json",
+   "sha256": "78890a9530fac9ac7b05b6e0b22d85d3868ab59baa68896b03eb81e41fe90fb5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_gemini.json",
+   "sha256": "afff079e4a0c5593742be42c1ca1cfba670bae60a5fd8e5e9a9197307880d679",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_short_term_rental_santa_cruz_county",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_short_term_rental_santa_cruz_county.json",
+   "sha256": "665187c59c2f4eaf2f0d821596dc4ac56bf7e9fd95be34b79dec404d7f500ffa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_openai.json",
+   "sha256": "f623c3b4847d7266bd4f3b1f3c700ba1959206c749ddf0af7f1758df244a5080",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_short_term_rental_santa_cruz_county_perplexity.json",
+   "sha256": "b6dcc28c24fc3e14613a2e9b6d432ab0f65a9594271e27486ed2f72e37ff7112",
+   "businesses_named": []
+  }
+ ]
+}

@@ -9,6 +9,11 @@ BUILD = '2026-10-09'
 STRIPE_PACK = 'https://buy.stripe.com/28EaEX8Bm0SB5eE4hadIA0T'
 PENDING = '#PAYMENT_LINK_PENDING'
 P = '/preview'
+# Corpus link stays hidden until the Edition 1 release on 2026-10-15 (D3 audit, COS STRATEGIC_PLAN_1009B move 2). Flip to True at go-live.
+CORPUS_PUBLIC = False
+CORPUS_HIDDEN_TXT = 'The raw answer files are released with Edition 1 on 2026-10-15.'
+MAKERS_URL = 'https://shop.namebeam.ai/'
+FLAGSHIPS_URL = 'https://terryjcarter7.gumroad.com/'
 
 ENG = ['openai', 'anthropic', 'perplexity', 'gemini', 'google_serp']
 ENGL = {'openai': 'OpenAI', 'anthropic': 'Anthropic', 'perplexity': 'Perplexity', 'gemini': 'Gemini', 'google_serp': 'Google search'}
@@ -37,6 +42,11 @@ src = open(SITE + '/index.html', encoding='utf-8').read()
 STYLE = re.search(r'<style>(.*?)</style>', src, re.S).group(1)
 FOOTER = re.search(r'<footer class="ce-foot">.*?</footer>', src, re.S).group(0)
 FOOTER = FOOTER.replace('href="/company"', 'href="https://namebeam.ai/company"')
+# R63 / NAV AND LEG RULES: the parked legs stay one footer link away.
+_tl = re.search(r'<a href="https://api.receiptsindex.com"[^>]*>RECEIPTS API</a>', FOOTER)
+assert _tl, 'footer RECEIPTS API link not found'
+if "MAKER'S RECEIPT" not in FOOTER:
+    FOOTER = FOOTER.replace(_tl.group(0), _tl.group(0) + '\n      <a href="%s" target="_blank" rel="noopener">MAKER\'S RECEIPT TEES</a>\n      <a href="%s" target="_blank" rel="noopener">CARTER FLAGSHIPS</a>' % (MAKERS_URL, FLAGSHIPS_URL), 1)
 LOGO = 'https://namebeam.ai/logo_namebeam_avatar.png'
 
 EXTRA_CSS = """
@@ -110,7 +120,9 @@ def page(path, title, desc, body, hero=False):
 if os.path.isdir(OUT): shutil.rmtree(OUT)
 # ---------- load data ----------
 Q = {}
-for f in sorted(glob.glob(SITE + '/data/e1/*.json')):
+# Record data pinned to namebeam-site af1e9b7e1f (2026-10-08T16:04Z), the data the COS-verified Miami recount used; repoint to the Edition 1 build on 2026-10-14.
+E1_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pinned', 'e1_af1e9b7e1f')
+for f in sorted(glob.glob(E1_DIR + '/*.json')):
     d = json.load(open(f, encoding='utf-8'))
     Q[d['slug']] = d
 
@@ -389,7 +401,7 @@ for slug, d in Q.items():
             b.append('<h2>Changes</h2><p>Earliest run day in the window. Nothing to compare.</p>')
         b.append(NAMES_NOTE)
         b.append('<p>This day as a file: <a href="%s/record/%s/%s.csv">%s.csv</a> (SHA-256 %s). Whole window: <a href="%s/record/%s/all.csv">all.csv</a>. '
-                 'Raw answers sit in the <a href="%s">public corpus</a> under the file names in the CSV.</p>' % (P, slug, dt, dt, d['_day_sha'][dt], P, slug, esc(d['repo'])))
+                 '%s</p>' % (P, slug, dt, dt, d['_day_sha'][dt], P, slug, ('Raw answers sit in the <a href="%s">public corpus</a> under the file names in the CSV.' % esc(d['repo'])) if CORPUS_PUBLIC else CORPUS_HIDDEN_TXT))
         b.append('<div class="pv-pn"><span>%s</span><span><a href="%s/record/%s/">All run days</a></span><span>%s</span></div>' % (
             ('<a href="%s/record/%s/%s/">&larr; %s</a>' % (P, slug, prv, prv)) if prv else '', P, slug,
             ('<a href="%s/record/%s/%s/">%s &rarr;</a>' % (P, slug, nxt, nxt)) if nxt else ''))
@@ -456,7 +468,8 @@ oth = [r for r in mi['rows'] if r['engine'] in ('openai', 'anthropic', 'gemini')
 othn = sum(1 for r in oth if top in r['_names'])
 MIAMI = {'top': top, 'perp_named': topn, 'perp_ok': len(okp), 'oth_named': othn, 'oth_ok': len(oth)}
 
-ci = json.load(open(SITE + '/data/citation_index.json'))
+# Pinned to the 2026-10-08 run (namebeam-site 69d03dfafc) because only VERIFIED NUMBERS may print; repoint on build day after the COS re-pull.
+ci = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pinned', 'citation_index_2026-10-08.json')))
 CI_TOTAL = ci['gate']['businesses_total']; CI_CORR = ci['gate']['businesses_corroborated']; CI_DATE = ci['generated_utc'][:10]
 assert (CI_TOTAL, CI_CORR) == (3208, 1476), (CI_TOTAL, CI_CORR)
 
@@ -526,9 +539,9 @@ PRODUCTS = [
       notin=['The data files (free under CC BY 4.0, with credit)', 'Edition 2 or later', 'The daily feed (sold separately)', 'Custom segments (sold separately)', 'Ranking, traffic or booking promises'],
       keep='The signed manifest statement and the right to use Edition 1 data without credit. Full license wording is published with the final Edition 1 build.', ends='One payment. No renewal.'),
  dict(id='agency-evidence-pack', name='Agency Evidence Pack', price='$397', per='one-time, white-label license', link=STRIPE_PACK,
-      scope='We run the dated AI-visibility check on 10 of your prospects and hand you 10 white-label audit pages with PDFs and raw JSON. You deliver them under your brand.',
+      scope='We run the dated AI-visibility check on your prospects and hand you white-label audit pages with dated transcripts, plus the agency data pack and resell rights. You deliver them under your brand. The audit count is stated in the checkout description.',
       notin=['Ongoing monitoring', 'Prospect list building', 'Outreach for you'],
-      keep='The audits and files, to resell under your brand at your prices.', ends='Audit credits are good for 12 months and do not transfer to another agency. See the <a href="https://markets.namebeam.ai/agency/">agency page</a> for turnaround dates and terms.'),
+      keep='The audits and files, to resell under your brand at your prices.', ends='One-time license, no renewal. See the <a href="https://markets.namebeam.ai/agency/">agency page</a> for turnaround dates and terms.'),
 ]
 
 def prod_card(p, detail=True):
@@ -549,7 +562,7 @@ ag = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Agencies'
       '<div class="pv-cards">'
       f'<div class="pv-card gold"><h3>Market Record, 1 market</h3><div class="p">$49</div><p>per month. The daily record for one market and category, with a monthly CSV and PDF.</p><p><a class="btn" href="{P}/buy/#market-record">Scope and price</a></p></div>'
       f'<div class="pv-card gold"><h3>Market Record, 5 markets</h3><div class="p">$199</div><p>per month, founding rate for the first 10 agencies.</p><p><a class="btn" href="{P}/buy/#market-record-5">Scope and price</a></p></div>'
-      f'<div class="pv-card gold"><h3>Agency Evidence Pack</h3><div class="p">$397</div><p>one-time. 10 white-label audits of your prospects, yours to resell.</p><p><a class="btn" href="{P}/buy/#agency-evidence-pack">Scope and price</a></p></div>'
+      f'<div class="pv-card gold"><h3>Agency Evidence Pack</h3><div class="p">$397</div><p>one-time. White-label audits of your prospects, yours to resell.</p><p><a class="btn" href="{P}/buy/#agency-evidence-pack">Scope and price</a></p></div>'
       '</div>'
       f'<h2>Start with a record page</h2><p>Every page below is free and ungated, with a CSV for each day.</p><div class="pv-rel"><a href="{P}/record/miami-roofing/">Miami roofing</a><a href="{P}/record/atlanta-hvac/">Atlanta HVAC</a><a href="{P}/record/kansas-city-health-insurance/">Kansas City health insurance</a><a href="{P}/record/">All questions</a></div>'
       '<p class="pv-note">Sample audits and pack terms: <a href="https://markets.namebeam.ai/agency/">markets.namebeam.ai/agency</a>. Need a segment that is not in the record? <a href="%s/buy/#custom-segment">Custom segment, $99 setup</a>.</p></div>' % P)
@@ -577,7 +590,7 @@ mt = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Method')]
       '<h2>Names and merging</h2><p>Names are extracted from each answer. Spelling variants that the Edition 1 files group together are shown as one name. Dashes and curly quotes are normalized to plain characters in names. Extraction is automatic, so some entries are headings or terms and not businesses. We log that on the corrections page.</p>'
       '<h2>Who entered and who dropped</h2><p>Each run day is compared with the previous run day that has rows. The engines that answered OK on both days are the ones compared, so an engine skipping a day cannot look like a business dropping out.</p>'
       '<h2>What the counts are not</h2><p>A count is not a ranking, not a score and not a promise about traffic or bookings. AI answers vary from run to run.</p>'
-      '<h2>Check it yourself</h2><p>Each CSV lists the raw file name and its SHA-256. The raw files are in the <a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1">public corpus</a>. <a href="%s/record/manifest.sha256">manifest.sha256</a> lists the hash of every CSV on these pages.</p>' % P +
+      '<h2>Check it yourself</h2><p>Each CSV lists the raw file name and its SHA-256. %s <a href="%s/record/manifest.sha256">manifest.sha256</a> lists the hash of every CSV on these pages.</p>' % (('The raw files are in the <a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1">public corpus</a>.' if CORPUS_PUBLIC else CORPUS_HIDDEN_TXT), P) +
       '<p class="pv-note">Compiled by Terry J Carter, Carter Enterprise LLC. Page built %s.</p></div>' % BUILD)
 page('method/index.html', 'Method | Namebeam', 'How the daily record is built: rows, statuses, names, change log and how to verify.', mt)
 

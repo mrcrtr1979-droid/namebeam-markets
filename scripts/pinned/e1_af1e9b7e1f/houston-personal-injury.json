@@ -1,0 +1,3692 @@
+{
+ "slug": "houston-personal-injury",
+ "url": "https://namebeam.ai/houston-personal-injury",
+ "prompt_verbatim": "Who is the best personal injury lawyer in Houston for a car wreck?",
+ "market": "Houston TX",
+ "niche": "personal injury attorneys",
+ "window": [
+  "2026-08-09",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner": {
+   "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner": 3
+  },
+  "Abraham, Watkins, Nichols, Agosto, Aziz & Stomack": {
+   "Abraham, Watkins, Nichols, Agosto, Aziz & Stomack": 2
+  },
+  "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg": {
+   "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg": 4
+  },
+  "Abraham, Watkins, Nichols, Agosto, Aziz & Stornello": {
+   "Abraham, Watkins, Nichols, Agosto, Aziz & Stornello": 3
+  },
+  "Actual Trial Experience": {
+   "Actual Trial Experience": 5
+  },
+  "Adibe Law Group": {
+   "Adibe Law Group": 13
+  },
+  "Arnold & Itkin LLP": {
+   "Arnold & Itkin LLP": 12
+  },
+  "Baumgartner Law Firm": {
+   "Baumgartner Law Firm": 8
+  },
+  "Baumgartner Law Firm (Greg Baumgartner": {
+   "Baumgartner Law Firm (Greg Baumgartner": 3
+  },
+  "Board Certification": {
+   "Board Certification": 17
+  },
+  "Board Certification in Personal Injury Trial Law": {
+   "Board Certification in Personal Injury Trial Law": 6
+  },
+  "Brian White": {
+   "Brian White Law": 4,
+   "Brian White": 2
+  },
+  "Charlie C. Gustin / Gustin Law Firm": {
+   "Charlie C. Gustin / Gustin Law Firm": 1
+  },
+  "Contingency Fee Structure": {
+   "Contingency Fee Structure": 6
+  },
+  "Daniel Horowitz": {
+   "Daniel Horowitz": 1
+  },
+  "DeHoyos Accident Attorneys": {
+   "DeHoyos Accident Attorneys": 1
+  },
+  "Direct Attorney Access": {
+   "Direct Attorney Access": 2
+  },
+  "Disclaimer": {
+   "Disclaimer": 5
+  },
+  "Do not give a recorded statement": {
+   "Do not give a recorded statement": 3
+  },
+  "Jim Adler & Associates": {
+   "Jim Adler & Associates": 20
+  },
+  "Jim Adler & Associates (\"The Texas Hammer": {
+   "Jim Adler & Associates (\"The Texas Hammer": 3
+  },
+  "Joe I. Zaid & Associates": {
+   "Joe I. Zaid & Associates": 1
+  },
+  "Johnson Garcia LLP": {
+   "Johnson Garcia LLP": 29
+  },
+  "Joshua P. Davis": {
+   "Joshua P. Davis of Davis Law Group": 1,
+   "Joshua P. Davis": 3,
+   "Joshua Davis": 1
+  },
+  "Kevin Camp of Roven Camp": {
+   "Kevin Camp of Roven Camp": 1
+  },
+  "Known For": {
+   "Known For": 4
+  },
+  "Mark Lanier": {
+   "Mark Lanier": 1
+  },
+  "McGovern Law Firm": {
+   "McGovern Law Firm": 1
+  },
+  "No Upfront Costs (Contingency Fee": {
+   "No Upfront Costs (Contingency Fee": 5
+  },
+  "No Upfront Fees (Contingency Basis": {
+   "No Upfront Fees (Contingency Basis": 10
+  },
+  "Overview": {
+   "Overview": 3
+  },
+  "Paul Hilmon Cannon at Simmons & Fletcher": {
+   "Simmons and Fletcher": 3,
+   "Simmons and Fletcher, P.C": 11,
+   "Paul Hilmon Cannon at Simmons & Fletcher": 1
+  },
+  "Reputation": {
+   "Reputation": 12
+  },
+  "Resources": {
+   "Resources": 6
+  },
+  "Resources for Experts": {
+   "Resources for Experts": 2
+  },
+  "Schedule 2-3 Free Consultations": {
+   "Schedule 2-3 Free Consultations": 2
+  },
+  "Schedule Free Consultations": {
+   "Schedule Free Consultations": 2
+  },
+  "Seek medical attention immediately": {
+   "Seek medical attention immediately": 2
+  },
+  "Simmons & Fletcher, P.C": {
+   "Simmons & Fletcher, P.C": 2
+  },
+  "Smith & Hassler": {
+   "Smith & Hassler": 44
+  },
+  "Sutliff & Stout": {
+   "Sutliff & Stout": 25
+  },
+  "Terry Bryant": {
+   "Terry Bryant": 24,
+   "Terry Bryant Accident & Injury Law": 9
+  },
+  "Texas Board of Legal Specialization (TBLS": {
+   "Texas Board of Legal Specialization (TBLS": 4
+  },
+  "The Kishinevsky Law Firm": {
+   "The Kishinevsky Law Firm / Leo Kishinevsky": 2,
+   "The Kishinevsky Law Firm": 9
+  },
+  "The Lanier Law Firm": {
+   "The Lanier Law Firm": 6
+  },
+  "Trial Experience": {
+   "Trial Experience": 13
+  },
+  "Trial Experience vs. Settlement Mill": {
+   "Trial Experience vs. Settlement Mill": 2
+  },
+  "Trial Readiness": {
+   "Trial Readiness": 2
+  },
+  "Zehl & Associates": {
+   "Zehl & Associates": 46
+  },
+  "Zehl & Associates (Ryan Zehl": {
+   "Zehl & Associates (Ryan Zehl": 2
+  },
+  "Zehl & Associates PC": {
+   "Zehl & Associates PC": 5
+  },
+  "Zehl & Associates, PC": {
+   "Zehl & Associates, PC": 5
+  },
+  "Zehl & Associates, PC (Ryan Zehl": {
+   "Zehl & Associates, PC (Ryan Zehl": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "f290e843d2fa3285ccf800e3cb59db3a9736474c136c9839050027d9fc139c58",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "04d644582f422a07f4edcdd81bd0f9b17c405222e07882ce01c87521bc3cf398",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_personal_injury_law_houston",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_personal_injury_law_houston.json",
+   "sha256": "c7c901cf1c8a3288a5ce67eacc37f3e21164a91be98f36e1beec009a0533ab12",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_openai.json",
+   "sha256": "3eb6ab2f64267757c5d08b79e92356b7bcc695349719fbae7da57a3288a8400d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "c7e6beb726cbf1cc6f09f788073f3485af50d6ce9744dae8b1a58efbe42de241",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "6383d9abe32f591d468d226a59c4550a8d6019efd178a133ca24b8152932ebe3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "0b90a37fc914e14994f45074158bb2df0bcd604b593edbe55856c7d150348a8b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_personal_injury_law_houston",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_personal_injury_law_houston.json",
+   "sha256": "7db0602bfb73eccf539b805907c4eae85c701b107830e250d277acf4a8ced175",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_openai.json",
+   "sha256": "91b72c4ade6d48ee55e8a15d4c57c0333159e93e0bd9bc8872cf253d235aa75f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "9cd0524c656bd07b0fa55bef0be5c014bbe7413c1c725cecb7e5a7e0172b10d3",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "ce6cf626c05aa497ac02e9e188e65da05e5af5878c9eadb48fd4c9d344ece6e9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "d7d10b7eb7ed34c39cf5e3c3d86dad948d30b925e7982751a10b3fb6cfa81583",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_personal_injury_law_houston",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_personal_injury_law_houston.json",
+   "sha256": "9b1e2dc245c49d9c2a3ddaab4ec5e97bbed9fe799e32652e7746e2cedb2abfe6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_openai.json",
+   "sha256": "272e9beb2ed02acdfb3c54270212c330fdef197db2addce1085bd9958bdc288e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "21b48b16017fee1a0b817af049bba0e830e4bc90e8faad005e332d35b22de6e8",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "b1b173730416070916f09401cb65828633ad76fd2250a57ecffd33e9d1c0484a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "855559ff445de6f6e47018b8dd686bc1f8d8c834a27c1e77bbf428ae466cf623",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_personal_injury_law_houston",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_personal_injury_law_houston.json",
+   "sha256": "b2906e5c846ef775ce0344460a859fd05bbde5478f77545231813951b8b52009",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_openai.json",
+   "sha256": "d4804f57f03a55390c8e3796a85b74e0497c110f8b93be2a9d45fd8f5701ab29",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "73c3b1af4b2bfaeed984f40710e5274cdd628e31e0e5a2a13b1d44a82b019e57",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Resources",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "c29400e5352859b8fbc71de3074faffa71508bfcea336013b593e52a7727aaf8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "625a421ba9de172cbd464476e150e123802177467bca92b46e1bf8ccd5f84c4f",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stornello",
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Board Certification",
+    "No Upfront Fees (Contingency Basis",
+    "Reputation",
+    "Schedule Free Consultations",
+    "Terry Bryant",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_personal_injury_law_houston",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-13_segment_personal_injury_law_houston.json",
+   "sha256": "429ef9d17bb0014bd8fc43a9215627d4d704af49cf6c660de4068236ed97b3b4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_openai.json",
+   "sha256": "798ce2e21d68081d8e1684ff5d4339fa4e03d3eb4633012c61ad8d13c3792f6f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "6ba76cc9b2ef739ec06d81a57abdbd9df2d60d716e766a6c59c265ae93f2f822",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "b6a650f79e4a70b5117ce43540216ac654edc6765dd6968babd0a712e0ab558a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "d74c8ca47b3d79c85ea4c2518a5c06c938f7c390df4a2042d5c234ca0fc9ceff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_personal_injury_law_houston",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_personal_injury_law_houston.json",
+   "sha256": "02fa97f9d17845d71d32869047ff5e5b06b982e1083698aaf8ce3676357dd21d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_openai.json",
+   "sha256": "90ffda965e2b6a78760762b1d8a9ae8c10f444961684179b39f0409779cf4490",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "70ff9cc7d9cbaee0ead36eae98519e6e2885df0a9f1db3758108783bff78b989",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "cae1329b64a73c6293c974c8f74cb9dce9d1e10d9546bc1b84e2642c83c5bc04",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "fe98572637efee112d15fbc407f573de19118f1f858806030bb80f0dd66a855f",
+   "businesses_named": [
+    "Board Certification",
+    "Contingency Fee Structure",
+    "Known For",
+    "Resources",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_personal_injury_law_houston",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_personal_injury_law_houston.json",
+   "sha256": "496e506f9315c4f13bc8f1b0d3b12f1cbbc85b5329d7b8825d7de03d07eacb1d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_openai.json",
+   "sha256": "dc5dbc45309f19148fe31a4bf71b1284e799145db4a2f14103256c2b3daea8da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "f5bf777dcbb39f8e5edc93a09a9f813855a9c5d391ae6626b047d6b8efb89713",
+   "businesses_named": [
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "fa7e84077bd4ab78f6ff6ccd6f8863b52a78c089aad6a545bdfa7277bcbe9d86",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "743cb4093379d457d9d852a09e813d537790e0445f86d570820630269e540138",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_personal_injury_law_houston",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_personal_injury_law_houston.json",
+   "sha256": "62e19b4f81e9b53d6696401dfd67dc9b8923f982844bd8fd078772642c10c660",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_openai.json",
+   "sha256": "30165b6650b60e57de123aa69c2afbb39a2443292069a881389b6e87c430a95a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "9cc1cdf255b38a8936f219b45908a13d1fd73fe67474261e624f66e599bcad2c",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "61ef1614ea8437f6d67b2252d7a5d3bdba8607ac0cb6c1aa688a01bd43470b99",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "40de05f3f41062bfb2de04e1bb99b5d379ad18082efd06f80da66a1f958fba25",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",
+    "Arnold & Itkin LLP",
+    "Board Certification",
+    "Jim Adler & Associates (\"The Texas Hammer",
+    "No Upfront Costs (Contingency Fee",
+    "Reputation",
+    "Simmons & Fletcher, P.C",
+    "Terry Bryant",
+    "Trial Readiness",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_personal_injury_law_houston",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_personal_injury_law_houston.json",
+   "sha256": "2ab2cd32dd5b7bd42423823404e11abd21b65a02b4e038e1672a2bccfbfc7f57",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_openai.json",
+   "sha256": "38d60fed1e934adcd4057805f6620f2f50f2db0c864b9098bfbbaf9aac353b60",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "9bdc2bee308747f785ebe542851172a147ced7a1b1cea6a92329dafc300269ae",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "af004662ed749c8cd1c3e190707971ed187e0fd48955066dda8fba1bab75aeee",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "9ed1dc0862adead0bc11fc51b2835e26929276e7d724ea3c13402d00f3be6a5e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_personal_injury_law_houston",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_personal_injury_law_houston.json",
+   "sha256": "bae25d8dd58eb6515c07e2caa9b6415736d35d11099549aa73fa618eb85b5ccf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_openai.json",
+   "sha256": "d0b1d5763e471a1c0a2bbf99168f65f5736c08e08401363ac377ba9c58b554f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "47e0fe0e87e40faab6d22e279d634b02a255795cc8b8bc46b6e5214e7e781a23",
+   "businesses_named": [
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "8a03337e02b5d71b1ea6bfdf0f3c99876773cc72ea8109a8986ebda43e8c0bb6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "889d198091656f4db24e33d09159df5f79b72c3d93049408abbd4e65fe5c424b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_personal_injury_law_houston",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_personal_injury_law_houston.json",
+   "sha256": "064c18ccaf71ea0aa5c1544fd7c15a0f88694d61482faab93a35f2ee131cee64",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_openai.json",
+   "sha256": "eee4c9626960118cc47d2271f15579e7ab377b265c7ed0a59b9420641fbfb0e1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "3385a01009047df6c16cbaaeea934f58c77a1a43bfe813632cf8a80109623ecd",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "b6ca7c431f1fe5020a3a4cd09256ee16441e13837c145cf1e629b846166d5115",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "af46e072fa2afcd3bfd3b2da1bb48d2e681e94f2a34c5dedb47eb16bddebeed6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_personal_injury_law_houston",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_personal_injury_law_houston.json",
+   "sha256": "ed839a5ac22e9b9815f737c40cb0a877d9e3185147f30eb31a3d45d2b3018734",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_openai.json",
+   "sha256": "fe7bda7100cceace051820e2d6ee4254903b29419f099ef8c4f05f207976851d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e0717b35b20169545691c43a5c5d9aab0bfb17d543e8341a68fe1f719ff98dde",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "ac933eb7cca98418e69b9ed6c2d06b265854369cff721a3595b938c3ca542535",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "993c257c3240fcc9078ec08fcf055dac43d8c7464fc4980e1efd82734f33122a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_personal_injury_law_houston",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_personal_injury_law_houston.json",
+   "sha256": "0cbc65b423025b04b0fd1ce9ae474f4d7c76d42e3d3b474f9cd2223f684458bd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_openai.json",
+   "sha256": "851eceed4e2666c41925766832f7568a47a71ba4683dbefe4e54f517b31519e6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "341dffe5c93c009855e97f993c3f38b9e6046b950665bd0b6127ebae24b55c51",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "cb14091823a0c74bf148ad35fbc302978c6d869b5c03fadfd97dc3aab470351c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "6a84d274c0bdc4224b937d4b668a5a5ab1ca77c49463cf3aacdbc337a647d70a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_personal_injury_law_houston",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_personal_injury_law_houston.json",
+   "sha256": "e7adf465495800a5aabd76b28d56670278d1ffef60580403bf2a63098b40777c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_openai.json",
+   "sha256": "3fbfcaf0195d00d86dc49c76a9af47d9f8a4e6fed2e21c01c46e0585d2e5e02d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "29eb18fc79a3090ee02b559e2bc1455500ea0e765978edb199f56f6a86d151bf",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "c7841fa4e5372e07c3ad62d5973a0274544b144f2a62e00d7b2bdae662425e58",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "025c97875f27f83b09ef832d258210c5864c52af12122632ddc5feb518bfea6a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_personal_injury_law_houston",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_personal_injury_law_houston.json",
+   "sha256": "c709b073638f403e26e1a8976ed1078c106bd9b71b8dfdafbde8157c81f5d8b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_openai.json",
+   "sha256": "96b1a03272b49b5368af6605b105397bf68fe427ed74fee1e14bd7b76291adb7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "172f3198b6bcc952722d8ce74f0564f5c403d588b2e3a2b07faf579e99522ae3",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "699b992ba8ed475a7c017fa7198c68770f7e92371bd1b5f4560871696d3f9b0d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "b7735e43fc5a570c9727338bd28872d96b2be2d4a04c13ecb410a9730f1f1261",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_personal_injury_law_houston",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_personal_injury_law_houston.json",
+   "sha256": "46871a417bcf160fe0cbace36a290cd8941d262a8067209fbe2a0817c5889325",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_openai.json",
+   "sha256": "6730adb5ead6449b28cce36f44de5509bd19cf374b837c42fe9e4e7486236e60",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "af9712288ecb818d58880fbe18cacd35ee3ca4de17ede0d4efbfa740b8f202a2",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "64cd5b2f7407934d6bcc6d21bfa3f6055f89b34a66aba3b1b6ef63d9b96d0373",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_anthropic_r2.json",
+   "sha256": "c6bb50a96a044c78e23134aacb880b4363b6be71e7e42557d8ecf46def3dcf5b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "8444f1a0b9f46154444912ac041b1cc34dc9dc8cc85e29ce4bed7a9e3419ea96",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_gemini_r2.json",
+   "sha256": "d311c0f98766b1d87d1d902eccab0f50f01aa54f04a34449dba4a6839f84ad9c",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",
+    "Arnold & Itkin LLP",
+    "Board Certification",
+    "Do not give a recorded statement",
+    "No Upfront Fees (Contingency Basis",
+    "Reputation",
+    "Resources",
+    "Seek medical attention immediately",
+    "Terry Bryant",
+    "Trial Experience",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_houston",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_houston.json",
+   "sha256": "50c895b96e665f8000b9de61907f26fe54db9bafbc17f801851961ed2a8262b5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_houston_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_houston_r2.json",
+   "sha256": "35747348c9e68954038d5a10ac23031eb6c695dbd4ece647fbae7eb5f4280201",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_openai.json",
+   "sha256": "682cc874242d8ec97648bf9edb4625591deb29834e87839182483b3554911a2e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_openai_r2.json",
+   "sha256": "08812352a63bfd543d05925b58dde20155e9c2d2e459ff30f0ac167544c8fddf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "dd6015dafdb3e9fa01a68f691bd73857556b0db4762909d62cca99ad80eaa19f",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_houston_perplexity_r2.json",
+   "sha256": "39cad7f39b0132b82ab3c26075bd5057c54d81615b220d255dcfc8bd500d4d85",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "c22271b83fb81a11deb50cd9e35aaa9d79158235d3ddde67c6ae089222f0d51d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "5e572615d4124c64571da4bd0beb2920ae5a3d90fcd8034266ff2cadb6ca7477",
+   "businesses_named": [
+    "Actual Trial Experience",
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm (Greg Baumgartner",
+    "Board Certification",
+    "No Upfront Fees (Contingency Basis",
+    "Reputation",
+    "Resources for Experts"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_personal_injury_law_houston",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_personal_injury_law_houston.json",
+   "sha256": "086f1b9bb1233293907cb1eaec4d5ff222b2c2dc8112cb81fe5d6ec741fc99a5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_openai.json",
+   "sha256": "eba1b104ed3c44a56f80b5d0cc62a40be75df7d4cb33bedc9b6a2fa533916302",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "d81c618bcb075be496ccc359eabe0a6e77f22e481948b1b899db11cefe2af2d9",
+   "businesses_named": [
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "23077f7befb726e3cc81810708d8dcf6f084ef2e7c935980f9c7b1e12737dd2e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "e85479ee1cea3444f1db915c451e7a49278f47a7628e1ba118a2a607159789ae",
+   "businesses_named": [
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Contingency Fee Structure",
+    "Overview",
+    "Schedule 2-3 Free Consultations",
+    "Terry Bryant",
+    "Trial Experience",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_personal_injury_law_houston",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_personal_injury_law_houston.json",
+   "sha256": "73da111d954488969b01a058b07cfa5114407cca15367c3a16a03febf088ed3b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_openai.json",
+   "sha256": "1f440cacf14280418b481b11cfd83f3c5670791ebd931fc8b2ed22a400e5eae9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e37e9579eece8de0b8354828de0cf83e7ab3283507766670c6c49f00bc64b05e",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "3d352526ba02cc84b933b7e865aee96420b6693755bb61b3cd25a488f9e76b57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "ec01d501bc7261bd8f8c672706823723db911d5c3eeb00d8a852bc96f540e9b5",
+   "businesses_named": [
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Board Certification",
+    "Known For",
+    "No Upfront Fees (Contingency Basis",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Schedule 2-3 Free Consultations",
+    "Trial Experience",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_personal_injury_law_houston",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_personal_injury_law_houston.json",
+   "sha256": "2aa4bf2b6439fc62f1ccdda86a7ef5ddad6dcc5ad3051758cb32cb42e0077e18",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_openai.json",
+   "sha256": "460a5163192e0bdf0d1ca2ba9f4b1b66ad2a98c482e8811e5fe4f05c6a2ef39c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e72e5ac777a83da2b9f5dda54db63007fa73119931c57d5efd83cba6f55db985",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "9bb7ae03007cdc1bee9e58cb82e9fe1773e75f2fb3c7e8ea5c109a2341192008",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "6241918a95913a5b8896d474438c424345b4322d412f95b8bcaee66bbb2792b6",
+   "businesses_named": [
+    "Board Certification",
+    "No Upfront Fees (Contingency Basis",
+    "Overview",
+    "Resources",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_personal_injury_law_houston",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_personal_injury_law_houston.json",
+   "sha256": "cf0472d81331638aaa4b966a0f8e970f7ce8a078cbf8ad249db29e02e8d373c3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_openai.json",
+   "sha256": "670ee985561e318cc0eb0e5e7542c2e4fdde96a5771b0b4b09ad84c4de8f4dae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "63e393ce03e78b328beae08dcffc89f92dcb198f350cd65754e5945478c87837",
+   "businesses_named": [
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "f2904be516237d4e7cd4cf5457afdeefa19f670dd3af38556ca5e68991990d28",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "25dcb073220b380f8e0cfdac0b3da847a47f065b5d73810af60e3aa69fba6351",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stornello",
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Board Certification",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Reputation",
+    "Trial Experience",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_personal_injury_law_houston",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_personal_injury_law_houston.json",
+   "sha256": "acfb0ad55438e65aed540a3a3c292418d15b591be25bc1ace28cbea2fba92b7d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_openai.json",
+   "sha256": "f7769b0cfbb8c262594d7dd1e243bf0f7ffa8ee51d5bdca22bda9c64e7402e26",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "0d4a3a2ace929596d2b39e6b5d3f62b9650c85e1f2b0ebce144e957bc5c3b9f1",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "f97e22e5270546eece1790b7cc8c3e5c3d5a54a3196587ce23dcdb6b896d2139",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "28b69791bfc18a161810b6be2207173ab13dbf899157196d02b563f5a8b4dd30",
+   "businesses_named": [
+    "Arnold & Itkin LLP",
+    "Board Certification",
+    "Jim Adler & Associates (\"The Texas Hammer",
+    "No Upfront Costs (Contingency Fee",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Reputation",
+    "Trial Experience",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_personal_injury_law_houston",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_personal_injury_law_houston.json",
+   "sha256": "cf869ecaffbfa1860bd8ec71ccb3cf004b3328edd8d877ea3a4c11fe231aff3f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_openai.json",
+   "sha256": "7741e16891e8045f5afa1ad0e44ef0237ecbd5cddd2dd5c484344f1105ffac59",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e1ed54bcaa6f5fa83938f0f00304407a1eae0d417910550177a3135ebddc2eb4",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "25428628b94e45d2a0692db82705fe0f1f622117c129bbfc32fd336306e853ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "269beda9dc521cf8d3001002229ae5113adf46fd9169ca6b4162d6edb1d94a86",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_personal_injury_law_houston",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_personal_injury_law_houston.json",
+   "sha256": "e88217746daffac0db686f8374d4a524660e534b891a084e54779dfc7b047486",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_openai.json",
+   "sha256": "d73a8608627b64031cc0294d1d2fdadbdbf82e961fe6a66b4c0bd9f028e94d57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "033afb4b3e45c43aa97934ada5b1dc4667c2fe8a8f14ec931b3b03b9f6df01b2",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "c06c94445b9ef5c0ab25845d835f8f5695d8e8c6836afc33e4a734ce77bc2bf7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "23742bda5bd0c6a376b6e6c2cf080454840794735e1928e56b82c7d23578be47",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_personal_injury_law_houston",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_personal_injury_law_houston.json",
+   "sha256": "a86ae9171b446d3a425e954b2b58b6a5013771e3cc91196b3ae959bba309d502",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_openai.json",
+   "sha256": "d013dcbc3c1c9e1e5c60e8dfe6f9caf2e5204a26b7dffe871272cc8953696965",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "b989040d905e1c8ab36ba9b6864c7303042f2ad979f01a22b40c0936649f9042",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "f815b918226ec7846a7dac16e15cb55f4b81343756026aba079a64d3cf00a429",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "2effad42ec47d908a9a31a983311fbee1fbfdb086beb1e5d5a80ca8dac5edf82",
+   "businesses_named": [
+    "Actual Trial Experience",
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Board Certification in Personal Injury Trial Law",
+    "Direct Attorney Access",
+    "Disclaimer",
+    "Jim Adler & Associates (\"The Texas Hammer",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Reputation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_personal_injury_law_houston",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_personal_injury_law_houston.json",
+   "sha256": "0a9c5cde1763e12c1d55b16d7ca647a227f8a654dca0f6381dffa020a579fc0b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_openai.json",
+   "sha256": "f4817d7b9ace5dfa7026dcca62f916ff143a763e840740e49e59ff070ac291cf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "122fc63dd87c727483a4def7fc4e0a02126551d05a8f39dff4d9b1f9641cbce0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "a6529f9b0a7e1cb04f5cf3b1a33966ccb82cd635372fb2b14b2ecf81c2f15ff1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "380c7346947a7d676a7927cc99c5d256d029b270490c1d647d97fba43f1fb1cb",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",
+    "Board Certification in Personal Injury Trial Law",
+    "Do not give a recorded statement",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Terry Bryant",
+    "Texas Board of Legal Specialization (TBLS",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_personal_injury_law_houston",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_personal_injury_law_houston.json",
+   "sha256": "539e8912e2ee71a80f759fbf7817f2e7eef1570ee437872c83c9852dcfec42b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_openai.json",
+   "sha256": "25f2ebd9fae96f21eb170b7cc1d021576f01729cf5fac8c866e3e77fedfd55fe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "d2c5d6afade96f4b6201eec6772cdbd19f5286e9d8a64a01f5d4c521b781c0bc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "b587f2b98501674cf03baf7f2b2b6f6ccb322c3c3cdbb007189e96b1100c6962",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "ad9341150f964b256ab302b20b5c2878db19ca9f27a1da13335cfa78568ea51d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_personal_injury_law_houston",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_personal_injury_law_houston.json",
+   "sha256": "adab29c0c6f178a7174819fb3266c78692dcaaf6c0af3a90b95d915f5590429b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_openai.json",
+   "sha256": "1e73b500fc0810a9d53f197737c9fe140692a94258059a256dc50c8119b9c6bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "54e6d9d3ff1e412b05be612a5a94b9fdfb63dcf1ead48a7e4aef00c70531cfa8",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "86678c8c542b7032d945f045c7fe6f4cd4aec3323e9188a4cff46f3bb06c0ff7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "3de4b18073163f0304076d85cc7de29e8f5296c832f1a4d0a2476b6d901ee7ec",
+   "businesses_named": [
+    "Baumgartner Law Firm",
+    "Board Certification",
+    "Disclaimer",
+    "No Upfront Fees (Contingency Basis",
+    "Reputation",
+    "Resources for Experts",
+    "Simmons & Fletcher, P.C",
+    "Terry Bryant",
+    "Trial Experience vs. Settlement Mill",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_personal_injury_law_houston",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_personal_injury_law_houston.json",
+   "sha256": "359a5ab0575fef0b56e2de0594c479d6f7549832e146934d0379756ffe14e48b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_openai.json",
+   "sha256": "5eb41e7b7a1646760c7f9e85ec9b265658ced3db01963672d8906166017c5157",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "3fc0382f803ac34a5dbbe3dd74ace0d9aa18147f06ffdce76145f3f1f7a9acfc",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Sutliff & Stout",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "c205ba0f371b6d94ca5399f8b35fdfb2ffc6aba8f95868a8d948c94436e2bd0f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "e480559e13e4389dc9c3e3c65c4c5ec9cc14f2dde126f5b3f123ab7e7367c554",
+   "businesses_named": [
+    "Board Certification",
+    "No Upfront Costs (Contingency Fee",
+    "Reputation",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_personal_injury_law_houston",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_personal_injury_law_houston.json",
+   "sha256": "579e6b26f34191d7cf34b2498b7a6a3da942df201cce1dbfb1856e540295a8da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_openai.json",
+   "sha256": "eca82b15bf021b711fe0c6e4f66291e5994b2458e7c14b0604c9985cd9bf58e1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "11432a5ee2ea74dfac4f3abf26ec4fc108cb5ba3c649c7f43a2b8284cad76479",
+   "businesses_named": [
+    "Baumgartner Law Firm",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "e7faa1b3a7bb8c0ed3bcfcbab74e4a16fd745f47e415a0fb671acf64f73b6755",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "865f797165aa96974c3e54550211de0fd135ed255aec3838c4b5cb0e60e23ffe",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",
+    "Board Certification",
+    "Direct Attorney Access",
+    "No Upfront Fees (Contingency Basis",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Reputation",
+    "Sutliff & Stout",
+    "Trial Experience",
+    "Zehl & Associates (Ryan Zehl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_personal_injury_law_houston",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_personal_injury_law_houston.json",
+   "sha256": "5e25f9b77a749d0a37cc21a9d0486b3f48c166459484b4e5518bffccb1abc656",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_openai.json",
+   "sha256": "d332345d3719714bffe1c8d26456ab24b8d09dfaf9a94bebdc0059385ccbfc34",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "27bf6020ad53e14149985a0fb268f9165bdc74d975b1dcf341354f01b41bbd13",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "f3dc3414d3c35ff5f1a037721cda72833f90155ac4a525426c92774142e5c3dc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "2d69b698e437b2a135ad306df273c8ca11452936908d3804bd85dbbf7ccd5a4b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_personal_injury_law_houston",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_personal_injury_law_houston.json",
+   "sha256": "561b78ef438e3abd3ba1e543c54c646443c5d2ee4e333a106c56d823b8f6c654",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_openai.json",
+   "sha256": "5afea46a55093db9e7ab6080c3a78121e92ac239268e303a4c1298c0d444f79b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "fa8465962f319b8c0bbd25bbd86b6993d824a696a1dbb2b946d42b416df89acc",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Smith & Hassler",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "2290c2a32c8658b0b0f8fadef2e09055cb0ad414fe12cc54df09f14b0f3131bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "85e2f791362560d2a620585e7492c26fe7d39d6f5a86e324833431e52d5ae1e5",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomberg",
+    "Arnold & Itkin LLP",
+    "Board Certification",
+    "Contingency Fee Structure",
+    "Disclaimer",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Reputation",
+    "Resources",
+    "Trial Experience",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_personal_injury_law_houston",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_personal_injury_law_houston.json",
+   "sha256": "ad1ba53d981e93170fb94f1a7fb5f7f3a5f8be297e14e899112b4d2a0297332b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_openai.json",
+   "sha256": "aba95ee7297a75b44cb23eb941113acd3fb73863f9725e760aafaccda997fcab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "3a22e235af7e392858ada817726cb85a8c1ca80f047c2a9847806687298919d3",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Brian White",
+    "Smith & Hassler",
+    "Sutliff & Stout",
+    "Terry Bryant",
+    "The Kishinevsky Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "aedc26397fd3e6abb46fb4352d1c572be511b2934e40ee2d0aab12bd663862aa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "150b6826c16b180ac03d2eb31c13fae364b9e6df894f8300e1194029c5e98266",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",
+    "Actual Trial Experience",
+    "Board Certification in Personal Injury Trial Law",
+    "Contingency Fee Structure",
+    "Terry Bryant",
+    "Texas Board of Legal Specialization (TBLS",
+    "Zehl & Associates (Ryan Zehl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_personal_injury_law_houston",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_personal_injury_law_houston.json",
+   "sha256": "7ebcb37c000112458641cc57813b700b1bfc186e393032ddb338ca8b79399edb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_openai.json",
+   "sha256": "5d389b7ab12ae23acffac553a29ab62627a6aed08d8872a66f67c7a7655b0387",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "4ae254db025064551a3b4155e31fe09e6d946c060d7ebd813f44a720d146f3e6",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "a505fbb260ba41b0cd8aa341af6714b1ab5f561494ff6aa9f2fe1a229d557b20",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "e5eda14c955743db8c793717624f7a4b8ada8fd368751d43fae9f321e5fb67c1",
+   "businesses_named": [
+    "Actual Trial Experience",
+    "Baumgartner Law Firm (Greg Baumgartner",
+    "Board Certification in Personal Injury Trial Law",
+    "Known For",
+    "No Upfront Fees (Contingency Basis",
+    "Texas Board of Legal Specialization (TBLS",
+    "Zehl & Associates, PC (Ryan Zehl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_personal_injury_law_houston",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_personal_injury_law_houston.json",
+   "sha256": "9aa3bda08b3777acb26ce7f8b1df4f7d0c0053a6510d6ceb32537898ab747393",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_openai.json",
+   "sha256": "62181abf640d6a9ac93cacb6471fac9dd9756ecc077c8554132ede81e0691c01",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "7101810b3d8e63bffb69921ce2d6687a973293adc67639df2eadddd6375295f4",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Brian White",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "2e96f142e87226cb1fc6401cf1c785d8c767bf073ad3d534a3e5aae91576a79d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "41eddcde24ebad2b62c0672ab9f1753e0e8f0ab52ccd771c2300fcaa4a182118",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stomack",
+    "Board Certification",
+    "Contingency Fee Structure",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_personal_injury_law_houston",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_personal_injury_law_houston.json",
+   "sha256": "4d4df5be1ae59a8c4175ca105b5d63d2671b8b40b1b219ffcf8ae69fb117184c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_openai.json",
+   "sha256": "de0593369eaeff460048a92830fbd72e4471c2e4033f6fc5bc690ba77f18a8d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e7477f5f3a65ebfdf0f95900294834d3d341cf2f4d5ea66fc25d1153a6ec411f",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Brian White",
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "a59866b06cf012306e537ab57366dfdaa3a4d832baf50c0a7eecbf0d8c970971",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "b5822f89479909e910629a6c2736c827d06b112438dcd1cfa08fe5669c14bb0b",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",
+    "Arnold & Itkin LLP",
+    "Baumgartner Law Firm",
+    "Do not give a recorded statement",
+    "Overview",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Seek medical attention immediately",
+    "Trial Experience vs. Settlement Mill",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_personal_injury_law_houston",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-14_segment_personal_injury_law_houston.json",
+   "sha256": "865fb06448fd8e235e9acd4ae63a936276eab8c6dc746e9351d6b160bde74856",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_openai.json",
+   "sha256": "abc16122e64a7f8531161065ddd6b2ae0555e27ca3beb651287685a97a968964",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "2b95d46796c7b6df7964fef9bc7bc9017c58550c6085a325e103e2a4c07d5962",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "4195c458081198c719c499049157b5216a0d813175427b638f3bf411d059e303",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "1387d04523af9bd5ab7ee4a6bdbe35fdca1ba4f855fda728a247bac4e296b25e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_personal_injury_law_houston",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_personal_injury_law_houston.json",
+   "sha256": "e52b9d223407c03b423adc63bb9dd10774a9f7c302a5311c5fd109156a5c5018",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_openai.json",
+   "sha256": "a2f9b94f9495d916e971b2cf8ab1ad537852166a5313467eaa47a273a1e7bc75",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "08cf2613413092257aa57ea4fc36d1d9656e2fa9ca2e5f724d89ce77e4d478bc",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "23a1697e4ffbaf178a5b0edc3024b4597ec006fa660359f6593997b33c0b41d9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "3d62dcd4b918327795dc99f50db4e4dfd9ce6fc1dac105943d839319bc2f0f3c",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stornello",
+    "Arnold & Itkin LLP",
+    "Board Certification",
+    "Disclaimer",
+    "No Upfront Fees (Contingency Basis",
+    "Reputation",
+    "Trial Experience",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_personal_injury_law_houston",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_personal_injury_law_houston.json",
+   "sha256": "fd43ec5514a9955cf8acb6bac74a1bf46b496d417fe7158d2cceef05baca0b83",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_openai.json",
+   "sha256": "4ef7ffc7511c5e64148c2d3b71bd10357e29ceb59cb572f6e6d84d39f6e9f3e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "00e6111b182a937f12e747965e96c77f4e6e8a815f83a629879e40c6557c9d61",
+   "businesses_named": [
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "90e7832c5307ca94c179b78ab7d8a05a89fe456deca98e68e63d0b6695b2dd85",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "23a1c9217cf4d347e5fe485c5eb726a3d6c96ffedc7437cc7dcada82e244aabb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_personal_injury_law_houston",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_personal_injury_law_houston.json",
+   "sha256": "6c691fcce360c9f59645ccb40c2006ebfd3967177dd0947f95e80b3462f53e8d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_openai.json",
+   "sha256": "bad63a05bac9c359d4a85082668a8c0e71546651df61c2c7312eedde2071c32c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "7d63cd42ebf8a1d02b927bf6c813e628571b465020c979de99aa454997048870",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Brian White",
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "Smith & Hassler",
+    "Terry Bryant",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "4f67aa75ca8b9b86062cd780e3d0ad156c739e7c4a9962cc08b867aedaad9a90",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "a2ae9eb39d0014ab13cb7e488fd1d524627560fc6e0a3204cdee8e4ea432c129",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_personal_injury_law_houston",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_personal_injury_law_houston.json",
+   "sha256": "01f672b5da45f38b223363e9b727090bd84209b1880d9cf970dce543a7679776",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_openai.json",
+   "sha256": "f1144f31ca5504e5a38633acc1108dbd484f032c1b71f76c9626146e59a7ae14",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "d85862953a5a9d22dd580ef7ea0ff141a7237f64cc5d593a7560a494fce0bab2",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "0c5ea28f4af978fdcecf7fd629ae4ce3f641ffdde4292f135206e148024b7001",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "47f96ed38e30d495978f9e9292322fbe4c60bf32ec98c2ec076ef9b361eee6b2",
+   "businesses_named": [
+    "Board Certification",
+    "No Upfront Costs (Contingency Fee",
+    "Schedule Free Consultations",
+    "Trial Readiness"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_personal_injury_law_houston",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_personal_injury_law_houston.json",
+   "sha256": "408d697d87046c87316f8c4aeb20a109eccfbe926cbb688b5600c809f6c63b66",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_openai.json",
+   "sha256": "71a90240ddbffa230aaaf6a21c97a6b80b17437ce212880edfe957c3e034ea57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "33bb0e37290306606619d7da4628989e29540fc3c2a7cb43b6e228ff7fc6a273",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "fe6d724ca0f31fc09e8107f587b5d69977bc51a531cdc5e702f4cefba178167e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "b63fb82bde67893e0c4dbbeaefdd1869b7c1ce99453174c5b26e8dd103077bf2",
+   "businesses_named": [
+    "Board Certification in Personal Injury Trial Law",
+    "Disclaimer",
+    "No Upfront Fees (Contingency Basis"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_personal_injury_law_houston",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_personal_injury_law_houston.json",
+   "sha256": "7089b8a64a3424d962b61450943af1766d3da6068f865ef33f3eaf4815c4a58d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_openai.json",
+   "sha256": "dcda2dea46245f78add8530f9f83e7a60f6dbe25fe86a422ab0e750b251ff902",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "590d66c6f3e3e50694b619f46f7f5b678ced95cc8a6b726cd1c43b33604a5c13",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Johnson Garcia LLP",
+    "Smith & Hassler",
+    "The Lanier Law Firm"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "5eec10f9d10d428f78c0061942b9a7ddeff5c1a82c186065f184b76de17948a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "78d8669c13aa62e5dfd0097cff4538b315520fb3c3898238a55ba5c948c3b68b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_personal_injury_law_houston",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-21_segment_personal_injury_law_houston.json",
+   "sha256": "e0db0c9d8809779e837c1c8c5cef97764b0cb1ff810439ced234ea1b5d4faa2f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_openai.json",
+   "sha256": "73caa4378895cb016497dfed7d5ce787965b038001eac84ae1a8a2072aaa78fd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "d18ec7c2ac4b443afa781d26e137e01bc452ba5a02bec54237a37b555458b6d5",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "10cd7142d6e1ab159cefee9992729355d92f49466837bc0d7710b84889bf0736",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "06465f83271d220c703f64834212688d96f1235509b820eadcab611dc516f2ac",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_personal_injury_law_houston",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_personal_injury_law_houston.json",
+   "sha256": "57f4816d0631c64ecb31afbc4f507396e266dcab23d096fac1e6efa1c747ffcf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_openai.json",
+   "sha256": "4abd93dfe65fbf1cdcded399889c998a919e299b0afb43b9a540b9e6328fd15d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "040ee4b307c75de106c0df0043172a307d1506794a0a96f39535bbc765fc9014",
+   "businesses_named": [
+    "Adibe Law Group",
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "The Lanier Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "1ef5c7ee4b5a5695f398d74a38c17359ed63c6ce540cc0ab28df9d69744ea95e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "eb1750f7e3ba0c654e5ca3c168b3a382ce8e5bba0cd2390647d1430b9dfcda5f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_personal_injury_law_houston",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_personal_injury_law_houston.json",
+   "sha256": "149915ec19ca2008d570e73a69495df4a93821e06e20939b8d0d9afb18a5caf5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_openai.json",
+   "sha256": "258d19bc116060074410dee778315884d6f52f4b0ce982e8ec20b4cd97fd5d71",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "7531ab4c2398525ef4a5290f4827ec22a3827d2f744fce9371c683b7f20b64c9",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Paul Hilmon Cannon at Simmons & Fletcher",
+    "The Lanier Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "7057da4ad03fe83517807b4c9fe3dfa1e15b5874d9971c6077023f8ddd03d414",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "e9b4d9ba3d7e1706ac70845e8f9ae890a167a135b58bd053da5173ba7a95eae5",
+   "businesses_named": [
+    "Board Certification",
+    "Contingency Fee Structure",
+    "Resources",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_personal_injury_law_houston",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_personal_injury_law_houston.json",
+   "sha256": "3b19088fc0b6890bdcf1a98c092d775c1224e91441b3541d5298ba9ba67a1477",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_openai.json",
+   "sha256": "7f1a5a1378eb503aea3dfd205d046b654afafb9cf2d07a0d1d334755f24ef94a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "379035de0f0ed6d05e6d919b824f026b478080a58c3e0f53f9eb765242faccb0",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "The Lanier Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "fbc03d90e719a40868408c0827ce0a1a889541f61dcdc73d5efb722a5f7f8fb1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "2238441e0d12f67509f8a5b8fe03d8aa3d89eafabb1c5998592351bb34871c7d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_personal_injury_law_houston",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_personal_injury_law_houston.json",
+   "sha256": "dafa80186cd72b5005d739dae7701403431489c053dc2fbc09327ecfeb55052e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_openai.json",
+   "sha256": "8b9971b911e45ccaa9331f4a83dc2f3d2f687388a4564956c701aea9ef06236a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "4e54364df7bc1b31080094b08f880b35980b4f060db564d40db4c1f42b24112e",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "The Lanier Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "895dd8bfd1bc8361de5f5f435788ac4beacc00220284a9d5ce4196388434aeda",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "fc036db23ed3152f0b4b59ce7495c32789dc9f434c707c6b3300950d9c890525",
+   "businesses_named": [
+    "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",
+    "Actual Trial Experience",
+    "Baumgartner Law Firm (Greg Baumgartner",
+    "Board Certification in Personal Injury Trial Law",
+    "Known For",
+    "No Upfront Costs (Contingency Fee",
+    "Texas Board of Legal Specialization (TBLS",
+    "Zehl & Associates, PC (Ryan Zehl"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_personal_injury_law_houston",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_personal_injury_law_houston.json",
+   "sha256": "5c68b10a5ffa5031453fc2cfcd26ca58c22c48b4ea0fbaa6458b04d4323b5021",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_openai.json",
+   "sha256": "245f98197bcea016b8670ca35e163c04d1b6b257e479f89b1ccbc7e91fb31b9a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "ddb4038e5be0ba53b6d40dc01f2505a984d163ee0779f27e3da99a4e9c08f746",
+   "businesses_named": [
+    "Jim Adler & Associates",
+    "Smith & Hassler",
+    "The Lanier Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "dfdc3e52220f5f56bfbfe0e30210d5cc59a8168f3d204ef2a73c1a56837be42e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "c06b058155836ca5cc59d56bdbbfc615429ba4f50235ca41cc6bb190c00ff660",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_personal_injury_law_houston",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_personal_injury_law_houston.json",
+   "sha256": "de74b13626f10d907627650693b0ffd323ea9012b67d9d2bce41e86fac88f03d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_openai.json",
+   "sha256": "041db50168d613d6de456af37c181d25b50702c9a92ec31252c257a828b7718d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e7c53cdea9b1e17ca50dd921a38e08380869e8304a089e94c0b45340d0e95492",
+   "businesses_named": [
+    "Charlie C. Gustin / Gustin Law Firm",
+    "DeHoyos Accident Attorneys",
+    "Joe I. Zaid & Associates",
+    "McGovern Law Firm"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "d206507c17d6bdc814f9d4aed385b177a252e1386abb9fa6b77722f7c90d4f1d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "056616858d75c4df144b488e4dc003000254bd070481ebb105ab160b62492929",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_personal_injury_law_houston",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_personal_injury_law_houston.json",
+   "sha256": "405655e82d3b1791f05603e3f675cea867187a722b3315a629580b37280d9cec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_openai.json",
+   "sha256": "9a8d483e1b7dbb55ce5a487016c3bf264f376fb066bacbef3ab085d07649d76c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "731b2fab1dc2b916ee227b4a3a1f81c387a12ef3f7890b79c62ff68b5ad9b6bc",
+   "businesses_named": [
+    "Paul Hilmon Cannon at Simmons & Fletcher"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "3c820553697e8784f0b0421e33707c19631a907407f44493fd2e4c5e18ff18e0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "32ec5e65c151501fc9be4077204102e9ccb0135a830f6b1cc8c9e85a3d4c6567",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_personal_injury_law_houston",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_personal_injury_law_houston.json",
+   "sha256": "7604a974103c8cb06f354514332890e56f37766569a2a3566634da832bb6c846",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_openai.json",
+   "sha256": "5a339fbe2b364691a70b79e0c3cb95e8702f1f8351b642875d36a9c234a0b939",
+   "businesses_named": [
+    "Mark Lanier"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "9bf18f3cff1a7a11e2bb6de58285e0797ab6ae55087d14dccc71125e6d97be74",
+   "businesses_named": [
+    "Brian White",
+    "Terry Bryant"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "0471824dd9ce8ab6cc6bb9baf468114a3f0de72053c7a430f9a944c0b2749a9b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "7db18a26afd0a67476bee439e03c684d099c05648f36c7fd2b9f16e418de4b2c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_personal_injury_law_houston",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_personal_injury_law_houston.json",
+   "sha256": "db8a494b2503601c2038c73a43124982eaf172aff82ddabd14c59c994eadc533",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_openai.json",
+   "sha256": "cfca638c9f890ecfcf4322645343a88a905e36e4fee7c44f2f240f71b8500079",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "65fa0b4107824970b3806de535f3fc30f2fe74e40c31e549cd32593675b1b961",
+   "businesses_named": [
+    "Daniel Horowitz",
+    "Joshua P. Davis",
+    "Terry Bryant"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "d16e5f41e88f853bc98e7923db47704e04ebd079bb6a934455bd742194ac2fc4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "e62fc91510eb3df23f04bfde2e06d1c21ac7f66126b248d739626f8cc86162b4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_personal_injury_law_houston",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_personal_injury_law_houston.json",
+   "sha256": "605f30003a6fed1eaf3be3aebabb52273aea19960dbab5141f291a03e08332bf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_openai.json",
+   "sha256": "a5e7f09a47af13de5ba270a63371d5156abb7e562453b2f4d7cb41294e4ffdcb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e9b1bc2398dd5dc81167a6148b56724f39af293cd8e2a2c94f097f82be408377",
+   "businesses_named": [
+    "Brian White",
+    "Terry Bryant"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "fd2906a20330a139222a6d254bb011f9a00676df850ead7ce67023ab114860c1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "497c783a9c0ba9025c9b3e1e7988a7b39e5f3e1b082abd071fa611dbc293f7dc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_personal_injury_law_houston",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_personal_injury_law_houston.json",
+   "sha256": "3aa1af004b511ebcb0f90a5da25f54237b15a299ed6224eb080b1ac4b620fcc3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_openai.json",
+   "sha256": "c2eeb2da7ada3007bc16944709072b16c6a745ce824e023b7e82beae95240963",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "5becae96e266e8db025a2ba2c4a8eca495b753faa6a1099959b73fccbf07970f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "d9a96f1866e75a85f34b6303d1b90cc5a532d4bb9c0d29aee9ed0a2ba34f5293",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "c9d9fc9e3563f912afc850ed2d43dd775fe6d2a5a5763d23d86b3375ee098f13",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_personal_injury_law_houston",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_personal_injury_law_houston.json",
+   "sha256": "7b49e292b6a8e3014f3b5cc4ac3d48f0e57887800d6072225cd3c6d0335a2adb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_openai.json",
+   "sha256": "88fb64998bd9ca53900b9a9235878c8532112a9157af50665637c4c8aa9716fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "f80c640251d70db0c9a6506e76c2b4ec3af37c380a13931de40dd2579b56df79",
+   "businesses_named": [
+    "Joshua P. Davis",
+    "Terry Bryant"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "a226fb9ccb8649a7fb0043ac24c6536835540684a98c564bd73e978a8e7dd45a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "3f6a7a2edc86824df1a6c8b9a66e4edf5cd73f975321906453afc7563f6c6a46",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_personal_injury_law_houston",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_personal_injury_law_houston.json",
+   "sha256": "0aaa57e053c2e1c5a1c4e2fc58e5418128a9f86917c58a9cfb28282d669502cb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_openai.json",
+   "sha256": "2926e9834adcd470cffba19057ce29dfaf5029ed11bdcc7665f017aab22cab36",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "087bec6e382c17806d8cb91eb32bdb3ca690cfd486d0cb0efdef802bb5b95968",
+   "businesses_named": [
+    "Joshua P. Davis",
+    "Kevin Camp of Roven Camp"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "0a69ec6f56e9f842bad1c23e97701278c13e449826ac8eec0b675e12df209b2c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "0153eb2f6dfe3bced86b75fd2f5ffe2b6e6bb348465902e86e0bddb588542e81",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_personal_injury_law_houston",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_personal_injury_law_houston.json",
+   "sha256": "bed6b92120b64efc03d9f7e201697dfaff125364c56622a940904a39cf8d20ee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_openai.json",
+   "sha256": "f4ac1b8575922baa876050046ef4c9f501ce4165235752aa9e09d6d70114f79e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "02713d1558bb3560c827f71ae08cf397fcec001ce6848449d317fec93cec44c3",
+   "businesses_named": [
+    "Joshua P. Davis"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_anthropic.json",
+   "sha256": "a22b29366bf0b1abf5e2bf0664e7d2bb816efaa556452bca4f9df23fd83345b7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_gemini.json",
+   "sha256": "8aab8618dfc1da604d2209a681956f5c2643cc0017706e08519218cd1bf91c7c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_personal_injury_law_houston",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_personal_injury_law_houston.json",
+   "sha256": "f13b2870d8b960760ea20b8a154ea404ff1de9e1cacb2f36f16002c7fc181d24",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_openai.json",
+   "sha256": "8cd1c520b7e52cea1ab38a7eb807cfe4997d6251728aa26e5504fe407e9b8ad0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_houston_perplexity.json",
+   "sha256": "e93cd4da03a4fedda889a546144e92aa03b392b992d31d7cd3ee4ec595c30487",
+   "businesses_named": [
+    "Joshua P. Davis",
+    "Terry Bryant"
+   ]
+  }
+ ]
+}

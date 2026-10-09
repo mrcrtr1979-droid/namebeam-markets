@@ -1,0 +1,3681 @@
+{
+ "slug": "dallas-roofing",
+ "url": "https://namebeam.ai/dallas-roofing",
+ "prompt_verbatim": "Who is the best roofing company in Dallas for a roof replacement?",
+ "market": "Dallas TX",
+ "niche": "residential roofing",
+ "window": [
+  "2026-08-09",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "1. KPost Roofing & Construction": {
+   "1. KPost Roofing & Construction": 2
+  },
+  "1. KPost Roofing & Waterproofing": {
+   "1. KPost Roofing & Waterproofing": 2
+  },
+  "2. Peak Roofing & Construction": {
+   "2. Peak Roofing & Construction": 3
+  },
+  "3 written estimates": {
+   "3 written estimates": 2
+  },
+  "Accent Roofing & Construction": {
+   "Accent Roofing & Construction": 2
+  },
+  "Arrington Roofing": {
+   "Arrington Roofing": 45
+  },
+  "Baker Roofing & Construction": {
+   "Baker Roofing & Construction": 4
+  },
+  "Bert Roofing": {
+   "Bert Roofing": 21
+  },
+  "Blue Hammer Roofing": {
+   "Blue Hammer Roofing": 15
+  },
+  "Bold Roofing Company": {
+   "Bold Roofing": 1,
+   "Bold Roofing Company": 1
+  },
+  "CLC Roofing": {
+   "CLC Roofing": 3
+  },
+  "CertainTeed SELECT ShingleMaster": {
+   "CertainTeed SELECT ShingleMaster": 2
+  },
+  "CertainTeed Select ShingleMaster": {
+   "CertainTeed Select ShingleMaster": 3
+  },
+  "Certifications": {
+   "Certifications": 3
+  },
+  "Christian Brothers Roofing": {
+   "Christian Brothers Roofing": 2
+  },
+  "DAR Roofing": {
+   "DAR Roofing": 2
+  },
+  "Dalco Contractors and Roofing": {
+   "Dalco Contractors and Roofing": 8
+  },
+  "Dane Roofing": {
+   "Dane Roofing": 1
+  },
+  "Elevated Roofing": {
+   "Elevated Roofing": 4
+  },
+  "Firefighter Roofing": {
+   "Firefighter Roofing": 1
+  },
+  "GAF Master Elite Contractor": {
+   "GAF Master Elite Contractor": 2
+  },
+  "General Liability": {
+   "General Liability": 6
+  },
+  "General Liability Insurance": {
+   "General Liability Insurance": 7
+  },
+  "Highlights": {
+   "Highlights": 3
+  },
+  "Infinity Roofing": {
+   "Infinity Roofing": 1
+  },
+  "JRH Construction": {
+   "JRH Construction": 1
+  },
+  "KPost Company": {
+   "KPost Company": 18
+  },
+  "KPost Roofing & Waterproofing": {
+   "KPost Roofing & Waterproofing": 6
+  },
+  "Kangaroo Contractors": {
+   "Kangaroo Contractors": 4
+  },
+  "Kidd Roofing": {
+   "Kidd Roofing": 5
+  },
+  "Lon Smith Roofing": {
+   "Lon Smith Roofing": 11
+  },
+  "Lonsmith": {
+   "Lonsmith": 3
+  },
+  "Manufacturer Certifications": {
+   "Manufacturer Certifications": 8
+  },
+  "NTRCA Membership": {
+   "NTRCA Membership": 2
+  },
+  "New View Roofing": {
+   "New View Roofing": 21
+  },
+  "North Texas Roofing Contractors Association (NTRCA": {
+   "North Texas Roofing Contractors Association (NTRCA": 4
+  },
+  "Overview": {
+   "Overview": 7
+  },
+  "Owens Corning Platinum Preferred": {
+   "Owens Corning Platinum Preferred": 10
+  },
+  "Paradigm Roofing": {
+   "Paradigm Roofing": 2
+  },
+  "Peak Roofing & Construction": {
+   "Peak Roofing & Construction": 11
+  },
+  "Priority Roofing": {
+   "Priority Roofing": 18
+  },
+  "Proof of Insurance": {
+   "Proof of Insurance": 3
+  },
+  "RCAT Licensed": {
+   "RCAT Licensed": 5
+  },
+  "RX Roof": {
+   "RX Roof": 19
+  },
+  "Remarkable Roofing & Construction": {
+   "Remarkable Roofing & Construction": 1
+  },
+  "Renown Roofing": {
+   "Renown Roofing": 2
+  },
+  "Roofing Contractors Association of Texas (RCAT": {
+   "Roofing Contractors Association of Texas (RCAT": 12
+  },
+  "StazOn Roofing": {
+   "StazOn Roofing": 25
+  },
+  "Swan Roofing": {
+   "Swan Roofing": 2
+  },
+  "T Rock Roofing": {
+   "T Rock Roofing": 35,
+   "T Rock Roofing & Contracting": 8
+  },
+  "Tarrant Roofing": {
+   "Tarrant Roofing": 3
+  },
+  "Texas Star Roofing": {
+   "Texas Star Roofing": 7
+  },
+  "Top-Rated Roofing Companies in Dallas": {
+   "Top-Rated Roofing Companies in Dallas": 5
+  },
+  "Warranties": {
+   "Warranties": 2
+  },
+  "Workers' Compensation": {
+   "Workers' Compensation": 10
+  },
+  "Wortham Brothers Roofing": {
+   "Wortham Brothers Roofing": 5
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_dallas_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_dallas_anthropic.json",
+   "sha256": "b81add517f65d10fc8b826e3f5b0af49b5fce157454f5439b0430fcf06330fa7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_dallas_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_dallas_gemini.json",
+   "sha256": "28282a3e61961e6f86a20fae84989d5b240033fd4928e5cf64b987afafdf397a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_roofing_dallas",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_roofing_dallas.json",
+   "sha256": "7d7d584e75772e551ab09212fc55fb3e27c99d319934a804dbcb9c1d9763c090",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_dallas_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_dallas_openai.json",
+   "sha256": "59373fa14e1ea1c88cfd7ff1f184726ce226b90215d2dfe023ee3cc94e5251a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_dallas_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_dallas_perplexity.json",
+   "sha256": "844fc8ae8ba922b30d4fee05acfad9c02b691bdf67adb7a596f998e1dd2d8318",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "KPost Company",
+    "Lonsmith",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_dallas_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_dallas_anthropic.json",
+   "sha256": "76857a805e18cd3b963081c099837881517ab43d79ec306a515f41d2e82fc7d8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_dallas_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_dallas_gemini.json",
+   "sha256": "aaca80642377afa1720bd7615caa48f37cfb86919f5b7ae20abd4af530e12144",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_roofing_dallas",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_roofing_dallas.json",
+   "sha256": "9e330275c293c42e5f97f789cfbeedfc6c0aa1786f1167c02107da203c552880",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_dallas_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_dallas_openai.json",
+   "sha256": "9723438cdd10c045ae71ed1031712b1ef9bc2379f38f95eab6edb3d20f4d11be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_dallas_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_dallas_perplexity.json",
+   "sha256": "0e1568ed79af47be675298571ee5ff47a72a7403fab3be36034a168b2e5e1da2",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "KPost Company",
+    "Priority Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing",
+    "Warranties"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_dallas_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_dallas_anthropic.json",
+   "sha256": "4504e128ffcdea1d20ab3e7fb5109efbe46000b1928a5e83fbbdadfd7284db55",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_dallas_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_dallas_gemini.json",
+   "sha256": "059757fe080822cbdcf7828ceed8e883a9dd9446737cfbc7d243188020e7feef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_roofing_dallas",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_roofing_dallas.json",
+   "sha256": "c0d92d1bab644cb38c6089e82bd2451932298fbcc5d7fbd6e4eb1662cf5b9c1b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_dallas_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_dallas_openai.json",
+   "sha256": "1258ed1d231a51138497c614fe33edce99bfea9491a9e8ef0cd77af2da73480f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_dallas_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_dallas_perplexity.json",
+   "sha256": "670ca8044511e7c645dfcf08de5e8c0cfadaa77be05919503f2e92974f395f32",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "KPost Company",
+    "Priority Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_dallas_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_dallas_anthropic.json",
+   "sha256": "4d5212db901c55d49dd0c1c52605ba0fb82f583053c9449891b5506012b1f1c4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_dallas_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_dallas_gemini.json",
+   "sha256": "7e3128899d42a2554fd8e7497172334877b415d95052afadc10cd9904fe409d5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_roofing_dallas",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-12_segment_roofing_dallas.json",
+   "sha256": "ac4184ca70c8aaa82a66b9131ef4498b4fc6ffed2d297cde717f24dd286e48a1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_dallas_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_dallas_openai.json",
+   "sha256": "fda8e4e413d4c0501fc20525bee0db19b51720ad5bf1ba1995ff1820ed98e8fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_dallas_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_dallas_perplexity.json",
+   "sha256": "99beb1d3b0667796d4582ad09055e58ad3c185ebaa901ff002fb432f0b25fb58",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Baker Roofing & Construction",
+    "KPost Company",
+    "Priority Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_dallas_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_dallas_anthropic.json",
+   "sha256": "c2afda774abc45cc7032dca576018baa0e6094a641ebbdbb507088c0e91015be",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_dallas_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_dallas_gemini.json",
+   "sha256": "2cd217cf50b629a1839ba1f08a3157be51c69d560ab672dcc16a88e42626da03",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_roofing_dallas",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_roofing_dallas.json",
+   "sha256": "15e252b0c3e5d887dba4d7155a0244a4858c8b915537a87e034c3dbcc6d2c53c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_dallas_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_dallas_openai.json",
+   "sha256": "2504f90a9aad0407f9a7b4fb8657e5bb53edbd324d7508180560881c90964dd1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_dallas_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_dallas_perplexity.json",
+   "sha256": "1e81d96002c293c20547a4e4cbf6030724921d5015140dcf100e8162f6ec3ea3",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "KPost Company",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_dallas_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_dallas_anthropic.json",
+   "sha256": "425add92fe2225ee65a23f9df6b192551dc98764c73308348d4b5b74bf708ede",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_dallas_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_dallas_gemini.json",
+   "sha256": "2e972cf80c413735bdc20077acd5725663f7e68613cf1b9d080c844446497400",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_roofing_dallas",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_roofing_dallas.json",
+   "sha256": "0d6be8d1fe214905cf0dc11d31c9c4f6893556a0efb557523fcca28edfb2e54d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_dallas_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_dallas_openai.json",
+   "sha256": "337a57c2fa719eae5256c7c310433406ec66b48f4aa6f31ce7842ed8b3aed0d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_dallas_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_dallas_perplexity.json",
+   "sha256": "35279d1ef2f02ef81deaea622f291bb25bd1046a6202bdc0fb99f127ae95b6d9",
+   "businesses_named": [
+    "Baker Roofing & Construction",
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_dallas_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_dallas_anthropic.json",
+   "sha256": "1cc8e47f6c8ddc397b7e05a0ed95064b5ad4ffee1f672087ffdf93674e67bb74",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_dallas_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_dallas_gemini.json",
+   "sha256": "16c41b2d93821cfbf516fd497ee57e9a7d696b8848ac140acf4649096cf5cec7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_roofing_dallas",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_roofing_dallas.json",
+   "sha256": "84b6aad03650e910a0e4233e530f4cdcd768ecc980f9a2dadaa6b22c9b3eb7b7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_dallas_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_dallas_openai.json",
+   "sha256": "285c15c7e712d7c5fe70315fd08bbfbb9077aa0e425df6d7b0f73d7b28af01c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_dallas_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_dallas_perplexity.json",
+   "sha256": "5bcc5af78417c1cf584e403ba2700b0fda806a6209d3189c5cae8e081aee822f",
+   "businesses_named": [
+    "Baker Roofing & Construction",
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "Kidd Roofing",
+    "New View Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_dallas_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_dallas_anthropic.json",
+   "sha256": "82d0d5ce84a680b2202c1497ef995f9e228a9009b621ecfb52940ae8a11883b2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_dallas_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_dallas_gemini.json",
+   "sha256": "090364535b4aa27299f5e3df8fc31a7df3b88e76e8339b1b91e6633f9322103f",
+   "businesses_named": [
+    "CertainTeed SELECT ShingleMaster",
+    "GAF Master Elite Contractor",
+    "General Liability Insurance",
+    "KPost Roofing & Waterproofing",
+    "Manufacturer Certifications",
+    "Overview",
+    "Paradigm Roofing",
+    "Peak Roofing & Construction",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Texas Star Roofing",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_roofing_dallas",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_roofing_dallas.json",
+   "sha256": "6129d2e199563672a1182c0e2555fbc5c3c01daff882c9a3ac60963ade129d24",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_dallas_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_dallas_openai.json",
+   "sha256": "0677a3d09141dacc68629f6351408fab3454694068f6e943039cef5f821bba21",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_dallas_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_dallas_perplexity.json",
+   "sha256": "59ea7f968c5591b46cf56cd11f9b8ae20797a235aea98957a35889ab9625ae07",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Dalco Contractors and Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_dallas_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_dallas_anthropic.json",
+   "sha256": "552c3fd58a54c86ee6d7880af7c37da72fc89e1059de9dc620aa370b6fd28149",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_dallas_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_dallas_gemini.json",
+   "sha256": "f88c33cac282021033ec6fba6375b143dc30e10c3aa939904b7982c7930b27b2",
+   "businesses_named": [
+    "Accent Roofing & Construction",
+    "CertainTeed Select ShingleMaster",
+    "Christian Brothers Roofing",
+    "General Liability",
+    "KPost Roofing & Waterproofing",
+    "Manufacturer Certifications",
+    "Owens Corning Platinum Preferred",
+    "Peak Roofing & Construction",
+    "Proof of Insurance",
+    "RCAT Licensed",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_roofing_dallas",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_roofing_dallas.json",
+   "sha256": "4878b5606aec4deb7ad9e6363049ea73bc39a6fe0a790f8362b247f2bc13ad72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_dallas_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_dallas_openai.json",
+   "sha256": "a492ff948bcfdc27c27d02659ca0437b9f9319bb7f5efbf865d1ed35530166d2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_dallas_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_dallas_perplexity.json",
+   "sha256": "70c3a50d1590a28e50cb14448c968104c7a61ad65beebec622d2316bdab28714",
+   "businesses_named": [
+    "Bert Roofing",
+    "Lonsmith",
+    "Priority Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_dallas_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_dallas_anthropic.json",
+   "sha256": "45d379338e48c719dba86ccd71d2eb1e3fe804a66505b83008738579ad088e12",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_dallas_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_dallas_gemini.json",
+   "sha256": "faeddaa531ec551efb3f26817cadaed3f8d5c83fc8dc82112e874215e3888ad1",
+   "businesses_named": [
+    "1. KPost Roofing & Construction",
+    "2. Peak Roofing & Construction",
+    "Certifications",
+    "General Liability Insurance",
+    "Manufacturer Certifications",
+    "Owens Corning Platinum Preferred",
+    "RCAT Licensed",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Top-Rated Roofing Companies in Dallas",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_roofing_dallas",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_roofing_dallas.json",
+   "sha256": "9be1edbc2fbca47a7714e6119cb43714de93a7dc2b210151231b79d0eed2db98",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_dallas_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_dallas_openai.json",
+   "sha256": "fe17f91b63a5d30b477e216cce5f68f0951f27f3b5bddd37071f210fce5e268e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_dallas_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_dallas_perplexity.json",
+   "sha256": "22b8a4044e3357f3ec3a66750a0d468a4da7811676e95abb842c5e0c7c3708ec",
+   "businesses_named": [
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_dallas_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_dallas_anthropic.json",
+   "sha256": "a87a2cad4d722c62a6fbdc4d25f09b830bde7e0a98ec9f42bdd96ec5dd4c1adb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_dallas_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_dallas_gemini.json",
+   "sha256": "dc41b796b7b4dac1ef9b3f2dd3b590f29862ee5ce4d78b583640c16b02f4e429",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_roofing_dallas",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_roofing_dallas.json",
+   "sha256": "79f064b169bd7bfb8de83717097e61cadcaa63c763a391417385364718f7c5b1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_dallas_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_dallas_openai.json",
+   "sha256": "3728728dd07bc308645d01804dab53b95185467924cd4366ae4592104c41926e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_dallas_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_dallas_perplexity.json",
+   "sha256": "5e6697c3733d578551069d7ec9ddeb658aff3e2e7bbc2fc7c933521f119dbb12",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "Kidd Roofing",
+    "Priority Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_dallas_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_dallas_anthropic.json",
+   "sha256": "f6f3e737f52a68acb46db03c35dd0202b1e1ebb5498d9134a8e558e448459a61",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_dallas_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_dallas_gemini.json",
+   "sha256": "37c60b0fb8efac90b4fd01554f5f1641dbd661044f9b40e6e61ccff82cf25ccd",
+   "businesses_named": [
+    "General Liability Insurance",
+    "KPost Roofing & Waterproofing",
+    "Kangaroo Contractors",
+    "Overview",
+    "Owens Corning Platinum Preferred",
+    "Peak Roofing & Construction",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Texas Star Roofing",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_roofing_dallas",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_roofing_dallas.json",
+   "sha256": "e5aa30c446197810236636e1f6ebbd2c40f0eb1915979a49e67b6661ebb8c9b5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_dallas_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_dallas_openai.json",
+   "sha256": "c8c4bbec6a2996ff3356add4bdfcc70d0aa4dbc29931d387a455e312b6a2e0fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_dallas_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_dallas_perplexity.json",
+   "sha256": "6f8ddd0c1c1fcc233cbd1421cd87eadf0e1c577ab76ff161c5f72bd637d05667",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Kidd Roofing",
+    "Lonsmith",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_dallas_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_dallas_anthropic.json",
+   "sha256": "dd05e82f6e5efd2a10f411f359bdad2530689a5a5e04f67f72701b0be09f3596",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_dallas_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_dallas_gemini.json",
+   "sha256": "3870e8151724547e929eac67099c75f6a9566da2bebf289a7c27bedb611cb537",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_roofing_dallas",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_roofing_dallas.json",
+   "sha256": "6be902f9ac43be0b042a70732e77963e1e9551bed5bbac828297ebf9c58b729d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_dallas_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_dallas_openai.json",
+   "sha256": "2c738853a5521e217ec7b9d13616729d5a4bb84fab71f5ca081ad0c6b093f494",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_dallas_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_dallas_perplexity.json",
+   "sha256": "d1b6b13d63001cc8417865cdef52cef136c4bb82c646ed1e4971384bf665274f",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Priority Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_dallas_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_dallas_anthropic.json",
+   "sha256": "a8947ab773fa811106494f73e5ed355339399e70daa303fa528cc2fb59c9dfb8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_dallas_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_dallas_gemini.json",
+   "sha256": "70ec2cb1d0b4d0c8d3e3017d8e1470fc08173f2a4678d63f7a373f180480a848",
+   "businesses_named": [
+    "1. KPost Roofing & Waterproofing",
+    "2. Peak Roofing & Construction",
+    "General Liability",
+    "Highlights",
+    "Manufacturer Certifications",
+    "Overview",
+    "Owens Corning Platinum Preferred",
+    "Proof of Insurance",
+    "RCAT Licensed",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Top-Rated Roofing Companies in Dallas"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_roofing_dallas",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_roofing_dallas.json",
+   "sha256": "38b894a35c0a555c1ab0b5a7076c6b2add2e83118f38d918bf482288f5555397",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_dallas_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_dallas_openai.json",
+   "sha256": "db766542e1dad332a8dfee2570f5788344c1375b7b982316c9c4dd736b346ee4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_dallas_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_dallas_perplexity.json",
+   "sha256": "c0e65a74d3022300fde64d34550752dd827cddafedbebb8284afdd4ca119b2c8",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Priority Roofing",
+    "RX Roof",
+    "Swan Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_dallas_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_dallas_anthropic.json",
+   "sha256": "59039cdbde608ab173e8801efaa6a93ff25290ac18803cf5b2bb68917e7818d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_dallas_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_dallas_gemini.json",
+   "sha256": "8455985069e70d6fa78b06168ce715feaf3c331590800e9149731da4dd6859fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_roofing_dallas",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-23_segment_roofing_dallas.json",
+   "sha256": "bf3ce74a0252c4843f119b2efa36ed4601de19efc9fbf0f98f31d8a03ebf84cd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_dallas_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_dallas_openai.json",
+   "sha256": "801fc67141dde6c55eacdb9b0a01b0c79c80dcc3f2c5f4c816ca53989ffdc832",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_dallas_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_dallas_perplexity.json",
+   "sha256": "bf38d5e24f589746dde3a404eb589dc0a89c4a0f58112f758aadd8b996dfd74c",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Priority Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_dallas_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_dallas_anthropic.json",
+   "sha256": "036842ebbd34e01253e6fa4e2c74397a19885c196575d809a35b1dd10168e8f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_dallas_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_dallas_gemini.json",
+   "sha256": "5da8b4c4f31f54ef4d0419263ddbf56614400d44c906ae91d7ccdec5bb4ffb35",
+   "businesses_named": [
+    "Christian Brothers Roofing",
+    "KPost Roofing & Waterproofing",
+    "Kangaroo Contractors",
+    "Manufacturer Certifications",
+    "Owens Corning Platinum Preferred",
+    "Peak Roofing & Construction",
+    "RCAT Licensed",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Tarrant Roofing",
+    "Warranties"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_roofing_dallas",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_roofing_dallas.json",
+   "sha256": "5d48642a47de13c3578d5aacc9a2260e5fee0a338d770bf02cb7f3664641c5d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_dallas_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_dallas_openai.json",
+   "sha256": "9062fd1b7c135e25a9892f3f713293edd3d33a801740d7ea6b8ffdaacb5315c7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_dallas_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_dallas_perplexity.json",
+   "sha256": "5ba912367cb35cab9d1d8b878ae538932239eb087ceab26547a3e0417ad80ced",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_anthropic.json",
+   "sha256": "ba7d49b75e24f19dd0e1bc761db2e23897599aa8f66d2c2808bc848a2c8ead04",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_anthropic_r2.json",
+   "sha256": "4841ef1dac6ed4bed542041c29e0882663f26b80e212d4096e28eedb12b58bd3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_gemini.json",
+   "sha256": "1e7cf1d2338509f737d5c97f21be73b4df6d2e9bce36c77c6d640606e822c1eb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_gemini_r2.json",
+   "sha256": "0e64944252c81560941dde3e29a16007d643cfb713f52b72c513be9e976bce43",
+   "businesses_named": [
+    "GAF Master Elite Contractor",
+    "General Liability",
+    "Peak Roofing & Construction",
+    "Roofing Contractors Association of Texas (RCAT",
+    "StazOn Roofing",
+    "Tarrant Roofing",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_roofing_dallas",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_roofing_dallas.json",
+   "sha256": "a56eb6f6952ce7262c83b28b1c6e9c1621a1d259f267a8cfd529f5249dd05b63",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_roofing_dallas_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_roofing_dallas_r2.json",
+   "sha256": "04958f15b041e48e26f195017ccd5ff1e1434bdfe3d30dd4d72751076bbd85f7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_openai.json",
+   "sha256": "605e37cf921efaffa95eb43f0c54a819ab4075127228ce502f4c3d6e65f5ce3a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_openai_r2.json",
+   "sha256": "a2a2eb2d63aad3f6943e3ec4b77d64b7cffaf0ec55be40b79e383fb6e781cedd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_perplexity.json",
+   "sha256": "e351b8eba8a5252fdaa95a2af938118980fda5c3887afc106862ffd2450c3d40",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "RX Roof",
+    "StazOn Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_dallas_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_dallas_perplexity_r2.json",
+   "sha256": "8e9309c484e49a274b1692ba0632a75000094074e00af7daafabb78b7c6d0a29",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "Priority Roofing",
+    "RX Roof",
+    "StazOn Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_dallas_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_dallas_anthropic.json",
+   "sha256": "91220769f12eb9c79d6aaa0c2b86c82876a6f5329744fc5c017a44c020086825",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_dallas_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_dallas_gemini.json",
+   "sha256": "ad44f09254a54ed69c9b96ddd41c4aeb4009cd694209b68b116f5dcb6b681f5f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_roofing_dallas",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_roofing_dallas.json",
+   "sha256": "1dccc9a9177ac0fe6a99efee9b04a5468a361a36b65e32bc25643e745337ebee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_dallas_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_dallas_openai.json",
+   "sha256": "961b7073a27cf98fd0c8322f6b83c2492998b65a6a2924a206389656426ff0f7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_dallas_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_dallas_perplexity.json",
+   "sha256": "17dafed299f4e9bfb18df48da153041f971d69304592784e80fff528679c3d93",
+   "businesses_named": [
+    "Baker Roofing & Construction",
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "Kidd Roofing",
+    "Priority Roofing",
+    "RX Roof",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_dallas_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_dallas_anthropic.json",
+   "sha256": "b86d4650677dc2dc67727584d217553de6e37b42cd1ebbdced24c69da71dca14",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_dallas_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_dallas_gemini.json",
+   "sha256": "4a8cf5bb273b6b11582b1ec8ec8628f69825b2b25b90cfc19a8e6ed0e891d8de",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_roofing_dallas",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_roofing_dallas.json",
+   "sha256": "53e4dcac8547889c5aa4e1bee7fc6b3c8bfbe45c0f381032cef38e7373fc07be",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_dallas_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_dallas_openai.json",
+   "sha256": "342252bb02c123403281e2e2e6d28603a40f5e1287881ddd73bf244c8f1d44cc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_dallas_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_dallas_perplexity.json",
+   "sha256": "c4c6f5171673e29277a244b5e987baa19f103d5712d19cef9a284baadd5cbf7a",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Dalco Contractors and Roofing",
+    "New View Roofing",
+    "Priority Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_dallas_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_dallas_anthropic.json",
+   "sha256": "2092ebc7dcd6a43db2ad7ce0a0497d361635775a81e3dc8251447f3995e950a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_dallas_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_dallas_gemini.json",
+   "sha256": "9333355a49d75ad3c55941981b10188807c54c6958d33c3df05cb90f6ae43467",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_roofing_dallas",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_roofing_dallas.json",
+   "sha256": "8338efc70501289b7d5179391c9a1fb962f8c1e6c8b67a6d4681e49095d553a5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_dallas_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_dallas_openai.json",
+   "sha256": "f364d5bcada6496142f48347bbab76c234ec7cb70996872e6ccc84a420ebd943",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_dallas_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_dallas_perplexity.json",
+   "sha256": "08bd021dd907332e358911cf771629cb443e1e3a75dbbb6e419b291bf3f5df9e",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Priority Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_dallas_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_dallas_anthropic.json",
+   "sha256": "739d739f31bd54ea27a7e26cb539dc97fb21380a5ead3523733c3efea199c707",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_dallas_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_dallas_gemini.json",
+   "sha256": "79ca0661b5154b8a5dc7f0b6761faabae09ef2b876dc232b1ef47536e0a909c8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_roofing_dallas",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_roofing_dallas.json",
+   "sha256": "2ee1234a7ae9718c806c949d0054ca588228cb7369749281fe8b0ac4a878e780",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_dallas_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_dallas_openai.json",
+   "sha256": "7ff119ffb89f65acb410aa184d9710c940eb5a41052437303f855e86b5908a99",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_dallas_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_dallas_perplexity.json",
+   "sha256": "f7d6ef900b506b6e0d1e7f24ecbab4550a4510f4e3548132cbeedfe15545c2ad",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Dalco Contractors and Roofing",
+    "KPost Company",
+    "Priority Roofing",
+    "StazOn Roofing",
+    "Swan Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_dallas_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_dallas_anthropic.json",
+   "sha256": "1023f44b6e24616d0ea7bef363f8f07c4fd38a62a6c251dccab8c592d78f0a45",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_dallas_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_dallas_gemini.json",
+   "sha256": "bf713ee57b6ece3a5638bbb610b6946c5566fc7285263a222e7f226174f391fa",
+   "businesses_named": [
+    "1. KPost Roofing & Waterproofing",
+    "Certifications",
+    "General Liability Insurance",
+    "Owens Corning Platinum Preferred",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Top-Rated Roofing Companies in Dallas",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_roofing_dallas",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_roofing_dallas.json",
+   "sha256": "6d15ba444a7ea3c07e021f58d6ad217085f020c4e29243de437bab68e35c8abe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_dallas_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_dallas_openai.json",
+   "sha256": "f0d3b16b24ca59c073577d5dec91461ec0fc98426e97d87641d0217d3fd16296",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_dallas_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_dallas_perplexity.json",
+   "sha256": "2614f0ae7cc7e6b160286c2f3768794c13418d3a489525a8b22413e0ea7b422f",
+   "businesses_named": [
+    "3 written estimates",
+    "Arrington Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_dallas_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_dallas_anthropic.json",
+   "sha256": "88d81c2051fa42e96e5f7e173ff8481e0f4d83c08b5d0c81ce255ae027d02fa6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_dallas_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_dallas_gemini.json",
+   "sha256": "599b8a43f7d16dfaa921525ff301e198df17c53142a80ef04daa23d4a213229b",
+   "businesses_named": [
+    "CertainTeed SELECT ShingleMaster",
+    "General Liability",
+    "Highlights",
+    "KPost Roofing & Waterproofing",
+    "Lon Smith Roofing",
+    "Manufacturer Certifications",
+    "NTRCA Membership",
+    "North Texas Roofing Contractors Association (NTRCA",
+    "Peak Roofing & Construction",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Texas Star Roofing",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_roofing_dallas",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_roofing_dallas.json",
+   "sha256": "ff8693961834f39a1d781ef00ab649b97fb366e620d809aca1aa384e40a55702",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_dallas_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_dallas_openai.json",
+   "sha256": "a337b7c685abba8dcae5ae13befe32c84d9be34e448076b87909eb32d8d0e463",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_dallas_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_dallas_perplexity.json",
+   "sha256": "867bc2533041be026dc6aaef2b7414c378cac1d88824a9e73720691b7a67b106",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_dallas_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_dallas_anthropic.json",
+   "sha256": "0923d806c65d75e1b7157aa78a6b64761c981474bcc4cde2cf817d16a520b4c6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_dallas_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_dallas_gemini.json",
+   "sha256": "cc234dcadf636c73c6fe46634cf5e89aecbd275ad3bca1891e6f679cc423f679",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_roofing_dallas",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_roofing_dallas.json",
+   "sha256": "2d91b6bd2c714e3c56991eb3a7b8724214dfdd9fdbc1b539d6e99872119c3f5f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_dallas_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_dallas_openai.json",
+   "sha256": "394e838ccce8f1feb9b40a435e05f65247b3c32b001b18c199c4af55c99c746d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_dallas_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_dallas_perplexity.json",
+   "sha256": "61d1e2b0c83833a75763e6b7b99d7b902d0af35566631cf70810977607a37598",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "KPost Company",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_dallas_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_dallas_anthropic.json",
+   "sha256": "c451e59099c6e9c6c96d25f8464141d0bcde231c5c28f12d3c6d27d61b078be3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_dallas_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_dallas_gemini.json",
+   "sha256": "590286c48a97f519cf73d7e2d557c46884dfd8effe440b2a00685023b080972e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_roofing_dallas",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_roofing_dallas.json",
+   "sha256": "fe7cb42f330702f027a1d4b6252684ada594ea50ba398dfec47b2e75def77d77",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_dallas_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_dallas_openai.json",
+   "sha256": "a51b30b7262c495af678823e11d7cecc9e9b34035c39dc72cf438b43a6b64a17",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_dallas_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_dallas_perplexity.json",
+   "sha256": "884b97ba22c6d3283b999c5435d539081c4a7df23f25dde8ae5fb97a58c806b9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_dallas_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_dallas_anthropic.json",
+   "sha256": "3d77175bcc5476145c1117fa12bc3e699321b84e0d27753754c7a05e45046619",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_dallas_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_dallas_gemini.json",
+   "sha256": "856605eb768527417d54236c2e84c135fbeda2c39d4f81fdafc5fe7e0b2b5483",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_roofing_dallas",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_roofing_dallas.json",
+   "sha256": "c7611033a853aef83795f46717f73bb7e4acd4ea545f94ac96bb8fb251efc1fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_dallas_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_dallas_openai.json",
+   "sha256": "c4b7ed21a6c18cff84d3bdc6d4da1f432a32e68d944631a7bc8588d59c7bf1f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_dallas_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_dallas_perplexity.json",
+   "sha256": "6f1651f6a5b6d47e6b5d5fc05dff4ca21e01ef6e938928ff87c37db3304389a2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_dallas_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_dallas_anthropic.json",
+   "sha256": "bb1df6aa831d61ff15c357533111719037821dac078510c9c27501fdb96dc2ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_dallas_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_dallas_gemini.json",
+   "sha256": "7549fd3f2d64a74a112ee9aed87b1fa9b3738ee32e85092745b13161f5744984",
+   "businesses_named": [
+    "General Liability",
+    "Owens Corning Platinum Preferred",
+    "Proof of Insurance",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_roofing_dallas",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_roofing_dallas.json",
+   "sha256": "d6677c9de449485908fedd326aaec4d5521634d355595de78b4a72497d14819f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_dallas_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_dallas_openai.json",
+   "sha256": "27caa8734819c5a552fb91443141378c1eea237a6fc961965f9722b9ebb3c815",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_dallas_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_dallas_perplexity.json",
+   "sha256": "038ee21d2d36ff06b04a24cb9b5f6d1db1ffe4e6bbaa470004853116205b4104",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_dallas_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_dallas_anthropic.json",
+   "sha256": "388cc69ae77e323c0762987d6710fe23f8c6155538c26f8b895907f403a0085e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_dallas_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_dallas_gemini.json",
+   "sha256": "da2c35742bc0f05784013ab07ac70401de7d4b3c7417e7f0f6f1e8bff4af00c5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_roofing_dallas",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_roofing_dallas.json",
+   "sha256": "792af7fe1242cf6f1ec1987094dfad4829c0cf15bf6b297fb560acbc852f2762",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_dallas_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_dallas_openai.json",
+   "sha256": "aaf13dd0aee70b8393c30f0d835333ea30d64ff643ea1256031284890f30552f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_dallas_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_dallas_perplexity.json",
+   "sha256": "e0a9604aa3693aab981680cbc4a5da980ea37f9234e365d4f4b9ad059f9c7fa0",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "New View Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_dallas_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_dallas_anthropic.json",
+   "sha256": "37aa46d9527ad219e85fef70c01449b7f56ec0ee34f1fc30f5bba134688471bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_dallas_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_dallas_gemini.json",
+   "sha256": "7f4d1b9d9d1614559d7e384645b497dfd6d7911de0d6f74f9891352067102425",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_roofing_dallas",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_roofing_dallas.json",
+   "sha256": "3ceca360a86d0321d6b4f82ffb51e42b0e46c2627cf365f6f7e58806532ae886",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_dallas_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_dallas_openai.json",
+   "sha256": "1aed31b6c2a50f61263bc57006ae7f0b5dc489432aba95eccf01681be7b01bb1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_dallas_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_dallas_perplexity.json",
+   "sha256": "c2656f2ba8a7c6caa1caec42596b96e5b81d884112fb6cbfb2ce410fd0f775e9",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "New View Roofing",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_dallas_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_dallas_anthropic.json",
+   "sha256": "3501897112ad2a6b263086aba738af4100f9dfe9efec8e88524b6089b57eb141",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_dallas_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_dallas_gemini.json",
+   "sha256": "f39875b2a9cdea1b051acf50655c215b27344ebf9e1e054f48d735a02dcc185f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_roofing_dallas",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_roofing_dallas.json",
+   "sha256": "f20b0a27aa3e95b3f65f88f78f6ad3c4ff3778b0904266ec4c25459a5f0f51bf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_dallas_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_dallas_openai.json",
+   "sha256": "ddb9143425cdf7776280d339042ff2d7641084278cc9f25e4f3ab0d0695d1b5a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_dallas_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_dallas_perplexity.json",
+   "sha256": "0e47fc28d9cf2d7de2dc54b21f2f332dcbd3ff255c90d3c96f133bccc0ba2d10",
+   "businesses_named": [
+    "Arrington Roofing",
+    "KPost Company",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_dallas_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_dallas_anthropic.json",
+   "sha256": "9898908401dd7e5525a39a2fa2b38ca6394ea83741a79ae28f2f649c39ec6ca5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_dallas_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_dallas_gemini.json",
+   "sha256": "0e67386da0c101942a7fa0a66afc7f0c5f8a99396ec6a62006d0c75f72398184",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_roofing_dallas",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_roofing_dallas.json",
+   "sha256": "a1df9b508c939bea3a64634f1283b92dff04a5f7cb6ebb0e110631f0ca504a12",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_dallas_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_dallas_openai.json",
+   "sha256": "cd14872eaf5f6e15dae50a28c23e285c6381deb333b43e7502ba62166b1eb741",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_dallas_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_dallas_perplexity.json",
+   "sha256": "ea0640c3ea9874ac34ffcdcbb24b25eed0084ae6f88afd1eb1f7474a338ec5b5",
+   "businesses_named": [
+    "Arrington Roofing",
+    "CLC Roofing",
+    "KPost Company",
+    "StazOn Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_dallas_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_dallas_anthropic.json",
+   "sha256": "045b42c3ea1fb0e70dbbb6d92e8d5af802aee4acd1b472bca07c193d7add872e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_dallas_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_dallas_gemini.json",
+   "sha256": "956a3a55928f73af19c5f8e51f66e3c3cb6a223a194c6c2b41e26a3af7483231",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_roofing_dallas",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_roofing_dallas.json",
+   "sha256": "116c956d5ee9e3346f0036b4b5143501e473a5cf37e8ea4e7e020a89036809ca",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_dallas_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_dallas_openai.json",
+   "sha256": "9c50c4cb7cbcb95a7baa4603375f86aeecd117aa75e5b2e9ec83c814c64cb89d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_dallas_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_dallas_perplexity.json",
+   "sha256": "286ae7f5a0980bd4dfe470ad81b7fa2d39df9b05a5886ac4c96acb173d267128",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "CLC Roofing",
+    "Lon Smith Roofing",
+    "New View Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_dallas_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_dallas_anthropic.json",
+   "sha256": "a5e053a3b2087728d3653f4720e1358ace0b5b3495fd8f830775856808a7d66c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_dallas_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_dallas_gemini.json",
+   "sha256": "1047e48f9f7db63f2ce47a2fc18ce95d941e0793f0c1e730bc41b10c757ab4fe",
+   "businesses_named": [
+    "1. KPost Roofing & Construction",
+    "2. Peak Roofing & Construction",
+    "CertainTeed Select ShingleMaster",
+    "Overview",
+    "Owens Corning Platinum Preferred",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Top-Rated Roofing Companies in Dallas"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_roofing_dallas",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_roofing_dallas.json",
+   "sha256": "cf92d8d81bdc865554470bba133656722fc15693cad7da5deda9395eab59da14",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_dallas_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_dallas_openai.json",
+   "sha256": "84f0b21397bbf418fb1f1c33642013073341935c9be9d9a98482f9da7a9bd202",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_dallas_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_dallas_perplexity.json",
+   "sha256": "f5293b5476db05df8212ec474b33ea71486e4234a23dc95bea8f6b2c6e75aa4b",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "CLC Roofing",
+    "Lon Smith Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_dallas_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_dallas_anthropic.json",
+   "sha256": "3fd5e0cc8e7c4a98da3be44172f95e3cebbc425cf6f5f98bac7222d663a28eae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_dallas_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_dallas_gemini.json",
+   "sha256": "a282fa44baa659e351d9ace3d132b36c1d732118bb09c3925048ae9c943ac169",
+   "businesses_named": [
+    "Accent Roofing & Construction",
+    "Certifications",
+    "KPost Roofing & Waterproofing",
+    "Manufacturer Certifications",
+    "Owens Corning Platinum Preferred",
+    "Peak Roofing & Construction"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_roofing_dallas",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_roofing_dallas.json",
+   "sha256": "67837fc09b8aec85881e4bf153ecd9ce09e9508b7fd204cfe95a9b374861d503",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_dallas_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_dallas_openai.json",
+   "sha256": "354e6e942c81011f7df4d21638d59237c4a6721181fd94d06a8bb85de95d9243",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_dallas_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_dallas_perplexity.json",
+   "sha256": "3f9229401ab820d0476dd518a08fa2b7c614d5af4bcc8b5142b3ba3cb9078a5b",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Kidd Roofing",
+    "Lon Smith Roofing",
+    "Priority Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_dallas_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_dallas_anthropic.json",
+   "sha256": "76925b94d6d4582347dbb267ca64ba1d01bbcbd4398bb42722590db2018956f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_dallas_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_dallas_gemini.json",
+   "sha256": "3704b17bbb38fad0e71e21fc40b1b1f8bf1bdbdeaf4fff0d3fedfd96d095cc16",
+   "businesses_named": [
+    "General Liability Insurance",
+    "Kangaroo Contractors",
+    "North Texas Roofing Contractors Association (NTRCA",
+    "Peak Roofing & Construction",
+    "Texas Star Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_roofing_dallas",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_roofing_dallas.json",
+   "sha256": "bb08399f6b40822dc08b16647c67fa180a46ab3dea8ff0b38f620ddef5603bae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_dallas_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_dallas_openai.json",
+   "sha256": "e81bfe552462948b6dcfa740350ae234e12858d001605f78fa402c4d81074a12",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_dallas_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_dallas_perplexity.json",
+   "sha256": "242094f98fc08d58200671e47eec7c6427bf610debfb430bb2667359006cd312",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Lon Smith Roofing",
+    "New View Roofing",
+    "T Rock Roofing",
+    "Wortham Brothers Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_dallas_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_dallas_anthropic.json",
+   "sha256": "ad03cae51d6c28ec612acaf7c347135c82e7d42cca890e55ba9075fac7774bfc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_dallas_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_dallas_gemini.json",
+   "sha256": "64572d855cd8e44d3699c65dc50469a7f5c990dc23b91e21d90bd6c7a8812d7c",
+   "businesses_named": [
+    "General Liability",
+    "Overview",
+    "Peak Roofing & Construction",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Tarrant Roofing",
+    "Texas Star Roofing",
+    "Top-Rated Roofing Companies in Dallas",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_roofing_dallas",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_roofing_dallas.json",
+   "sha256": "cff1c136dc4656cbc61fca30320ae483aec11b1b9b58e87fa14e5b16763b5dfa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_dallas_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_dallas_openai.json",
+   "sha256": "f2a2679ba5456536ebcce82af4a469880496bb692c088571f08858fcd31e6cca",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_dallas_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_dallas_perplexity.json",
+   "sha256": "289081937ddd1d9ecbf97c9baf199e766875e1d5fa4e5768aecc1e953d617f72",
+   "businesses_named": [
+    "Arrington Roofing",
+    "New View Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_dallas_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_dallas_anthropic.json",
+   "sha256": "587140eeea8f7422c36d830d2134ecf32a0bffa63eb60677aa414768dad42e90",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_dallas_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_dallas_gemini.json",
+   "sha256": "0aefde37725dcd2457b7dcbf200f160c5994796308a7c4cc37f20b1fbf358d8d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_roofing_dallas",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_roofing_dallas.json",
+   "sha256": "67f0d7fe464bc0ae99bc8d6c30d42f6c6933f1f0eb9cb55a1ad69ebc3bc798e9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_dallas_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_dallas_openai.json",
+   "sha256": "0cd478d624eef66f5485e920573ef1be405d09445c02227724fbc209ad0c5f85",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_dallas_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_dallas_perplexity.json",
+   "sha256": "3f8f61522b1531b87f74a9821ed7b1038e7dcb557699583e430945ac54e299b6",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "New View Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_dallas_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_dallas_anthropic.json",
+   "sha256": "da0103c7d42a613e0bf95626dcfa4724cd885a5f273b568ac0413ba24104b1a7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_dallas_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_dallas_gemini.json",
+   "sha256": "8e39e69345d23f4a68f7e7e029eacf29ff1d98cbbeb24aefe77cb0c6253fed21",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_roofing_dallas",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_roofing_dallas.json",
+   "sha256": "c898bf3fe4e66fa2c2f22a048c577a13f7a0e2dde2d3c83736f952956aa2a409",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_dallas_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_dallas_openai.json",
+   "sha256": "647aad168dd53651214c830ea5d594da1e629ce81970e16243685553e6961569",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_dallas_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_dallas_perplexity.json",
+   "sha256": "c54583d8b9b7df303788105f3f6938f696819fe14a52112172b2a7ef5c8009b1",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "New View Roofing",
+    "RX Roof",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_dallas_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_dallas_anthropic.json",
+   "sha256": "66e3f2d2844b1c468557cfb4d79fcf1981d44ed8300b45f905aa4153c99ef6a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_dallas_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_dallas_gemini.json",
+   "sha256": "5a912446d34009c254d6ac08b053e2b279efa48f852e4c384bc51c7da318ded6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_roofing_dallas",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_roofing_dallas.json",
+   "sha256": "b1096ef3c528719ac7b61b3d7d69805363a72763e24e91e42dd6c863551ef74b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_dallas_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_dallas_openai.json",
+   "sha256": "134153130510cbba1774dc2ed3ed49c39090a25adb6c0757145e4eae0fdcbf59",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_dallas_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_dallas_perplexity.json",
+   "sha256": "9e8f37f8c2326fee998125a827119c64a57870ac5526ecf8152c473f134fbc67",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "New View Roofing",
+    "T Rock Roofing",
+    "Wortham Brothers Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_dallas_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_dallas_anthropic.json",
+   "sha256": "f3ea2f6d507da95ee7bd25016f9744785cf5323f4e52bd0a96549ad0fd138549",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_dallas_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_dallas_gemini.json",
+   "sha256": "53ca72128cc40e520840e5b62d8374aa9ca7246cd4dd40037d821c197c18d9e5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_roofing_dallas",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_roofing_dallas.json",
+   "sha256": "21e665a54cb66577b0b531769daa08ec04e55385aeba1e5ae1d9bba544884289",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_dallas_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_dallas_openai.json",
+   "sha256": "18ab570241dcae5549fd20962da6d0660fd50f3f6c9a07dad4abc3f8be371107",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_dallas_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_dallas_perplexity.json",
+   "sha256": "dad959f9ca0887db79ab10bc17af422388be0adc82cd74b73ffcaaa3598432fd",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "New View Roofing",
+    "Priority Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_dallas_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_dallas_anthropic.json",
+   "sha256": "b6436c90091a09a9aa36c381c9f31d3a3e7e0b5dfe0215c45d539e9475e0299b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_dallas_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_dallas_gemini.json",
+   "sha256": "26047abb7db213813ddf53d43c81c0dd563a3bca02072c185ffac84dd88da60f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_roofing_dallas",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_roofing_dallas.json",
+   "sha256": "f5db3d88686bb7ba1e71f21b470b6ff7d3da192f72db14b29a287504b6cf8984",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_dallas_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_dallas_openai.json",
+   "sha256": "9d6623d32dd0e0703f3e2090e61a7b9b21c1dd15307535f46dc4e9dfea2dd25c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_dallas_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_dallas_perplexity.json",
+   "sha256": "847c807c458096c441fa870bfece371bcae433c5a2aa1f20af27536cab6b3cce",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Blue Hammer Roofing",
+    "Lon Smith Roofing",
+    "T Rock Roofing",
+    "Wortham Brothers Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_dallas_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_dallas_anthropic.json",
+   "sha256": "816726165a1fad46fa73854f9c99325de3de6f62e3af5db361de02723e191bc5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_dallas_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_dallas_gemini.json",
+   "sha256": "15ebbb32019c727c7bfee6b65bccdbe9e8fbd7b074e7ac6d15016854943c3172",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_roofing_dallas",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_roofing_dallas.json",
+   "sha256": "057d5481f5aa7336246bae195c8b1e27c37a47e3829f240c424ca7e864a079f0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_dallas_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_dallas_openai.json",
+   "sha256": "a331f83fef0f0444795df2a653bc76f08a7e88cfa9153872e76e725915904111",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_dallas_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_dallas_perplexity.json",
+   "sha256": "0b88b0e12aa1f01cb10b3a8c47e8f72ae7f004b12c114d1c32bdecd922ac8b5f",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Blue Hammer Roofing",
+    "Lon Smith Roofing",
+    "Wortham Brothers Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_dallas_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_dallas_anthropic.json",
+   "sha256": "02003f2ce19df9abff262b9fdc225eaa44926b432fe668b50a20d4e31eaa8af1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_dallas_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_dallas_gemini.json",
+   "sha256": "641155b0a930e51beaf5b3ecb4178622196f43291168b5b07139b5a933dbebfe",
+   "businesses_named": [
+    "Overview"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_roofing_dallas",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_roofing_dallas.json",
+   "sha256": "29e7a03d8e86365ab0718686f894be29a18fc6e0e2daa5c52c03052c93a3e313",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_dallas_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_dallas_openai.json",
+   "sha256": "2035761f1629c49b9fcd0f91020103640046d2be127be2f9dea52eaa358997fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_dallas_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_dallas_perplexity.json",
+   "sha256": "8fd4452e3861dd6705810d679abef3788fd6df158d68218acb3a21e753b37a01",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Blue Hammer Roofing",
+    "Lon Smith Roofing",
+    "Wortham Brothers Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_dallas_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_dallas_anthropic.json",
+   "sha256": "08ac2301862f386e573a146d8cb2eea71f401fa717bbe31dac874b7450b61e12",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_dallas_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_dallas_gemini.json",
+   "sha256": "7f115a4cfe5e27793235756889456047767e3237cd4322355710f93f58264c8d",
+   "businesses_named": [
+    "3 written estimates",
+    "General Liability Insurance",
+    "Lon Smith Roofing",
+    "Manufacturer Certifications",
+    "NTRCA Membership",
+    "North Texas Roofing Contractors Association (NTRCA",
+    "Overview",
+    "Owens Corning Platinum Preferred",
+    "Paradigm Roofing",
+    "Peak Roofing & Construction",
+    "RCAT Licensed",
+    "Roofing Contractors Association of Texas (RCAT",
+    "Texas Star Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_roofing_dallas",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_roofing_dallas.json",
+   "sha256": "2bef60d50a43c0b8b098310d93239d0029adc4c3580a348476a330080d30a1ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_dallas_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_dallas_openai.json",
+   "sha256": "7fee9a0a80b4a6576e1b83ceeaa707d93c8ac06906dd18f169f88354113242c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_dallas_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_dallas_perplexity.json",
+   "sha256": "74622b60be1d650f133669b0b4d383f1f84c9b85f49ed47090fc1294da4960d1",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Blue Hammer Roofing",
+    "Lon Smith Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_dallas_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_dallas_anthropic.json",
+   "sha256": "3f2288669de95e474c11e80c444eff29eb3f6b760309b89e8c47a4a838fefe1b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_dallas_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_dallas_gemini.json",
+   "sha256": "d33ff20d84e00467e0c48ffc07e84f25335f105b6d67cbfe1471a0c6b5c47e8e",
+   "businesses_named": [
+    "CertainTeed Select ShingleMaster",
+    "General Liability Insurance",
+    "Highlights",
+    "KPost Company",
+    "Kangaroo Contractors",
+    "Lon Smith Roofing",
+    "North Texas Roofing Contractors Association (NTRCA",
+    "Peak Roofing & Construction",
+    "Texas Star Roofing",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_roofing_dallas",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_roofing_dallas.json",
+   "sha256": "79a01ee57f0143128a1e0e9fa0337c8954d0a9604b0f1b4f367b0c7b7b29998d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_dallas_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_dallas_openai.json",
+   "sha256": "a61a96e4c04976bb338eff6fad0c65cb76376609cc0d77308a73273edaae4231",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_dallas_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_dallas_perplexity.json",
+   "sha256": "0461b1c4fe52242f1664f87c120ab3235ff6b32dcecacd0ef65e2c65558413ac",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Bert Roofing",
+    "Blue Hammer Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_dallas_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_dallas_anthropic.json",
+   "sha256": "46180ea21d467312b98e07334b5dc4f4da3fabd4c19844e524500cfbc21f43ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_dallas_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_dallas_gemini.json",
+   "sha256": "1cd8ae9cdd7d96ab65010569892d05661e47362de17072da5c6afc389043d342",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_roofing_dallas",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_roofing_dallas.json",
+   "sha256": "0c2899d9ac8ce8caebdbcb06df21c45231c81b6414d3cd430c8ba8e64e9b282b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_dallas_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_dallas_openai.json",
+   "sha256": "089ebe90e6d6a0609399f865f3c35e1f63f983189947d3e28b91b83f6b14cd7d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_dallas_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_dallas_perplexity.json",
+   "sha256": "071ebbb64a247473b481c4884f2462b6bcda429728715c64ecfaa189f6c4b1dc",
+   "businesses_named": [
+    "Blue Hammer Roofing",
+    "Elevated Roofing",
+    "KPost Company",
+    "Priority Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_dallas_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_dallas_anthropic.json",
+   "sha256": "4849aeb72cec1ea7e70ec7985552164aa6683159e666540418ec9791b6b65791",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_dallas_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_dallas_gemini.json",
+   "sha256": "d6361cdcb63fe4579b267de801e48db77fd1bb8228d7f1266f1aea19d41973d7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_roofing_dallas",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_roofing_dallas.json",
+   "sha256": "aeef986a21d98e8b279a5066cf4b71dd91482b9d4cbe50e0e7f3611ea7ba747d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_dallas_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_dallas_openai.json",
+   "sha256": "8c5563ad71287680e2f529e9bba844ae04f627dfcb4e76bf1de8f811fe00befd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_dallas_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_dallas_perplexity.json",
+   "sha256": "9e5fdc88bf869873dbc8b85bb17da644d5a28ed9f5289eb43b2e0563249c501b",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "Elevated Roofing",
+    "New View Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_dallas_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_dallas_anthropic.json",
+   "sha256": "13497410a719da0fe360b84c3def9827f4c175331fed999dd41f42b75cdc88b8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_dallas_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_dallas_gemini.json",
+   "sha256": "a72d811365d4be8e3d1f44c015113d4b2d454d29e8c2725301df82c91935998e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_roofing_dallas",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_roofing_dallas.json",
+   "sha256": "0558a93c1c5715fa32bd7c9c0572c946bf71a19182c589951377e5feced1d8e8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_dallas_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_dallas_openai.json",
+   "sha256": "9a59cdaeff2fc4b770111f4b059c8d597e36476c9039c015d0b7ca817cb3aa24",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_dallas_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_dallas_perplexity.json",
+   "sha256": "c0068405291547392437e86ef04c53efd41683d00c8454ad477b09764d6617be",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "Elevated Roofing",
+    "KPost Company",
+    "New View Roofing",
+    "Priority Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_dallas_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_dallas_anthropic.json",
+   "sha256": "4bb4c0981e4077f850db3685dc3e8a06e8a14ef8f9b33a500ba97b9fff0dbde9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_dallas_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_dallas_gemini.json",
+   "sha256": "d396c68a7f666ace31c6eac780fde80ba6bad26a3f4da487ed59aab61a2e5402",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_roofing_dallas",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_roofing_dallas.json",
+   "sha256": "c6414a72ca5644340e358c67010afd9f8b331f92ccf745cec775389afdf66830",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_dallas_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_dallas_openai.json",
+   "sha256": "7936cf69b06a74204c464898e323efeadaa09a2b8872ec597368e6fe20cd1829",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_dallas_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_dallas_perplexity.json",
+   "sha256": "43d5374b44aaaf41835b2dfca14bf7666b488806a16a203d4d4d718c66a8254d",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "Elevated Roofing",
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_dallas_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_dallas_anthropic.json",
+   "sha256": "acc74519b9bd103c8619414a72b1b272e71f42dc11599ceab21f62135895ec09",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_dallas_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_dallas_gemini.json",
+   "sha256": "0007f29e7f73ddca86633338fa12e71c5f059e69afa2b9d3f30f86622f7df489",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_roofing_dallas",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-27_segment_roofing_dallas.json",
+   "sha256": "f7573a1870d5cfa61a59237ef46b574ad24eb517cc0420292f8e7aa478fd5de2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_dallas_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_dallas_openai.json",
+   "sha256": "a604dbdcda042c44fe8e89c3a0601a11924d6609054dedce7ed77887100e4a93",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_dallas_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_dallas_perplexity.json",
+   "sha256": "2213dda7182e9d82a7e1b269ac540c4dfde15886e3da9a7499f85d0a219b2ead",
+   "businesses_named": [
+    "Arrington Roofing",
+    "Blue Hammer Roofing",
+    "New View Roofing",
+    "Priority Roofing",
+    "Renown Roofing",
+    "T Rock Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_dallas_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_dallas_anthropic.json",
+   "sha256": "5f1ae9a38ed2eb78e8b7baa000c420026d0718682c8912bf4850cf3c7849df85",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_dallas_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_dallas_gemini.json",
+   "sha256": "c8ee760c592e93e5c1856e3612a24a25ee13bd70785fe5a7dd37648d32866123",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_roofing_dallas",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_roofing_dallas.json",
+   "sha256": "be3246e7dccef77d5d48ece7ef196de5fc131b76a1d9ae20ce54cbeb3e7471eb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_dallas_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_dallas_openai.json",
+   "sha256": "970a08bdce5ec2fd8a59b56ceff9defd288b6acd49f0a8411d305e15983afbc7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_dallas_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_dallas_perplexity.json",
+   "sha256": "298f6fdb8f2c349776ffa73032119cef5d53abf684c90c0b49e853ea56a15a75",
+   "businesses_named": [
+    "Arrington Roofing",
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_dallas_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_dallas_anthropic.json",
+   "sha256": "eefea9d26ece40f56e7ed9ef1db572f87c9610f926e739fbd74b4e8250a18bba",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_dallas_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_dallas_gemini.json",
+   "sha256": "d029138a2eb26c7e2e10f36ca5a99ce1921bac12196a058491086719082af530",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_roofing_dallas",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_roofing_dallas.json",
+   "sha256": "4f54642f1e6f34c32fdaf09787ae52be5068abeae0dbd68f0c419b4ee6af78b1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_dallas_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_dallas_openai.json",
+   "sha256": "80c95209cc8c7e7cb31977d51e25306526fdbf21f56f144295e635eb6dd60de1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_dallas_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_dallas_perplexity.json",
+   "sha256": "41274d0127f1291a6854f6b9c199619992b65ec1e7a7f9baf67fe2ec6b9df875",
+   "businesses_named": [
+    "Infinity Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_dallas_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_dallas_anthropic.json",
+   "sha256": "ed84f469e2b318a6e3e3014e8eddcc0d1b577ad1d8837e32f4b469ca9f93143e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_dallas_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_dallas_gemini.json",
+   "sha256": "34fe2ef257e7cffa282c4e26c8f881ed42ca08873f39a4fdde049d10b5a38ee7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_roofing_dallas",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_roofing_dallas.json",
+   "sha256": "693ecc566d80adaa684bc5941c00b9a3e77cec7f86455d9aad5b8c432a055e39",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_dallas_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_dallas_openai.json",
+   "sha256": "d7e5b533f7dbdecfd24fa589bc5badbeaec605a3323dac7a318bfc8e288680aa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_dallas_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_dallas_perplexity.json",
+   "sha256": "04ae95798cc36aa92072376c2292ad5951e2dbdbd82594f497522134ccc76b0b",
+   "businesses_named": [
+    "Arrington Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_dallas_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_dallas_anthropic.json",
+   "sha256": "4fc159efad0fc72e609313f9c8161e691c0f694f72566dff00a176591c46227b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_dallas_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_dallas_gemini.json",
+   "sha256": "ce3411265a6f9be3e37f42efff0f43ea256c930a94cb12cb937d50d41add8574",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_roofing_dallas",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_roofing_dallas.json",
+   "sha256": "b644ea8158483475b883a74edaff31827f4cbaeb60c5cc6af3d96383d9637ccb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_dallas_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_dallas_openai.json",
+   "sha256": "e3b0c1c3db34253930e9614df67b25391299f70f30194107bf81fd82e67bb3de",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_dallas_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_dallas_perplexity.json",
+   "sha256": "03c7fd451ad84cfed0451a760b6c3848239b8ebaea50d2292f84271c65a67271",
+   "businesses_named": [
+    "Firefighter Roofing",
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_dallas_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_dallas_anthropic.json",
+   "sha256": "0a35343315c38e871e4e052aa56f8c6955d83da283dc7421f8afdf9f068d33cc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_dallas_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_dallas_gemini.json",
+   "sha256": "231019a60105124c3c0ab22b95f78bf03c640f623639c874d9a745e687c54d36",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_roofing_dallas",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-10-02_segment_roofing_dallas.json",
+   "sha256": "10364ba0c269b051038de123f9041fd0a9801d3316af93469581765d3daeae58",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_dallas_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_dallas_openai.json",
+   "sha256": "073577a877dc8c7dd758ca7b75073f5658aee0def1b09c08bd40c4775d0f77b8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_dallas_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_dallas_perplexity.json",
+   "sha256": "c04ee790dfc1106c6121d305ae8eb1bddf688bdfba2d74c04d2aa9187af51e67",
+   "businesses_named": [
+    "JRH Construction",
+    "New View Roofing",
+    "Renown Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_dallas_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_dallas_anthropic.json",
+   "sha256": "a895baf4212dc31f73d49714ba603d346d8a75366f4e2f10fa8ce4b3ca65b8ad",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_dallas_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_dallas_gemini.json",
+   "sha256": "24360d562f9940ee9b2183ba6c7d570af0fff34737a867c204dd75639a86b2d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_roofing_dallas",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_roofing_dallas.json",
+   "sha256": "c0e73bbc970fab843a279b1d1a4f5ed1db0cf8adc24ac75b5ce75045ab26402e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_dallas_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_dallas_openai.json",
+   "sha256": "413d1d07ec6bbef0dc37804f7379bf909bf3dca97ae6a3dccda59e31f0c89744",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_dallas_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_dallas_perplexity.json",
+   "sha256": "f02a77940e3b7c99b49a39ce751a74cf394af66a58687efb598305782b9fea1b",
+   "businesses_named": [
+    "Arrington Roofing",
+    "DAR Roofing",
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_dallas_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_dallas_anthropic.json",
+   "sha256": "dcf12dd76957ae2553049ac3d73b386ced04d04d36cc7439a4949b22cddbf458",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_dallas_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_dallas_gemini.json",
+   "sha256": "c83c4bbbd560f9b67c786c888662c4f4c74e713f050be4c5a413cfd6c407a558",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_roofing_dallas",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_roofing_dallas.json",
+   "sha256": "290da60ec64a4b5a04bd20ec3fee8510712b2dd2b7c3c07636408a415a821529",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_dallas_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_dallas_openai.json",
+   "sha256": "43abaa0d7ba40ca7db9c6d26c72505dc113bec31e82fa7fdc3d24d077f53c667",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_dallas_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_dallas_perplexity.json",
+   "sha256": "4fc2141cf5a22a012facfe3246c5b97ad81d7728e3acefd5dbb478092b1dd1db",
+   "businesses_named": [
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_dallas_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_dallas_anthropic.json",
+   "sha256": "1fff86e78c3970d3612915fb7d94c151f6cba5968a5b1ab3f82b1c039fd56685",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_dallas_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_dallas_gemini.json",
+   "sha256": "02c346fc82634cda797cf8c4c2bab9179ba5d34ffd6bed0073b05112dfdf377b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_roofing_dallas",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_roofing_dallas.json",
+   "sha256": "c1cb64cb5fed12714b3692ece8d6a1f03589d225a616a5bfc3de377b339a0903",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_dallas_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_dallas_openai.json",
+   "sha256": "8335f78a7ac65b54b4f1d09a7b6f2ff089df89ac18518c7793e2eec17a992ba9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_dallas_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_dallas_perplexity.json",
+   "sha256": "1cc4d2ee9c9add98d4bb5a1351f87ecc05b230c1d7198c207c3234487880eb03",
+   "businesses_named": [
+    "Bold Roofing Company",
+    "Dane Roofing",
+    "New View Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_dallas_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_dallas_anthropic.json",
+   "sha256": "60c701d8306151ee477614736defc0110430ed77fd43e976f0cd5a9ef1683a77",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_dallas_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_dallas_gemini.json",
+   "sha256": "89bfe84768f8505008ce1716df9123e1225ed13fb3e3fa881e3b1cd4bd5fef1a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_roofing_dallas",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_roofing_dallas.json",
+   "sha256": "7b96f4377d28e3be585fe8c19716fc0e4df425743c5675bc9986e44e78f70c50",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_dallas_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_dallas_openai.json",
+   "sha256": "3f553225d324a4c8b793422e75fbfbe17be75f3032bea49c6d63e1a55ca94583",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_dallas_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_dallas_perplexity.json",
+   "sha256": "c3681a5c72e01ae6a6579782644a494972da1aebdc90cad807dfd4b5f129dd0f",
+   "businesses_named": [
+    "Bold Roofing Company",
+    "DAR Roofing",
+    "Remarkable Roofing & Construction"
+   ]
+  }
+ ]
+}

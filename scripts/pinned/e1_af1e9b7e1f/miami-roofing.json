@@ -1,0 +1,3607 @@
+{
+ "slug": "miami-roofing",
+ "url": "https://namebeam.ai/miami-roofing",
+ "prompt_verbatim": "Who is the best roofing company in Miami for hurricane-rated roof replacement?",
+ "market": "Miami FL",
+ "niche": "residential roofing",
+ "window": [
+  "2026-08-09",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "1. Istueta Roofing": {
+   "1. Istueta Roofing": 3
+  },
+  "1. T&S Roofing Systems": {
+   "1. T&S Roofing Systems": 2
+  },
+  "2. T&S Roofing Systems": {
+   "2. T&S Roofing Systems": 3
+  },
+  "3. A-1 Property Services": {
+   "3. A-1 Property Services": 3
+  },
+  "4. A-1 Property Services": {
+   "4. A-1 Property Services": 2
+  },
+  "4. Joe Ward Enterprises Inc": {
+   "4. Joe Ward Enterprises Inc": 2
+  },
+  "A-1 Property Services": {
+   "A-1 Property Services": 7
+  },
+  "AGK Construction & Roofing": {
+   "AGK Construction & Roofing": 2
+  },
+  "AJF Roofing": {
+   "AJF Roofing": 1
+  },
+  "American Roofing & Rain Gutters": {
+   "American Roofing & Rain Gutters": 2
+  },
+  "Architectural Shingles": {
+   "Architectural Shingles": 3
+  },
+  "Art's Roofing & Construction": {
+   "Art's Roofing & Construction": 12
+  },
+  "Atlantic Metal Roofing": {
+   "Atlantic Metal Roofing": 27
+  },
+  "CCC": {
+   "CCC": 5
+  },
+  "CCC (Certified Roofing Contractor": {
+   "CCC (Certified Roofing Contractor": 5
+  },
+  "Canopy Roofing": {
+   "Canopy Roofing": 1
+  },
+  "Concrete/Clay Tile": {
+   "Concrete/Clay Tile": 3
+  },
+  "Crown Roofing & Waterproofing": {
+   "Crown Roofing & Waterproofing": 1
+  },
+  "Duke Contractors": {
+   "Duke Contractors": 1,
+   "Duke Contractors LLC": 1
+  },
+  "Enhanced Deck Fastening": {
+   "Enhanced Deck Fastening": 6
+  },
+  "Enhanced Fastening Patterns": {
+   "Enhanced Fastening Patterns": 2
+  },
+  "Exact Roofing": {
+   "Exact Roofing Miami": 1,
+   "Exact Roofing": 2
+  },
+  "Extreme Roofing": {
+   "Extreme Roofing Inc": 47,
+   "Extreme Roofing": 2
+  },
+  "FL Roofing & Windows": {
+   "FL Roofing & Windows": 21
+  },
+  "Florida Standard Roofing": {
+   "Florida Standard Roofing": 14
+  },
+  "GAF Master Elite Contractor": {
+   "GAF Master Elite Contractor": 2
+  },
+  "General Liability": {
+   "General Liability": 5
+  },
+  "Greener Roofing & Solar": {
+   "Greener Roofing & Solar": 2
+  },
+  "HVHZ (High-Velocity Hurricane Zone": {
+   "HVHZ (High-Velocity Hurricane Zone": 2
+  },
+  "High-Velocity Hurricane Zone (HVHZ": {
+   "High-Velocity Hurricane Zone (HVHZ": 10
+  },
+  "Indigo Roofing Contractor": {
+   "Indigo Roofing Contractor": 10,
+   "Indigo Roofing": 9
+  },
+  "Ironwood Roofing Miami": {
+   "Ironwood Roofing Miami": 26
+  },
+  "Isteta Roofing": {
+   "Isteta Roofing": 3
+  },
+  "Istueta Roofing": {
+   "Istueta Roofing": 4
+  },
+  "Joe Ward Roofing": {
+   "Joe Ward Roofing": 3
+  },
+  "Kendall Roofing": {
+   "Kendall Roofing": 13
+  },
+  "License Check": {
+   "License Check": 2
+  },
+  "Miami-Dade High-Velocity Hurricane Zone (HVHZ": {
+   "Miami-Dade High-Velocity Hurricane Zone (HVHZ": 2
+  },
+  "Miami-Dade NOA (Notice of Acceptance": {
+   "Miami-Dade NOA (Notice of Acceptance": 12
+  },
+  "On Call Roofing": {
+   "On Call Roofing": 1
+  },
+  "Overview": {
+   "Overview": 2
+  },
+  "Perkins Roofing": {
+   "Perkins Roofing": 8
+  },
+  "Reputation": {
+   "Reputation": 3
+  },
+  "Robson Industrial": {
+   "Robson Industrial": 1
+  },
+  "Salomon Roofing & Waterproofing": {
+   "Salomon Roofing & Waterproofing": 3
+  },
+  "Secondary Water Barrier (SWB": {
+   "Secondary Water Barrier (SWB": 9
+  },
+  "Secondary Water Barrier (SWR": {
+   "Secondary Water Barrier (SWR": 5
+  },
+  "T&S Roofing Systems": {
+   "T&S Roofing Systems": 8
+  },
+  "Tile": {
+   "Tile": 2
+  },
+  "Uniform Mitigation Verification Inspection Form": {
+   "Uniform Mitigation Verification Inspection Form": 3
+  },
+  "Wind Mitigation Certificate": {
+   "Wind Mitigation Certificate": 6
+  },
+  "Wind Mitigation Inspection": {
+   "Wind Mitigation Inspection": 3
+  },
+  "Wind Mitigation Inspection Report": {
+   "Wind Mitigation Inspection Report": 2
+  },
+  "Wind Mitigation Inspection report": {
+   "Wind Mitigation Inspection report": 2
+  },
+  "Workers' Compensation": {
+   "Workers' Compensation": 5
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_miami_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_miami_anthropic.json",
+   "sha256": "407aff74738f9a369fc45e9937dca79bf4fd27727b780b3ebe950c0d5cd461bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_miami_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_miami_gemini.json",
+   "sha256": "f37b97c38e78fc848b0289e47f185cef5587e2fcb745bf855a0d62c4143149b2",
+   "businesses_named": [
+    "A-1 Property Services",
+    "CCC",
+    "Enhanced Deck Fastening",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Istueta Roofing",
+    "Joe Ward Roofing",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWR",
+    "T&S Roofing Systems",
+    "Uniform Mitigation Verification Inspection Form"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_roofing_miami",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_roofing_miami.json",
+   "sha256": "aaced9c4120c80cd1a1153fe416272e0ad4dda6707854116f84bfc44e419dd0f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_miami_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_miami_openai.json",
+   "sha256": "b47657506bd762390284d5219a4efaa62add9bd66cbf73fc9dc272563aece467",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_roofing_miami_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_roofing_miami_perplexity.json",
+   "sha256": "9cc42b12a61dc8fd07ef74fc722a509a9a341e47f6fd5ad4b1074d9a94a7279b",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_miami_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_miami_anthropic.json",
+   "sha256": "207bb9d58f78b688dc6f6afb28d50a0c72c09e59f7ca36f15198a26306254519",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_miami_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_miami_gemini.json",
+   "sha256": "615dc3b7de9f05522fe0d85d3efee6402d2bdedbe0b2b71e2d6a5e9aab092ba2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_roofing_miami",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_roofing_miami.json",
+   "sha256": "e7c6bd6e50fc5883e4977c5123c1c08ca477e49713b9a1364192bae3e94bc497",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_miami_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_miami_openai.json",
+   "sha256": "83ea1028ab5f099eab341ab0d9e4186d9eb9b8cb5d25156056dd2b2cf5aab475",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_roofing_miami_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_roofing_miami_perplexity.json",
+   "sha256": "dd2a488edd856d36736ef7fefaa61475c829b4b362407b81855454c24f00eed9",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_miami_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_miami_anthropic.json",
+   "sha256": "ff39a1fdf6d35d98ca80be89fe354ab934fa4343ae1a2bb14cabe6ca15ff8f52",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_miami_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_miami_gemini.json",
+   "sha256": "87cf86a51d64175a3c515338608c63dd28f42bc578a3bdf62e64641614e3bb00",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_roofing_miami",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_roofing_miami.json",
+   "sha256": "5eab667a53bfd18e8947b9b5442f9ea0adf1397e435732e415d24a478ffde54f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_miami_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_miami_openai.json",
+   "sha256": "f1aee7cc052460e7451006177d19497c322f9c9994b057f405a8fe001b77043b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_roofing_miami_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_roofing_miami_perplexity.json",
+   "sha256": "c4ae9b7297b13d827af680a130bdec7aa6f57294077a048bab79141dc7d651f2",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_miami_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_miami_anthropic.json",
+   "sha256": "0f4e2c222aeb1c3f2e769d87bc5cb7e2d24e1f27ff2b270b0afd4b8f3e9065bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_miami_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_miami_gemini.json",
+   "sha256": "162f0e8b87a3db55e5974774f5e7ea32f26ef1badda4be738094cbc4c5acb003",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_roofing_miami",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_roofing_miami.json",
+   "sha256": "5448566b6450f12cbd962c3b3d1a36a9a0b6bce041d55e129be1facc0902418c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_miami_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_miami_openai.json",
+   "sha256": "882856a325ffe7282597b6235dc1c04dddd8f6d93d7575f61bd928727f1b1792",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_roofing_miami_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_roofing_miami_perplexity.json",
+   "sha256": "96531934248558c8f42a1d31a9535b7f8040b2307cab709174c234037e0f764a",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_miami_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_miami_anthropic.json",
+   "sha256": "037bf36db1cdeaddca6e70cc53667e36d9fcd06905923772f28f55218f71d8c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_miami_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_miami_gemini.json",
+   "sha256": "7d60ffc98d1f92820ff4214f64897db7375f07e290faca74a74f0f22ff977c69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_roofing_miami",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_roofing_miami.json",
+   "sha256": "989d6469a8c1a51853d858c6d9e2402118ea8abbe0531720ce18d09d4cea0cc5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_miami_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_miami_openai.json",
+   "sha256": "7e2ff716670e4bc81bb95098a5a7a2246b9566e6b3fbbe951026ac01c6075e44",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_roofing_miami_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_roofing_miami_perplexity.json",
+   "sha256": "237df4a7569d63ffe4552fa4783ad81c1218e3488dc55c0e42d13bbaa6b4f562",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Florida Standard Roofing",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_miami_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_miami_anthropic.json",
+   "sha256": "b88160d14838e3dcee2b1cbdc952d59c73adec02a15fe4a49e4be514efdf8888",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_miami_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_miami_gemini.json",
+   "sha256": "65d6ebe43ee68a748b43e0735e4263e2fd35f6f2de67c47f9538615894ce086a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_roofing_miami",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_roofing_miami.json",
+   "sha256": "8b0274cf278fdb0c3cfc26d78fc6ce6611154a09776c81b1fa2396cf1014e24c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_miami_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_miami_openai.json",
+   "sha256": "30c9f33f2c92699fde0587bda14dacc4c3458eba4d0b829c932f2bbfa671fde5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_roofing_miami_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_roofing_miami_perplexity.json",
+   "sha256": "f3e358987af7ea780f4d72780adacf8f0d517d423a1c4f9eb2564b040b95191d",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_miami_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_miami_anthropic.json",
+   "sha256": "f0bbe6a16c785b287bb480eb457fe3ea5ae1b36933e4d14716e0b47832dcdabe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_miami_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_miami_gemini.json",
+   "sha256": "b33eb0d7d831db6a22552b03a1defb8df172974e5ec5d16287d41cd9be725c00",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_roofing_miami",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-15_segment_roofing_miami.json",
+   "sha256": "802d5b12d7f7782828e3cf09d4061bc079abea8cfbee49adc718c2b6e065c711",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_miami_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_miami_openai.json",
+   "sha256": "3be04a6cf788affbabedc97a62e6553be023ee21f97138c7ccd3bfb157c638cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_roofing_miami_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_roofing_miami_perplexity.json",
+   "sha256": "4e06e0d919dd452a9837c6fb5f1ed4f3682294ae872f37669f0f3d7a0c4508ef",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_miami_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_miami_anthropic.json",
+   "sha256": "a7395bca16e538676f1e6914a32e0c25d8c17de03389a50762f13f7df59dfd85",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_miami_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_miami_gemini.json",
+   "sha256": "50812b65a68997359f969c522a7e1129d133dcd783b41ede6b08735c43d3c23c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_roofing_miami",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_roofing_miami.json",
+   "sha256": "7402db4756524a58e5bddd4c4ddd967370dcf98ebf82218c0f4130099c847126",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_miami_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_miami_openai.json",
+   "sha256": "e57b7fa90f0d147c87deeb34e63520403f18119d4ff44790ce696ec2a4878154",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_roofing_miami_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_roofing_miami_perplexity.json",
+   "sha256": "4b0622aa161e891f68c50bbd3cef22c053d948282575cef4cd9675058a462c5f",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_miami_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_miami_anthropic.json",
+   "sha256": "b916488ee5ee0243a738bce4cbfe17c4f39426e71e9f5616fd9f057a11b99528",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_miami_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_miami_gemini.json",
+   "sha256": "ab1dc170935def33f4f26597abf769903f53740823159a90d1ecf608aafb1500",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_roofing_miami",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_roofing_miami.json",
+   "sha256": "28327fc01a2c8e63718ac64764696b6016b794f66301fb363c5f9ef6198bba8c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_miami_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_miami_openai.json",
+   "sha256": "33b9eb54582cda4f9c0286c55a26182f47acac831eef9e385174c614def7793e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_roofing_miami_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_roofing_miami_perplexity.json",
+   "sha256": "7da7f850ee0ab62109d8c7fb6e54978098ab01b0492680e1aa6837b3d64bf8ca",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_miami_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_miami_anthropic.json",
+   "sha256": "07f666b8f4385914ec4e5e76bb86f95f49e0d23d61a6dbbe820eb6db6914eb1f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_miami_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_miami_gemini.json",
+   "sha256": "1fcb62ce357704c5f64a261795810a8edb6ca108450b2a583c9193c78a7a06d3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_roofing_miami",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_roofing_miami.json",
+   "sha256": "bb3653c38212b7cc5c8f2fa98f5736b8be429910ee4f3ad1aa6260aa9bca397e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_miami_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_miami_openai.json",
+   "sha256": "42c126bc91d316a812101ca4f6b53ff931871e6530f53ccb848d734bd54aca54",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_roofing_miami_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_roofing_miami_perplexity.json",
+   "sha256": "6f949f752ba543d58cf55b4a7978ebc4d34f1d5d681284461e64b00ec484e4cc",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_miami_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_miami_anthropic.json",
+   "sha256": "c0fb95e32a320b3289c8035dc760bf89d55ef7e265aae1d5a4b4d2f3f24fd90b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_miami_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_miami_gemini.json",
+   "sha256": "562d5c6906d57c0818f856e6714d899feb900cb7462d19754430b47f253cb6f0",
+   "businesses_named": [
+    "1. T&S Roofing Systems",
+    "3. A-1 Property Services",
+    "Architectural Shingles",
+    "Concrete/Clay Tile",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWB"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_roofing_miami",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_roofing_miami.json",
+   "sha256": "d065a28ef5d57fb3d1cf67c72be30c9a1e3c8429ecde36cd38d630edd0e61da3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_miami_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_miami_openai.json",
+   "sha256": "dee1fff4edca07d447e454bc944e7f26d86e4ee5f0e1348b38d7c5f22e72a621",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_roofing_miami_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_roofing_miami_perplexity.json",
+   "sha256": "3886f901225ca13cb810bfba4c3f7f60dd6bdd03947fb5f45aa0a1ca961ee34e",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_miami_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_miami_anthropic.json",
+   "sha256": "0d3552afabfd9c9c02e76ea71c57bdc7299df10316e203236b13af96ca3d1d0a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_miami_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_miami_gemini.json",
+   "sha256": "3de62802246f6157e9a4b5e206c7796833f56c593b435c02cd904afda29be30b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_roofing_miami",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_roofing_miami.json",
+   "sha256": "890eb19268eb3cf6237751925adf6221dfeafb5baa0faee05bb8a0b99bc4f15d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_miami_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_miami_openai.json",
+   "sha256": "303ca3b9284069415ef22964c64e5f1dc0c957a6a6f48861afb6dede35766693",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_roofing_miami_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_roofing_miami_perplexity.json",
+   "sha256": "089306f09983d266dba7169e328a391106adaca27222412530ce04a5f2131089",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Florida Standard Roofing",
+    "Ironwood Roofing Miami",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_miami_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_miami_anthropic.json",
+   "sha256": "0cee1b310de02777207b56fbe434de50fc024bf4b43639bec96e5b5f812a73fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_miami_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_miami_gemini.json",
+   "sha256": "edc1f9356026dce6c05402a959e4e856cb9966c8d8ee5aa44cd6d811ed8af938",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_roofing_miami",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_roofing_miami.json",
+   "sha256": "f592b0c80af8ce3c802705a78a5656d325b60615f5682eac3d70086b236b56c4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_miami_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_miami_openai.json",
+   "sha256": "6102bb2df55652acae1e14222e8fe4eb1f4e8578ba8df2c01426e730529268af",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_roofing_miami_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_roofing_miami_perplexity.json",
+   "sha256": "95f928a8f52e275e374a7be4c80706cc7bc649e1379f64a99cc5c6e4033df6bc",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_miami_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_miami_anthropic.json",
+   "sha256": "8c9be1092bc682cd2fc91f14e789e556fbf3a80c0a5f1915a11b954b080efb98",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_miami_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_miami_gemini.json",
+   "sha256": "d50399c24fc7ba273f3d2488c3c4a0c995491ea2ad408c1a6f0d8e9d4302688b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_roofing_miami",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_roofing_miami.json",
+   "sha256": "35f3e3559edb28f61b4ef81c7162c524f0e54e44ce3f8824f1f91737c5821390",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_miami_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_miami_openai.json",
+   "sha256": "315b19e8eedab081e07fd626df343c505d580f591dfce390a732d370811c1909",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_roofing_miami_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_roofing_miami_perplexity.json",
+   "sha256": "d07e31a62d4fe09e515fad0554f4558e473a8899842c8f6fb3c2c06c79af83ad",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_miami_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_miami_anthropic.json",
+   "sha256": "93971700c3f1e0dbff746d561aed022c407fee0046442b9464cf3a65dfeb1013",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_miami_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_miami_gemini.json",
+   "sha256": "d49c472024cf44341548843e09bf808d5f61322ee810f9799a9f4273914e95b5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_roofing_miami",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_roofing_miami.json",
+   "sha256": "55b4388e3e4b696724595b0fb7738519e915aa47d4c0d9aa18e54bc1b67f801b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_miami_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_miami_openai.json",
+   "sha256": "66d8543740ee2d220725c5c2f5f561ec74621baea2a8b5e31c12bdc23f25a74c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_roofing_miami_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_roofing_miami_perplexity.json",
+   "sha256": "290333e9747412918a85039083eab0fc7480777d6298f6bb3031c53d1301add0",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Salomon Roofing & Waterproofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_miami_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_miami_anthropic.json",
+   "sha256": "6d3f0fd79e1943ecbc7d9dd144f9fbafca7e153d10ebedd3377ec99b4d2a7792",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_miami_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_miami_gemini.json",
+   "sha256": "348553b4118b48d752c68e143db46e40df5aef106ffa1e0a1c39b3386fa1fb12",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_roofing_miami",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_roofing_miami.json",
+   "sha256": "15a42136fc1d16ce8fbf5aa93bd69defe3c624421a8c9963d54adbdcd2ac359a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_miami_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_miami_openai.json",
+   "sha256": "e71744b2fb3906f2f9cbc14c96e582eba1c3be47fb1e69b3e9342d65e8cb36d7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_roofing_miami_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_roofing_miami_perplexity.json",
+   "sha256": "757ec7ad874ab3e52e5600941b71e5d472c1d618a3132f2ea51b57f975f0a5a8",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_anthropic.json",
+   "sha256": "316691cb2c7eb97c22784d5372e82663dcb13443102837f310e8202f6bce4656",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_anthropic_r2.json",
+   "sha256": "fc46f5f0ef523909542d1e30836c36a86852ad9be3af246778917ad785870417",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_gemini.json",
+   "sha256": "e628da02185163c5691c19975496b60e250d1e99dcd13a298824725c482fe6a9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_gemini_r2.json",
+   "sha256": "cb8d61b6ae03912e788e30230356105098007ab7ab8124855e18b826fce91199",
+   "businesses_named": [
+    "A-1 Property Services",
+    "CCC",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Istueta Roofing",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWR",
+    "T&S Roofing Systems"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_roofing_miami",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_roofing_miami.json",
+   "sha256": "b3e5e70243bce3d1bf99315c055a8cd00324b9d9c18ac333e5292989b7cc189f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_roofing_miami_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_roofing_miami_r2.json",
+   "sha256": "1fbf52dd4b60026b7d79c67973de0a155d976e71e0b6881bc04be5429b67ee6a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_openai.json",
+   "sha256": "b58ccff4df26c17c0c7869583a947e43bea59db6209b73028fae9d89e5ff5c66",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_openai_r2.json",
+   "sha256": "96b5c2d035320902a0ff7cf0deb2e02cb557fc203ba14ea90623fd2c89ff96e1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_perplexity.json",
+   "sha256": "2176fa9e57a88ddb26ae7737586e8d324ad98714539600f254580398c8cea8ec",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_roofing_miami_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_roofing_miami_perplexity_r2.json",
+   "sha256": "033a01e14e98f37057f0ae3bba9d1093d86136caded7ea382c61ce7e4734219c",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_miami_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_miami_anthropic.json",
+   "sha256": "a0555789b4ef8c51f75ce291be7cf714cd9f526eafea14386c782afc13f2ff9b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_miami_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_miami_gemini.json",
+   "sha256": "5757e7f77a28b16396c1037e234337d95ead71cf31f5b01b2d4d0a3b983ef2fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_roofing_miami",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_roofing_miami.json",
+   "sha256": "22f4bb81b951dbb0789ae8774ffc20c0edcbf9734523c60bb679aa5e14f6204f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_miami_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_miami_openai.json",
+   "sha256": "721fa25433571472c0ac35619ce4154efadd8dde50f7b309e44bf3b9c6f1ddc8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_roofing_miami_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_roofing_miami_perplexity.json",
+   "sha256": "453f96526a8b5f73df0d941d9561af7b36e5b3f2411603348b52827a18ed6b61",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_miami_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_miami_anthropic.json",
+   "sha256": "6cb4c53a7fb42f0f4a374b79fd982dce60a482301c314c8be97e97f609dd85e1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_miami_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_miami_gemini.json",
+   "sha256": "15e3895f32ddb6a8a5e4bc3cbd99d905eb753176df5b60dd9a7825f84792b345",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_roofing_miami",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_roofing_miami.json",
+   "sha256": "c3f3a4ebb1c8753c8e5ac6a4433244e08f866e387412401c3ad6fe5614b13016",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_miami_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_miami_openai.json",
+   "sha256": "81986af14008737e293468f157ef51ffa1c24dbe80166db0bd5a0e2f0d45bc88",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_roofing_miami_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_roofing_miami_perplexity.json",
+   "sha256": "78f6218c142e10228d0a801b6167d76a9fe1498791a1ee753d0bac0f207eeb14",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_miami_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_miami_anthropic.json",
+   "sha256": "12e70f330aa7e2b290655f28d7a32d30fc8617ab3970c0b9dc8e6d5469c4ef63",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_miami_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_miami_gemini.json",
+   "sha256": "480ddc842d6ac5455a96867724108f9df5b163087b129a26e6de91b368bee3b1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_roofing_miami",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_roofing_miami.json",
+   "sha256": "2d42cda0ad94e27677da362c2f15272cea5ba3925e49179e629b4cc2d74ac32b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_miami_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_miami_openai.json",
+   "sha256": "2c3b448a6fd64ea1d189cfa95dfa1a8a0f039c4f4e787400b887d38111030d42",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_roofing_miami_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_roofing_miami_perplexity.json",
+   "sha256": "8284d74679e7501cdb2d72bd467542414cc3c8cf5e31dde7284289581bf65634",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_miami_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_miami_anthropic.json",
+   "sha256": "02c7c36cc9a1edeb64c95e5747d65300eab58712a70d05d5c97cb7d0f01cf4df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_miami_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_miami_gemini.json",
+   "sha256": "89e71a650c2c2853b4cff14e758e39b3ebfaadbf7e38c8d1b22b2c30734dc788",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_roofing_miami",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_roofing_miami.json",
+   "sha256": "5de36254aa6de38d42fb9b38ebe46c510b43fb6b4aa22d916874578ec1bc5e7d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_miami_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_miami_openai.json",
+   "sha256": "786b7d731d00acec4120e49d4eb94b9d6c8e9d5483d0a29645beead69ad5399b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_roofing_miami_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_roofing_miami_perplexity.json",
+   "sha256": "53e464d3f57f5fdf471b8becf0eab2fd91612817956bdd6095b8868c408ea9bb",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Perkins Roofing",
+    "Salomon Roofing & Waterproofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_miami_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_miami_anthropic.json",
+   "sha256": "c61032826c71caacd2431413dfa9d7309d06ef494063bccfdf364f9c8b263f59",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_miami_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_miami_gemini.json",
+   "sha256": "99ef368a73499ca2a2f783bcb42b77e4a4806736371706947225218bdabff286",
+   "businesses_named": [
+    "A-1 Property Services",
+    "Enhanced Deck Fastening",
+    "Isteta Roofing",
+    "Joe Ward Roofing",
+    "Miami-Dade High-Velocity Hurricane Zone (HVHZ",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWB",
+    "T&S Roofing Systems"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_roofing_miami",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_roofing_miami.json",
+   "sha256": "01ee401c125c7762f646b0c21543c4dd83c5e58bfb7bcda6714b18e9cbde7393",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_miami_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_miami_openai.json",
+   "sha256": "e0de77229afa3369988471d42dc09af0239d3ed8e7e0059c5a5eabd065d5f23c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_roofing_miami_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_roofing_miami_perplexity.json",
+   "sha256": "fc2f63d4927cfe9e1c0a5a6fcdbd55cc0ae5a01d86ac0183384af97b630a5918",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_miami_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_miami_anthropic.json",
+   "sha256": "e0c0b179bdd9947e5531fcd78f53076646db1873426e2338780e3e69205ad2bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_miami_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_miami_gemini.json",
+   "sha256": "b95a621348e3e73cadeb037dd45111564f4d4e4a09d1d09adeefe28ad6d11c88",
+   "businesses_named": [
+    "A-1 Property Services",
+    "Enhanced Fastening Patterns",
+    "General Liability",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Istueta Roofing",
+    "Reputation",
+    "Secondary Water Barrier (SWB",
+    "T&S Roofing Systems",
+    "Tile",
+    "Uniform Mitigation Verification Inspection Form",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_roofing_miami",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_roofing_miami.json",
+   "sha256": "0c5f194593c5207f1893be280e87ad476f3c3553089a8ff3fbd960246a06e016",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_miami_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_miami_openai.json",
+   "sha256": "4fed021e13de7b905e0a1d5b0299ccb88aac00b8a3aac70aefdc91ec9eaf8a3a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_roofing_miami_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_roofing_miami_perplexity.json",
+   "sha256": "9dd966e9d0a1f70758141052fc8cf659fbcb88ae58bd0516951408febf7a136b",
+   "businesses_named": [
+    "American Roofing & Rain Gutters",
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_miami_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_miami_anthropic.json",
+   "sha256": "44207fa37e2f9c3d8cfdcdff9062f6f0bae6df7870e50d130862bec46c25da35",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_miami_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_miami_gemini.json",
+   "sha256": "b45dbeac834ee1688908f7cf3b964975632c9716a705b56e49d53c8123b056ee",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_roofing_miami",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_roofing_miami.json",
+   "sha256": "eaa4656ae5a6918c08421d8f1871a00f0268dc5594fb4e60dc6caeda3ffbc884",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_miami_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_miami_openai.json",
+   "sha256": "41c03dc74501c84e7b4c54968fa75a6c49e7cbca1a3ffc3cb73f1cc506f43f22",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_roofing_miami_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_roofing_miami_perplexity.json",
+   "sha256": "792f09453b736f4caddab7ff973e706dadca3403ecff5951efcfbb73ea3d17dc",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Salomon Roofing & Waterproofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_miami_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_miami_anthropic.json",
+   "sha256": "fbb6b690ef006080866349a97a9e37e59cc92a12cd36fe76696d1046fbc06a28",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_miami_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_miami_gemini.json",
+   "sha256": "e569cd3c3b42092ee7103cabf0556bcfab71247039c492c61eeea187c1bc3248",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_roofing_miami",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_roofing_miami.json",
+   "sha256": "5c962bd7354fc3364e0c6f023596627d1a7ba7a48ff7acea17aebb16d7af25ae",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_miami_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_miami_openai.json",
+   "sha256": "ba13cc2e6af1807d4f9d56c453ae37a1dffc8b926d8bd5dcbd4e2c427f75c560",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_roofing_miami_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_roofing_miami_perplexity.json",
+   "sha256": "d0a09effbe5a366879f19f4b3c30c9eb18461da8278361302d0e93b0974d0723",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_miami_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_miami_anthropic.json",
+   "sha256": "7c6ccfe270017ca99f28ffad2fa53e13c2cfc029921d35aba6a8cc39782a6f7d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_miami_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_miami_gemini.json",
+   "sha256": "ccb209053b7cbb4a44feb9fd2d0a35fd55fae77d7b5916d6c58ed4152698488d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_roofing_miami",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_roofing_miami.json",
+   "sha256": "84807ffc628fc2589aabbb2469cf7cf58085a2600014fee7d95369129c483465",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_miami_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_miami_openai.json",
+   "sha256": "aee9039e887a49e6268cd3205e620f297db341b0c53286d761a3ca895baba354",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_roofing_miami_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_roofing_miami_perplexity.json",
+   "sha256": "0d5662e91159b2d260a7048e3529558576c3947ffdc7a018d1a5449e44bc7c0d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_miami_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_miami_anthropic.json",
+   "sha256": "6e481461d142c4bbc4bbf90c19bc92b9ee96126493e6374dba318af8b8cd51d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_miami_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_miami_gemini.json",
+   "sha256": "d4a74e5d2d69977877a984b9ce15d11344876adcc2c1dcf626a6ade206fc2255",
+   "businesses_named": [
+    "CCC (Certified Roofing Contractor",
+    "Enhanced Fastening Patterns",
+    "General Liability",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Overview",
+    "Secondary Water Barrier (SWB",
+    "Wind Mitigation Certificate",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_roofing_miami",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_roofing_miami.json",
+   "sha256": "0f714c97ec4540b6839b60905d0d69dc7547c512d54d0a904ff168259db35d0b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_miami_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_miami_openai.json",
+   "sha256": "ed5e8ec535a0d5593c33c614a211b43b5f69c528c463299168f05c223c95a0e9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_roofing_miami_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_roofing_miami_perplexity.json",
+   "sha256": "1383cef5beab3cdf07cdcb789d4d82c0c0ea47fb50e9eb2d1aa58f1f41c7c832",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_miami_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_miami_anthropic.json",
+   "sha256": "244d743410be5dfac4a5e055a5f9d9d3698d017847ffd29d7473e3c64fa8c5a4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_miami_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_miami_gemini.json",
+   "sha256": "b04abb2e7698ceca04f630aac931fbd34b3570064fc5eceeb562efd1f7a42679",
+   "businesses_named": [
+    "A-1 Property Services",
+    "CCC (Certified Roofing Contractor",
+    "Enhanced Deck Fastening",
+    "General Liability",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Isteta Roofing",
+    "Joe Ward Roofing",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWR",
+    "T&S Roofing Systems",
+    "Tile",
+    "Uniform Mitigation Verification Inspection Form",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_roofing_miami",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_roofing_miami.json",
+   "sha256": "9646dd767bf44c5c194c0d025f16381e16688bf2fd2aecd9a0283aa5d7ace117",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_miami_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_miami_openai.json",
+   "sha256": "e03e102846150a7a517b901695890c0c9ca2c0dd3b78c8ac728e68c604d6c25f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_roofing_miami_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_roofing_miami_perplexity.json",
+   "sha256": "04a338325981f3d7d13b6fd466fd71ce5f5d499ae9ffaad8eb7d79ccb0dd0aa9",
+   "businesses_named": [
+    "American Roofing & Rain Gutters",
+    "Extreme Roofing",
+    "Greener Roofing & Solar"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_miami_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_miami_anthropic.json",
+   "sha256": "450b013be16c3b21f84e008f76c07d0be71ad084f0ef39821ae849a6501f7a87",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_miami_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_miami_gemini.json",
+   "sha256": "938693a0aca57880d9d78631b1b777519a01960be376e244fa840c5d586cc57d",
+   "businesses_named": [
+    "Enhanced Deck Fastening",
+    "GAF Master Elite Contractor",
+    "General Liability",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWB",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_roofing_miami",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_roofing_miami.json",
+   "sha256": "2c2ad0c89e0647185dc693b6e75afdb027b990db0b742faf38575a6e73194bbf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_miami_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_miami_openai.json",
+   "sha256": "1d30ab25da0a1174835069603c9920b9d642fe6b426ca796b4bee5c7f6e63b2b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_roofing_miami_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_roofing_miami_perplexity.json",
+   "sha256": "eaa52222d40cd63bf6840591d156420cf6b70eedf42303f4c234b75366284ea0",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_miami_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_miami_anthropic.json",
+   "sha256": "027cbde9a68b6efdee789191e62f040f1626b76cfa247724c7fa16a8bc2ad3b9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_miami_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_miami_gemini.json",
+   "sha256": "98ea8b99255f9cd9514b6ece3e81e01abf5e8810d524b90074ef92766f71590c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_roofing_miami",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_roofing_miami.json",
+   "sha256": "ef437e90e4849a10d59fef5f6981ab2c3322d5617b47b59c10f9626d10fc7a0c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_miami_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_miami_openai.json",
+   "sha256": "e8884305e3a2a6cedcfd57afa65b51c24801fdf4c54439487c594c2f5231683c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_roofing_miami_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_roofing_miami_perplexity.json",
+   "sha256": "a61e5f3d1891183438f6fc720198a3b6cf10ab4e97db2d24124508c18add1323",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Florida Standard Roofing",
+    "Indigo Roofing Contractor",
+    "Perkins Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_miami_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_miami_anthropic.json",
+   "sha256": "687839558eb6d1662e7b6ef8041a97e70d8ab69ad26453993010fae945f244cc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_miami_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_miami_gemini.json",
+   "sha256": "0697431dd92cc8bbd8782070f5461d4a1e7aab10d11d4b855aee4f742c6b8e54",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_roofing_miami",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_roofing_miami.json",
+   "sha256": "8b766c1e9d0601c4e48ba37372981403db39d7e3d9696766a2d5b317afdac235",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_miami_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_miami_openai.json",
+   "sha256": "28b58a4d26bc0f0e3c285661879e22fc588683eb68a8b8ba8e824e19cbaf6ffd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_roofing_miami_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_roofing_miami_perplexity.json",
+   "sha256": "89a7b310b3aa209c6d2b707f2f24adab1422a0b1563afe903a0fad9fde7be046",
+   "businesses_named": [
+    "Extreme Roofing",
+    "Indigo Roofing Contractor",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_miami_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_miami_anthropic.json",
+   "sha256": "ce1c2891cf7fbe138b7d22e8e8ee53b4571a740f3fad232e595401bace0f0735",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_miami_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_miami_gemini.json",
+   "sha256": "6f602569924944ef389f2e02946e8969db82d55f8686b7a75f56789950951e16",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_roofing_miami",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_roofing_miami.json",
+   "sha256": "183f3de648fe402703e8708b14e106ee9f89ef0080e18bcc4e23a7a1408e53c3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_miami_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_miami_openai.json",
+   "sha256": "c32e268cc562e7109c06bee1e7d3b4982e4ec61a9ca92ac808bc2c28ad1a06cd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_roofing_miami_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_roofing_miami_perplexity.json",
+   "sha256": "6edc84341ca35654804b12ba61e33cd671788a042707fa7854c8e3475567fa34",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_miami_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_miami_anthropic.json",
+   "sha256": "035de97a18b8f308013bcb867c1f60cb4b08239296036042491f51705025cc63",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_miami_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_miami_gemini.json",
+   "sha256": "9984206878801e4ff5067356948ccd7cbf1f83f82e2798bd5f46032104e9cef2",
+   "businesses_named": [
+    "A-1 Property Services",
+    "CCC (Certified Roofing Contractor",
+    "Istueta Roofing",
+    "Miami-Dade High-Velocity Hurricane Zone (HVHZ",
+    "Secondary Water Barrier (SWB",
+    "T&S Roofing Systems",
+    "Wind Mitigation Certificate",
+    "Wind Mitigation Inspection report"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_roofing_miami",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_roofing_miami.json",
+   "sha256": "5bc1e3925f1f867a6f93ae97c8373904669f393e82de0e88b3f8e2c0cb22e864",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_miami_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_miami_openai.json",
+   "sha256": "afc3287d67c78ffc2a193e78d635c00bc02311e413e82e8de0f0f9d792887c3a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_roofing_miami_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_roofing_miami_perplexity.json",
+   "sha256": "582388a17d3f0382d6a4f60bbaa2494625b06d63c2d50d636d82463bca410e09",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_miami_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_miami_anthropic.json",
+   "sha256": "2c76bf710561c2b0e54dd23c51eda3b1bf5e107724dc497b860fa9f79c34fcd1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_miami_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_miami_gemini.json",
+   "sha256": "a28b3d9641025e2c2324ff02b5aa4ac9739674419de282be37db44e11fd60932",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_roofing_miami",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_roofing_miami.json",
+   "sha256": "6f6aeaae45f2f84e82c08111ebb376c3191af8cc6a7a806dadbe2a735f9b6913",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_miami_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_miami_openai.json",
+   "sha256": "43c2b84f0a417259ea0fccb3154586e8a3de0194ad636041d536b5e5cb4df612",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_roofing_miami_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_roofing_miami_perplexity.json",
+   "sha256": "cf15ecfabada4ee971689446f40f1e3247d5e64bb83fd7c34a956ba07a218334",
+   "businesses_named": [
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Florida Standard Roofing",
+    "Indigo Roofing Contractor"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_miami_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_miami_anthropic.json",
+   "sha256": "f27b46481cd3ec838adf189883ff75d44fe0ed703e09c0e853b2e83633ddd273",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_miami_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_miami_gemini.json",
+   "sha256": "b35a4830fec57074b40a28edc0b4f4cd161f4962efb15830f424c8c4d5cc99a1",
+   "businesses_named": [
+    "1. T&S Roofing Systems",
+    "4. A-1 Property Services",
+    "Architectural Shingles",
+    "CCC (Certified Roofing Contractor",
+    "Concrete/Clay Tile",
+    "Enhanced Deck Fastening",
+    "Reputation",
+    "Secondary Water Barrier (SWB",
+    "Wind Mitigation Inspection"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_roofing_miami",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_roofing_miami.json",
+   "sha256": "81f2d4ebe09c580d1fe2e5fd0ae34d7c9dedd45a6c2968b9d9bfe74a94552b4b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_miami_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_miami_openai.json",
+   "sha256": "22a095ec21138e4d472ec58cc78bf03692816870c69b4ea5fe40be14eea49464",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_roofing_miami_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_roofing_miami_perplexity.json",
+   "sha256": "297307d8331ccb78bd67f41f9e2914ffd47b48b06ceef6d11001fc4b0bd4571b",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_miami_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_miami_anthropic.json",
+   "sha256": "6637994b36c3bad9d752db80cae42d66fbd72b7ec2e6ae69a8f6597d333d17a3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_miami_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_miami_gemini.json",
+   "sha256": "09d7156789193bdc57fa80419edabaf5ea6b24d778a6d7111b9c2b2676287afc",
+   "businesses_named": [
+    "1. Istueta Roofing",
+    "2. T&S Roofing Systems",
+    "4. A-1 Property Services",
+    "Architectural Shingles",
+    "CCC (Certified Roofing Contractor",
+    "Concrete/Clay Tile",
+    "HVHZ (High-Velocity Hurricane Zone",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Reputation",
+    "Secondary Water Barrier (SWR",
+    "Wind Mitigation Inspection"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_roofing_miami",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_roofing_miami.json",
+   "sha256": "faa2f680306668dbd7a1724f5fae1baa377912606fd9b30514e7c94485840329",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_miami_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_miami_openai.json",
+   "sha256": "9e4199fbb1dd72b930a1a9c065296736bacfd61002ecc89c287718de436126df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_roofing_miami_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_roofing_miami_perplexity.json",
+   "sha256": "d1c164f0e14f4e2a9b66c8c8c73bb41df34bef152362a66400154b8fba3ff32c",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_miami_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_miami_anthropic.json",
+   "sha256": "30fc441e38a8bf1b6c7a7c3defcba8f9659a095f51c8a9034e3f63f373dac8ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_miami_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_miami_gemini.json",
+   "sha256": "bb828433a646689a15090c45274e2e0af5dfdeff4365eaa4bf61179dde8b4174",
+   "businesses_named": [
+    "CCC",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Overview",
+    "Wind Mitigation Certificate",
+    "Wind Mitigation Inspection"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_roofing_miami",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_roofing_miami.json",
+   "sha256": "ee7294c51634181c8881e5b07aa40dc8fe6e19fad28c0b49d874c1708fe8f1cd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_miami_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_miami_openai.json",
+   "sha256": "f5a499a1a1cc34d93e5ac880ed88716d7b09e97193f64064227fc66c411acd79",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_roofing_miami_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_roofing_miami_perplexity.json",
+   "sha256": "248917f478822ed24e298156168eaf52ebaa71f7b4eb34bae51480953f97bb94",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_miami_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_miami_anthropic.json",
+   "sha256": "eef928eac4d59949f74c86829d6c7618a6bbd4bcbeca1efbd64e8f15d397d37e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_miami_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_miami_gemini.json",
+   "sha256": "981ffe52e6f2fea7c5da64c30c664023b58704f7707c68edfd90e8950fad8101",
+   "businesses_named": [
+    "1. Istueta Roofing",
+    "2. T&S Roofing Systems",
+    "3. A-1 Property Services",
+    "4. Joe Ward Enterprises Inc",
+    "CCC",
+    "Enhanced Deck Fastening",
+    "General Liability",
+    "HVHZ (High-Velocity Hurricane Zone",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "License Check",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWB",
+    "Wind Mitigation Certificate",
+    "Wind Mitigation Inspection report",
+    "Workers' Compensation"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_roofing_miami",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_roofing_miami.json",
+   "sha256": "27668bc59f288626d2094a5a29793c272e9fad738aabb367f4f734e2d8dbf21b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_miami_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_miami_openai.json",
+   "sha256": "a9d18c3b1e330dc07cf567163b71a7d61920f55224c8268771d72a9a43a9fa7b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_roofing_miami_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_roofing_miami_perplexity.json",
+   "sha256": "cd39103d65fd9a2d44a55fe9bd90a709413c0bfc635f93ce02241822a524cf19",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_miami_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_miami_anthropic.json",
+   "sha256": "9b7924f0c7674e38861d6db552ddb7a116703f71724f730b8528f931a9ab92da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_miami_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_miami_gemini.json",
+   "sha256": "92a62d775d30fb5e8d4ba0847f6aa8b3380bd45e12735a99ce139097d06f1297",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_roofing_miami",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_roofing_miami.json",
+   "sha256": "ddd616a44a7b363abec052481c1fad745d3e06e895b91776cbf044f30f3bd327",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_miami_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_miami_openai.json",
+   "sha256": "93cc31b1f57bf589d05e47e6adea9a803764e77518e704019417177d8bc22ad5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_roofing_miami_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_roofing_miami_perplexity.json",
+   "sha256": "ebdc3ec0d9303fde058002d867b1622bca1363907d39aecff463f7a78c985144",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Florida Standard Roofing",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_miami_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_miami_anthropic.json",
+   "sha256": "e1c76ff358d845f97da5ddb5c319a2516e64dab823ed7ca7c3e46e2dcda4a76b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_miami_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_miami_gemini.json",
+   "sha256": "4fe7c7e85a648341c9eda4a18398258f30c4416e81c2a269d6295949e63d9eb3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_roofing_miami",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_roofing_miami.json",
+   "sha256": "2519196877a6f43a12a113d1217cb94d05e624bdcea5cbde4120314f007eb1fd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_miami_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_miami_openai.json",
+   "sha256": "d09589200d4069e2b84e1898770b5baa1243a1bcc264f99eab17e50120cf298b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_roofing_miami_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_roofing_miami_perplexity.json",
+   "sha256": "c442298029d1db2f18ee2e675f52a1e406d33873085a0e711329f3834d86b827",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_miami_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_miami_anthropic.json",
+   "sha256": "8b2ca694d62fc8fb4a078d5971928bfda4364891e380c995a85574cdc4d310a6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_miami_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_miami_gemini.json",
+   "sha256": "ac5bd9feed07d4f4da723d439b71ad1f58a1b028a681d24066e8e50bf09cda75",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_roofing_miami",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_roofing_miami.json",
+   "sha256": "6a854185473e665ad9f8a5ac7a57c9632724eabc7108c826272fcf8c2eb13ac6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_miami_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_miami_openai.json",
+   "sha256": "da228d63f669773c23293e62f094c758be3a1797981f98e09f935276b9440b60",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_roofing_miami_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_roofing_miami_perplexity.json",
+   "sha256": "81017d4e2db1894e433bedec7c523c1e7b33521ead17988d8e14cc7354cbc9ef",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_miami_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_miami_anthropic.json",
+   "sha256": "edd950e8f2e2eace7125fc07fd2570a57fba9cca4bb8bdf571c9e4f369f5476e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_miami_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_miami_gemini.json",
+   "sha256": "25ee0307e37f59ed1821bf2b7ca5306fcfdbf33058d904a875a6ba317f50a361",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_roofing_miami",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_roofing_miami.json",
+   "sha256": "f1837baa6d9cf70fdea6a76ea4342121bcca14421899d3f1e89276e475686322",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_miami_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_miami_openai.json",
+   "sha256": "6e3a2ef02e171afc73c9139e84e81534abb1498d7c384f2e6db649285f58fad9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_roofing_miami_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_roofing_miami_perplexity.json",
+   "sha256": "c08b9a11b95f0be0a869d687b35223025224d550662ae0a1f59e9cd7a10cc715",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_miami_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_miami_anthropic.json",
+   "sha256": "0503851b68ab8c4ca98dd44d7d94f469429addc4576764b765b1059d016fa783",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_miami_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_miami_gemini.json",
+   "sha256": "8a126ddd21ef078196d29c0c90d5dba3db4bcf98b45f454a206abcfe184ab1f4",
+   "businesses_named": [
+    "1. Istueta Roofing",
+    "2. T&S Roofing Systems",
+    "3. A-1 Property Services",
+    "4. Joe Ward Enterprises Inc",
+    "CCC",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "License Check",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Secondary Water Barrier (SWR",
+    "Wind Mitigation Certificate",
+    "Wind Mitigation Inspection Report"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_roofing_miami",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_roofing_miami.json",
+   "sha256": "d4489c5815d9d0a2864fbc41a645a8eef86098e3652b5d7802d3f72aa0500d12",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_miami_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_miami_openai.json",
+   "sha256": "900d651c841f1b1b813bfff25f32901a10a75ea4fa272608d9491a5f4dbf4a53",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_roofing_miami_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_roofing_miami_perplexity.json",
+   "sha256": "b2bd67a282fc14ca898a3af9d2c209eba3222f6c1f5deb7429360d4596d53727",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "FL Roofing & Windows",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_miami_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_miami_anthropic.json",
+   "sha256": "a8884386360f9a23a2291980cd331f387ef05e3fb3693fc1f6e974d0a3491eed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_miami_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_miami_gemini.json",
+   "sha256": "554c681ca4b0c16afb8963885e5a780376be49b80980c123a12c55a6570c0fc8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_roofing_miami",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_roofing_miami.json",
+   "sha256": "6f773e3410da48a2e546e986c344971f2eca958dafac7b88fdc25b4864a92e33",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_miami_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_miami_openai.json",
+   "sha256": "e90bb76c94141b47dbb63e6ae8cc2df4b4d2be14cfae8faeabf51c4329bac89e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_roofing_miami_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_roofing_miami_perplexity.json",
+   "sha256": "fcdeb623f7b8412fba1a2131c445870794d827371f7f4b86105b90543dfdc52f",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_miami_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_miami_anthropic.json",
+   "sha256": "fac30403d83a8cce49e787f3c7b8a63eb9ffd988b4e7fb762a8f36fcdd567c89",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_miami_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_miami_gemini.json",
+   "sha256": "e600f74954e27f619ac0ed6e9a491c957b5d5c72a2cae3d500549cb2267a9ae8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_roofing_miami",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_roofing_miami.json",
+   "sha256": "1737e6875ea57ba09d64bb1d16ea3613ed5e1fcbabb1da6a6a597c88093f7e74",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_miami_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_miami_openai.json",
+   "sha256": "f4fd34a3aa758a7d271aad6cd4ae22a201168c2e9cd20293ad5426d167d9d4cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_roofing_miami_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_roofing_miami_perplexity.json",
+   "sha256": "a7b8e126212bfa9ad8ee26f2306ba08552f4bf40abad3b116d20afebd4616cf2",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_miami_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_miami_anthropic.json",
+   "sha256": "9f88fdc943924d5b1c4ca6aef7bc7063222dddaf7a932489748bc25138e44008",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_miami_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_miami_gemini.json",
+   "sha256": "7225ccfea0e67fa4d00641c6378e32d92a644b184dee787016681ed0bcf35151",
+   "businesses_named": [
+    "A-1 Property Services",
+    "GAF Master Elite Contractor",
+    "High-Velocity Hurricane Zone (HVHZ",
+    "Isteta Roofing",
+    "Miami-Dade NOA (Notice of Acceptance",
+    "Perkins Roofing",
+    "Secondary Water Barrier (SWB",
+    "T&S Roofing Systems",
+    "Wind Mitigation Certificate",
+    "Wind Mitigation Inspection Report"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_roofing_miami",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_roofing_miami.json",
+   "sha256": "de4e38df6fac3ca3fae19b733a1163681cbdd678d115754643c6026f3aa82853",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_miami_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_miami_openai.json",
+   "sha256": "3834dd1253ddacd1b5bb86c98d275d8fd7a7139fcf4a735c262e452e76c9bb44",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_roofing_miami_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_roofing_miami_perplexity.json",
+   "sha256": "c09b217e73a9041d67b2f89520494d0d0ec4493573c0256f4e7b7536551e7c0a",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Indigo Roofing Contractor",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_miami_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_miami_anthropic.json",
+   "sha256": "3b0ae908905be88ef8fc08ede7df3d3562f2bca7098f24ab41ae22b86753f75e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_miami_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_miami_gemini.json",
+   "sha256": "beb0fbc16490c9d1e02ffed5759bcfe0b86f32afed9cd3f543f89276a44c30c5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_roofing_miami",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_roofing_miami.json",
+   "sha256": "68d6ec484ed9d345d8a72f61de3c3a0c751bf21cc19910de7c6d7eef5d6e7d01",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_miami_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_miami_openai.json",
+   "sha256": "9c091b85681662e11b9a15f2652b1c9cd17b964a17ac068f97eee951098ba9e4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_roofing_miami_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_roofing_miami_perplexity.json",
+   "sha256": "c420607cec0630469dbaddaf7fb9d37043e98b55d37f38a5fce395ebdc74c1f4",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_miami_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_miami_anthropic.json",
+   "sha256": "07a259532293e1b0b3bca665293c1af0b6e1dcce3e04ecfe27764b184e07abc5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_miami_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_miami_gemini.json",
+   "sha256": "b02d63ec2535db2d07644d238bf580d4ded66a38ef69ed4161bd5e04b52af46a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_roofing_miami",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-25_segment_roofing_miami.json",
+   "sha256": "ae8450f6bf3416a28f8ac2ba93699f241ed1bbcde07729d6e16db027f1280124",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_miami_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_miami_openai.json",
+   "sha256": "f10fe4d730bbf5353bd39c712b48f2f665e3bed9dd31b74660f8235dfda45589",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_roofing_miami_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_roofing_miami_perplexity.json",
+   "sha256": "902626ddb38939914df20076eb9512e80963ab854a1b4e83bb44c0e5f3f0ca4f",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_miami_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_miami_anthropic.json",
+   "sha256": "19fcb39c268d34d0ca7db9d38f2563e772da464fc3e508d86efd78020aa26e4c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_miami_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_miami_gemini.json",
+   "sha256": "f714d89b7f9bd23d1679ac229bf76a9c02722bdb530cebe8e34ec0e118d2d064",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_roofing_miami",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-26_segment_roofing_miami.json",
+   "sha256": "7c6138c6b6ccf0d812a4ee81b981a2cb654f37986ac3b363bd7010fe5b46298a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_miami_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_miami_openai.json",
+   "sha256": "bed27652b812690eed13ee5f906793bbe4ec5c529dbd38b5566dac8135d1ec86",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_roofing_miami_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_roofing_miami_perplexity.json",
+   "sha256": "94d7075bd03d957989fb1fa1cb230f7cca659b19ed42d0fd4972e161536d6271",
+   "businesses_named": [
+    "Atlantic Metal Roofing",
+    "Extreme Roofing",
+    "Ironwood Roofing Miami",
+    "Kendall Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_miami_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_miami_anthropic.json",
+   "sha256": "fe1ebb7a8f54c4bf4840050191b35f1d5bea9542b4fc1f901cd79f00739fab71",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_miami_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_miami_gemini.json",
+   "sha256": "03af1f1b1f8369a60d71a64b42a2159a9adb9e5303293151b7e65c4038f860a7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_roofing_miami",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_roofing_miami.json",
+   "sha256": "a722cbf8585663f4f274fa6d93325fbc076f010d47908da27305be0208e79658",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_miami_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_miami_openai.json",
+   "sha256": "5130e66aac44ea139d5e567df7678a77c1f04d4bb28f76275384630a6be89072",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_roofing_miami_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_roofing_miami_perplexity.json",
+   "sha256": "38470e585aa14277627517bf9c4e9d52ae22ddc6bdb34f66d147c42bdba818d7",
+   "businesses_named": [
+    "Exact Roofing",
+    "Extreme Roofing",
+    "Robson Industrial"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_miami_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_miami_anthropic.json",
+   "sha256": "8fcd588c8a53d5cb5f280f8722372d7f0863ece4b0453582e1f5274b32d19658",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_miami_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_miami_gemini.json",
+   "sha256": "655d389d68cc7b09824e9702055036addad552fde36e84c938d3d61430138272",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_roofing_miami",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_roofing_miami.json",
+   "sha256": "1b40633f830486aaf93b385a488d818fecd0f38b1f3ce94aae4a3741e761f135",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_miami_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_miami_openai.json",
+   "sha256": "af6b8ebcde39417488142aac37aca78360acd153501fd811d8be4af890445ab3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_roofing_miami_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_roofing_miami_perplexity.json",
+   "sha256": "58abeb0fe446d18309091c5fde88148e4685584ef7e9c59546bf224159bd7f0c",
+   "businesses_named": [
+    "Greener Roofing & Solar"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_miami_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_miami_anthropic.json",
+   "sha256": "4210c858699af35e899336b86b5e73aee8340a5ac7f00dc63c0ee224961e3c6c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_miami_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_miami_gemini.json",
+   "sha256": "6397113f63542cbf87474ac98a09c711039eaef680d0ae3b2320bfa981031977",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_roofing_miami",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_roofing_miami.json",
+   "sha256": "c63f22e49ea6eb6bf6fe1434ee89289aa9e83f64f6d8084b1780ff695ed6e0ea",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_miami_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_miami_openai.json",
+   "sha256": "ffe39aad73180739f951b27e10c4c76bb72a0061fe93cb7d790d2acb1e5e586d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_roofing_miami_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_roofing_miami_perplexity.json",
+   "sha256": "29f4d7fc0492af8afdb054fc7df1c1bc5232a2356303c97f39104579e1a939a6",
+   "businesses_named": [
+    "AGK Construction & Roofing",
+    "Art's Roofing & Construction",
+    "T&S Roofing Systems"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_miami_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_miami_anthropic.json",
+   "sha256": "ed0c78fd2187d68abfb9dd6774611f984cb16a90853ddce0a8198bb5cca6ebd1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_miami_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_miami_gemini.json",
+   "sha256": "7c1f24579e1efd0a58d738175f69030a60526965ddf83f37395f57a1b7a7ab2f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_roofing_miami",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_roofing_miami.json",
+   "sha256": "101be035128a4fcf9d92ea25e7cb04145809abc5874042e593df077d3e4ff79d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_miami_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_miami_openai.json",
+   "sha256": "32aaa12629b0403414af16e03eab0efc0d6c1b6022b83ae6a53939abb591d0ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_roofing_miami_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_roofing_miami_perplexity.json",
+   "sha256": "29a6173f84501f0cb86f4b4e450946b8d3c9cde92ea675e2024e85bee780c2df",
+   "businesses_named": [
+    "AJF Roofing",
+    "Canopy Roofing",
+    "On Call Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_miami_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_miami_anthropic.json",
+   "sha256": "32fb7af372f8dc7fe4345ff085545ab5ae8449e676084f2ae709fd8f12dacc8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_miami_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_miami_gemini.json",
+   "sha256": "d3799ca604835a64e5ab961af7232ec039ec302e109a8a86a025f1b476964dbf",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_roofing_miami",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_roofing_miami.json",
+   "sha256": "cb10c285c2f7c1dd658dcf272c8ef731665f058c2d74fa99a937e3d1a5efdaed",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_miami_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_miami_openai.json",
+   "sha256": "fbefb1b710b96d9a05334cffe8d4745bed73d0c5f22fcedab97c1adfe02a1c59",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_roofing_miami_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_roofing_miami_perplexity.json",
+   "sha256": "622246d03361b48a56788f2136dc4b316fc323bdf29591d38a0fb20204a13f79",
+   "businesses_named": [
+    "Crown Roofing & Waterproofing",
+    "Duke Contractors"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_miami_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_miami_anthropic.json",
+   "sha256": "497f9199379bccd0a870e4912096de18cb6c8d0e8823d3dc5f818caac94d3bf9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_miami_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_miami_gemini.json",
+   "sha256": "4080f53d84120ba4423246505c57810cd0652fedd54768866c1758cc16ad32df",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_roofing_miami",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_roofing_miami.json",
+   "sha256": "9c410af4e4f8acf73b325fb43ddff11986fa1b5b70decf63702888b244ad3bf4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_miami_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_miami_openai.json",
+   "sha256": "18962353554fa8ae22f45faaab7a0682a713b2bb9c68d8940ef9b7b577976b62",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_roofing_miami_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_roofing_miami_perplexity.json",
+   "sha256": "083c3490f657ec5f9e536ca6e12d98f68adf22b58e259bb9749509aae3df573d",
+   "businesses_named": [
+    "AGK Construction & Roofing",
+    "Art's Roofing & Construction"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_miami_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_miami_anthropic.json",
+   "sha256": "4e8ca4cea08432da895ae1b65d69900279a9834db587e375d5455d4953c086c0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_miami_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_miami_gemini.json",
+   "sha256": "433063e380ca277c25837eb68c7f5fc37bba280d44fc5a27fcf622e1be752161",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_roofing_miami",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_roofing_miami.json",
+   "sha256": "ce44433980e508f715249a6644cf6b906ed7fcb3766447d49551faca1f413be8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_miami_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_miami_openai.json",
+   "sha256": "732b1109d58660099581b053c7ccd9caae8ec0099bb13518c89d69e55c6e61f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_roofing_miami_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_roofing_miami_perplexity.json",
+   "sha256": "785974c2e720812f7c6f073ed8162f4f8de09567d2392819fe39325b28c2bc45",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_miami_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_miami_anthropic.json",
+   "sha256": "9b7be98897d28fcabbdf671e1e8bfa373baad0dd9263b959efe828e99bfb48dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_miami_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_miami_gemini.json",
+   "sha256": "f8572335e5a5f6eefc3c34b6b681560bd65a550e4cb638c9beb37462f7dd3b7e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_roofing_miami",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-10-04_segment_roofing_miami.json",
+   "sha256": "49a2afcea84e10127d87468dccc11fe3d5a662dbd348e72ae446c3bfa0cca766",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_miami_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_miami_openai.json",
+   "sha256": "bee6b31fc6fc7428dc256af262aac38fa6941f8aae1b7b4a36f7cc478b58b7e3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_roofing_miami_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_roofing_miami_perplexity.json",
+   "sha256": "98ae94ab17b85091062b5f01477a7ffa85d04abb65ac634e27a5e9da95782892",
+   "businesses_named": [
+    "Duke Contractors",
+    "Exact Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_miami_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_miami_anthropic.json",
+   "sha256": "0e4612945ff5dca14f75cd8418be042222c0f890372ffb7bf21fc3c7dde868c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_miami_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_miami_gemini.json",
+   "sha256": "48a74d54624d6732fa19d4328e042b1bef1030486db863145198b072995b905f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_roofing_miami",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_roofing_miami.json",
+   "sha256": "de60ca3b95598064c1062e2f76bd59514fd28a67c2942063738bfe4c996d2674",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_miami_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_miami_openai.json",
+   "sha256": "aaee3d75a1ae92c8a80a4df5485b8042c7ba7d442e541ff9f69cde579b038c35",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_roofing_miami_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_roofing_miami_perplexity.json",
+   "sha256": "7b52077e495080fdfbb4db3186a107c1fb1608f6c086f745c8752f6f57d7ba1e",
+   "businesses_named": [
+    "Exact Roofing"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_miami_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_miami_anthropic.json",
+   "sha256": "c85cefd6a6a665d8ead9396b193abeab4908a8c0c615a4d835d0120ad61a91bc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_miami_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_miami_gemini.json",
+   "sha256": "faf8b78e9a128ca9c62ab66dbb28f69c4b40d49c8aefd8afcef8e05aec1f445e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_roofing_miami",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_roofing_miami.json",
+   "sha256": "9777d0dd2672497b5d948b59247c1377b46bde0ec5dd7597d5514ca25002f0d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_miami_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_miami_openai.json",
+   "sha256": "91d11c33f463e7b38790e571c270ba56555a37d9a9bd75817e9c4669526a0082",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_roofing_miami_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_roofing_miami_perplexity.json",
+   "sha256": "5cb920997d23b54b5ad8b2d48902b82427ef58414ba1e67b96f3a1246d036504",
+   "businesses_named": [
+    "Art's Roofing & Construction",
+    "Extreme Roofing"
+   ]
+  }
+ ]
+}

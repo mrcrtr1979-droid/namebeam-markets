@@ -1,0 +1,3764 @@
+{
+ "slug": "dallas-personal-injury",
+ "url": "https://namebeam.ai/dallas-personal-injury",
+ "prompt_verbatim": "Who is the best personal injury lawyer in Dallas for a truck accident case?",
+ "market": "Dallas TX",
+ "niche": "personal injury attorneys",
+ "window": [
+  "2026-08-09",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "3. Hamilton Wingo, LLP": {
+   "3. Hamilton Wingo, LLP": 2
+  },
+  "Aaron A. Herbert": {
+   "Aaron A. Herbert": 1
+  },
+  "Aldous \\ Walker LLP": {
+   "Aldous \\ Walker LLP": 5
+  },
+  "Aldous \\ Walker LLP (Charla Aldous": {
+   "Aldous \\ Walker LLP (Charla Aldous": 3
+  },
+  "Angel Reyes & Associates": {
+   "Angel Reyes & Associates": 2
+  },
+  "Arnold & Itkin": {
+   "Arnold & Itkin": 4
+  },
+  "Board Certification": {
+   "Board Certification": 16
+  },
+  "Board Certification in Personal Injury Trial Law": {
+   "Board Certification in Personal Injury Trial Law": 5
+  },
+  "Board Certified in Personal Injury Trial Law": {
+   "Board Certified in Personal Injury Trial Law": 21
+  },
+  "Capital and Resources": {
+   "Capital and Resources": 2
+  },
+  "Charla Aldous (Aldous \\ Walker LLP": {
+   "Charla Aldous (Aldous \\ Walker LLP": 2
+  },
+  "Clay Miller at Miller Weisbrod Olesky": {
+   "Clay Miller at Miller Weisbrod Olesky": 1,
+   "Clay Miller of Miller Weisbrod Olesky": 1
+  },
+  "Crain Brogdon": {
+   "Crain Brogdon, LLP": 2,
+   "Crain Brogdon": 1
+  },
+  "Experience with FMCSA Regulations": {
+   "Experience with FMCSA Regulations": 2
+  },
+  "Federal Motor Carrier Safety Administration (FMCSA": {
+   "Federal Motor Carrier Safety Administration (FMCSA": 4
+  },
+  "Financial Capital": {
+   "Financial Capital": 4
+  },
+  "Financial Capital & Resources": {
+   "Financial Capital & Resources": 2
+  },
+  "Financial Resources": {
+   "Financial Resources": 9
+  },
+  "Focus": {
+   "Focus": 4
+  },
+  "Frenkel & Frenkel": {
+   "Frenkel & Frenkel": 9
+  },
+  "Grossman Law Offices": {
+   "Grossman Law Offices": 46
+  },
+  "Guajardo & Marks": {
+   "Guajardo & Marks": 4
+  },
+  "Hamilton Wingo": {
+   "Hamilton Wingo": 1
+  },
+  "Hamilton Wingo, LLP": {
+   "Hamilton Wingo, LLP": 9
+  },
+  "Hamilton Wingo, LLP (Chris Hamilton": {
+   "Hamilton Wingo, LLP (Chris Hamilton": 2
+  },
+  "Immediate Evidence Preservation": {
+   "Immediate Evidence Preservation": 5
+  },
+  "Immediate Investigative Capabilities": {
+   "Immediate Investigative Capabilities": 2
+  },
+  "Jerry D. Andrews, P.C": {
+   "Jerry D. Andrews, P.C": 1
+  },
+  "Laird & McCloskey": {
+   "Laird & McCloskey": 1
+  },
+  "Lead Attorney": {
+   "Lead Attorney": 2
+  },
+  "Letter of Spoliation": {
+   "Letter of Spoliation": 2
+  },
+  "Lyons & Simmons": {
+   "Lyons & Simmons": 26,
+   "Lyons & Simmons, LLP": 2
+  },
+  "Miller Weisbrod Olesky": {
+   "Miller Weisbrod Olesky": 2
+  },
+  "Montgomery Law": {
+   "Montgomery Law": 2
+  },
+  "Mullen & Mullen": {
+   "Mullen & Mullen": 18
+  },
+  "Mullen & Mullen Law Firm": {
+   "Mullen & Mullen Law Firm": 17
+  },
+  "Overview": {
+   "Overview": 3
+  },
+  "Quentin Brogdon at Crain Brogdon": {
+   "Quentin Brogdon at Crain Brogdon": 1
+  },
+  "Rasansky Law Firm": {
+   "Rasansky Law Firm": 3
+  },
+  "Rasansky Law Firm (Jeff Rasansky": {
+   "Rasansky Law Firm (Jeff Rasansky": 3
+  },
+  "Reputation": {
+   "Reputation": 10
+  },
+  "Schedule 2-3 Free Consultations": {
+   "Schedule 2-3 Free Consultations": 4
+  },
+  "Slack Davis": {
+   "Slack Davis": 2
+  },
+  "Slack Davis Sanger": {
+   "Slack Davis Sanger": 6
+  },
+  "Slack Davis Sanger LLP": {
+   "Slack Davis Sanger LLP": 5
+  },
+  "Spoliation Letter": {
+   "Spoliation Letter": 19
+  },
+  "Ted B. Lyon & Associates": {
+   "Ted B. Lyon & Associates": 9
+  },
+  "Ted Lyon Law": {
+   "Ted Lyon Law": 2
+  },
+  "Texas Board Certification": {
+   "Texas Board Certification": 4
+  },
+  "Texas Board of Legal Specialization (TBLS": {
+   "Texas Board of Legal Specialization (TBLS": 4
+  },
+  "The Barber Law Firm": {
+   "The Barber Law Firm": 2
+  },
+  "The Benton Law Firm": {
+   "The Benton Law Firm": 3
+  },
+  "The Law Giant / Texas Legal Group": {
+   "The Law Giant / Texas Legal Group": 2
+  },
+  "The Law Offices of Frank L. Branson": {
+   "Frank Branson": 20,
+   "Law Firm of Frank Branson": 7,
+   "Frank L. Branson": 4,
+   "Law Offices of Frank L. Branson": 4,
+   "Frank L. Branson's firm": 5,
+   "The Law Offices of Frank L. Branson": 6
+  },
+  "Thomas J. Henry Law": {
+   "Thomas J. Henry Law": 12
+  },
+  "Trial Experience": {
+   "Trial Experience": 8
+  },
+  "Trial Readiness": {
+   "Trial Readiness": 8
+  },
+  "Winocour Law": {
+   "Winocour Law": 2
+  },
+  "Witherite Law Group": {
+   "Witherite Law Group": 6
+  },
+  "Witherite Law Group (Amy Witherite": {
+   "Witherite Law Group (Amy Witherite": 2
+  },
+  "Zehl & Associates": {
+   "Zehl & Associates": 46,
+   "Ryan Zehl / Zehl & Associates": 3,
+   "Zehl & Associates (Ryan Zehl": 1
+  },
+  "Zehl & Associates PC": {
+   "Zehl & Associates PC": 3
+  },
+  "Zehl & Associates, PC": {
+   "Zehl & Associates, PC": 3
+  },
+  "Zehn Law": {
+   "Zehn Law": 2
+  },
+  "Zinda Law Group": {
+   "Zinda Law Group": 1
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "560922e5b4d6274a3c73d2872f42ead5eb68631ca7af5684101ec57d681cab57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "186f3b288e773430c93d2c9418d66867a835ee9c57078a33e31dac56f2b302d8",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Crain Brogdon",
+    "Frenkel & Frenkel",
+    "Immediate Evidence Preservation",
+    "Mullen & Mullen Law Firm",
+    "Reputation",
+    "Slack Davis Sanger",
+    "Spoliation Letter",
+    "Trial Experience",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_personal_injury_law_dallas",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_personal_injury_law_dallas.json",
+   "sha256": "221f523305cab8c5c58ce9d9c3c3f9e3b317acf93369dad57bbdfa5653fd3e73",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "e7bda6a5fa0b5aaf5a4ed1a3acf632c9f5fa05460ceaa94dfe257854c7e178dd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "7c9ffb5bf3f9ceab01434349b0bd835b8cbc65ed90e747af8e4fd9fb9a2f31b2",
+   "businesses_named": [
+    "Mullen & Mullen",
+    "Thomas J. Henry Law",
+    "Witherite Law Group",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "5fb3f1fee7d8646715d54f4aefddffcdfd863afeab246fe3577922f35e94ca6f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "b0fe25ce20284089840764a4e19061f81c35edc9cf80042297b7603f76c0a8fb",
+   "businesses_named": [
+    "Aldous \\ Walker LLP",
+    "Board Certified in Personal Injury Trial Law",
+    "Federal Motor Carrier Safety Administration (FMCSA",
+    "Financial Resources",
+    "Focus",
+    "Guajardo & Marks",
+    "Hamilton Wingo, LLP",
+    "Immediate Investigative Capabilities",
+    "Slack Davis Sanger LLP",
+    "Spoliation Letter",
+    "Texas Board Certification",
+    "Trial Readiness"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_personal_injury_law_dallas",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_personal_injury_law_dallas.json",
+   "sha256": "12f6b18d0f3a2b8427a6ab10c917201b80d98f4467b779f8ce9519616525c5e0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "e59d67d1368eda065b6567e7c43f130e202559f4b93188952549e448fade454f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "056017b64bd5ace2f1aaafb353cc93b9ba6ff2b19a0985df591662d3e8b49ad5",
+   "businesses_named": [
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law",
+    "Witherite Law Group",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "ea8a530e8b7ff00ed4071c799faf62ca76502e4c9bf5dbbf79ff0f2aa7641f66",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1799f437853a14eb085c6f19fea0cc8a059120c43c362b20a8cad4029f8616fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_personal_injury_law_dallas",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_personal_injury_law_dallas.json",
+   "sha256": "7fee635874c8a667c2a22d9b7927e07d30be6ddb6e98ebfa1a6e833fff555972",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "15f09e355037c8fe316125e1f5a510f53025f85fd6408399e337fb6498a25708",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "88e79e1e7557f2544ce15f6dea3ec0fbf12ca5f113c0f98caff665b583bd3a0c",
+   "businesses_named": [
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Witherite Law Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "bb2e989a1c6535627a79dff2dae0ee9f1f3b43b85f561b821f970a76d5234be9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "b74510363abab0130fabcd0ecedf6cf066a69367b091c5ceabe3b513e68337d6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_personal_injury_law_dallas",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_personal_injury_law_dallas.json",
+   "sha256": "0cf03838af3195b72d53aaab7bcd5be5f4fb161861972c876d2560a3448b3c37",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "770b32c269c2b722a83f98da37976a90343735a9f75fa3de47bfeb0ab9c9c5b8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "7fa9aa34b9f7b36c8bfba3c3ef5529bc29193ffdb54cfb4afa1effbeb43dab79",
+   "businesses_named": [
+    "Lyons & Simmons",
+    "The Law Giant / Texas Legal Group",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "20048c2549090bf39861709d90434ca1cd938f65eb1686d7eda6946a480f6bd6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "395c54fb30b47332fd28c21f9f1c5489e2a9a99c60d68f9a4cf548d4138f6529",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_personal_injury_law_dallas",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_personal_injury_law_dallas.json",
+   "sha256": "37702723218fc4273ead77e18e15deb253921cfaa098c870211fe3d46405717f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "8e2d77ad6e44bf170a5c916afe25a18357813fc73adde90d37a4bbb01e90c61c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "b98ed761fe8005d58982395dbccbe92fec7dc461fcf9a8a97c6203d02148dffa",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Witherite Law Group",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "782b161466d440e6c79be0f97cfc2db86cc633b0e48e8484120aaa544bbd6c57",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "c3654130171f34db97b9d6ddd912cbe4369dbcd0673fd49a831082076e61c045",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Capital and Resources",
+    "Guajardo & Marks",
+    "Hamilton Wingo, LLP",
+    "Mullen & Mullen Law Firm",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_personal_injury_law_dallas",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-14_segment_personal_injury_law_dallas.json",
+   "sha256": "bddc7689c9db6a06cafd173fbcd9f2807de806b045052baad1027e532d2b16db",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "a811ebd70b562c8e0a202bf1ab6bf3c9e660a335ea7dcf4fef19b3623c923ab4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "734310f906c8c615490b999cf29d3d43bc61fa5623542c99ab43a508bda817e0",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "71d158a3a8a5c0f8152e78999a19481f4bebc22ce80c0b90b9f2fd09978b441e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "f0f8a5f3096059a20714a4d341511106c1bfa5e8b77c6b0e6b6c6a470f529e69",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_personal_injury_law_dallas",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_personal_injury_law_dallas.json",
+   "sha256": "03a0f2b7cb30d4a290ad84fdcfb6d38a14b5ec1a7bc063bda833b8911cc5f75e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "77b33b8ac3f4b96a412e8b30bf4c9a7a320c26ca378812c4ce098151da8721ae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "2a1eb9c1b64552c98632da9d636c3d12c17782fade2eb5d1ee96f35af22f4325",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehn Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "d46ee80e10fbfb7e5665fe29b0069fa98907813a2c75001579c13e01a33ae11a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "064d3843f71842e8fe02e664d9495e57141296bd59990d00833edc4a697733c7",
+   "businesses_named": [
+    "3. Hamilton Wingo, LLP",
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Experience with FMCSA Regulations",
+    "Financial Capital & Resources",
+    "Immediate Evidence Preservation",
+    "Lead Attorney",
+    "Reputation",
+    "Spoliation Letter"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_personal_injury_law_dallas",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_personal_injury_law_dallas.json",
+   "sha256": "49819142e749f31b898b15ec5c04461b811474cb474ffc0fb2661d20aff60331",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "7f36bcc5f3d84c6a49058de283838575bb1d667c1908eb700037e7bb38cf492f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "4de412a349d2223a7ebc53a2bfa85acfcdc902acac2efd51cc6e6cfca7f3703c",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "9ef8f5ea575a71a6eb0d2ce45707e7f544dbf9a75b2f5099731322db6d790d11",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "ef329a5aecbe6a31ce9ec4ae07e8ce01aa0580deef0274817aa5700aa36d22b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_personal_injury_law_dallas",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_personal_injury_law_dallas.json",
+   "sha256": "a7156a40dea57d261063ca350cc7733d94b0d6b7c3cdad31cd783e27b8d4dbed",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "bbe955a2dab1faa6b70a87a81f07cf7a556c7337324187ca0009cc847e8d539b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "c55533c7880cb01a5eb38d7be431a913ad55bdf9a881590a4d42ec3627db001a",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Zehn Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "e6cc52de07d676bdb5c966db93d469b4a48041ac07f68fc3b17770244757bec4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "03252341af88eb48544dbcdd9e66fbd6bc093aeb3a5b3d404c2087ff783d54f5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_personal_injury_law_dallas",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_personal_injury_law_dallas.json",
+   "sha256": "746c74cb770463156b7a26dfd5755d9f0c4bbd51a8ed56bc2c1c9cd3e2c2efcd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "1831d5d7c76020baf3c404dcf617807d6d4d70a2321492db63719053ff2dc9fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "40618fa5742d929987fae511ec6c77c70be41411c3014ec92812ce586146172b",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1bd751e1c4a2e0a89d5d97dc57041f54b7d8f4b353dd5068579d9a44ff4db09f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "131c958c16524c822b66e341b078a7b7d9ef5828fd5be9151023b9a0655b059a",
+   "businesses_named": [
+    "Board Certified in Personal Injury Trial Law",
+    "Focus",
+    "Mullen & Mullen Law Firm",
+    "Slack Davis Sanger",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Texas Board Certification",
+    "Trial Readiness",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_personal_injury_law_dallas",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_personal_injury_law_dallas.json",
+   "sha256": "d1884d5f6af6243934460b9622bf0e0a6dd711087567ae67b17737aad2cec3bb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "797f0c0bd498425e6f5ac85b80dcebe54d40cc34e7d04a1bfa873b0e5e2b73aa",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "643bd08b755cfe28e4c3d5a2cc09e58fb5915f39928d9a1176a531b1eeabb40c",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "da5899a692b6f21a6402e7bec7fd50868c62b5e69855128270a8ea20131a3c6c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "a0401abf2d4f0af45aa2d143b4e167cc970bf607116bbd7b21bf1c337859924a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_personal_injury_law_dallas",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_personal_injury_law_dallas.json",
+   "sha256": "0c5a6a59cedebc8a313f25e893ebc5401ee177ec0dba419df8dc541f1a12e077",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "a4fd02289bebb3491daca672eefd882ce1c5724eb29edf244f4a7d2001ed1a92",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "bca4caea0be305a2af218a60c74b7547877f2906a6a72b770401a326861cd7b6",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "8adfe7dc9047931b1edd34171c02992a77857af85b53dfaf81909d283c94f2f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "c879d1534700be6e4119e617f936f2bf46488b77c9f0cb0db1a561e7a770e028",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_personal_injury_law_dallas",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_personal_injury_law_dallas.json",
+   "sha256": "7f3f1d44deb72b3024769907d98c18ba2af1ea49be03593b8f162d7b25dd6627",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "c0ec76a6f395ce5ad4f5c9ca06d75c0a5ad3e8ae50f80021e053011b7684bb5b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "acb03114d8d1f82ff518339ba434e381bd28c39fc5fdf9fbab9199178dc6d246",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "0533c11c3eca199da3cef25c8f2fe36cfbbd50f8ee98469fd40355bd05552e1d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "7b51aa1875584add859b773d7dbdd162c1c9fb487b1672c301d8696f680a96d3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_personal_injury_law_dallas",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-22_segment_personal_injury_law_dallas.json",
+   "sha256": "f6441458de1af89cfdf2ea933e0b6487aefdf80f3415ca63ba5baf8a7523c76a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "eae3357990bf1a49fdac82c226a163d6d9888e6c61b85c78603a2a80bd5137f1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "2791490ac98b4496a40e386a05fd2fc0ae1380eca751dda6fa4937485bbd5d5f",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen Law Firm",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "3a2e8b60f8612a5ebe04340db9dd4d9e3ca951855ec0d0da7f33771a3544b43f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "dcffcbe2792b4749bea2834d9432da0523a38dbf41f5ee1cfd8f81aae11bdf72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_personal_injury_law_dallas",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-23_segment_personal_injury_law_dallas.json",
+   "sha256": "f2572876d1aab72f2acc9bfa14a9ac19ba6d30d030d674f0b47a2d1959364850",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "a891c89afd366f47084fbfc68d7f44f22cfb5cc818aad915255e459f42b617c1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "513646c62cedeb649a1524139ebe2824442bc691466973279b84abc6f93eaf45",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "3462adc752d9a0749e26c5b2189076d15ea492afe40d6aa0bd0a0fd877709c52",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "03a080927f31d40b6a4b97c9d959f3bb4c532f8acde0ec9c1fd4727f93741b10",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_personal_injury_law_dallas",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-24_segment_personal_injury_law_dallas.json",
+   "sha256": "f5d3607cbb0a25a13e4bd884d8669cbe1495e0103bc36d754da908b4a3c73f71",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "51f953dd468b204230b63be6f2e3d3f3cc8ca2eb783a3f0c343e8e3b148208c8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "ba1374ac118a656d00a4c33d0c5e45caef6f7ff230e1e39b1e85f0da91baee75",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Montgomery Law",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "a59e99c98989556721c77e1659d24b9121438c4ed414be4b85a800f9c48f5ae2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_anthropic_r2.json",
+   "sha256": "3548e1aeef071b9e41d8ea8e2149617e14185fc6d2bbfae81dc61b9ca9ad72d4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "2432a1e379f9345b71394b2c1a87483e00862eacfa110afe5929f597f3996351",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_gemini_r2.json",
+   "sha256": "03a89c7d7fcd2c9e9ba13f971e941dfd9acdcfe2e4acbbaa130b307b9b0bfbfe",
+   "businesses_named": [
+    "Board Certified in Personal Injury Trial Law",
+    "Experience with FMCSA Regulations",
+    "Financial Resources",
+    "Guajardo & Marks",
+    "Mullen & Mullen Law Firm",
+    "Reputation",
+    "Schedule 2-3 Free Consultations",
+    "Slack Davis Sanger",
+    "Ted B. Lyon & Associates",
+    "Texas Board Certification",
+    "The Law Offices of Frank L. Branson"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_dallas",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_dallas.json",
+   "sha256": "a0f484ab812e0b18e46e7997203c9c72f9719eef8ca372c52e5f9fe730ee393f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_dallas_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_personal_injury_law_dallas_r2.json",
+   "sha256": "55cb1f0bebd6a9fd6c7b9d62ab85d3cbc3c518383fd65c5887c5885f7a4272fc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "ee439e290913580e3b46f166c58be89e6dc4431cbe1fc9a8896c06011b7b4a32",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_openai_r2.json",
+   "sha256": "c90e5d0655702cf96d7321419ec38c911f854d7c2bb730fc24b395a6aa9a91fe",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "3ad7261a03c913d874f54009bddd25d8ba72e99fe0bcd5f4b40925b4b6a9199a",
+   "businesses_named": [
+    "Angel Reyes & Associates",
+    "Grossman Law Offices",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_personal_injury_law_dallas_perplexity_r2.json",
+   "sha256": "e25688433074d070607d926e2b6f8c527a75610cb8e710b84bf95c7f7b92f14c",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "d1e0feb60953079a1688f5727c8072c7e37685d379c655b0db1a2614f2591d61",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1baf593a45b124e3d1227545c386704498f61e8ffd0e592161d35796c1c65d5d",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Resources",
+    "Frenkel & Frenkel",
+    "Grossman Law Offices",
+    "Rasansky Law Firm",
+    "Slack Davis Sanger",
+    "Spoliation Letter",
+    "Trial Experience",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_personal_injury_law_dallas",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_personal_injury_law_dallas.json",
+   "sha256": "9b01ff48094d087708a740464d709b3d30609e0efda8ec577c0e0364b08a9b90",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "db4e8a669b4f0d85a69818004742f9903507a1f5104d9d008012ff3e0e09fbd6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "27b7a83f2d9853271d4c7eb47587828f0f29a7ba1977cb57c383eab63de222d0",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1ec67fab6e351a89d3b07eed3cb20d75216de2374eef5c7e60a8267d41d069f2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "b69529b125fa7fde6876a9fea6cbfcd63bd0035a8acef5f7d9f583257011859d",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certification in Personal Injury Trial Law",
+    "Charla Aldous (Aldous \\ Walker LLP",
+    "Financial Capital",
+    "Immediate Evidence Preservation",
+    "Mullen & Mullen Law Firm",
+    "Schedule 2-3 Free Consultations",
+    "Trial Readiness"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_personal_injury_law_dallas",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_personal_injury_law_dallas.json",
+   "sha256": "810f8b537f5de08053fdab1fe79e378a7149487371d1d2447ee491b61d6ec2ef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "9627678528efde2b784b0c74ece6ac8a13a810237a7a44d6054424473ea72f52",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "3ee4f2d1056714a5023804ebacad43faf50268244aa37e7137fbc2c05817c37b",
+   "businesses_named": [
+    "Angel Reyes & Associates",
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1392014967c0c1e2cd6a2a8e058e02ce8bee532e60b33c08eeaa4a41ff603101",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "474c92859814fc3b35712f77dc6b2b53929a48341bf7afc2740bcc2d7c510c05",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Federal Motor Carrier Safety Administration (FMCSA",
+    "Frenkel & Frenkel",
+    "Mullen & Mullen Law Firm",
+    "Rasansky Law Firm (Jeff Rasansky",
+    "Reputation",
+    "Spoliation Letter"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_personal_injury_law_dallas",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_personal_injury_law_dallas.json",
+   "sha256": "56a3ad008ee29eade272bccee51920227adccb40d494901ed2a0c84cceafbb90",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "c9fb74014e3b80e10a18e67e5870d0b57f7664c43d95edfee7bd080af5d26a9b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "6d17705f82040361421cb6f3993faf55b4d50504d3e8fd2bbd60b44d989f148a",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "c0b1d628e294dc7143a56bf3a6358418e3a8cb8586f7eb5246208ea0df399d18",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1c8ad01219cc3beec4c12efc4f570153a286eb90d6c03aaffd9a69c2ff94a129",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_personal_injury_law_dallas",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_personal_injury_law_dallas.json",
+   "sha256": "a7c44ebd8205690314158f5a8449e321231f1f86155d46c97042b3e7285bbcf2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "6b25b6a016a5ea5ce41dad33f9d4d9a2559c77749b0489706a45ef9c2776b845",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "c6b3dfdcae7ddcd4d348c98a2f5cfd6fa152e7c02d2ad949b5c30b6f9b5c697b",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "c1d97f5873a22cfd6c1bb5b563d1bf10eb98012a34f18936c25c8201fece2fdb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1156df0d0a15772d4a4e8750a63c116a87ea0912b46d783a5697f287cd33a680",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Resources",
+    "Hamilton Wingo, LLP",
+    "Immediate Evidence Preservation",
+    "Lead Attorney",
+    "Mullen & Mullen Law Firm",
+    "Rasansky Law Firm",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_personal_injury_law_dallas",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-30_segment_personal_injury_law_dallas.json",
+   "sha256": "b08a91d76b118bd040c7314932516eb62235abb070a092e81e08a6fe11902439",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "acdda00f4f579d828760d7a55263ad53a90d9c6f668c8adf88552113a2e24c6f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "f2acf547f18e17b7237f9dbf6098767e25e57416ed53776ec887cb2655f59806",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Barber Law Firm",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "e7682e9ebb8b8eb692ba9e8b934fe35072ffbd4fc5f840645c091fb72d8d776e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "b2875c5ecaad50cda5eeb3ba663fdaffd2041e12f99bb7c5d009a26151e17894",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Hamilton Wingo, LLP",
+    "Mullen & Mullen Law Firm",
+    "Rasansky Law Firm",
+    "Reputation",
+    "Slack Davis Sanger LLP",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_personal_injury_law_dallas",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_personal_injury_law_dallas.json",
+   "sha256": "61416ba9eca801edc18eaeb4a88c1b50653deeea8e9783ca531023be4d54764a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "10b0d9c1fde76250d8ab84eb5eb9a333588e30a8d757bccb154f4e532d77cd48",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "84922cf9b6feb2fde92d87f852af81dbbe97745c890130abb3c39d5543e75b4c",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "The Barber Law Firm",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "aef029e552b006d77991a663fde4a1479feaf9db20be0b511a3c915772506414",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "7f3928b97d024657e0f53a3c00a985c47a15f7d113e301516a595acf4c5e3fd7",
+   "businesses_named": [
+    "Aldous \\ Walker LLP (Charla Aldous",
+    "Board Certified in Personal Injury Trial Law",
+    "Federal Motor Carrier Safety Administration (FMCSA",
+    "Frenkel & Frenkel",
+    "Hamilton Wingo, LLP",
+    "Mullen & Mullen Law Firm",
+    "Reputation",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_personal_injury_law_dallas",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-01_segment_personal_injury_law_dallas.json",
+   "sha256": "23926b8a887489a3682b10f1e3ca8b87da8b818707d2417e562283ab876719a3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "caab7e87d16a2a844ed715f9b73355c9ef65638119b53d49e96dcd1034c7837d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "4a114c81510df50294609cf1a18b70ebaea378134a76bbcd804f5df6e57d61e7",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Winocour Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1a854297711c8b805262e0752d6ff51cd6cbe6fcfa1e86b5fa35ab88eb45f442",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "2c17f5722ad3ba71562f31caa90f8a6cb456597c639cd451390f6501a6674b79",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_personal_injury_law_dallas",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_personal_injury_law_dallas.json",
+   "sha256": "71930b0c7525b79e890d35d6d7983ae8988e5531ffdae1cb2f701517e473b0b2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "832f6eb67b1cca69d61e01cd34996ac9d877431f85aa63d4453fd402f9bdcfa0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "a15c9afb4a3881c6c38bde97006517031ddd4ebac909674defdf76a206b26f96",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "b8a1a7d1740f36ae02f4f05d7086910589f82ccad74ad65a55916c74cb44d8a9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "85dd2f8a0a1a7cef8606281161c21a51cf07e8a70631bda0338180d4c7b41bf0",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_personal_injury_law_dallas",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-03_segment_personal_injury_law_dallas.json",
+   "sha256": "386fa419900717a78a86d93889352e10667ff5ec23f0e0e0367ec7559d923de7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "59d79338ac8b4b15d0ec135ebde3d22ada10056bb4e812accd13d3533cfe60c2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "1708b12437537840777ba222d145da311fbbeb242478c2e295c8f25a8879eda9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "7bd93efee065d80ca8d42c551d9a2a3e133912357bb194f559e6548417d0aa7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "63b5d7399e27fb3763e54ab5e503a2f787f6fa19e5676ad7687d6d6509a5b5bc",
+   "businesses_named": [
+    "Board Certification in Personal Injury Trial Law",
+    "Focus",
+    "Frenkel & Frenkel",
+    "Rasansky Law Firm (Jeff Rasansky",
+    "Schedule 2-3 Free Consultations",
+    "Slack Davis Sanger",
+    "Spoliation Letter",
+    "Texas Board of Legal Specialization (TBLS"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_personal_injury_law_dallas",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_personal_injury_law_dallas.json",
+   "sha256": "a342bf4fdac6c09f055f4d9b76b2f9a264d61806249dd2f2fbb4ca5020398f62",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "c5bc42a8057a227c8eeb1c3a74e2cbb28ffc0e7fd65a0218fa6b269b2a19821f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "e2e833550278e17dbc10ee0e1e4da6004738e3ca4e1f321cb71395c91d4ee896",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "6a5549f9364569ea21794872f3b9f553f8a4a3ad5aa4c437803d315adf63f793",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "00b39a2a04b44232d52a4090379dd22b9b63729622d7012aae445607c6872c86",
+   "businesses_named": [
+    "Board Certification in Personal Injury Trial Law",
+    "Hamilton Wingo, LLP",
+    "Overview",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Texas Board of Legal Specialization (TBLS",
+    "Trial Readiness",
+    "Witherite Law Group (Amy Witherite"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_personal_injury_law_dallas",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_personal_injury_law_dallas.json",
+   "sha256": "c71e9e1da56fba7a92dd17ca391088bc3127da3592e286fc8fa93ccbb501b98c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "2dbbea94a6b48d197afc90ebadcefc7bc15c7358fb6725f464a5a96d9438087b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "9514a8052d6ac994da702e53104768fd2c51510f376d5d43597c2e6c657220f5",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "280d16599342d6d36776287ee1d70c9c95fa7cc7ec7e6e6f5e34600730620755",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "ae4ee0c2d79550b80eb2d6e517eb8ae8abf61c2c4acac0dac7bd0d0bfce7b4c4",
+   "businesses_named": [
+    "Aldous \\ Walker LLP",
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Capital and Resources",
+    "Frenkel & Frenkel",
+    "Hamilton Wingo, LLP",
+    "Mullen & Mullen Law Firm",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Trial Experience",
+    "Witherite Law Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_personal_injury_law_dallas",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_personal_injury_law_dallas.json",
+   "sha256": "1782d937dbbc026a503b197120b84c784e8af6c01286e2e92eda177696395d5b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "02a4eae79cf51ec692cd0d7df0f4b2de4d3a573c99dbdfe43f55ce21852239f9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "53dd57106106b09359a0aee2f8b3d791482dcceef36babbe68eef691e4e0cccf",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "087e388788ae635e763590990ec11c12a86f2b737a7417edf3cc2ae72792b598",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "e7d7cc22eac69a27150fb7c26b2699574c219c62778624614e22f58d5408db9b",
+   "businesses_named": [
+    "Aldous \\ Walker LLP",
+    "Board Certification in Personal Injury Trial Law",
+    "Financial Resources",
+    "Grossman Law Offices",
+    "Mullen & Mullen Law Firm",
+    "Slack Davis Sanger",
+    "Spoliation Letter",
+    "Trial Experience",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_personal_injury_law_dallas",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_personal_injury_law_dallas.json",
+   "sha256": "a56a893f842068ed456d05fca209bee361131c7734c8602cdb343304b889c76e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "b9fba94e09599608457a8f0956fa52d921f62c6c331b650bba7e8ffff1277a70",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "7a31a8d07bee9dd5b999e34da5834f60fbe4dba058bcb2184cfe71aab3498561",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "19d6bb24ec29404b06957033732b8e0988094496be35f9228246fc741e97ef08",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "37b63e0fa1fc4fc5a255982028756ddb5e1efe462190cd56aa4fe191d1cef0fa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_personal_injury_law_dallas",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-08_segment_personal_injury_law_dallas.json",
+   "sha256": "8911ce39f98dd0469af0622fdf2edf4c3cf22a613b15274222b062e0b7728bc9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "76b0efe6a474efb7ba2ed7f5ee30d56c2641d8ec2f5eabc9309c42ea70bbeb01",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "b809c7aea09c79ff039335e698e99d71ac401b3eb21bee95c4868343c8ce0012",
+   "businesses_named": [
+    "Mullen & Mullen",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "79c16b68e233ac590cf2c3aae8a5448d152d736069ccd9ff67cc5d148b0982d7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "d51a9690a7d1dc8db1a8e30106e4ea00c14fc847bd32bb1a30447330f3821e29",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_personal_injury_law_dallas",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_personal_injury_law_dallas.json",
+   "sha256": "a1f887331102a1f7bd20bd4eb13bc83eb23508385ef19bc1ecce30c2fe17fa16",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "94675237f7ea33acbe4ac71695c886ea9a09fe72cfa3bc6d4c3a991821f63e3c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "f3731a941723542494c5433030ec715f277ad50598d243393b5d67db8da7176e",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "546b92a0cf7e9576ab486d87b9497909c0d30260acacbe2794b47d36301269cc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "5ee6d04a6009d2c4b096fa7ff2af9999a534457ba8929683fa46648436f67e66",
+   "businesses_named": [
+    "3. Hamilton Wingo, LLP",
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Capital",
+    "Schedule 2-3 Free Consultations",
+    "Spoliation Letter",
+    "Trial Readiness"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_personal_injury_law_dallas",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_personal_injury_law_dallas.json",
+   "sha256": "04f3b410137b9086b310a4740eda9ddb4abd5e3f438e9775a60f82bcc3c14993",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "dcfb0f0294f7356f06cd859deb7d5ddeab12cb30f7f55c6bb276dc43ce901c68",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "533cef6560ce08efccaccb21359c8a01222af9bc01a71e95cac6470106671d59",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Giant / Texas Legal Group",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "9746a032987e9e02630c45cb5bc48047b7ace38b2201bf9eaffb0c5d990f668f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "14d9ee532f9cf308f48414139f93559ec871df17911b65da4c3f27187346c45a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_personal_injury_law_dallas",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_personal_injury_law_dallas.json",
+   "sha256": "aaa9ad7499f237134c226aa4787a3f3aa196a123df0388636c3b7a8562f6f90a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "3fde43fa2b8362c5481996c1c167a6907383356f6a41f3698739f7a8fe9a2a4a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "d16896fe253962c53f13b50d12d9c5e12fd031a33beb9ff92b95998a921659c7",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "49cb5ee43db5dc6127f5a6066d0a52189234907cb816783578b0232568597d82",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "cd0a55768f9e9b9221e9fb4f79ad3b6c802c8e00bc44cf3816047bf924d921ef",
+   "businesses_named": [
+    "Aldous \\ Walker LLP",
+    "Board Certified in Personal Injury Trial Law",
+    "Focus",
+    "Frenkel & Frenkel",
+    "Mullen & Mullen Law Firm",
+    "Reputation",
+    "Slack Davis Sanger LLP",
+    "Spoliation Letter",
+    "Texas Board of Legal Specialization (TBLS",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_personal_injury_law_dallas",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_personal_injury_law_dallas.json",
+   "sha256": "229bff6822ac47d05c46f39e540b7c7ccec2d277c529edf9276e4ea32e894cd4",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "7f1ff667da96c6f095bc3627716c2d3a1c904e1fdd5e5b1b35f209e27f3f3ccb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "a7a1813d24384083b07ce40e72c4ecbe91fb96b461c98e5af59a4996e6d0da73",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Winocour Law",
+    "Witherite Law Group",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "5586b2bfd6476e466274b37da459b6b209d492a9df5b33f02a843b67b23c9e4d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "ec4faed929b1bbc46571c0d3f64b060dd78e6f430b097355db28dde39f81463a",
+   "businesses_named": [
+    "Aldous \\ Walker LLP (Charla Aldous",
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Capital",
+    "Hamilton Wingo, LLP (Chris Hamilton",
+    "Letter of Spoliation",
+    "Rasansky Law Firm (Jeff Rasansky",
+    "Reputation",
+    "Trial Experience",
+    "Witherite Law Group (Amy Witherite",
+    "Zehl & Associates, PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_personal_injury_law_dallas",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_personal_injury_law_dallas.json",
+   "sha256": "401290a119bc16ed1405619c9c284bef3b2fa78783b802b6c7eabdd27edc23dc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "245a53fcc8f5f74a35363c17e8e82b8046bcf602a31d955310cf3f76f696d9d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "faaf8cd49cbcac729e847af0b72ccf42025faa5bce46f87a65c832023b873e49",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "4a4f4a3753b940fe883481ea5bd2800845fb3010decd3fd31a4251fc900442c3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "7540b74388668464acb0fe4b99e00723e0fdef8907a6dd5dbc1c8169fbab953c",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Charla Aldous (Aldous \\ Walker LLP",
+    "Financial Resources",
+    "Mullen & Mullen Law Firm",
+    "Reputation",
+    "Trial Readiness",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_personal_injury_law_dallas",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_personal_injury_law_dallas.json",
+   "sha256": "6b8187dba7816e0411d0aa648f7c6ee8b9a3ea62e3dab59455efb6882ab93b5f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "9982bf4ccc51e39424964ec9130fbd41709c03463704c9d9baaac9a000903e98",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "95ae8353516289861252f9b75a175247614f150cb95918fa2a5c09356b6be6fc",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "0cc96171e07457c232234ed335edeacc8bd2098e4ac0df88af808899bb52ce7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "b3e301afd69413974d43ac2407ffe4492078b638329a46449cf03459fc0d5c8f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_personal_injury_law_dallas",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_personal_injury_law_dallas.json",
+   "sha256": "91d981de658c1f523ac5b3bb58c4aff786bec2f1075b72d217a2e34c5c551711",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "fd000d99d187915febec645de6e220b6f399d048cd7b7570e2c2c5ee9c2f64ca",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "f0ef236b9d20d6603845a62bdfae97e0e89af0304109540e07cc344ac8ba95b4",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Montgomery Law",
+    "Mullen & Mullen",
+    "Slack Davis",
+    "The Benton Law Firm",
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "0072c3615b3a55a242ca4789442dd793c0e6428aca9ce15f12f8ac87c2e87e8b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "e07c32d89820816889df576a434f9a66d0862c08e003cc00630950c4dd6765c7",
+   "businesses_named": [
+    "Aldous \\ Walker LLP (Charla Aldous",
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Capital",
+    "Frenkel & Frenkel",
+    "Hamilton Wingo, LLP (Chris Hamilton",
+    "Spoliation Letter",
+    "Trial Readiness",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_personal_injury_law_dallas",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_personal_injury_law_dallas.json",
+   "sha256": "f5e35db046233cf0059316474ea72a15fb801698b229588ef95469ce081a0d2d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "356369f20fa8308f6f87d8918e8a3284f136904a3ef0a8f3f7720ef198639975",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "16b142afef7b48d9ae9fdf9fe453839d461e16bd4d1ef3fe1309a96bf61cfd08",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Mullen & Mullen",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "5f6146b8eb54ace989ba1502bbf7cfa19b08ce989209db73e04dd2b4be3faf6d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "6e5c473687a5e1851c7241495ce5d8b3051adf26248df1b09bf26fbd17c3bf52",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_personal_injury_law_dallas",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_personal_injury_law_dallas.json",
+   "sha256": "d31e9147b249a1ae2d05900285570c454e71c639b2e54ea89864a456184fac27",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "87665fe4572c664c52583228683ed813828bbcd62bb982b87267bcad3711bb6f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "0c30bf4eaceaf9dc771690b20969098f973eb2890f2acbc5580e3bd82a533787",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "6b462d3651daf111307535e9b49a73fbb600fe7033428ee33e0b6d16f457714c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "8bcbc9d3bbe52c939e342c842ccd24476c41297e4c37b22eaf28e9b1e576c1f4",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Resources",
+    "Hamilton Wingo, LLP",
+    "Reputation",
+    "Slack Davis Sanger LLP",
+    "Spoliation Letter",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_personal_injury_law_dallas",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_personal_injury_law_dallas.json",
+   "sha256": "fac92cf04c55e8246e21b6c230d31c7985be1518c2116c6a2a5a1482665f6bad",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "c028754149195db657018f823296258da7dc441e4060c3a5aea2d415f9124364",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "7acdc69cda36ec3d758c329ba4dcc5ae172552ba3251737f75d8b21e8f82fff0",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "The Benton Law Firm",
+    "The Law Offices of Frank L. Branson",
+    "Thomas J. Henry Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "fac328502782d070cb3cf462970af2a0ea938fde8325730eb462df16306b510d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "4fa067ae5ac241cd492c21604a2e911346d169dd0353c8fac2be3cdbd2337547",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_personal_injury_law_dallas",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-19_segment_personal_injury_law_dallas.json",
+   "sha256": "879d55abb1a6bf69c91879088dd905f637065cb2e0411d41ed9df3477e943f52",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "e8cafc3f902cf1c6ef11be29773f32827dabe962f731acbd043d8efe7a26b7b3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "a86686f0a1f0014ef74129196f3577ded3d2a6e77676987d7e887ee901b0089d",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Thomas J. Henry Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "67335c15b9136f2896a513ee967389ca5f18eacaaed0c008fcb0353f5469655d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "e625fcf2a91c77bdffc317ed2265eddb4cd22c89661b58dcaf48529c03dfe08f",
+   "businesses_named": [
+    "Board Certification in Personal Injury Trial Law",
+    "Federal Motor Carrier Safety Administration (FMCSA",
+    "Immediate Investigative Capabilities",
+    "Overview",
+    "Spoliation Letter",
+    "Texas Board of Legal Specialization (TBLS"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_personal_injury_law_dallas",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-20_segment_personal_injury_law_dallas.json",
+   "sha256": "ec0f7c0eb03d525e7bbd079bf2d4f0b075ca80d6e04b36a6bda1835f013f28da",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "1a8fc1f0e90bcd4674b2990e7122a723efeec2b622a967ee0cbea1c750e9e4a3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "bdd385aaea94f3fa5885ed9dc47514c6a416048b2b7edbeb1e7e6805cc1492ef",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "7110ea3c6bd2c83a701d2f02afc2f169f525db9aabbc31ad8c244ceb802ba032",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "a32dcaaee179c3c9177ac4fbf9be2f0577291efec604a6448b1eb2a57ad3fd9a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_personal_injury_law_dallas",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_personal_injury_law_dallas.json",
+   "sha256": "9d538a1fab6960cb16d8dec381b43ee0cbc83d1bdad81c7f22da473566fce4cc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "3c9b1c6d411a3dc6f0b9072656f50910fe2c4100183bb7c5e7a09b447dfc6c45",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "fc99c4190cde576b51d7c6b0d127a07ce47a89b98b049c6da59a234637e08ee5",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "91e3502eb71a2782332dfa8c807d72ffe2084b3505b94762b24f58e37ab088c8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "334d63b8ec9d226a63d5bc73e0b1727bd7637618331db8d638e6ed077dce1069",
+   "businesses_named": [
+    "Aldous \\ Walker LLP",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Capital & Resources",
+    "Mullen & Mullen Law Firm",
+    "Ted B. Lyon & Associates",
+    "Texas Board Certification",
+    "Trial Readiness",
+    "Zehl & Associates PC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_personal_injury_law_dallas",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-22_segment_personal_injury_law_dallas.json",
+   "sha256": "0bddbae4e1d310f9298bee7d0e8edfca55e46b55800cc24bd23fc2a1fee316ed",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "96e64498ab0244e2ffcfb246d279150f2c5d83c52945be3dbb75e90bcbd2176f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "8c20caa8717eb90c8ac0b54ffe4a0759baebdc3e46593e2b72065526161ac4aa",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "3f6365f9179a4207d285809cdfb410f55a03d9b5121d622c2a55f3147fdfe038",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "ae14c49c80ee0709703705436e495bcb6c7b2a351fcfbb637de3b97576d837f6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_personal_injury_law_dallas",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-23_segment_personal_injury_law_dallas.json",
+   "sha256": "e343b00dc1543b58cf33530c144883b048491012aa10defa1add950aa498b44c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "af5a2f9f2d84bb03c235e28cfcfd8b16a1973edf32ce9533980540bc4dce1160",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "2e8fb85c7c3077b6092ff574692ec861ffee16b84aa09adb5b389686f2db4e25",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Thomas J. Henry Law",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "38812d2af7ba1145ff51d88456b9f597215ff241e980caa733c8f64ec3f2a9cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "49dfc5ffcd3506f858489ebe8d547404a7add1012dc1ce309726694cc295dc8d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_personal_injury_law_dallas",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_personal_injury_law_dallas.json",
+   "sha256": "7a6fb6ebff04fc9e468fadac6f110678ebd1369d846fca3cb025e8f365890714",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "cf57bb0b8647049d9645ec497892821b56388d57abd42dd7c77e74cc806dd690",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "a8744d8823853452786c6e096cb5ddbeabb0f3fcc9d6df820570891e50550bd0",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "Thomas J. Henry Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "85d130e301f6100ed92aaa4d8e723a2ad134617363ad08369ed5034cf887026c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "8f6774de42ace21dba41a620234e3522299d7e426fe1563a4c1afc68012c1775",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Resources",
+    "Grossman Law Offices",
+    "Guajardo & Marks",
+    "Letter of Spoliation",
+    "Mullen & Mullen Law Firm",
+    "Trial Experience",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_personal_injury_law_dallas",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-25_segment_personal_injury_law_dallas.json",
+   "sha256": "10808ec05580d9e98d57e38c2b99e2d8e59470328a0885107d33b8781ef7bbfa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "4a46140eb2f0561a29b5c26abddf18fc97ea7b50319839af7d1d38c5a2d65c62",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "5ac11980a8377aab8d3d2d886544c21a8c5eafb68bc0a37404323b1833b0e731",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "Thomas J. Henry Law"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "d36ad20bc80e160bf360fa4d2dced6bc88e5a3a6141f78f5c2e3e96d04c302cf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "30082d731061c7dc9685453ebf27552ba5f27a6d0417e9f34f7ee03db3c48302",
+   "businesses_named": [
+    "Board Certification",
+    "Board Certified in Personal Injury Trial Law",
+    "Financial Resources",
+    "Frenkel & Frenkel",
+    "Hamilton Wingo, LLP",
+    "Immediate Evidence Preservation",
+    "Mullen & Mullen Law Firm",
+    "Overview",
+    "Slack Davis Sanger LLP",
+    "Spoliation Letter",
+    "Ted B. Lyon & Associates",
+    "Trial Experience"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_personal_injury_law_dallas",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_personal_injury_law_dallas.json",
+   "sha256": "cfb4fdf576c49efcc70fa7664948235d3cb929e4d93b36e78fe1de55c7146beb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "65f6400ab360b789dcc617bbb1c0d2194b8cc105323460453b10e9351cd116df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "f01a2a797c967fa77f7dbf1d56a3cfb9634470d7c25207e3abcf85c1f89d3b2c",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Lyons & Simmons",
+    "Mullen & Mullen",
+    "The Benton Law Firm"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "27204f339fad8d7f19d156a9a8b78d8feed789833d51c98e67c3c2cd85dd17a8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "52f8bd2fb4ab8341fdf2089a13f2f70d1f37db9894eaa224f3872450160f47fe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_personal_injury_law_dallas",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-27_segment_personal_injury_law_dallas.json",
+   "sha256": "165e6b1b7272113aa160b43111aaeca1323f815c7b819b28a9ab1b1768051789",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "6e2093b4225ffaebb86d5d9ea3ba0b41aab4875f221049b63b3fb2ecc4bfb587",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "96775a26d841af61175d59fcbba75c74252c214c74cf5ecef55c435e0e7df7e0",
+   "businesses_named": [
+    "Arnold & Itkin",
+    "Hamilton Wingo",
+    "Ted Lyon Law",
+    "The Law Offices of Frank L. Branson",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "edb9dee9e5555899e0b8b9009e266fe16f4f92f91ac57dd377442dba6ec41fa8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "d4878836d86c79d4ef257213e503e1d1e57cf1d624c53c9d19926e259e1801d1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_personal_injury_law_dallas",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_personal_injury_law_dallas.json",
+   "sha256": "00d96a848854e6112d5b33130d14ea59dbca10b97038f25301039fcfcb557db7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "d73005eee9d131aa2391b871bdf1ee2500722bce1d6b5f7222ccc7819e0df700",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "0168fcf6728a12af987ed34f7abbc9d203e98998332458f4d5ab73c6294d4bd2",
+   "businesses_named": [
+    "Arnold & Itkin",
+    "Clay Miller at Miller Weisbrod Olesky",
+    "Quentin Brogdon at Crain Brogdon"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "b9fdc1a16894248dd2b8f61e66f5f33d057f9fbd0aa00f422f1785b34dea4e7e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "30a3681c5ffbba67dd6f6f9b9618938942c4a0367f521c39665686378076eb65",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_personal_injury_law_dallas",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_personal_injury_law_dallas.json",
+   "sha256": "e6dcf3559dea5cb0aa8243e1fab6c85b7731e18007bf3bf1140a94000d072496",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "12c3af38bd625009358673d3b3b4a9317073334c8f450d360cd479aad1fe3e4d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "3de4466e148e354ffe2928a36aee36a7665500fbf0cf737e8c3c9a05dfe024a5",
+   "businesses_named": [
+    "Crain Brogdon",
+    "Laird & McCloskey",
+    "Miller Weisbrod Olesky"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "80cba69b7f1be7b2acff68c1430dda62db0a1ab3c3077df3d824ca8566944d46",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "4004a6ec47fd736490660eea6ad17229ffbcb10e9fe16edf51d88f6a834119ce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_personal_injury_law_dallas",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_personal_injury_law_dallas.json",
+   "sha256": "0d238bf53a6dffa327798aaa3fd7f7ff41bac07bf3a37216900e3f8e50b0c56c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "7b4a1e5795ee63208a05c37fd382141fc6c8fbde1ca7baa93f1742e76ef7d188",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "58af1a02605ac5ac961f02cc19da2b2fb3b835e4c16df35505af622222e0f845",
+   "businesses_named": [
+    "Crain Brogdon",
+    "Miller Weisbrod Olesky"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1a13ca9e72372f389f937bcf3d55276689fcef6fb12619877a893dd9ff812ddd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "2da4cab283b2d596822307f1c259eb8ee3066672630a8b3f64c1e2d7dad3572a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_personal_injury_law_dallas",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_personal_injury_law_dallas.json",
+   "sha256": "dda418c436bd9820a54399c2582a1bac0b2cd32eb9cfc4a884581b6b5295f213",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "b62489fd8ce0e42d8355439a7885ab22adad891d5cb1e15c090f326e7247f3a1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "107395f3480dc3761b02592746a46447ad605c757a3f47dc1e40210c44e3a20c",
+   "businesses_named": [
+    "Aaron A. Herbert",
+    "Clay Miller at Miller Weisbrod Olesky"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "97ea56b579ba71e9ba3190eb4bfc82b7a8dcc89547c2cbec0883f8bf247d2a8d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "3df8e8f5adefcb3aa44d7f93e9f4baa68e8901dbd6f59bf0eb75ee28d109c4f9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_personal_injury_law_dallas",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_personal_injury_law_dallas.json",
+   "sha256": "23594b26dea75a498ed53839213929d97dad251bd5570d38a2b83baf8a705685",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "86101f7e952bfc066190e2b50d258821a3f0ebc4a4bfab008793f17af41187df",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "0aa388307cc8fc6fa378b46873ecd381ee45f7920d5d4cca4c0e0d3d30ae8450",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "df14f0384a213db22c501374335854fe4b8ffa78b9f5cd2d01a5c72038f5b9d6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1f43f7f100957f3457fc70afc2d25fafa3da00e84eb80d05fc16d874cbec5883",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_personal_injury_law_dallas",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_personal_injury_law_dallas.json",
+   "sha256": "901e2e651a699a6fc99e34373453861137e6bb238903a56f4bdfdbcf004a618a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "89f637c84c79274569bf6a01de73c5fb99f49942c7b711800d40d4c44490161f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "669568f1feaa0e1d8017b1f31f3b76b957c21594f2aed1fddd75c67d3f1b91d9",
+   "businesses_named": [
+    "Grossman Law Offices",
+    "Thomas J. Henry Law",
+    "Zinda Law Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "15f9167005ce9f2a4e0f2c90c503d4b833aebe7fbfd62daef90ade457064f6eb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "ba9b04b1dc325bdb39010bc1f6ac73e976f82ee42069123f4740b913068b7f2b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_personal_injury_law_dallas",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_personal_injury_law_dallas.json",
+   "sha256": "39989a7bb6803e1c9e60aa796c5a0a769695770a364d7d499ebbdc539abbaea2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "cbc7792d64c7603630bb6ad6b7bf7bfaf496ff86ee1376a2171c3b0a36179189",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "2b6c51e67fab231f03dd7158c7d85a7789943689b39f852d831d5eaecd177382",
+   "businesses_named": [
+    "Arnold & Itkin",
+    "Slack Davis",
+    "Ted Lyon Law",
+    "The Law Offices of Frank L. Branson"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "1706048721425a50ab4c86ecaf718ee34ae01a84b2daa48648ef62b9364c4e96",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "adb6962d2bcf01ead9d6dbe2fac99415403d8efc8d338ca2f83d8cec893c4521",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_personal_injury_law_dallas",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_personal_injury_law_dallas.json",
+   "sha256": "271634fe60ee3a840b25692da3c7855e9eff522f3d535363f2bf1d5f8c4b2cce",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "b9cd51e6762d3a7d833033a2a371a231aec103d7aefb9b37e4a312b2a533a957",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "38dbf8deab2da9a52fb960da9c670c8ea6da722ab6719bf4f0daeb16e7e1dfc2",
+   "businesses_named": [
+    "Arnold & Itkin",
+    "Zehl & Associates"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_anthropic.json",
+   "sha256": "b0214d5fc18835e11f37defaec83470080f673d24f33378b20c8947afaccc467",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_gemini.json",
+   "sha256": "1fddcfbaed48c5ae9cd43d09a325f34b8911ea8c15a92ffa6eb13a5b535f71a3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_personal_injury_law_dallas",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_personal_injury_law_dallas.json",
+   "sha256": "750f6ba3c54a48f547206326cc612dcc3c9a1bada5bd65b9d34d494374264755",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_openai.json",
+   "sha256": "d7c60fa0f843c7f1f00242294c5dbfbeeb0193e1984aa3bcb92bab4823634ee4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_personal_injury_law_dallas_perplexity.json",
+   "sha256": "299fd18d942427823e80a394efd7ce494005129505fd40657e4cadf0106484be",
+   "businesses_named": [
+    "Jerry D. Andrews, P.C"
+   ]
+  }
+ ]
+}

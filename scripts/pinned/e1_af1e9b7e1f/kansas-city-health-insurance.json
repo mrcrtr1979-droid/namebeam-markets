@@ -1,0 +1,3671 @@
+{
+ "slug": "kansas-city-health-insurance",
+ "url": "https://namebeam.ai/kansas-city-health-insurance",
+ "prompt_verbatim": "Who is the best health insurance broker in Kansas City to help me pick a plan?",
+ "market": "Kansas City MO",
+ "niche": "health insurance brokers",
+ "window": [
+  "2026-08-09",
+  "2026-10-07"
+ ],
+ "generated": "2026-10-08",
+ "repo": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/corpus/e1",
+ "note": "businesses_named lists classified business names found in the verbatim answer (names seen in at least 2 answers of this prompt were classified). Raw rows are in the repo file named in \"file\"; sha256 is of that file.",
+ "name_forms": {
+  "100% free to you": {
+   "100% free to you": 2
+  },
+  "AIS Health Insurance Advisors": {
+   "AIS Health Advisors": 10,
+   "AIS Health Insurance Advisors": 21,
+   "AIS": 3
+  },
+  "Agent or Broker": {
+   "Agent or Broker": 4
+  },
+  "Ambetter": {
+   "Ambetter": 3
+  },
+  "Apollo Health Insurance": {
+   "Apollo Health Insurance": 33,
+   "Apollo": 2
+  },
+  "BBS Insurance": {
+   "BBS Insurance": 38
+  },
+  "Benefit Services of Kansas City": {
+   "Benefit Services": 6,
+   "Benefit Services of Kansas City": 28
+  },
+  "Blue Cross Blue Shield of Kansas City": {
+   "Blue Cross Blue Shield of Kansas City": 2
+  },
+  "Blue Star Benefits": {
+   "Blue Star Benefits": 4
+  },
+  "Broker Services are FREE to You": {
+   "Broker Services are FREE to You": 2
+  },
+  "Brokers are Free to You": {
+   "Brokers are Free to You": 2
+  },
+  "Bukaty Companies": {
+   "Bukaty Companies": 19
+  },
+  "Bukaty Companies (Overland Park / KC Metro": {
+   "Bukaty Companies (Overland Park / KC Metro": 2
+  },
+  "Bukaty Companies (Overland Park, KS": {
+   "Bukaty Companies (Overland Park, KS": 3
+  },
+  "CBIZ Benefits & Insurance Services": {
+   "CBIZ Benefits & Insurance Services": 2
+  },
+  "CLAIM": {
+   "CLAIM": 8
+  },
+  "CLAIM (Missouri) & SHICK (Kansas": {
+   "CLAIM (Missouri) & SHICK (Kansas": 2
+  },
+  "Captive Agents": {
+   "Captive Agents": 3
+  },
+  "Cover Kansas": {
+   "Cover Kansas": 2
+  },
+  "Dual-State Licensing": {
+   "Dual-State Licensing": 2
+  },
+  "HUB International": {
+   "Hub International": 3,
+   "HUB International": 7
+  },
+  "Haas & Wilkerson Insurance": {
+   "Haas & Wilkerson Insurance": 11
+  },
+  "Haas & Wilkerson Insurance (Fairway, KS": {
+   "Haas & Wilkerson Insurance (Fairway, KS": 5
+  },
+  "HealthCare.gov \"Find Local Help": {
+   "HealthCare.gov \"Find Local Help": 3
+  },
+  "HealthMarkets Insurance Agency (Local KC Agents": {
+   "HealthMarkets Insurance Agency (Local KC Agents": 4
+  },
+  "HealthMarkets Insurance Agency (Local KC Representatives": {
+   "HealthMarkets Insurance Agency (Local KC Representatives": 2
+  },
+  "HealthMarkets agent Caitlyn Cregan": {
+   "HealthMarkets agent Caitlyn Cregan": 2
+  },
+  "Healthcare.gov \"Find Local Help": {
+   "Healthcare.gov \"Find Local Help": 7
+  },
+  "Heartland Insurance Agency, Inc": {
+   "Heartland Insurance Agency": 2,
+   "Heartland Insurance Agency, Inc": 4
+  },
+  "Independent Brokers": {
+   "Independent Brokers": 3
+  },
+  "Independent brokers": {
+   "Independent brokers": 2
+  },
+  "Independent vs. Captive": {
+   "Independent vs. Captive": 3
+  },
+  "Individual/Family (ACA": {
+   "Individual/Family (ACA": 2
+  },
+  "Individual/Family ACA plans": {
+   "Individual/Family ACA plans": 2
+  },
+  "Jeff David Insurance": {
+   "Jeff David Insurance": 24
+  },
+  "KC Health Insurance / Local Independent Brokers": {
+   "KC Health Insurance / Local Independent Brokers": 2
+  },
+  "Kansas": {
+   "Kansas": 10
+  },
+  "Kansas (SHICK": {
+   "Kansas (SHICK": 2
+  },
+  "Kansas Side": {
+   "Kansas Side": 5
+  },
+  "Lockton Companies": {
+   "Lockton Companies": 4
+  },
+  "Medicare KC": {
+   "Medicare KC": 2
+  },
+  "Missouri (CLAIM": {
+   "Missouri (CLAIM": 2
+  },
+  "Missouri Side": {
+   "Missouri Side": 5
+  },
+  "Mylo": {
+   "Mylo": 4
+  },
+  "NuLight Consulting": {
+   "NuLight Consulting": 29
+  },
+  "Overview": {
+   "Overview": 3
+  },
+  "SHICK": {
+   "SHICK": 8
+  },
+  "Senior Health Solutions (KC Metro": {
+   "Senior Health Solutions (KC Metro": 2
+  },
+  "Senior Health Solutions / Local Medicare Specialists": {
+   "Senior Health Solutions / Local Medicare Specialists": 4
+  },
+  "Small Business": {
+   "Small Business": 3
+  },
+  "Small Business Group Insurance": {
+   "Small Business Group Insurance": 2
+  },
+  "Small Business/Group coverage": {
+   "Small Business/Group coverage": 2
+  },
+  "State Insurance Departments": {
+   "State Insurance Departments": 2
+  },
+  "The Morrill Insurance Group": {
+   "The Morrill Insurance Group": 2
+  },
+  "Thomas McGee Group": {
+   "Thomas McGee Group": 2
+  },
+  "UnitedHealthcare": {
+   "UnitedHealthcare": 2
+  },
+  "Use Healthcare.gov's \"Find Local Help\" Tool": {
+   "Use Healthcare.gov's \"Find Local Help\" Tool": 2
+  },
+  "Why": {
+   "Why": 2
+  },
+  "You should never pay a fee": {
+   "You should never pay a fee": 2
+  },
+  "You should never pay a fee out-of-pocket": {
+   "You should never pay a fee out-of-pocket": 2
+  }
+ },
+ "rows": [
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "318e24a3bd5594e4af3e3bbf319a2cc59bd6b5aa08b68d6b795fe81c3424a50e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "ec7892132e345836c64000286c842f8e0936d89333e237f417967288e3108659",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-09_segment_health_insurance_kansas_city",
+   "date": "2026-08-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-09_segment_health_insurance_kansas_city.json",
+   "sha256": "78d08c860a20411353b495fabc4094e6f71c6f8ce1f437bfdae766cd15022fe9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "af9234e6ae9eab4de2d13a8b838d416292020bc3366ffa77f44e01a2a4d5388b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-09_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "99d0dd290d8c4fcf10f46d2f5bb2867eb01ab60feeea50e14a58621f1cc419c8",
+   "businesses_named": [
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "HUB International"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "e2a9f55ef82d21a3eb8dc193033765da8853eb93d3025a2308f01688891d4272",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "6b7e3fc64d7e812fe71a46e790fd34bd40502f8a0322f49f3b10bd50c977c211",
+   "businesses_named": [
+    "Blue Cross Blue Shield of Kansas City",
+    "Bukaty Companies",
+    "CLAIM",
+    "HealthCare.gov \"Find Local Help",
+    "Individual/Family (ACA",
+    "Kansas",
+    "Kansas Side",
+    "Missouri Side",
+    "SHICK",
+    "Small Business"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-10_segment_health_insurance_kansas_city",
+   "date": "2026-08-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-10_segment_health_insurance_kansas_city.json",
+   "sha256": "69dc7ff00331d9ab6315b056cf172038947e367b4c42966d498a1b9139c23c43",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "46ea354619dd872687019bcdef975de5ee6f9fa07bc44a85d8b675fa22d7f98b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-10_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "aeb11e145620d233ab6e128ec3b5a702f5ef2961f086f7ff40561fc8c14ec785",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "HUB International",
+    "HealthMarkets agent Caitlyn Cregan",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "a991f3e0b7a2ec49902ce8b9e269bc896c3fc67023ef9d0009eb7f0b1748ef88",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "5da5bc74108750a674878f970d79c44a57c37c2cd932018e70dc2805d7a64557",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-11_segment_health_insurance_kansas_city",
+   "date": "2026-08-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-11_segment_health_insurance_kansas_city.json",
+   "sha256": "143aa4381a49da41d052994f83ff2ba25087ef1e6284fe6c169e3f95048c050c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "70114d769115f321c545ce2fd6c4b0a9fe1cddf52fe6c4179518c79fe0132d4b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-11_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "cbc5e3099af6c42b415607a451eb0b29e90507fad368eab8845ecfce74b7ecad",
+   "businesses_named": [
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "49c2a5ee926ea1cfc3b3a30c73661fa497a6d08101251ac626d077b692c5d46f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "2d522e8a44d531b1642f9277245181093420501887d79cc38067a149b998a413",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-12_segment_health_insurance_kansas_city",
+   "date": "2026-08-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-12_segment_health_insurance_kansas_city.json",
+   "sha256": "2861441cafe3bf643d38448602d8a9a795e1b78f341d480e5b0822b041ceec21",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "ce2e9ab892ecb3243afffb0f8754c2f5de2d1b9279d6e7f8d51e832321c31cdb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-12_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "8dd95d811bd62bbd546a3b6157aef4de0ea1ee7c6a9aa55201a7122779c91b00",
+   "businesses_named": [
+    "BBS Insurance",
+    "HUB International",
+    "HealthMarkets agent Caitlyn Cregan",
+    "Kansas"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "0f650609ca2edbc3a89b89cec983a5458a0ab3de80d851a2e699576e44f95741",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "74824bb4d774d6c24bff142d52a4c1baccdff4c4789d99b743964c0daf0cf866",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-13_segment_health_insurance_kansas_city",
+   "date": "2026-08-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-13_segment_health_insurance_kansas_city.json",
+   "sha256": "2cb64c430fbb689fab0c06e569340e20a55ee70b20ff015288dc98f2dcc447a2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "bb9d33b848ea64b5c2eb21b4aa8aa307920a8f091be6950a1ac2afca60b19572",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-13_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "370084f1f1132d2132dbeff75524757d15a09f242f127f83dd4212f3f41e639e",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "HUB International",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "9299c220a0cfafbbcb1eea95b6bef086a7877be43e2441c722e548bdd3f7fc5b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "7363e1b7433949a56151fa759055fc2b636db429ceb72d0fd6e94ae5ab1cfc28",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-14_segment_health_insurance_kansas_city",
+   "date": "2026-08-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-14_segment_health_insurance_kansas_city.json",
+   "sha256": "b6944e8fc76729d577f897e8d418de3fbb82fafbd7d1b8de11830279a94fb6f1",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "ce0f25206196218fe4b63c1b00780ec151a79ddc1f3f43b9655bf584eb9e06d7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-14_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "f73cea9d85805b8bba58807320eced07c0632829ea478f44985ce133e88a2138",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Blue Star Benefits",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "25bddeba99051a75e32d542b245a151c16ea781ee6162139b1ebb52dbd0653b7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "c0eadc1923d96463a9a93369582e7e198b6a70dc8fa4653096afff696ef990b3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-15_segment_health_insurance_kansas_city",
+   "date": "2026-08-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-15_segment_health_insurance_kansas_city.json",
+   "sha256": "1e4fa1b73dda0fee4c00560a27ffda99fc653380be9d3928bc83f6c3a52ec993",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "1ff97593e03016e3f24d95b4632cda711f7117537eb90c73fa623ca0efd47acd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-15_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "af68feccab839905ab78ae0525dce55d65ea5a5f340d68e3d90e4efb23b660e6",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Blue Star Benefits"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "0188a867c75e418a804feed6fcfd616f271feab9163dc2049ef47876354ac2ea",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "1400c6a670a63e3b2e7ff8cab9c2fe03ba1275f8e36e2e6d04b059ab9bc78a3f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-16_segment_health_insurance_kansas_city",
+   "date": "2026-08-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-16_segment_health_insurance_kansas_city.json",
+   "sha256": "4015dbf5c75a4bf46191428783c0c7330acefbc095e0a4fb313016f72321e52d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "27cfe1180962b8503e29d137495462c75dc2642f60a6632b17ad4f9664c6ede6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-16_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "f939174660cca4dc6b3b71b13bca3227ce568d48f3ae9a1eb59ae720e7f6b8e7",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "HUB International",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "6a8d113669c41ea08739b521f1edbf3439085cebf61df4331bd823e6be0a30a6",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "538e9d5553dbc6a9289f4093a1e8d0ad48b18fd279b0d96670226fc872a921f5",
+   "businesses_named": [
+    "Ambetter",
+    "Blue Cross Blue Shield of Kansas City",
+    "Bukaty Companies",
+    "Bukaty Companies (Overland Park, KS",
+    "CLAIM",
+    "Haas & Wilkerson Insurance (Fairway, KS",
+    "Kansas",
+    "SHICK",
+    "UnitedHealthcare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-17_segment_health_insurance_kansas_city",
+   "date": "2026-08-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-17_segment_health_insurance_kansas_city.json",
+   "sha256": "de33b0323ddf4e33bccbfa9a3feaffb1236f5f82d096126f45708ef43ec6ab81",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "a2f294f9cb97f8c00e24784ac7a6384d017bbd7c7ec47c73bc1136d8a0bcb0d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-17_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "dfaaddc7be68c6ac03b74de759e990b60ab171acdf63e723ef391ddd5a493c48",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "HUB International",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "af866621efc401e22ac339733bca2b9a87763d18c35eefebb3af13a1e5ac4b4a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "5f59d65d973bfb6e11b22ce1fa0df32c99f6a6dcf1f08ecfcf7067c40d59af4c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-18_segment_health_insurance_kansas_city",
+   "date": "2026-08-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-18_segment_health_insurance_kansas_city.json",
+   "sha256": "ca9265135e785b31ca920598e3e04a2f56b07f625dad4690aa4ab1509af412aa",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "58f39981bf847ae7a71592fa5212e10aa64ccaffef5a3767a667faeffa4fe570",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-18_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "d8b74726fc001f00719f282c78f3f56e7af5d5a3f360433ed68122879e16bd93",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "HUB International"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "38cbf224f9211c7d52c5b878df6bc87d15eb8e9a48edec0a958d7b9016fd9ab3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "17d501dd07f79a3835fc5758b35e81e0d3bedd3d226f026a12194362d44cb79f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-19_segment_health_insurance_kansas_city",
+   "date": "2026-08-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-19_segment_health_insurance_kansas_city.json",
+   "sha256": "9faca94b49a6ec1357cd04fe1accfb368b47113596f752369e1b95f5362af70a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "cd949e0ad8e6ecb082d94cc3c57b769ee253111885fd7f11b60d96471cb4bf98",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-19_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "0c6f87de9e68f1bddc8f27025d9e1f3e47b0749e6d7584a4262b30665b0aa1a4",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "dd948b8e14228706203a5f88d0101217aa9c7dc9b1fb4356ab77b5b849896be9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "866859fcd960db30ace281a2b7a1c691aff977d9553dd85cd7c9fba7836e7094",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-20_segment_health_insurance_kansas_city",
+   "date": "2026-08-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-20_segment_health_insurance_kansas_city.json",
+   "sha256": "55beb7afd535bdbe735ce53165f0f26431ecf688d84d54ab765cd9da60e137e5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "369ca42b841546d4c1fdacaf0bceb8e6f91d3b11635f123d4f1a8536ee8e97f4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-20_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "29ec083648ad60d896933b0e783a37d564438af672e5a4b76a9a8e820762f2b1",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "6436b09cfb4ac02c116679d197c6c6c04b4c54f0e1174010877033bc84f55f42",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "7cdd537b050efe61cd7fd01be169bcc4159547fcd88836d5bc31642935ca14c6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-21_segment_health_insurance_kansas_city",
+   "date": "2026-08-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-21_segment_health_insurance_kansas_city.json",
+   "sha256": "d49b67e18f07ac1ae9dc9ccde679d1f7a2352f853000813010478fb6fc2f8869",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "a997be1254bcbb60d957a567d5d29b6e1652d3e32c57001b11fc217cd37a3dd0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-21_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "46281b4e7b128cc2559b046ba720afb32c95226c574285912122df32ccf0e159",
+   "businesses_named": [
+    "BBS Insurance",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "dff74c8ecc6b063b0f4c7899e2f9fd301523f19b79fd0640d5edc9f7c650af40",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "3dc3d3910d83ef09088edcc8c80117738905cd08667c46ab023f1d14435adde6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-22_segment_health_insurance_kansas_city",
+   "date": "2026-08-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-22_segment_health_insurance_kansas_city.json",
+   "sha256": "2322802185349ddf1529fb73a4f1f964feb16f2c3cf5e105efd3cdbe2d50bfdb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "4a97e923009b0cf68eec9b3a0f2ff064340319a37ee666f89924a70dd359b79f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-22_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "7efb6f05cb74f88b559acab066aaa66b8854407eb1786fe35b07723aa761a8c3",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "HUB International",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "fd7eceb1f807841272a7b31733866ac5be93192d9bb7b319d26bf16345b61eab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "ac7791d2fdc29f91844b422e103243f3cf6d444dac2a83ca45c47114670175df",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-23_segment_health_insurance_kansas_city",
+   "date": "2026-08-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-23_segment_health_insurance_kansas_city.json",
+   "sha256": "96c684e3c1393bf914b642aa8153e82c644fb9eb327f7d057b81bb59e4ee6e92",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "7ac783332a009758e2d2f003963b1a60fd0c9b143fce6f39c6ed7c3358f0b2f0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-23_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "410869fd41c161e2e7f1e71b8e70a0fdab84132fdb9ff7a74c140177ba16e57c",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "44f2214b6928d48ce3b6f85c908679d3ba5df830841b4fa8d6d2a6e137dbbb0f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "e76f54f6e87d888ba29171d6b4b1fca10a230c89dfa6f43758689ad89a2e81a7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-24_segment_health_insurance_kansas_city",
+   "date": "2026-08-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-24_segment_health_insurance_kansas_city.json",
+   "sha256": "7d02bc1e6efef0ebc6120321b51cd59a23acde47b02da1378d0e4b487bac1417",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "f91ad36109f89c711745c8d68b8dfb9802aaf10fc615ef53e87cb6dfca23e56d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-24_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "a1a303b1fc2ede6018d6a504a1ff9c9517f8876df11d890d813c8758be785fee",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "a296005592a88eeeeffed9f583b982a23cf993e519c3d87c97aad6b782a2645b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_anthropic_r2",
+   "date": "2026-08-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_anthropic_r2.json",
+   "sha256": "c4aea55eb0356325e0dfb6775069d58d99983f67267d099a0aa5b785a2943448",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "7cab298d54912a571343744597953ae37845447b7c7ddc67626e3c60ea2da53c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_gemini_r2",
+   "date": "2026-08-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_gemini_r2.json",
+   "sha256": "ff8e7410bc765af7bad092914fb1dce945c1ef5cb335a59c013a1dabec7953f3",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Haas & Wilkerson Insurance",
+    "HealthCare.gov \"Find Local Help",
+    "Kansas",
+    "Overview",
+    "Small Business"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_health_insurance_kansas_city",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_health_insurance_kansas_city.json",
+   "sha256": "feaaee3df01a88e641234b1607faee41214c5d5ca3e578d1a6f6dfb53605405b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-25_segment_health_insurance_kansas_city_r2",
+   "date": "2026-08-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-25_segment_health_insurance_kansas_city_r2.json",
+   "sha256": "8dfcc60c1e4cfef38b15ea4c2bc86bd39abc7eb78c963c2affdda23e73ced141",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "5118373f901a7cc7231ce9a8c6946770eb0d0ddbefa9f5e9bd1bf2066740fd8e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_openai_r2",
+   "date": "2026-08-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_openai_r2.json",
+   "sha256": "930cc51e8804b25d5e9cfbe04963c6598a1327ecbd81325f6eb0effdd433b706",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "3fdac592d54ce31654e4d1acdd6efb7a7e84cac41c7472db8e1f431a9b296076",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_perplexity_r2",
+   "date": "2026-08-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-25_segment_health_insurance_kansas_city_perplexity_r2.json",
+   "sha256": "0411401421d56862ef6ec1d69895a6744dd4c9cddec77c73dd1384abf1a4427f",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "8193190ac2391f22ba41c1b48c87a001a0855fbb98751aff3db479b09ca9cb30",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "c8719b7c36ba6d16ed014122b4d6752dc8590f90c6eab0473e566c916a747aa8",
+   "businesses_named": [
+    "Agent or Broker",
+    "Bukaty Companies",
+    "Haas & Wilkerson Insurance",
+    "HealthMarkets Insurance Agency (Local KC Agents",
+    "Senior Health Solutions (KC Metro",
+    "Use Healthcare.gov's \"Find Local Help\" Tool"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-26_segment_health_insurance_kansas_city",
+   "date": "2026-08-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-08-26_segment_health_insurance_kansas_city.json",
+   "sha256": "344af89bbd22c2f72e1e955c21cea00bdccd3d2006b34b83298768fb7e8416a5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "166eb1d221166557b18fd04b4bec120d5a5217d41c6b5c675bcaf489a4f32b35",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-26_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "7548fb8805c43bc7498651110b0902d0031ef4546c7ae294707b9eb0ba7a49c8",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "826f8363e32e881004c2a57c121c301a364ed40292d8bc17af74e3d7b928b486",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "0d1c6a2644f8d0518f6454314d77d19578468633ae0f2a63b562aee94957ce53",
+   "businesses_named": [
+    "Bukaty Companies",
+    "CLAIM (Missouri) & SHICK (Kansas",
+    "Haas & Wilkerson Insurance",
+    "Healthcare.gov \"Find Local Help",
+    "Lockton Companies",
+    "Overview"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-27_segment_health_insurance_kansas_city",
+   "date": "2026-08-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-27_segment_health_insurance_kansas_city.json",
+   "sha256": "43a734471737ca67c12be87791b337c0d53b308103f1d5602ff50a701e7f71f9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "3001b65bfb1f620ea97d676fc37cf217aee6175803702cdba5bfcde24f992599",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-27_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "1d982fa549656b979bae35586c0885391503289f8f265a1dee444c5cee126d85",
+   "businesses_named": [
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "2f1f15afc82fac895fc8ec2012276531bc11d9b2adf9c2f837b98e877e5f1fe0",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a4dd3c7f9e80abccd732295904f26f101b4736aeefa58c0f77f255fae53a0846",
+   "businesses_named": [
+    "Broker Services are FREE to You",
+    "Bukaty Companies",
+    "Healthcare.gov \"Find Local Help",
+    "Independent brokers",
+    "Independent vs. Captive",
+    "You should never pay a fee out-of-pocket"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-28_segment_health_insurance_kansas_city",
+   "date": "2026-08-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-28_segment_health_insurance_kansas_city.json",
+   "sha256": "a1b71f548e76f7173cabe9e2b9a7cf71f0fad9a59d054a72e1fbb2e29fcedb51",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "70eef4f8b1aeabcafd6c117e65459fc899cbd56448d21afd9f9a8ca7efac53fc",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-28_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "c10739d468f3dea6bd18356cedd160963242960f5e23e32d935ff9fa13cabd0e",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "45252cfb832fc4a61996001bcad27f003b46ec6b26b7e979d1faba886c21ef9c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "62b07afa09cdbd7322b85248bc4c47bfa60f59805e9530a4da97155cc2be9e1d",
+   "businesses_named": [
+    "Broker Services are FREE to You",
+    "Bukaty Companies",
+    "Haas & Wilkerson Insurance",
+    "Kansas",
+    "Why"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-29_segment_health_insurance_kansas_city",
+   "date": "2026-08-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-29_segment_health_insurance_kansas_city.json",
+   "sha256": "b858b0ec9a8f03a50c6aa74953f6240807c9b93780d7d1618f0bbaa74a5370c7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "79c0de877377a5b96720251b49ad49957b328b565975f334ccb55e2aae1de892",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-29_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "82590e3caff0af6c0a941ef44bd14327dc40e16c40fbce32dff8348300143dad",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Blue Star Benefits",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "20918b8866c650e12bd14ad2ea23af379d5ec6f72aec6cd57d400097fd6ab56b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "dfeeffcc9de92eb68398e5020c0964f87b190040ed7e4ef0dc561df6571ce0fc",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Haas & Wilkerson Insurance",
+    "HealthMarkets Insurance Agency (Local KC Agents",
+    "Kansas",
+    "Senior Health Solutions / Local Medicare Specialists"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-30_segment_health_insurance_kansas_city",
+   "date": "2026-08-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-30_segment_health_insurance_kansas_city.json",
+   "sha256": "be3403ba3737717590cf8f6f87814ae1af61a26fdd184f9c6fc99c7f089b4962",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "7f8bba7be40e0896c769b5b118af95c39debd7e71d10596c63afc5eaec7cb48b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-30_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "fb04d89f7680a9729302d922c5474d78a8dfad7702764070e7bc322b68ce6f13",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-08-31",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "35f674615b06725655d04f99338271283291b0a412e63e30e9e69c9962ba2475",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-08-31",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "3ac8508097bcb3aa2b7175f09f589347e42b3f1aa35e8e637837ece4d09db0ee",
+   "businesses_named": [
+    "100% free to you",
+    "Bukaty Companies",
+    "CLAIM",
+    "CLAIM (Missouri) & SHICK (Kansas",
+    "Haas & Wilkerson Insurance",
+    "HealthMarkets Insurance Agency (Local KC Representatives",
+    "SHICK"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-08-31_segment_health_insurance_kansas_city",
+   "date": "2026-08-31",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-08-31_segment_health_insurance_kansas_city.json",
+   "sha256": "b66887d643ddd17397e4bc1886dfc00748e1fcd457b83784f89543184d5f8be7",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_openai",
+   "date": "2026-08-31",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "515f9e03e8e75abd6f416c32fba02cffda05f37215348106f43d5e3ae6a59049",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-08-31",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-08-31_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "f26eb3b4cb9b5b4152b6cc50896b3515fdee60aea35202e135cf3d5f207a1a8a",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "5dea15c16b291ef50eaf5d21742bd056af43e1d2b3046570c4f9edda9ab6515f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "9952bdf3627a04c1f2d59b530537edfe426bc1587816408af5f04a7d5bb92fed",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Kansas",
+    "Lockton Companies"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-01_segment_health_insurance_kansas_city",
+   "date": "2026-09-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-01_segment_health_insurance_kansas_city.json",
+   "sha256": "578592a8dd30a0ac620d4f1640761d41f6c2024083c2f93e21eb9af7e694b988",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "6909c759523f4e7befafd1eef33fcf596abf4b9587c047be362de5182c68d276",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-01_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "127186bb109fc6b539b093e0e3bf00a1effe3d3cddeff7a50a7775b596c0722e",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "da3da952bedd1c075492039d9078e82b58425b18107f87c21a8959bf9d7db2c8",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "4d9c275551fd1ae87ddd29f5631ddbbbd887c5822ae9161f28378887a62de090",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-02_segment_health_insurance_kansas_city",
+   "date": "2026-09-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-02_segment_health_insurance_kansas_city.json",
+   "sha256": "a8a8e04b1cd45a02b72771ce2cbab7f32a615e0505d9737494b1358e7a1447af",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "1bfb4715dbdf009fa9108fce9c53617713f6985c0297cec0439146886ab3eb70",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-02_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "4abbae1c7d1f47671d313b3258e169df0aa529f3d9bee4c451392d49b81e9b1f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "5a6b1eec259749d31766716d9866ea352f139b06e0b8fd36ce842c49e1d7c22b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a3c176adfaf9a613a846c2283c3792754ef1b74ea617334854ed9f0c4db72966",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-03_segment_health_insurance_kansas_city",
+   "date": "2026-09-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-03_segment_health_insurance_kansas_city.json",
+   "sha256": "a2c91003020a3e971ed9f36051ddf3c720866b3cab91c4e2da4e655d7a7c2636",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "c957ca5cc817a37fdc144b1750b9545912dbe76f210f22287c63ab36b705cb6d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-03_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "6c02f01a7c7bb4e109cca590757366c824713495b3e0e4b74fb515eb2670ce2c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "d514e260528ac23b1c6305676049854ef8f7c73f432a287a21e93c39297a0bbb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "e899a4dd330421d388913566c55e2b131e9f7b03c2d570cc3be6c32e70bfb78c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-04_segment_health_insurance_kansas_city",
+   "date": "2026-09-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-04_segment_health_insurance_kansas_city.json",
+   "sha256": "820deac2d01f2abe903b1c50518a841616c069d207a61795b57dc51687cbcdfe",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "9a988cce8f03638882c2bf706d1d858187d78f6e208c37e63777f50ca5059bcd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-04_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "830993ce3d7670d428d723e3f7d6c0e0e4898c9cfe494b8501652090f2cda4af",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-05",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "e9d24781d8dbbaa7a2e9bb5dd3e7b86d05a593c1679c992b9c6a5b6a8e4e594e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-05",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "eea75884d7a6094cf065283c37cfcc0078548c6fc4d912799eda435ae4b1bf91",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-05_segment_health_insurance_kansas_city",
+   "date": "2026-09-05",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-05_segment_health_insurance_kansas_city.json",
+   "sha256": "fcb4eb589fd7e62a64913ad8259148956fff56c0b88c502f5a33db175a68e15e",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-05",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "f90c79b289b5879942f91625090f489ab8c1d2e69aae0e26ac08d3a02862e109",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-05",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-05_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "7145aeb667b1bf91c7e2622299ca77ba2b88d1d4b82fcc39a702aff864dc12b0",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "2199f23ec6b880db9f58fa2d6a659b7c51e15e7539ec9c6e51c925369a6fe6bd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a6cbbb29d31f432d3d119148409abcd8a73693a1da7032d71a3acf8d7f74bd2d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-06_segment_health_insurance_kansas_city",
+   "date": "2026-09-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-06_segment_health_insurance_kansas_city.json",
+   "sha256": "2dc09c24bbf9c48892c57ab4b8e5dfa1e4062fc6c677246837bc323e05efe0be",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "24d4e7e8d6b7ac0035d5ad1b85b76534d6c0194666f820deecd963b2481358ef",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-06_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "fbaf59d6ce004af953f024fa4af83fe4f5598cf125b6e7bb8c0126543ed04696",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "2c3a6ade805780b8cf035c66a18f6868427a9654e5f90f32db68bffbca5dfa39",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "0611ed78a93f05d936b462e4ca389079d9e5de879295ccc0f31c3e0ed952b26a",
+   "businesses_named": [
+    "Bukaty Companies",
+    "CBIZ Benefits & Insurance Services",
+    "HealthCare.gov \"Find Local Help"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-07_segment_health_insurance_kansas_city",
+   "date": "2026-09-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-07_segment_health_insurance_kansas_city.json",
+   "sha256": "23802cf376fd77b268bffb850f1500c79626ad2fecffb2c1a5b68f225c888fdd",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "be94f94c1aff0c091d5448fc8a57f1bfd9d9dcf54c94ab3796f6397cff2176b7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-07_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "f431d456b0641c4931bc4927003c287d48dc0d66aff1918f2b3eadbe5c0510b0",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-08",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "9f57a7dc689645971d443709b0209e049265a8904852cacc072d0ca2f798dcda",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-08",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "7979e9f009bdace10eb067f598ca5a67de782bdd95890247dfad09b36afdd9aa",
+   "businesses_named": [
+    "Bukaty Companies (Overland Park, KS",
+    "CLAIM",
+    "Captive Agents",
+    "Haas & Wilkerson Insurance (Fairway, KS",
+    "Healthcare.gov \"Find Local Help",
+    "Independent Brokers",
+    "KC Health Insurance / Local Independent Brokers",
+    "Kansas",
+    "SHICK",
+    "State Insurance Departments"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-08_segment_health_insurance_kansas_city",
+   "date": "2026-09-08",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-08_segment_health_insurance_kansas_city.json",
+   "sha256": "cbb60f308b851dd29fa4aa113fc35aca548181e3e4d1ee82c08cbac41ed2cbd9",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-08",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "e0223eff0eb5a4e07da053d2ea8d619700c339216e6b855fad04b1b156eead15",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-08",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-08_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "67ebf994fdc41f9eafde4d89444fb64efbbca2d9739752c5e6128fb169363dce",
+   "businesses_named": [
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-09",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "0ae526a743268590b45026f8ac03f67a940f068b04a5c07816542e05f85d1005",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-09",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "1e0bdd794c3263e328fc149f334811845739b067e460c1fac37196351979f98e",
+   "businesses_named": [
+    "Bukaty Companies",
+    "CLAIM",
+    "Haas & Wilkerson Insurance",
+    "Individual/Family (ACA",
+    "Kansas Side",
+    "Missouri Side",
+    "SHICK",
+    "Small Business",
+    "Thomas McGee Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-09_segment_health_insurance_kansas_city",
+   "date": "2026-09-09",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-09_segment_health_insurance_kansas_city.json",
+   "sha256": "e603cb6253ef9af1b790e50eb85cd2a06cfcd0b4e42ae217872a131ea202a6b8",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-09",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "a781ebaa12f8a1f74a0ae46d1da35439d22e30ffb3a6668de5d006478d9c6d1f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-09",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-09_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "9e87bad895b32d4773a467fd300b6ae42c48ed5415b1778323d758a7f00dec31",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-10",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "b6639926bba9035e2969a8af0025e788bfd5c6be704a17cc47720a93f5893ae7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-10",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a8e07ed6cbfd0a58ea8b42f960181c42d68efd6bd189546c06413a609cdf13dc",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Cover Kansas",
+    "Haas & Wilkerson Insurance",
+    "Healthcare.gov \"Find Local Help",
+    "Individual/Family ACA plans",
+    "Senior Health Solutions / Local Medicare Specialists",
+    "Small Business Group Insurance",
+    "Why"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-10_segment_health_insurance_kansas_city",
+   "date": "2026-09-10",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-10_segment_health_insurance_kansas_city.json",
+   "sha256": "8b11d66cabbdaea5ff02ad906747abfb89f5f75958422c939568affb76e80e5f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-10",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "7cdbdf3e1d9c687e8006af27862fc8d822635c3f1b3c11733517e8a8e919b230",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-10",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-10_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "9aac906fe8ea223a936cc5cf8951cadc17be1529eb112e51414cd58837ced1db",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Benefit Services of Kansas City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-11",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "8c6b2ff2f3e9de59cc1ae2c594b2abe60c6c2424948fd0422609934f1d0e4098",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-11",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "dcd0984feb71768278c53f983f29387d7fc852ef868e5e059f91e8b5c8f59518",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-11_segment_health_insurance_kansas_city",
+   "date": "2026-09-11",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-11_segment_health_insurance_kansas_city.json",
+   "sha256": "048c6a192ffd193317965d88ed3c55e5b3a46929be21ecbebd46b2265710faef",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-11",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "fa691310c551f6b3bc3850d3ba85b3e52c14e0796a7b9abd3571d44eea4628c7",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-11",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-11_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "b400dfac6e2f4bc59e1aa2f7e65acbf7e42c24bc24de59d1f62d6de08d0c1fc5",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-12",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "14f0a38db6d006d61d1ca129f22ce2728919d100c27f0f854e31767c412863ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-12",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "60d72a1ad80537b6da8ab5987e4afe8f44cc7cf2b3c68e7b8d02c1e77a508345",
+   "businesses_named": [
+    "100% free to you",
+    "Ambetter",
+    "Bukaty Companies",
+    "Cover Kansas",
+    "Dual-State Licensing",
+    "Individual/Family ACA plans",
+    "Small Business Group Insurance",
+    "UnitedHealthcare"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-12_segment_health_insurance_kansas_city",
+   "date": "2026-09-12",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-12_segment_health_insurance_kansas_city.json",
+   "sha256": "d0cb8b8968160897e9edbd5aa5de9fe011bd5aac2fd8d71a7e8a411bbaa26e8b",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-12",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "5a4e0d55ef62d0ffec2076cc9d62cf1eb7fde5ee4c48dcbdadd614f90c924745",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-12",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-12_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "a9567ac41747b920b846f618436885cb805f1c5140c97ecf71bf46bc432e994e",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "HUB International",
+    "Heartland Insurance Agency, Inc",
+    "Mylo",
+    "NuLight Consulting",
+    "The Morrill Insurance Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-13",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "e095e752f19704cc363c1ef4ae696fb0cdf3ca74647e704fb9210a5e946db333",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-13",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a379c89aa1d7071a74a9241da29f45783ab7dab4904d995053f3b0ff6b654b36",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Kansas (SHICK",
+    "Missouri (CLAIM",
+    "You should never pay a fee"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-13_segment_health_insurance_kansas_city",
+   "date": "2026-09-13",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-13_segment_health_insurance_kansas_city.json",
+   "sha256": "fdb978f70c3c1f2d1a6cbadb473a53e37666f2e46e129de396e38513e2a80f13",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-13",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "a961e101e107c0c8f9c5f915f80db02e07c253a4869ebcebe7288b078f6be9da",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-13",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-13_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "374966e13fc0b76da878077f4fbb64c739ba2f8fb570e8160ac70d5854f86f5e",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-14",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "13bed04fd7c353a3e08e5ddc513268728523ed14bc8154e3b5b58accd544b182",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-14",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "bfb126a632b8885f80e0306511a543d1c3ba30977e01c11ff05f44e11cb6886d",
+   "businesses_named": [
+    "Bukaty Companies",
+    "Captive Agents",
+    "HealthMarkets Insurance Agency (Local KC Representatives",
+    "Independent Brokers",
+    "Independent vs. Captive",
+    "Kansas",
+    "State Insurance Departments"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-14_segment_health_insurance_kansas_city",
+   "date": "2026-09-14",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-14_segment_health_insurance_kansas_city.json",
+   "sha256": "51f7782fb77052a3c777ea036cadc3d5fb45bbe91181086a9530b1b054efa826",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-14",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "d3a5921b4c204cc176e00dfb9aff70de2b80807d52b46ec39eaed04cd4b9b700",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-14",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-14_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "1bb79932c85540114895bdf7e764786e1f3bbd5a51a09b45708482accf469430",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-15",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "9fd9454ed578e13343bc003306f928113d8c4b52d62779de3b7ea47e00de4546",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-15",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "f3a0bfdd4aacf3fadb3ff2ec3a88fac529f00d2b10d43998e0d6d2a78ad65bc8",
+   "businesses_named": [
+    "Agent or Broker",
+    "Brokers are Free to You",
+    "Bukaty Companies",
+    "CBIZ Benefits & Insurance Services",
+    "CLAIM",
+    "Haas & Wilkerson Insurance",
+    "Kansas Side",
+    "Missouri Side",
+    "SHICK",
+    "Senior Health Solutions / Local Medicare Specialists"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-15_segment_health_insurance_kansas_city",
+   "date": "2026-09-15",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-15_segment_health_insurance_kansas_city.json",
+   "sha256": "45b54ae1ced47330e29cfd70bab893353039ff98a2ff9370920223698547c775",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-15",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "682efbb7750193eaa3909fbaf4b775d15a20b45d54b65f528d4e08fb591533bd",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-15",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-15_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "db85475c6ad2c35f66d1d4262819b8b91bbb1e45622a93bd40583a65a356b743",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-16",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "8dc4ab9081a0b0595187086525476a48ed49da55604718de1dd0c5ef4e9db216",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-16",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a09aae78445e90fa72b280327ddddef879dac7a16ea87af0843c8f331854f6bb",
+   "businesses_named": [
+    "Ambetter",
+    "Bukaty Companies",
+    "CLAIM",
+    "Haas & Wilkerson Insurance",
+    "Kansas Side",
+    "Missouri Side",
+    "SHICK"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-16_segment_health_insurance_kansas_city",
+   "date": "2026-09-16",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-16_segment_health_insurance_kansas_city.json",
+   "sha256": "7882f0630bb75af2e2a33524b908ce8b29fc3740a62ba4d25fcbbfac0dd0c448",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-16",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "05d81aaf3adb9fa10999ca590524d49540579e7a828df095339d779473e4eab4",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-16",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-16_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "cd756051a05c096f1297b4c4489c40d894a1013a33d60b87f7e1a0c079d32dae",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Benefit Services of Kansas City",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-17",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "d42bb966ad872fdfc3eda5140c009926f7c77faf9ee830e6544607183778d94e",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-17",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "b365c8f3f988d28f59294e1ce4ff0d45b245852ab3f5836f6fa346dab04a3293",
+   "businesses_named": [
+    "Bukaty Companies (Overland Park / KC Metro",
+    "Haas & Wilkerson Insurance (Fairway, KS",
+    "HealthMarkets Insurance Agency (Local KC Agents"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-17_segment_health_insurance_kansas_city",
+   "date": "2026-09-17",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-17_segment_health_insurance_kansas_city.json",
+   "sha256": "2b3b6f3becafe33bdb5cb3de8b0e326f8aa2229f6804b8f8e15118f45882b33d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-17",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "8808df7a9519492d93e35db784afdf7c72e511379aa577bd760f5a287e2ec129",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-17",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-17_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "09f2b2d4c4a9d19a0c71816e343cd57a1553c7eca6b37a1d0f6d25a99c831ada",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Blue Star Benefits",
+    "Heartland Insurance Agency, Inc",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-18",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "44bb6cf55d875cb95453cf6ca831261a2eaf153524a59a52eac8bc1e40b2422d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-18",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "bc735a734809454ae6296c000e3bfce106090c9e041611fe10e8d6a9f7858577",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-18_segment_health_insurance_kansas_city",
+   "date": "2026-09-18",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-18_segment_health_insurance_kansas_city.json",
+   "sha256": "9b2b070f39755ccb9edd1dc53e92165e13b7b7eaa5cde671b966bcd32fdd8bcb",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-18",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "d96c0039f90f2938869a1df667a038a6c1efc35684b945bb0718cbafd225c081",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-18",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-18_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "e76f82b1878a7e1bb014e7b029a31545829cc52be5d639fffa77b8fec9dab911",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Heartland Insurance Agency, Inc",
+    "Jeff David Insurance",
+    "Medicare KC",
+    "Mylo",
+    "NuLight Consulting",
+    "The Morrill Insurance Group"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-19",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "eafccb57453d5b389c29508c9958f77ba52fa2a0c53ff519a1442b5afdbec412",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-19",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "d33066819455a153ceafec97bb3a6027a8fef7f1872f324bb8600384f124c0bc",
+   "businesses_named": [
+    "Agent or Broker",
+    "Bukaty Companies (Overland Park / KC Metro",
+    "Haas & Wilkerson Insurance (Fairway, KS",
+    "Healthcare.gov \"Find Local Help",
+    "Independent brokers",
+    "KC Health Insurance / Local Independent Brokers",
+    "Kansas (SHICK",
+    "Missouri (CLAIM",
+    "Senior Health Solutions / Local Medicare Specialists"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-19_segment_health_insurance_kansas_city",
+   "date": "2026-09-19",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-19_segment_health_insurance_kansas_city.json",
+   "sha256": "1a521d1ee05bbc4d23183f08ce0b467d3d67546f25205a2b4bc4a94e7a4c6093",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-19",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "121e950a74de0e91b25b8d996fd12dd68c01ca9cd45e02915a9602382b847203",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-19",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-19_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "15e00dd3c17f8af28a8b88782bdb8bb3e26647fb87eb5ebfcb0011c5529cfe9c",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Heartland Insurance Agency, Inc",
+    "Mylo",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-20",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "6e1b7da3ddfd2b1f3423a53b81789b1ea2ccedfd0a40cfbf66e3b27d7eb748d3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-20",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "a8533c470f6bd9456652307cb3ccca1006ea3ae26b7c9ccf09bfa9c24ef5f945",
+   "businesses_named": [
+    "Brokers are Free to You",
+    "Bukaty Companies (Overland Park, KS",
+    "Captive Agents",
+    "Haas & Wilkerson Insurance (Fairway, KS",
+    "Healthcare.gov \"Find Local Help",
+    "Independent Brokers",
+    "Independent vs. Captive",
+    "Small Business/Group coverage",
+    "You should never pay a fee out-of-pocket"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-20_segment_health_insurance_kansas_city",
+   "date": "2026-09-20",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-20_segment_health_insurance_kansas_city.json",
+   "sha256": "fa5e0dda943bf1867816a3ea60c7e9f2413e8e363d86a63a5e20f30bfaf2e824",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-20",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "c9ca5aab7830a001724661a17891fcd5f5a6168024b8addef91e90149be6328c",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-20",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-20_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "5770e03b05368fd07baeda5825ff6f6097933df38ab2f0c66940abbf3e80a889",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "HUB International",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-21",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "c5e0439000c43fe1612352c43a8dec458fb27cd5bad0ef28b7d76c02868c69ae",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-21",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "f83d522ff6fefb75f1170218dcae9da6871b46bbf5b1dbab0247cf3a70d07778",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-21_segment_health_insurance_kansas_city",
+   "date": "2026-09-21",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-21_segment_health_insurance_kansas_city.json",
+   "sha256": "9eab6b4c01b2bcd84ce6acf645de21ee20399e7a80a8465b446b6ae1e3585d4c",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-21",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "b5cf73a7fbe3a82e2f38858f73bb054dbe1c28d416dd672ed324b23ea623bea3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-21",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-21_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "a00d978e2ff4658510f923b2df3bf15add663f4235533e9beb4364f677617e64",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-22",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "2bb2ee3619f75df3ffa5d6a1cb1e334e5674a13e0f5c351c56d65e7e2dc1f692",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-22",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "f4f7aba2e7a8989f5cbd64f03efb789b6b476854d0ed257768ea166c01bd7bec",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-22_segment_health_insurance_kansas_city",
+   "date": "2026-09-22",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-22_segment_health_insurance_kansas_city.json",
+   "sha256": "25bd5f2e4ece6cdeda2109d20bd1fefa2dbeb56b7ec299037c266240e58a8dfc",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-22",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "9468c6bb25af431a14795f392ab0921066eee933d07c3736a12eb76478974f0f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-22",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-22_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "45bdce2002e41226b5f4fefee18605a6359ec4a523e05b5ff0aba7dbe70ec4e8",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "Benefit Services of Kansas City",
+    "Heartland Insurance Agency, Inc",
+    "NuLight Consulting"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-23",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "6423d05f9db0232631c836761e49cf7b686d98017ba7eab03ea3dc6e0f6a7240",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-23",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "QUOTA_BLOCKED",
+   "file": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "dfbb3c99b91d2be656bdbffb629fd7259a7f1d76453db726a803d70bcb4f8b60",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-23_segment_health_insurance_kansas_city",
+   "date": "2026-09-23",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-23_segment_health_insurance_kansas_city.json",
+   "sha256": "d2a0e171685128d1fbc4a78e9a4005cb62567d471bda882771a02ffb64053fa5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-23",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "385b56381a2fd0e341b4f40bbc28a3ecef1369aa0cc4309903329e1bca61db66",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-23",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-23_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "2525c3a92ce6b9a7a53c7c9a82975b864a7988a4e13d0ca4f1651dcc6bfa278f",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-24",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "19c7b2205d6a0d9ea88028c3a818e41ffeac6ec6190dd1360fce5b46d7340fc5",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-24",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "716e41589d808cccae9a8c8d6499c125a94f74b0addf507020677e125ec0d13f",
+   "businesses_named": [
+    "Agent or Broker",
+    "Bukaty Companies",
+    "CLAIM",
+    "HealthMarkets Insurance Agency (Local KC Agents",
+    "Kansas",
+    "Kansas Side",
+    "Lockton Companies",
+    "Missouri Side",
+    "Overview",
+    "SHICK",
+    "Small Business/Group coverage",
+    "Thomas McGee Group",
+    "Use Healthcare.gov's \"Find Local Help\" Tool"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-24_segment_health_insurance_kansas_city",
+   "date": "2026-09-24",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-24_segment_health_insurance_kansas_city.json",
+   "sha256": "8f6ace6edf00c6e39c3dbfacd08269a7a2eb12cc1faf9fd2cac5a5738fd88594",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-24",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "1ee704a2187609ccbec06ccd1883ad540f7b7cc7f75af3ac518c5eb00dab9e5f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-24",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-24_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "19f2fa7b8b39539e667c3f32764616f242697279d413d251de08e3c2cc16cfc7",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Heartland Insurance Agency, Inc",
+    "Mylo"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-25",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "753eb627a84e1f46a53c9792db85891b3956a1c4633ed17e90224fab5f6694f1",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-25",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "3d9fdcce0ac23f5260694f4ca189fc19addf8cbd2abd0a7cd7d28e30a7e22d30",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-25_segment_health_insurance_kansas_city",
+   "date": "2026-09-25",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-25_segment_health_insurance_kansas_city.json",
+   "sha256": "5b0d39a98f1feb9ab258eaa92487c2a3e9f565ac6404104e91c80c6ab5b8d844",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-25",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "ec05bc9932f56146233a40897d807cdf744e4603a3c39f6881fc3faa167889db",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-25",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-25_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "ec2a160d0925e3cceac0be2241c63a5510dc5f553fb09f360fd3f2afd003777b",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Benefit Services of Kansas City",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-26",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "762bfe466187a9f86e1403c7edb70c510f05f186680473568a12f26f973102bf",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-26",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "9c15bc00454ff88123f0e5725fa3057f22a12b5aff34345f5a377be4fb9e33b0",
+   "businesses_named": [
+    "Dual-State Licensing",
+    "Haas & Wilkerson Insurance",
+    "Healthcare.gov \"Find Local Help",
+    "Lockton Companies",
+    "Senior Health Solutions (KC Metro",
+    "You should never pay a fee"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-26_segment_health_insurance_kansas_city",
+   "date": "2026-09-26",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-26_segment_health_insurance_kansas_city.json",
+   "sha256": "d082aa68cbe358674895c24844ac1dfc175c2fde5b31183109b266caed97df72",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-26",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "fa4ee62fdc00b5b441e610ff3384590bf19e9bab4c67ca31b8ad78b72961e9ab",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-26",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-26_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "98f88dff132c1477dee4cf574c83d4ba1e5b5ef925db1f1c69c3d4254a7e517c",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance",
+    "Benefit Services of Kansas City"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-27",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "0c5fd36eb4b0c3a3d3afdb1203bc3bd4416e832dba254def79040aa9f290544a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-27",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "65d39160b3b1d2d4461431554b37234efdfd4b5e65c8222e067d28fb76fccd05",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-27_segment_health_insurance_kansas_city",
+   "date": "2026-09-27",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "EXTRACTION_FAILED",
+   "file": "NB-CZ-SERP_2026-09-27_segment_health_insurance_kansas_city.json",
+   "sha256": "2c51cec4b4a9c7a043a027c790544dec1164de01f547933a1a0c4b4c41588b38",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-27",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "530d63076f4d352d50118e75be795c102677ccbfda58cb7ac8fec26689d94785",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-27",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-27_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "e802c3dae6d67dc729cc59e2cd6400529a830e6a54c52972c0dc3e553b18f4a3",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance",
+    "Jeff David Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-28",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "b000fda6bad262efb6a36aeed103ac4dbaff8b8b880143191451ae4a2a1a5872",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-28",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "b102e2915e4589a6c1c03f171ab5895dca470376734c0f204fc08586fd50d609",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-28_segment_health_insurance_kansas_city",
+   "date": "2026-09-28",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-28_segment_health_insurance_kansas_city.json",
+   "sha256": "5c5e30e6dcd213a918050f8941212f62e05c2e801165cbbd140e1d716c9c26d6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-28",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "ea1bc1be5c687ac45dbc56b10c98384efdc524fd9bb9921a485faa576afffd40",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-28",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-28_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "6fb48ffaf4de7654c5d7fbf24fc1af0aa06b7b3307ab9191fd41ad2eba6cd108",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-29",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "5b301f7116c1bbab0250b5715cb3e12daab215663a11c031f8867a31b8f7bce3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-29",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "0f849465577453482b500889b092d7d82480e564bba80ef9ea72b7b0a0c0aac3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-29_segment_health_insurance_kansas_city",
+   "date": "2026-09-29",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-29_segment_health_insurance_kansas_city.json",
+   "sha256": "2692e326957f31f2f4a0e5807ab22f6b02747055eeea93d0b08f4b3c1f87ae82",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-29",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "d5caffcaf9b9f5a2322050d4b9839f9eb25913d3c79674fcab7c16972c47c1ed",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-29",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-29_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "170f2ab69f9a3fa8a6a95d2f6eeb27e70b6b075909da68e4ca672d7e4c4918b8",
+   "businesses_named": [
+    "BBS Insurance",
+    "Medicare KC"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-09-30",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "f0127c6029d3092b33b804092e949e6c35be41619272670d28e93d8d10eb89c2",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-09-30",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "cc7b02158b760323123a7424e25bd90693ab41553a0f4629d95b185e8e425b3d",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-09-30_segment_health_insurance_kansas_city",
+   "date": "2026-09-30",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-09-30_segment_health_insurance_kansas_city.json",
+   "sha256": "db7c0de8038184193775454889591e10e5283ece8f46254894cfb3f05e086a1f",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_openai",
+   "date": "2026-09-30",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "11fb0c4d60481bfc275c106479bb01fbbab951d58035185017099e1cfb0740bb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-09-30",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-09-30_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "098b16dfd63fc4f403456a5ba9151e73f8829f29107ed6555c225cf02eb1eeb0",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-01",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "1acfdbbfebba1fdda7623dfbe96b8221e2fc86d463c6db472fc4ac8774cdc7fb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-01",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "839085f8d2f215ee317852209bc95a6b85e82d344dc0c44b0dae15cb2488901a",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-01_segment_health_insurance_kansas_city",
+   "date": "2026-10-01",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-01_segment_health_insurance_kansas_city.json",
+   "sha256": "0b762818dac0d2e589158cc07b17a13d09d7099579ed0040dea11a6f11b6da97",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-01",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "bc3f9a39167b8d9297dd47cc3a2ceda18670408c68136fd06ecdf5de91f8d9cb",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-01",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-01_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "6eab2da786b3c92aa6b104875f44a2d2152820d360bbe2a5d3a57bda5b46b9a8",
+   "businesses_named": [
+    "Apollo Health Insurance",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-02",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "571abb414a9724e6722aa66c8fd79f939a58b0c50579ce60f20657dc8be7550a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-02",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "49d5800720e273b237e6fd92c1e2c1c7425686bfa03f1d633efa07e4e37afaba",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-02_segment_health_insurance_kansas_city",
+   "date": "2026-10-02",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-02_segment_health_insurance_kansas_city.json",
+   "sha256": "ff50b75e30e24f5fe0aa839ebc40fd0b17ba02c6ddda6dcbf0527e337c0c18e2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-02",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "ea4462a3d4954eedcc014345c86b0143a6b5d1d48fc4760a86c64d525b07b51d",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-02",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-02_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "8963893f6b49c378af19537226ac486f6e14ff8b420b0002fd802fc2ec4685de",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-03",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "4dd6b626e255f4a601db19d9718e57bc30020a7b0122fc316f68d9c7e750f6ec",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-03",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "faf2eea95bd3b9d7d5a84e2bc483f33958aea9036557c822851ec6bf725d3729",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-03_segment_health_insurance_kansas_city",
+   "date": "2026-10-03",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-03_segment_health_insurance_kansas_city.json",
+   "sha256": "a57bed42f466dfc39e6c61c870f7f3667787655cfd7873e8b04a60634d90a3d2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-03",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "7993979f2f83fdfaf0020dd12272ce806551332be0f83eb5babf104ff97dce5f",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-03",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-03_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "e7de6549c30f97468f21e22b65c98cf60cba1cf7a2d71ce436360c23819b944c",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-04",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "4a030c0eaffcdaf2cf60bb99bb92223203682c05477e4a044d7b8fdab5c2d756",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-04",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "ade3e6d70c8bcc188419c87a16b7d05488ef9741ca89c42dc8c87a52498570d2",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-04_segment_health_insurance_kansas_city",
+   "date": "2026-10-04",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-04_segment_health_insurance_kansas_city.json",
+   "sha256": "a531c82fe7c32893a531ebf7607669a830dcbf26818c0f58da8e94b9927219a3",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-04",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "3dcabcae6fcf500d9bfedcfac0d048fc97525b177384515fa7f1f5e9ef59c95a",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-04",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-04_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "bd9f05ec5828c5154414c1c40a21a0f39dbdbffc1d86c07c34de86d400f33578",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-06",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "93512569ecc759ea05f5fa15bd1fd6b7517fa21a41f08f5d55e42126be50f7c9",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-06",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "522bbe39388e9499fee0b325e7315bfa40d176ef3be6aafe910a1aa8ae2fe882",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-06_segment_health_insurance_kansas_city",
+   "date": "2026-10-06",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-06_segment_health_insurance_kansas_city.json",
+   "sha256": "235741355b6f33f32f172cdfa1fa4f8527297db58cf9767874dcc21b1308c1b6",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-06",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "20477029b87fd0e8742039f22487194a1196c53b9aa35e55479a86853de5a04b",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-06",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-06_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "b2db6d862e98d1c592cc5eebdfde2f5d81a4912642d63b91efde15e5f6f5af5c",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "Apollo Health Insurance",
+    "BBS Insurance"
+   ]
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_anthropic",
+   "date": "2026-10-07",
+   "engine": "anthropic",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_anthropic.json",
+   "sha256": "85b2b05fbc9cea0552400f82a2013fb490b9ff76cc023b02b86caceef34b5bd3",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_gemini",
+   "date": "2026-10-07",
+   "engine": "gemini",
+   "channel": "api",
+   "status": "FAILED",
+   "file": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_gemini.json",
+   "sha256": "70630e2a130c176fe4492ac9b3739eca2c78ba6df5e7dbe2877527d6b84d44ff",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-SERP_2026-10-07_segment_health_insurance_kansas_city",
+   "date": "2026-10-07",
+   "engine": "google_serp",
+   "channel": "serp",
+   "status": "OK",
+   "file": "NB-CZ-SERP_2026-10-07_segment_health_insurance_kansas_city.json",
+   "sha256": "31287cef234f3d7cd409ca32300bf8d57fb53ae092212eec139d640affb35ba5",
+   "businesses_named": null
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_openai",
+   "date": "2026-10-07",
+   "engine": "openai",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_openai.json",
+   "sha256": "5d7d60ae280bf0ce593b0dafbd5ace821d461dcfa0c02f804e7a1f9fcb337712",
+   "businesses_named": []
+  },
+  {
+   "check_id": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_perplexity",
+   "date": "2026-10-07",
+   "engine": "perplexity",
+   "channel": "api",
+   "status": "OK",
+   "file": "NB-CZ-API_2026-10-07_segment_health_insurance_kansas_city_perplexity.json",
+   "sha256": "06b2c666683f00aaa0d36a63162c5ff457e3a8e2b9dd6e492e9ff624ba348556",
+   "businesses_named": [
+    "AIS Health Insurance Advisors",
+    "BBS Insurance"
+   ]
+  }
+ ]
+}
