@@ -613,7 +613,7 @@ edb = ('<div class="pv-wrap">' + crumbs([(P + '/', 'Namebeam'), (None, 'Edition 
        '<p>Download links open on release day, 2026-10-15.</p>'
        '<h2>How it was built</h2><p>One fixed question per business or segment goes to each engine every day, and each answer is stored as a raw file with its SHA-256. '
        'The settings of every engine are in the method note. <a href="%s/method/">Read the method</a>.</p>'
-       '<h2>Verify it yourself</h2><p>The pack ships with <code>verify.py</code> (Python standard library only) and <code>MANIFEST.sha256</code>. In the downloaded folder run:</p>'
+       '<h2>Verify it yourself</h2><p>The pack ships with <code>verify.py</code> (no packages beyond the Python standard library) and <code>MANIFEST.sha256</code>. In the downloaded folder run:</p>'
        '<pre class="pv-q" style="font-style:normal;white-space:pre-wrap">python3 verify.py              # every file against MANIFEST.sha256\npython3 verify.py --rebuild    # also rebuild the answers table from the raw answers\npython3 verify.py --metrics    # also recompute the metrics table</pre>'
        '<p>It prints MATCH or MISMATCH for every file and ends with <code>VERIFY MATCH</code> when everything checks. Exit code 0 means every file matched.</p>'
        '<h2>When credit is not possible</h2>'
