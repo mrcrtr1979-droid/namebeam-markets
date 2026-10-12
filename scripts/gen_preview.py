@@ -3,14 +3,20 @@
 Run: python3 gen_preview.py   (idempotent: wipes OUT first)"""
 import json, glob, os, re, csv, io, hashlib, html, collections, datetime, shutil, sys
 
-SITE = '/home/claude/namebeam-site'
-OUT = '/home/claude/namebeam-markets/preview'
+# GO-LIVE SWITCH (COS [FABLE-COS-1011A] 2026-10-12): NB_LIVE=1 builds the same pages for the site root: no /preview prefix,
+# no robots noindex, no preview banner, corpus link public, no noindex _headers line. Default stays the preview build.
+# NB_SITE / NB_OUT override the clone paths. Live mode writes to NB_OUT (a scratch dir), never into the repo root directly.
+LIVE = os.environ.get('NB_LIVE') == '1'
+SITE = os.environ.get('NB_SITE', '/home/claude/namebeam-site')
+OUT = os.environ.get('NB_OUT', '/home/claude/namebeam-markets/preview')
+if LIVE and os.path.abspath(OUT) == os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')):
+    sys.exit('NB_OUT must be a scratch dir in live mode, not the repo root (the generator wipes OUT first)')
 BUILD = '2026-10-09'
 STRIPE_PACK = 'https://buy.stripe.com/28EaEX8Bm0SB5eE4hadIA0T'
 PENDING = '#PAYMENT_LINK_PENDING'
-P = '/preview'
+P = '' if LIVE else '/preview'
 # Corpus link stays hidden until the Edition 1 release on 2026-10-15 (D3 audit, COS STRATEGIC_PLAN_1009B move 2). Flip to True at go-live.
-CORPUS_PUBLIC = False
+CORPUS_PUBLIC = LIVE
 CORPUS_HIDDEN_TXT = 'The raw answer files are released with Edition 1 on 2026-10-15.'
 MAKERS_URL = 'https://shop.namebeam.ai/'
 FLAGSHIPS_URL = 'https://terryjcarter7.gumroad.com/'
@@ -106,14 +112,14 @@ HEADER = ('<header>\n  <a class="brand" href="%s/" style="text-decoration:none">
           '    <div><div class="name">Name<span>beam</span></div><div class="tag">The dated record of who AI names</div></div>\n'
           '  </a>\n  <nav>\n    %s\n  </nav>\n</header>') % (P, LOGO, NAV)
 
-BANNER = '<div class="pv-banner">Preview build %s. Not the live site. Prices are the approved prices; buy buttons go live when the payment links exist.</div>' % BUILD
+BANNER = '' if LIVE else '<div class="pv-banner">Preview build %s. Not the live site. Prices are the approved prices; buy buttons go live when the payment links exist.</div>' % BUILD
 
 def page(path, title, desc, body, hero=False, head=''):
     doc = ('<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n'
            '<meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
            '<title>%s</title>\n<meta name="description" content="%s">\n'
-           '<meta name="robots" content="noindex, nofollow">\n'
-           '<link rel="stylesheet" href="/preview/site.css">\n%s</head>\n<body>\n%s\n%s\n<main>\n%s\n</main>\n\n%s\n</body>\n</html>\n'
+           + ('' if LIVE else '<meta name="robots" content="noindex, nofollow">\n') +
+           '<link rel="stylesheet" href="' + P + '/site.css">\n%s</head>\n<body>\n%s\n%s\n<main>\n%s\n</main>\n\n%s\n</body>\n</html>\n'
            ) % (esc(title), esc(desc), head, BANNER, HEADER, body, FOOTER)
     w(path, doc)
 
@@ -634,7 +640,8 @@ page('corrections/index.html', 'Corrections | Namebeam', 'Dated log of correctio
 
 # ---------- manifest + headers ----------
 w('site.css', STYLE + EXTRA_CSS)
-w('../_headers', '/preview/*\n  X-Robots-Tag: noindex, nofollow\n')
+if not LIVE:
+    w('../_headers', '/preview/*\n  X-Robots-Tag: noindex, nofollow\n')
 MANIFEST.sort(key=lambda x: x[1])
 w('record/manifest.sha256', ''.join('%s  %s\n' % m for m in MANIFEST))
 
