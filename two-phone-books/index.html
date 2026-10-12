@@ -54,6 +54,7 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="num">90%</div>
 <h2>live in a single universe</h2>
 <p>Of 248 named businesses in the 22 local markets (Perplexity's per-market top-10 and Google's per-market top-10, non-business phrases removed), 223 (89.9%) appear in only one of the two lists and 25 appear in both. Some of the most AI-dominant businesses in the corpus sit outside Google's top-10 entirely: Arrington Roofing in Dallas, named by Perplexity on 24 days, never appears in Google's most-cited list for Dallas. Others live in both books: Google also cited the sites of All Star Movers (Pleasanton, 10 days), Reliable Heating &amp; Air (Atlanta, 10 days) and Gates Enterprises (Denver, its site gatesroof.com, 6 days).</p>
+<div class="caveat">These overlap figures come from the extracted name lists, which under-count names that appear in the answer text for every engine (method note DQ-5, 2026-10-12); a recount from the saved answer text is in progress.</div>
 <p><b>So what:</b> every SEO agency on earth is still optimizing for one phone book. The second phone book has different winners, and nobody is reading it. AI answers are 3 to 5 names, not 10 blue links, second place in AI is tenth place in Google.</p>
 <div class="caveat">Method note: the comparison uses published top-10 lists per market with case-insensitive name normalization, and even that understates the mess. Perplexity's own Denver top-10 lists both "Cenco Roofing" and "CENCO Roofing" (same business, counted twice), while Google sometimes cites domains (e.g. allstarmoverscal.com) rather than business names. Normalization debt lives inside our own lists too. The directional finding, two largely disjoint winner sets, is robust to that. Recomputed Oct 6, 2026 from the published per-market reports with non-business phrases removed: 248 distinct named businesses in the 22 local markets, 25 in both sets (223 of 248, 89.9% in one universe). The 2026-10-01 version showed 276 businesses, 26 in both sets and 90.6%; those figures could not be reproduced from the public reports. The cut before that showed 282 / 29. A few businesses appear on both lists under variant names (trade name vs. legal entity); the overlap count uses exact-name matching.</div>
 <div class="caveat">Corrected 2026-10-06: counts recomputed with non-business phrases removed. The version published 2026-10-01 showed 276 businesses, 26 in both sets, 90.6% in one universe.</div>
@@ -64,7 +65,7 @@ footer .eq{font-style:italic;margin-top:8px}
 <h2>businesses per niche-market: the real engine ranking</h2>
 <p>Our own September recap ranked OpenAI (880) above Gemini (870) on raw totals. That was a coverage artifact, Pleasanton tracks 8 niches, Los Angeles tracks 1. Normalized per niche-market, the ranking reverses:</p>
 <p><b>Gemini 21.2 &middot; OpenAI 18.7 &middot; Perplexity 17.8 &middot; Google SERP 13.7 &middot; Anthropic 1.5</b></p>
-<p><b>So what:</b> raw totals mislead; per niche-market counts depend on the method: counting every name, Gemini is highest; counting only names that are businesses, it is not (our recount of 2026-10-04, second check in progress). Gemini returned names on 25 September dates and none after September 26, so this describes September, not Gemini today. We are correcting our own published headline below, because the standard applies to us first.</p>
+<p><b>So what:</b> raw totals mislead; per niche-market counts depend on the method: counting every name, Gemini is highest; counting only names that are businesses, it is not (our recount of 2026-10-04, second check in progress). Gemini named a business on 26 September dates and on none after September 26; every Gemini run from September 27 to October 11 was quota-blocked or failed, so this describes September, not Gemini today. We are correcting our own published headline below, because the standard applies to us first.</p>
 </div>
 
 <div class="correction">
@@ -75,7 +76,7 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="finding">
 <div class="num">76</div>
 <h2>of Claude's 114 namings are nationwide digital products</h2>
-<p>Claude's 114 total namings include 76 nationwide digital products (AI tools, courses), verified from the US-nationwide data. The remaining 38 are short-term-rental listings and traditional local services; the published per-market JSONs don't separate that split, so we print what verifies. For plumbers, roofers, HVAC techs, and lawyers, Claude named zero businesses in 15 of 22 markets.</p>
+<p>Claude's 114 total namings include 76 nationwide digital products (AI tools, courses), verified from the US-nationwide data. The remaining 38 are short-term-rental listings and traditional local services; the published per-market JSONs don't separate that split, so we print what verifies. In September 1 to 28, 2026, Claude named no business on any answer day in 7 of the 9 local markets where it was asked about roofers, HVAC techs or lawyers. Denver and Liberty, MO were the exceptions.</p>
 <p><b>So what:</b> this isn't blindness, it's architecture. Claude answers from training memory, travel, software, and has no local-service knowledge to draw on. "AI visibility" is not one thing; it depends on how each engine knows what it knows.</p>
 </div>
 
@@ -83,12 +84,13 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="num">31%</div>
 <h2>of top-10 slots turned over within days</h2>
 <p>68 of 218 Perplexity top-10 slots turned over within days. Only 49 businesses held steady (15+ days at 70%+ of their window) across the full month. Late September saw fresh entrants, five Columbus tanning salons entered the top-10 in the final week, each for a day or two.</p>
+<div class="caveat">These overlap figures come from the extracted name lists, which under-count names that appear in the answer text for every engine (method note DQ-5, 2026-10-12); a recount from the saved answer text is in progress.</div>
 <p><b>So what:</b> AI visibility rotates weekly. A monthly check-up may be the wrong cadence, by the time a monthly report arrives, the winners have changed. This one is an open product question, stated as such.</p>
 </div>
 
 <div class="finding">
 <h2>The strangest number in the corpus</h2>
-<p>Gemini posts a high per niche-market count on all names, then names <b>zero</b> marketing agencies across three agency verticals (Los Angeles, Maryland, San Francisco: 0, 0, 2) while OpenAI names 24, 7, and 9. Same engine, same month, total blackout in exactly one vertical. We don't know why yet. The query-level data to answer it lives in the raw corpus, and we're going after it.</p>
+<p>Gemini posts a high per niche-market count on all names, then, in September 1 to 28, 2026, Gemini returned no answered run for the Los Angeles AI-agency or Maryland consultancy questions, and named one San Francisco agency on its one answered day. OpenAI named an agency on 19 of 28 Los Angeles answer days, 4 of 28 Maryland and 11 of 28 San Francisco. We don't know why yet. The query-level data to answer it lives in the raw corpus, and we're going after it.</p>
 <div class="caveat">Printed as an unsolved anomaly, not a conclusion. That's the standard.</div>
 </div>
 
@@ -96,6 +98,7 @@ footer .eq{font-style:italic;margin-top:8px}
 <div class="finding">
 <h2>The other direction: 179 businesses AI names that Google never cites</h2>
 <p>The gap runs both ways. <b>179 businesses</b> sit in Perplexity&rsquo;s per-market &ldquo;Most named&rdquo; tables and never appear in Google&rsquo;s &ldquo;Most cited&rdquo; tables, including the corpus&rsquo;s most-named roofer (Arrington Roofing, Dallas, 24 of 28 days). AI&rsquo;s darlings, invisible to the old phone book. Recomputed 2026-10-01 from the public reports alone; the <a href="/invisible-100/">Invisible 100</a> carries the reverse list.</p>
+<div class="caveat">These overlap figures come from the extracted name lists, which under-count names that appear in the answer text for every engine (method note DQ-5, 2026-10-12); a recount from the saved answer text is in progress.</div>
 <table>
 <tr><th>Business</th><th>Market</th><th>Niche</th><th style="text-align:right">Perplexity days</th></tr>
 <tr><td>Arrington Roofing</td><td>Dallas, TX</td><td style="font-size:13px;color:#6b5f45">residential roofing</td><td class="n">24</td></tr>
@@ -283,7 +286,7 @@ footer .eq{font-style:italic;margin-top:8px}
 
 <div class="method">
 <h3>Methodology</h3>
-<p>Runs on September 1 to 28, 2026. Not every engine answered with names every day: in the raw September record Perplexity named businesses on 27 dates, OpenAI and Gemini on 25. 22 local US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Everything here is computed from the September corpus; the 24 per-market reports are public and every figure above can be checked against them. Headline figures are rounded, and the unrounded values are printed alongside.</p>
+<p>Runs on September 1 to 28, 2026. Not every engine answered with names every day: Perplexity named businesses on 25 September dates, OpenAI on 28, Gemini on 26 and Anthropic on 28 (text rule, Sept 1 to 28). 22 local US markets, 33 niches. Four AI assistants (ChatGPT, Claude, Perplexity, Gemini) plus Google SERP as baseline. Same buyer-intent questions per market, every answer dated. Counts are distinct businesses named per engine per market from the published per-market JSONs; per-business day counts from Perplexity and Google top-10 cuts. Engine coverage figures are distinct-businesses-per-market from engine_coverage. Churn figures use first/last/days fields. Everything here is computed from the September corpus; the 24 per-market reports are public and every figure above can be checked against them. Headline figures are rounded, and the unrounded values are printed alongside.</p>
 <p>All 24 per-market reports: <a href="/reports/">markets.namebeam.ai/reports/</a></p>
 </div>
 
