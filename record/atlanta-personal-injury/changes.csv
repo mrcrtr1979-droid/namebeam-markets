@@ -1,0 +1,365 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,"Goldstein Hayes, LLC",perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Guardian Accident & Injury Lawyers,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Hammers Law Firm,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Simon Bridgers Spires,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,Simon Bridgers Spires,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,The Baer Law Firm,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,"Goldstein Hayes, LLC",perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Hammers Law Firm,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Tobin Injury Law,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Guardian Accident & Injury Lawyers,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Simon Bridgers Spires,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,The Baer Law Firm,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,The Baer Law Firm,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Gary Martin Hays & Associates,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Hammers Law Firm,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Montlick,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Simon Bridgers Spires,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,TopDog Law,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Van Sant Law,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,The Baer Law Firm,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Montlick,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,The Angell Law Firm,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,TopDog Law,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Morgan & Morgan,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Schedule 2-3 Free Consultations,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,entered,Shiver Hamilton Campbell,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Bey & Associates,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Hammers Law Firm,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-16,2026-08-15,1,openai anthropic perplexity gemini google_serp,dropped,The Kalka Law Group,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,Gary Martin Hays & Associates,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,The Angell Law Firm,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Simon Bridgers Spires,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,The Angell Law Firm,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Van Sant Law,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Bey & Associates,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Butler Law Firm,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,David M. Van Sant,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Disclaimer,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Gary Martin Hays & Associates,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,"Goldstein Hayes, LLC",perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Google Reviews,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Monge & Associates,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,Scholle Law,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,entered,The Angell Law Firm,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Butler Kahn,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Reputation,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,State Bar of Georgia Directory,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity gemini google_serp,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Van Sant Law,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,David M. Van Sant,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,The Angell Law Firm,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,David M. Van Sant,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Gary Martin Hays & Associates,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,"Goldstein Hayes, LLC",perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Van Sant Law,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,Hammers Law Firm,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,The Angell Law Firm,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,David M. Van Sant,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,David M. Van Sant,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,Sweet James,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,TopDog Law,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,dropped,The Angell Law Firm,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Fox Injury Law,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Montlick,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,entered,Van Sant Law,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,David M. Van Sant,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Hammers Law Firm,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Sweet James,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,TopDog Law,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Bey & Associates (N. John Bey,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Butler Law Firm,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Gary Martin Hays & Associates,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,"Goldstein Hayes, LLC",perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Reputation,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Shiver Hamilton Campbell,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Sweet James,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,The Angell Law Firm,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,The Champion Firm,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Tobin Injury Law,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Bader Scott Injury Lawyers,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Butler Kahn,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Fox Injury Law,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Fried Goldberg LLC,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Lead Attorney,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Montlick,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Specialization,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,The Kalka Law Group,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Trial Experience,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Butler Kahn,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Fee Structure,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Fried Goldberg LLC,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Hammers Law Firm,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,"Kenneth S. Nugent, P.C",gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Morgan & Morgan (Atlanta Office,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,The Kalka Law Group,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Trial Experience,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Bey & Associates (N. John Bey,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Butler Law Firm,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,"Goldstein Hayes, LLC",perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Reputation,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Shiver Hamilton Campbell,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Sweet James,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,The Champion Firm,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Tobin Injury Law,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,entered,The Baer Law Firm,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Hammers Law Firm,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,"Goldstein Hayes, LLC",perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Tobin Injury Law,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,The Angell Law Firm,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,Van Sant Law,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Gary Martin Hays & Associates,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,The Baer Law Firm,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Hammers Law Firm,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,The Angell Law Firm,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Butler Kahn,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Fee Structure,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Focus,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Specialization,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,The Baer Law Firm,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,The Kalka Firm,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,"Goldstein Hayes, LLC",perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Hammers Law Firm,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Lead Attorney,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Shiver Hamilton Campbell,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,State Bar of Georgia Directory,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,The Kalka Law Group,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Bey & Associates (N. John Bey,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Disclaimer,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Morgan & Morgan,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Shiver Hamilton Campbell,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Van Sant Law,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Bey & Associates,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Fee Structure,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Focus,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Scholle Law,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Specialization,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,The Angell Law Firm,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,The Baer Law Firm,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,The Kalka Firm,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Tobin Injury Law,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Bey & Associates (N. John Bey,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Focus,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Montlick & Associates,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Morgan & Morgan (Atlanta Office,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Bey & Associates,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Monge & Associates,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Morgan & Morgan,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,"The Champion Firm, Personal Injury Attorneys, P.C",gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Bader Scott Injury Lawyers,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Bey & Associates,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Gary Martin Hays & Associates,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Google Reviews,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Morgan & Morgan,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,"The Champion Firm, Personal Injury Attorneys, P.C",gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,BLADE Injury Law,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Bey & Associates (N. John Bey,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Focus,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Montlick & Associates,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Shiver Hamilton Campbell,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Butler Kahn (Butler Law Firm,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Disclaimer,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Hammers Law Firm,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Morgan & Morgan (Atlanta Office,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Scholle Law,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,The Angell Law Firm,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,The Kalka Law Group,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Bader Scott Injury Lawyers,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Butler Kahn,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Fried Goldberg LLC,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Google Reviews,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,"The Champion Firm, Personal Injury Attorneys, P.C",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,BLADE Injury Law,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Hammers Law Firm,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,The Angell Law Firm,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Gary Martin Hays & Associates,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,BLADE Injury Law,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Tobin Injury Law,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,David M. Van Sant,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Hammers Law Firm,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,"Kenneth S. Nugent, P.C",gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Montlick,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Morgan & Morgan (Atlanta Office,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,The Angell Law Firm,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,The Kalka Law Group,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,TopDog Law,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,John Foy & Associates,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Montlick & Associates,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Rafi Law Firm,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Tobin Injury Law,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Van Sant Law,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,John Foy & Associates,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Montlick & Associates,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Tobin Injury Law,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Fried Goldberg LLC,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,"Kenneth S. Nugent, P.C",gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Montlick,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Shiver Hamilton Campbell,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,TopDog Law,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Bader Scott Injury Lawyers,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Bey & Associates,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Caseload,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Fee Structure,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Fried Goldberg LLC,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Schedule 2-3 Free Consultations,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,The Kalka Firm,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Van Sant Law,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,David M. Van Sant,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Gary Martin Hays & Associates,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Montlick & Associates,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,The Kalka Law Group,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Butler Kahn (Butler Law Firm,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Gary Martin Hays & Associates,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Morgan & Morgan (Atlanta Office,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Scholle Law,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,The Kalka Law Group,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Bader Scott Injury Lawyers,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Butler Kahn,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Caseload,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Fried Goldberg LLC,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Hammers Law Firm,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Schedule 2-3 Free Consultations,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,The Kalka Firm,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Van Sant Law,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Butler Kahn,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Fox Injury Law,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Fried Goldberg LLC,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,"Kenneth S. Nugent, P.C",gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Morgan & Morgan,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,"The Champion Firm, Personal Injury Attorneys, P.C",gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Butler Kahn (Butler Law Firm,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Fee Structure,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Gary Martin Hays & Associates,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Scholle Law,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,The Kalka Law Group,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Gary Martin Hays & Associates,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Hammers Law Firm,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,TopDog Law,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Bey & Associates,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Butler Kahn,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Fox Injury Law,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Fried Goldberg LLC,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,"Kenneth S. Nugent, P.C",gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,"The Champion Firm, Personal Injury Attorneys, P.C",gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Tobin Injury Law,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Tobin Injury Law,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Van Sant Law,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Stewart Miller Simmons Trial Attorneys,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,TopDog Law,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Butler Kahn,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Gary Martin Hays & Associates,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Fox Injury Law,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,The Angell Law Firm,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Tobin Injury Law,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,David M. Van Sant,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Gary Martin Hays & Associates,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Rafi Law Firm,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Simon Bridgers Spires,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Fox Injury Law,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Van Sant Law,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Bey & Associates,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Caseload,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Disclaimer,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Fee Structure,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Montlick,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Morgan & Morgan,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Scholle Law,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Specialization,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,State Bar of Georgia Directory,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Butler Law Firm,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,David M. Van Sant,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Gary Martin Hays & Associates,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Morgan & Morgan (Atlanta Office,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Rafi Law Firm,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Shiver Hamilton Campbell,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,The Kalka Law Group,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,Tobin Injury Law,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Montlick,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Simon Bridgers Spires,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,"Goldstein Hayes, LLC",perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Montlick,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Wetherington Law Firm,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Tobin Injury Law,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,David M. Van Sant,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Butler Kahn,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,"Goldstein Hayes, LLC",perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Butler Kahn,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,The Champion Firm,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Van Sant Law,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Hammers Law Firm,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Morgan & Morgan,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Tobin Injury Law,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Butler Kahn,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,The Champion Firm,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Wetherington Law Firm,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Gunnels Injury Law,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Hammers Car Accident & Personal Injury,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Piasta Walker Hagenbush,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Rafi Law Firm,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Thomas J. Ashenden,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,John Foy & Associates,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Montlick,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Morgan & Morgan,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Tobin Injury Law,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Van Sant Law,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,David M. Van Sant,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Gunnels Injury Law,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Hammers Car Accident & Personal Injury,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Piasta Walker Hagenbush,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Rafi Law Firm,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Thomas J. Ashenden,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Brandon Hornsby of Hornsby Law Group,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Brandon Hornsby of Hornsby Law Group,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Ronnie Mabra,perplexity

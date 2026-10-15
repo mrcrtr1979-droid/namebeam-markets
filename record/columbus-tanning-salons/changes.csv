@@ -1,0 +1,181 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Sun Studio Tan,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Urban Sun Tanning,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,South Beach Tanning Company,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Tan Wolf,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Bask Spray Tanning,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Organic Glow Spray Tan,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Summary Recommendation,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Sweetly Bronzed,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Sun Studio Tan,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Urban Sun Tanning,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Glo Tanning,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Glow Sunless,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Sun Bubble Tanning Salon,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Sun Studio Tan,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Tan Wolf,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Bask Spray Tanning,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Organic Glow Spray Tan,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Summary Recommendation,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Sweetly Bronzed,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,UV bed tanning,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,South Beach Tanning Company,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Summary Recommendation,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Sweetly Bronzed,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,The Bronzed Bunny,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Glow Sunless,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Highlights,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Sun Bubble Tanning Salon,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Sun Studio Tan,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Tan Wolf,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Glo Tanning,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Sun Studio Tan,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Ultra Tan,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,South Beach Tanning Company,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Summary Recommendation,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Sweetly Bronzed,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,The Bronzed Bunny,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,UV bed tanning,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,Tan Wolf,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Locations,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Ultra Tan,gemini
+2026-09-02,2026-09-01,1,openai anthropic gemini google_serp,dropped,Sun Tan City,gemini
+2026-09-02,2026-09-01,1,openai anthropic gemini google_serp,dropped,The Bronzing Bar,gemini
+2026-09-02,2026-09-01,1,openai anthropic gemini google_serp,dropped,UV bed tanning,gemini
+2026-09-03,2026-09-02,1,openai anthropic gemini google_serp,entered,Glow Sunless Tanning,gemini
+2026-09-03,2026-09-02,1,openai anthropic gemini google_serp,entered,Highlights,gemini
+2026-09-03,2026-09-02,1,openai anthropic gemini google_serp,entered,Location,gemini
+2026-09-03,2026-09-02,1,openai anthropic gemini google_serp,entered,Palm Beach Tan,gemini
+2026-09-03,2026-09-02,1,openai anthropic gemini google_serp,entered,Sun Tan City,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,entered,Convenience,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,entered,Equipment,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,entered,Locations,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,entered,The Bronzed Bunny,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,dropped,Highlights,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,dropped,Sun Tan City,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,dropped,Glow Sunless Tanning,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,dropped,Locations,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,dropped,Sun Bubble Tanning Salon,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini google_serp,dropped,UV bed tanning,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Glo Tanning,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Tan Wolf,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Tan Wolf,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Glo Tanning,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Glo Tanning,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Organic Bronze Bar,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Ultra Tan,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Urban Sun Tanning,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Bask Spray Tanning,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Mystic Tan,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,UV bed tanning,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,VersaSpa Pro,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Organic Glow Spray Tan,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Sun Tan City,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Glo Tanning,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Location,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Locations,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Organic Bronze Bar,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Tan Wolf,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Ultra Tan,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Bask Spray Tanning,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Glow Sunless Tanning,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Locations,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Sun Bubble Tanning Salon,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Organic Glow Spray Tan,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Urban Sun Tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Tan Wolf,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,dropped,Sun Bubble Tanning Salon,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini google_serp,entered,Glow Sunless,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini google_serp,dropped,Bask Spray Tanning,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini google_serp,dropped,Tan Wolf,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini google_serp,dropped,UV bed tanning,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,entered,VersaSpa Pro,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,dropped,Glow Sunless,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,entered,Glo Tanning,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,Glow Sunless Tanning,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa Pro,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,entered,Glo Tanning,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Glo Tanning,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Sun Studio Tan,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Sun Studio Tan,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Tan Wolf,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Bronzed Bunny,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Glo Tanning,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - Georgesville,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Sun Studio Tan,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Tan Wolf,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Dolphin Beach Tan,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Sun Studio Tan,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Bronzed Bunny,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Glo Tanning,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,The Bronzing Bar,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - Georgesville,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Glo Tanning,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,Dolphin Beach Tan,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,Sun Studio Tan,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Bronzed Bunny,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Sun Studio Tan,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - Georgesville,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - OSU Campus/Grandview,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - Upper Arlington,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,The Bronzing Bar,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Bronzed Bunny,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Glo Tanning,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,GLOW Airbrush Tanning,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan on Olentangy River Road,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Tan Wolf,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - Georgesville,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - OSU Campus/Grandview,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - Upper Arlington,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Sun Studio Tan,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,The Bronzing Bar,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Sweetly Bronzed,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,GLOW Airbrush Tanning,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Tan Wolf,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Sun Studio Tan,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,The Bronzing Bar,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan on Olentangy River Road,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Sweetly Bronzed,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan on Olentangy River Road,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,The Bronzing Bar,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Mahalo Spray Tanning,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan on Olentangy River Road,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan on Olentangy River Road,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Sweetly Bronzed,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Mahalo Spray Tanning,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Tan Wolf,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan on Olentangy River Road,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Sun Studio Tan,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Sweetly Bronzed,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,GLOW Airbrush Tanning,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Palm Beach Tan - OSU Campus/Grandview,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Sun Studio Tan,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Tan Wolf,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,GLOW Airbrush Tanning,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - OSU Campus/Grandview,perplexity

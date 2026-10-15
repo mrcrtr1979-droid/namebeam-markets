@@ -1,0 +1,209 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Blaise Lofland,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Doug Buenz,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Gina Piper,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,List-to-Sale Ratio,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Marketing Plan,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Strengths,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Blaise Lofland (Compass,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,DeAnna Armario (Armario Homes / Compass,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Hyper-Local Experience,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Joujou Chawla (Compass,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Comparative Market Analysis (CMA,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Intero Real Estate Services,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Blaise Lofland,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Marketing Plan,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Pricing Strategy,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Ralph Hurtado (EXP Realty,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Strengths,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Comparative Market Analysis (CMA,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Intero Real Estate Services,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,List-to-Sale Ratio,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Reputation,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Blaise Lofland (Compass,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Comparative Market Analysis (CMA,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,DeAnna Armario (Armario Homes / Compass,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Joujou Chawla (Compass,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,List-to-Sale Ratio,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Strengths,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,DeAnna Armario (Armario Homes / Compass,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Joujou Chawla (Compass,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,List-to-Sale Price Ratio,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Varsha Upadhye,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Anil Kumar,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Anil Kumar,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Intero Real Estate Services,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Katie Moe,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Keller Williams Tri-Valley,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,List-to-Sale Ratio,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Marketing Plan,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Pricing Strategy,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,2 to 3 agents,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,DeAnna Armario (Armario Homes / Compass,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Joujou Chawla (Compass,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,List-to-Sale Price Ratio,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Coldwell Banker,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Jon Ahern & Camille Ahern,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Keller Williams,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Katie Moe,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Coldwell Banker,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Keller Williams,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Berkshire Hathaway,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Coldwell Banker,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Keller Williams,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Anil Kumar,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Jing Xue,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Kim Deol,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Blaise Lofland,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,DeAnna Armario,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,List-to-Sale Price Ratio,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Ponderosa,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Ruby Hill,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Vintage Hills,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,2 to 3 agents,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Berkshire Hathaway,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Blaise Lofland (RE/MAX Accord,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Coldwell Banker,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Hyper-Local Experience,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Jon Ahern & Camille Ahern,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Keller Williams,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,List-to-Sale Ratio,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Listing Presentation,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,2 to 3 agents,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Comparative Market Analysis (CMA,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Jon Ahern & Camille Ahern,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Liz Venema / Venema Homes Team,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Schedule Listing Presentations,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,The Gamache Team,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Blaise Lofland,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Gina Piper,perplexity gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,List-to-Sale Price Ratio,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Ponderosa,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Ruby Hill,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Vintage Hills,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Berkshire Hathaway,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Blaise Lofland (Compass,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Coldwell Banker,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,DeAnna Armario (Armario Homes / Compass,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Keller Williams,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,List-to-Sale Ratio,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,2 to 3 agents,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,DeAnna Armario,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Jon Ahern & Camille Ahern,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,The Gamache Team,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Jon Ahern & Camille Ahern,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Ponderosa,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Ruby Hill,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Berkshire Hathaway,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Blaise Lofland (Compass,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Coldwell Banker,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Keller Williams,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,List-to-Sale Ratio,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Schedule Listing Presentations,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Blaise Lofland (RE/MAX Accord,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Coldwell Banker,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Keller Williams,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Listing Presentation,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Strengths,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Comparative Market Analysis (CMA,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Liz Venema / Venema Homes Team,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Ponderosa,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Ruby Hill,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Joujou Chawla (Compass,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Liz Venema / Venema Homes Team,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Blaise Lofland (RE/MAX Accord,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Coldwell Banker,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,DeAnna Armario (Armario Homes / Compass,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Jon Ahern & Camille Ahern,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Keller Williams,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Listing Presentation,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Strengths,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,2 to 3 agents,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Blaise Lofland (Compass,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Hyper-Local Track Record,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Jon Ahern & Camille Ahern,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Marketing Plan,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Anil Kumar,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Jing Xue,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Kim Deol,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Liz Venema / Venema Homes Team,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Gina Piper,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Anil Kumar,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Jing Xue,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Jon Ahern & Camille Ahern,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Kim Deol,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Jon Ahern & Camille Ahern,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Coldwell Banker,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Jing Xue,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Keller Williams,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Gina Piper,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Gina Piper,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Liz Venema / Venema Homes Team,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Ralph Hurtado (EXP Realty,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Jing Xue,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Jon Ahern & Camille Ahern,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Stephanie Wedge,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Coldwell Banker,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Gina Piper,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Keller Williams,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Ralph Hurtado (EXP Realty,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Coldwell Banker,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Keller Williams Tri-Valley,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Gina Piper,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Vintage Hills,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Coldwell Banker,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Keller Williams Tri-Valley,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Liz Venema / Venema Homes Team,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Stephanie Wedge,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,David Darby Group,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Mario Gutierrez,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,"Sunmeet ""Sunny"" Anand",perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Susan Gao,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Gina Piper,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Varsha Upadhye,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Vintage Hills,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Deanna Armario,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Tim McGuire,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,David Darby Group,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Doug Buenz,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Mario Gutierrez,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,"Sunmeet ""Sunny"" Anand",perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Susan Gao,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Doug Buenz,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Deanna Armario,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Tim McGuire,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Blaise Lofland,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Coldwell Banker,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Katie Moe,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Keller Williams,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Stacy Hale,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Doug Buenz,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Doug Buenz,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Blaise Lofland,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Coldwell Banker,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Keller Williams,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Stacy Hale,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Coldwell Banker,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Keller Williams Tri-Valley,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Lori Olson,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Doug Buenz,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Katie Moe,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Doug Buenz,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Keller Williams,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Michael Tessaro at Intero,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Keller Williams Tri-Valley,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Lori Olson,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Katie Moe,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Lori Olson,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Sue Flashberger,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Doug Buenz,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Michael Tessaro at Intero,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Katie Moe,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Keller Williams,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Sue Flashberger,perplexity

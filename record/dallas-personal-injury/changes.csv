@@ -1,0 +1,286 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Aldous \ Walker LLP,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Federal Motor Carrier Safety Administration (FMCSA,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Financial Resources,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Focus,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Guajardo & Marks,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,"Hamilton Wingo, LLP",gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Immediate Investigative Capabilities,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Slack Davis Sanger LLP,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Texas Board Certification,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,The Law Offices of Frank L. Branson,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,entered,Trial Readiness,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Board Certification,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Crain Brogdon,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Frenkel & Frenkel,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Immediate Evidence Preservation,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Mullen & Mullen,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Mullen & Mullen Law Firm,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Reputation,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Slack Davis Sanger,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity gemini google_serp,dropped,Trial Experience,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,Lyons & Simmons,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Thomas J. Henry Law,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Zehl & Associates,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,The Law Giant / Texas Legal Group,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Zehl & Associates,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Witherite Law Group,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Grossman Law Offices,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Witherite Law Group,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,The Law Giant / Texas Legal Group,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity,entered,Thomas J. Henry Law,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity,dropped,Witherite Law Group,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity,dropped,Zehl & Associates,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity,entered,Zehn Law,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity,dropped,Lyons & Simmons,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity,dropped,Thomas J. Henry Law,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Mullen & Mullen,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Zehl & Associates,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Zehn Law,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,Lyons & Simmons,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,Zehn Law,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Mullen & Mullen,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Zehl & Associates,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Zehl & Associates,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Zehn Law,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Mullen & Mullen,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Thomas J. Henry Law,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Mullen & Mullen,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Mullen & Mullen,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Thomas J. Henry Law,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,Mullen & Mullen Law Firm,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,Mullen & Mullen,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,entered,Mullen & Mullen,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,entered,The Law Offices of Frank L. Branson,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,Mullen & Mullen Law Firm,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity,entered,Montgomery Law,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity,dropped,Mullen & Mullen,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Angel Reyes & Associates,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Mullen & Mullen,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Thomas J. Henry Law,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,dropped,Montgomery Law,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Board Certification,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Frenkel & Frenkel,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Rasansky Law Firm,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Spoliation Letter,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Trial Experience,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Angel Reyes & Associates,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Experience with FMCSA Regulations,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Guajardo & Marks,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Mullen & Mullen Law Firm,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Reputation,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Schedule 2-3 Free Consultations,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Ted B. Lyon & Associates,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Texas Board Certification,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Thomas J. Henry Law,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Angel Reyes & Associates,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Board Certification in Personal Injury Trial Law,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Charla Aldous (Aldous \ Walker LLP,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Financial Capital,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Immediate Evidence Preservation,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Mullen & Mullen Law Firm,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Schedule 2-3 Free Consultations,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Trial Readiness,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Board Certified in Personal Injury Trial Law,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Financial Resources,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Frenkel & Frenkel,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Rasansky Law Firm,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Slack Davis Sanger,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Spoliation Letter,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Board Certified in Personal Injury Trial Law,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Federal Motor Carrier Safety Administration (FMCSA,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Frenkel & Frenkel,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Rasansky Law Firm (Jeff Rasansky,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Spoliation Letter,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Angel Reyes & Associates,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Board Certification in Personal Injury Trial Law,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Charla Aldous (Aldous \ Walker LLP,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Financial Capital,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Immediate Evidence Preservation,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Schedule 2-3 Free Consultations,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Trial Readiness,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,The Law Offices of Frank L. Branson,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,The Barber Law Firm,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Mullen & Mullen,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Slack Davis Sanger LLP,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Financial Resources,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Immediate Evidence Preservation,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Lead Attorney,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Spoliation Letter,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Ted B. Lyon & Associates,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,"Zehl & Associates, PC",gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Aldous \ Walker LLP (Charla Aldous,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Federal Motor Carrier Safety Administration (FMCSA,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Frenkel & Frenkel,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Spoliation Letter,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Ted B. Lyon & Associates,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Winocour Law,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,"Zehl & Associates, PC",gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Lyons & Simmons,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Rasansky Law Firm,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Slack Davis Sanger LLP,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,The Barber Law Firm,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,"Hamilton Wingo, LLP",gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Overview,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Ted B. Lyon & Associates,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Trial Readiness,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Witherite Law Group (Amy Witherite,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Focus,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Frenkel & Frenkel,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Rasansky Law Firm (Jeff Rasansky,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Schedule 2-3 Free Consultations,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Slack Davis Sanger,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Aldous \ Walker LLP,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Board Certification,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Board Certified in Personal Injury Trial Law,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Capital and Resources,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Frenkel & Frenkel,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Mullen & Mullen Law Firm,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Witherite Law Group,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Board Certification in Personal Injury Trial Law,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Texas Board of Legal Specialization (TBLS,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Trial Readiness,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Witherite Law Group (Amy Witherite,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Board Certification in Personal Injury Trial Law,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Financial Resources,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Slack Davis Sanger,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Board Certification,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Board Certified in Personal Injury Trial Law,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Capital and Resources,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Frenkel & Frenkel,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,"Hamilton Wingo, LLP",gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Ted B. Lyon & Associates,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Witherite Law Group,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Mullen & Mullen,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Grossman Law Offices,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Grossman Law Offices,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Lyons & Simmons,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,The Law Offices of Frank L. Branson,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,The Law Giant / Texas Legal Group,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Lyons & Simmons,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Mullen & Mullen,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,dropped,The Law Giant / Texas Legal Group,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Winocour Law,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Witherite Law Group,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Aldous \ Walker LLP (Charla Aldous,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Board Certification,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Financial Capital,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,"Hamilton Wingo, LLP (Chris Hamilton",gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Letter of Spoliation,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Rasansky Law Firm (Jeff Rasansky,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Trial Experience,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Witherite Law Group (Amy Witherite,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,"Zehl & Associates, PC",gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Aldous \ Walker LLP,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Focus,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Frenkel & Frenkel,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Mullen & Mullen Law Firm,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Slack Davis Sanger LLP,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Spoliation Letter,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Texas Board of Legal Specialization (TBLS,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Winocour Law,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Witherite Law Group,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Zehl & Associates PC,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Charla Aldous (Aldous \ Walker LLP,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Financial Resources,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Mullen & Mullen Law Firm,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Trial Readiness,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Aldous \ Walker LLP (Charla Aldous,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Financial Capital,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,"Hamilton Wingo, LLP (Chris Hamilton",gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Letter of Spoliation,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Rasansky Law Firm (Jeff Rasansky,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Trial Experience,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Witherite Law Group (Amy Witherite,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,"Zehl & Associates, PC",gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Montgomery Law,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Mullen & Mullen,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Slack Davis,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,The Benton Law Firm,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Thomas J. Henry Law,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Montgomery Law,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Slack Davis,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,The Benton Law Firm,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Thomas J. Henry Law,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Mullen & Mullen,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,The Benton Law Firm,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Thomas J. Henry Law,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Lyons & Simmons,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,The Benton Law Firm,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Lyons & Simmons,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Thomas J. Henry Law,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Lyons & Simmons,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Zehl & Associates,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Thomas J. Henry Law,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Zehl & Associates,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Mullen & Mullen,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Zehl & Associates,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Frenkel & Frenkel,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,"Hamilton Wingo, LLP",gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Immediate Evidence Preservation,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Slack Davis Sanger LLP,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Spoliation Letter,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Ted B. Lyon & Associates,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,The Benton Law Firm,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,dropped,Guajardo & Marks,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,dropped,Letter of Spoliation,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,dropped,Thomas J. Henry Law,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,dropped,Zehl & Associates,gemini
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Arnold & Itkin,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Hamilton Wingo,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Ted Lyon Law,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,The Law Offices of Frank L. Branson,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Zehl & Associates,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Grossman Law Offices,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Lyons & Simmons,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Mullen & Mullen,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,The Benton Law Firm,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Quentin Brogdon at Crain Brogdon,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Hamilton Wingo,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Ted Lyon Law,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Zehl & Associates,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Crain Brogdon,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Laird & McCloskey,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Miller Weisbrod Olesky,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Arnold & Itkin,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Quentin Brogdon at Crain Brogdon,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Laird & McCloskey,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Aaron A. Herbert,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Crain Brogdon,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Miller Weisbrod Olesky,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Aaron A. Herbert,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Grossman Law Offices,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Thomas J. Henry Law,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Zinda Law Group,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Arnold & Itkin,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Slack Davis,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Ted Lyon Law,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,The Law Offices of Frank L. Branson,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Grossman Law Offices,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Thomas J. Henry Law,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Zinda Law Group,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Zehl & Associates,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Slack Davis,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Ted Lyon Law,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,The Law Offices of Frank L. Branson,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,"Jerry D. Andrews, P.C",perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Arnold & Itkin,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Zehl & Associates,perplexity

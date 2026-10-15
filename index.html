@@ -3,128 +3,68 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Engine Citation Records - Market Index</title>
-<meta name="description" content="The dated daily record of which local businesses AI answer engines name, and the websites they cite. October 2026 report, weekly AI Picks chart, agency proof sheets.">
-<link rel="canonical" href="https://markets.namebeam.ai/">
-<style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: system-ui, -apple-system, sans-serif; background: #f9f9f9; padding: 20px; color: #1a1a1a; }
-.container { max-width: 840px; margin: 0 auto; background: #fff; padding: 40px; border-radius: 8px; line-height: 1.6; }
-h1 { font-size: 28px; margin-bottom: 10px; }
-ul { margin: 16px 0 16px 20px; }
-li { margin: 6px 0; }
-a { color: #1a5fb4; }
-.disclosure { background: #f0f0f0; padding: 15px; border-radius: 4px; margin: 20px 0; font-size: 13px; color: #444; }
-.footer { margin-top: 40px; padding-top: 18px; border-top: 1px solid #eee; font-size: 12px; color: #777; }
-
-.ce-net{max-width:960px;margin:0 auto;text-align:center}
-.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
-.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
-.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
-.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
-/* added for fix 2: dark panel behind the block so the gold links keep contrast on light pages */
-.ce-net{background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:18px 14px;box-sizing:border-box}
-@media(max-width:520px){
-  .ce-net .ce-legs{gap:8px 8px}
-  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
-  .ce-net .ce-legal{overflow-wrap:anywhere}
-}
-</style>
-/* Namebeam header, footer and call to action (colors and type copied from namebeam.ai) */
-:root{--nb-navy:#0b1b33;--nb-navy2:#0e2140;--nb-card:#12294a;--nb-gold:#e8b23a;--nb-gold2:#f4cf6b;--nb-line:#22355a;--nb-muted:#9fb2d0}
-.nb-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--nb-line);position:sticky;top:0;background:rgba(11,27,51,.96);backdrop-filter:blur(6px);z-index:50;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;text-align:left;box-sizing:border-box}
-.nb-header *{box-sizing:border-box}
-.nb-header a{text-decoration:none}
-.nb-header a.nb-brand{display:flex;align-items:center;gap:10px;color:#fff}
-.nb-brand .nb-name{font-weight:800;font-size:20px;color:#fff;line-height:1.2}
-.nb-brand .nb-name span{color:var(--nb-gold)}
-.nb-brand .nb-tag{font-size:9px;letter-spacing:.18em;color:var(--nb-gold);text-transform:uppercase}
-.nb-nav a{color:#cddcf2;font-size:13.5px;margin-left:18px}
-.nb-nav a:hover{color:#fff}
-.nb-btn{display:inline-block;background:var(--nb-gold);color:#1a1206;font-weight:800;padding:11px 18px;border-radius:9px;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.4}
-.nb-nav a.nb-btn{padding:8px 14px;margin-left:18px;color:#1a1206;font-size:13.5px}
-@media(max-width:760px){
-.nb-header{position:static;flex-wrap:wrap;gap:6px 0;align-items:center}
-.nb-header::after{content:"";order:1;flex-basis:100%;height:0}
-.nb-nav{display:contents}
-.nb-nav a{order:2;margin-left:0;margin-right:16px;font-size:13px;line-height:1.9}
-.nb-nav a.nb-btn{order:1;margin-left:auto;margin-right:0;font-size:13.5px;line-height:1.6}
-}
-.ce-foot{border-top:1px solid rgba(227,179,65,.35);background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:34px 18px 42px;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;box-sizing:border-box}
-.ce-net .ce-kick{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;color:#E3B341;font-size:11px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:6px}
-.ce-net .ce-parent{color:#F6F8FC;font-weight:800;letter-spacing:.12em;font-size:.9rem;margin-bottom:16px}
-.ce-net .ce-social{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;margin:0 0 18px;padding:0}
-.ce-net .ce-social a{color:#8ea9cc;text-decoration:none;font-size:.76rem;letter-spacing:.08em;text-transform:uppercase}
-.ce-net .ce-social a:hover{color:#E3B341}
-.ce-net .ce-copy{color:#8ea9cc;font-size:.72rem;margin-bottom:14px}
-.ce-net .ce-fine{color:#5c7595;font-size:.68rem;line-height:1.55;max-width:720px;margin:0 auto}
-@media(max-width:520px){
-  footer.ce-foot{padding:30px 14px 38px}
-  .ce-net .ce-kick{letter-spacing:.09em;font-size:9.5px}
-  .ce-net .ce-social{gap:6px 14px}
-  .ce-net .ce-social a{font-size:.7rem;letter-spacing:.04em}
-}
+<title>The dated record of which businesses AI names | Namebeam</title>
+<meta name="description" content="Namebeam logs the businesses AI engines name for local buyer questions every run day, with the split by engine, a change log and free CSVs.">
+<link rel="stylesheet" href="/site.css">
 </head>
 <body>
-<header class="nb-header">
-  <a class="nb-brand" href="https://namebeam.ai/">
-    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" width="46" height="46" style="height:46px;width:auto;display:block;border-radius:10px">
-    <div><div class="nb-name">Name<span>beam</span></div><div class="nb-tag">The dated record of who AI names</div></div>
+
+<header>
+  <a class="brand" href="/" style="text-decoration:none">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="name">Name<span>beam</span></div><div class="tag">The dated record of who AI names</div></div>
   </a>
-  <nav class="nb-nav">
-    <a href="https://namebeam.ai/#how">How it works</a><a href="https://namebeam.ai/#proof">Proof</a><a href="https://namebeam.ai/#owners">Business owners</a><a href="https://namebeam.ai/#agencies">Agencies</a>
-    <a class="nb-btn" href="https://check.namebeam.ai/">Free check</a>
+  <nav>
+    <a href="/record/">The record</a><a href="/agencies/">Agencies</a><a href="/data/">Data and API</a><a class="btn" href="/check/" style="padding:8px 14px;margin-left:18px">Free check</a>
   </nav>
 </header>
-<div class="container">
-<h1>AI Engine Citation Records, by Market</h1>
-<p>As of 2026-09-08. 12 markets published, 7 markets refused for thin data.</p>
-<p><strong>October 2026:</strong> <a href="/report/october-2026/">Who AI recommends, and why it changes: the dated record, October 2026</a>. Also: <a href="/ai-picks/">the weekly AI Picks chart</a>, <a href="/sources/">which websites AI engines read before naming a local business</a>, <a href="/claims/">AI visibility claims checked against their sources</a>, and <a href="/agency/">proof sheets for agencies</a>.</p>
-<p><strong>September 2026 edition:</strong> <a href="panels/">Market Panels for 24 markets, 2026-09-01 to 2026-09-28</a> (engine coverage, buyer questions, businesses Perplexity named most, domains Google cited most; every count computed from the dated record).</p>
-<div class="disclosure">HOW THIS WAS MADE, IN FULL. AI made this page. A script extracted and counted every number on it from a dated corpus file; a machine wrote the sentences around those numbers. Nobody here is going to tell you a person hand-tallied this. We say so here because there is nowhere else on this page to say it.</div>
-<p>Each page lists which businesses the AI engines actually named when asked buyer questions in that market, counted from a dated daily record. Run the same check on your own business: free 5 engine check at <a href="https://check.namebeam.ai">https://check.namebeam.ai</a></p>
-<h2 style="margin-top:24px;">Featured</h2>
-<ul>
-<li><a href="leaderboard/">The Leaderboard</a>, the 15 most AI-named businesses in the September 2026 corpus, with dated receipts.</li>
-<li><a href="two-phone-books/">Two Phone Books</a>, AI assistants and Google name different businesses. The data story, with charts.</li>
-<li><a href="invisible-100/">The Invisible 100</a>, businesses Google ranks that AI assistants never name.</li>
-<li><a href="badge/">The AI-Named Badge</a>, a free dated badge for businesses the engines actually named.</li>
-<li><a href="reports/september-2026-recap">September 2026 Recap</a>, the full month: 22 markets, 3,053 raw name strings counted (includes non-business phrases), every JSON public. With non-business phrases removed, about 1,870 of the 3,053 remain (upper bound; 2026-10-06 audit). Corrected 2026-10-06: counts recomputed with non-business phrases removed. The first version said "3,053 business namings counted".</li>
-<li><a href="agency/">Agency Audit Pack</a>, the white-label version: run AI-visibility audits for your own clients.</li>
-<li><a href="press/">Press</a>, the dataset, the methodology, and how to cite it.</li>
-</ul>
-<h2 style="margin-top:24px;">Markets</h2>
-<ul>
-<li><a href="market_atlanta">Atlanta</a> (45 of 53 usable rows)</li>
-<li><a href="market_charlotte">Charlotte</a> (21 of 25 usable rows)</li>
-<li><a href="market_chicago">Chicago</a> (22 of 26 usable rows)</li>
-<li><a href="market_dallas">Dallas</a> (44 of 52 usable rows)</li>
-<li><a href="market_denver">Denver</a> (44 of 52 usable rows)</li>
-<li><a href="market_houston">Houston</a> (44 of 52 usable rows)</li>
-<li><a href="market_kansas-city">Kansas City</a> (22 of 26 usable rows)</li>
-<li><a href="market_miami">Miami</a> (22 of 26 usable rows)</li>
-<li><a href="market_phoenix">Phoenix</a> (43 of 51 usable rows)</li>
-<li><a href="market_tampa">Tampa</a> (22 of 26 usable rows)</li>
-<li><a href="market_us">US</a> (31 of 31 usable rows)</li>
-<li><a href="market_us-nationwide">US nationwide</a> (18 of 18 usable rows)</li>
-</ul>
-<h2>Refused for thin data (not published)</h2>
-<ul>
-<li>Joplin MO US: REFUSED: market 'Joplin MO US' does not carry enough usable data for a defensible page.</li>
-<li>Kansas City MO US: REFUSED: market 'Kansas City MO US' does not carry enough usable data for a defensible page.</li>
-<li>Liberty MO: REFUSED: market 'Liberty MO' does not carry enough usable data for a defensible page.</li>
-<li>Pleasanton CA US: REFUSED: market 'Pleasanton CA US' does not carry enough usable data for a defensible page.</li>
-<li>St. Louis MO US: REFUSED: market 'St. Louis MO US' does not carry enough usable data for a defensible page.</li>
-<li>St. Peters MO US: REFUSED: market 'St. Peters MO US' does not carry enough usable data for a defensible page.</li>
-<li>global EN: REFUSED: market 'global EN' does not carry enough usable data for a defensible page.</li>
-</ul>
-<div class="footer">
-<p>Get your own free 5-engine check: <a href="https://check.namebeam.ai">https://check.namebeam.ai</a></p>
-<p>Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801</p>
+<main>
+
+<section class="ce-hero">
+  <div class="ce-rays"></div>
+  <h1 class="nb-h1">The dated record of which businesses AI names.</h1>
+  <p class="nb-sub">Every run day we ask four AI engines and Google search the same buyer questions and log what comes back, including the days an engine refuses. Every page shows its dates, its method and a free CSV.</p>
+  <p class="nb-slogan">Every claim owes the future a receipt.</p>
+  <div class="nb-receipt">
+    <div class="nb-rlabel">FROM THE RECORD &middot; MIAMI FL &middot; 2026-08-09 TO 2026-10-07</div>
+    <p class="nb-rq">Asked every run day: "Who is the best roofing company in Miami for hurricane-rated roof replacement?"</p>
+    <p class="nb-rbig">Perplexity named Extreme Roofing in 49 of 57 answers. OpenAI, Anthropic and Gemini named it in 0 of 135.</p>
+    <p class="nb-rnote">Window 2026-08-09 to 2026-10-07, counted from the daily record on 2026-10-09. A count, not a ranking. Every name, engine and answer hash is on the Miami page.</p>
+    <a href="/record/miami-roofing/">Read the Miami record</a>
+  </div>
+</section>
+<div class="pv-wrap">
+  <h2>What AI named on the latest run day</h2>
+  <p>Three questions, five sources each, the newest day with an answer. Open any day for the full list, the answer hashes and a CSV.</p>
+  <div class="pv-cards"><div class="pv-card"><h3>Miami FL, residential roofing</h3><p class="pv-note">Run day 2026-10-07</p><div class="pv-scroll"><table class="pv-t" style="min-width:0"><tr><th>Engine</th><th>Status</th><th>Names</th></tr><tr><td>OpenAI</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Anthropic</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Perplexity</td><td><span class="pv-chip OK">OK</span></td><td>Art&#x27;s Roofing &amp; Construction; Extreme Roofing</td></tr><tr><td>Gemini</td><td><span class="pv-chip FAILED">FAILED</span></td><td></td></tr><tr><td>Google search</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr></table></div><p><a href="/record/miami-roofing/2026-10-07/">Open this day</a> &middot; <a href="/record/miami-roofing/">Full history</a></p></div><div class="pv-card"><h3>Kansas City MO, health insurance brokers</h3><p class="pv-note">Run day 2026-10-07</p><div class="pv-scroll"><table class="pv-t" style="min-width:0"><tr><th>Engine</th><th>Status</th><th>Names</th></tr><tr><td>OpenAI</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Anthropic</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Perplexity</td><td><span class="pv-chip OK">OK</span></td><td>AIS Health Insurance Advisors; BBS Insurance</td></tr><tr><td>Gemini</td><td><span class="pv-chip FAILED">FAILED</span></td><td></td></tr><tr><td>Google search</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr></table></div><p><a href="/record/kansas-city-health-insurance/2026-10-07/">Open this day</a> &middot; <a href="/record/kansas-city-health-insurance/">Full history</a></p></div><div class="pv-card"><h3>Atlanta GA, hvac repair and replacement</h3><p class="pv-note">Run day 2026-10-07</p><div class="pv-scroll"><table class="pv-t" style="min-width:0"><tr><th>Engine</th><th>Status</th><th>Names</th></tr><tr><td>OpenAI</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Anthropic</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr><tr><td>Perplexity</td><td><span class="pv-chip OK">OK</span></td><td>Bardi Heating, Cooling &amp; Plumbing; Reliable Heating &amp; Air</td></tr><tr><td>Gemini</td><td><span class="pv-chip FAILED">FAILED</span></td><td></td></tr><tr><td>Google search</td><td><span class="pv-chip OK">OK</span></td><td><i>0 names</i></td></tr></table></div><p><a href="/record/atlanta-hvac/2026-10-07/">Open this day</a> &middot; <a href="/record/atlanta-hvac/">Full history</a></p></div></div>
+  <p class="pv-note">Names are shown as extracted from each answer. Some entries are headings or terms, not businesses. That is a known issue in the Edition 1 files and it is logged on the <a href="/corrections/">corrections page</a>. A count is not a ranking.</p>
+  <div class="pv-tiles">
+    <div class="pv-tile"><div class="v">3,208</div><div class="l">businesses in the citation index</div><div class="d">as of 2026-10-08</div></div>
+    <div class="pv-tile"><div class="v">1,476</div><div class="l">of them corroborated</div><div class="d">as of 2026-10-08</div></div>
+  </div>
+  <p class="pv-note">Citation index read from <a href="https://namebeam.ai/data/citation_index.json">namebeam.ai/data/citation_index.json</a>, generated 2026-10-08T13:47:43Z. Corroborated means Perplexity or Google search cited the business, or two or more engines named it. <a href="/method/">Method</a>.</p>
+
+  <h2>Edition 1</h2>
+  <div class="pv-prod">
+    <div class="top"><h3>Edition 1: the dated record as files, free</h3><div><span class="price">CC BY 4.0</span> <span class="per">free, with credit</span></div></div>
+    <p>Raw CSV files for every question and run day in the window 2026-09-01 to 2026-10-13, a SHA-256 manifest, a method note and a verify script, so you can check every file yourself. Planned release: 2026-10-15. Use it with credit to Namebeam at no cost.</p>
+    <p>Need to use it without credit, or white-label it in client reports? The Commercial License is $540, paid once. <a href="/buy/#edition-license">See the scope and the price</a>.</p>
+  </div>
+
+  <h2>Three paths</h2>
+  <div class="pv-cards">
+    <div class="pv-card gold"><h3>Agencies</h3><p>Show clients which businesses AI names in their market. The daily record for one market is $49 a month.</p><p><a class="btn" href="/agencies/">For agencies</a></p></div>
+    <div class="pv-card gold"><h3>Data buyers and API</h3><p>The free record, a Commercial License, a founding-partner feed and per-call API rows.</p><p><a class="btn" href="/data/">Data and API</a></p></div>
+    <div class="pv-card gold"><h3>Business owners</h3><p>See your own record. Free, no card. We do not sell to the businesses we measure.</p><p><a class="btn" href="/check/">Free check</a></p></div>
+  </div>
+  <p class="pv-note">Browse by market and category: <a href="/record/">the record grid</a>. Corrections are logged in public: <a href="/corrections/">corrections</a>.</p>
 </div>
-</div>
+
+</main>
+
 <footer class="ce-foot">
   <div class="ce-net">
+    <div class="ce-slogan">Every claim owes the future a receipt.</div>
     <div class="ce-kick">Part of the Carter Enterprise Network</div>
     <div class="ce-parent">CARTER ENTERPRISE LLC</div>
     <nav class="ce-legs">
@@ -133,6 +73,8 @@ a { color: #1a5fb4; }
       <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
       <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
       <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+      <a href="https://shop.namebeam.ai" target="_blank" rel="noopener">MAKER'S RECEIPT SHOP</a>
+      <a href="https://r.namebeam.ai" target="_blank" rel="noopener">MAKER'S RECEIPT RECORDS</a>
     </nav>
     <nav class="ce-social">
       <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
@@ -152,7 +94,7 @@ a { color: #1a5fb4; }
     </nav>
     <div class="ce-legal">Carter Enterprise LLC &middot; 30 N Gould St, Ste 65270, Sheridan, WY 82801</div>
     <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
-    <div class="ce-fine">Namebeam is an educational and marketing service. Not a promise of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a guarantee of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
   </div>
 </footer>
 </body>

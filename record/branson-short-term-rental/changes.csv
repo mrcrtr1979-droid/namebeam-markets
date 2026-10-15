@@ -1,0 +1,350 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Hilton at Branson Landing,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Kimpton Hotel,anthropic
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Lodge of the Ozarks,perplexity
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Pointe Royale,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,The Ozarker Lodge,perplexity
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Cabins of Grand Mountain,perplexity
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Chateau on the Lake Resort Spa,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Choose a Hotel/Resort if,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Choose an Airbnb/VRBO if,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Hotel Grand Victorian,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,StoneBridge Resort,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,You are a couple or solo traveler,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Cabins of Grand Mountain,perplexity
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Choose an Airbnb / Vacation Rental if,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,StoneBridge,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,The Vibe,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,You are a couple or solo traveler,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,You want top-tier amenities,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Airbnb / Vacation Rental,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Grand Country Inn,perplexity gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Hilton Promenade at Branson Landing,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Hilton at Branson Landing,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Hotel / Resort,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Location,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Lodge of the Ozarks,perplexity
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Pointe Royale,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Pointe Royale Golf Resort,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Splash Country,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Still Waters,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,The Ozarker Lodge,perplexity
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Thousand Hills Golf Resort,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Choose a Hotel/Resort if,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Choose an Airbnb/Vacation Rental if,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Clarion Inn Branson,perplexity
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Grand Country Music Hall & Resort,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Hilton Promenade at Branson Landing,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,Pointe Royale Golf Resort,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,entered,StoneBridge Resort,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Choose an Airbnb / Vacation Rental if,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Kimpton Hotel,anthropic
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,StoneBridge,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,Thousand Hills Resort Hotel,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,You are a couple or solo traveler,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini google_serp,dropped,You want top-tier amenities,gemini
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Thousand Hills Golf Resort,anthropic
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Clarion Inn Branson,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,76 Country Boulevard (The Strip,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Airbnb / Vacation Rental,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Big Cedar Lodge,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Branson Landing / Downtown,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Grand Country Music Hall & Resort,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Hotel / Resort,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Pointe Royale,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Cabins of Grand Mountain,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Choose a Hotel if,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Grand Country Inn,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills Golf Resort,anthropic gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Airbnb/VRBO,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Grand Country Inn,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Hilton at Branson Landing,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Hotel/Resort,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Still Waters,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,76 Country Boulevard (The Strip,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb / Vacation Rental,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Branson Landing / Downtown,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Grand Country Music Hall & Resort,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Hotel / Resort,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Marriott's Willow Ridge Lodge,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Pointe Royale,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Splash Country,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge Resort,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Cabins of Grand Mountain,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Choose a Hotel if,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Choose an Airbnb / Vacation Rental if,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Kimpton Hotel,anthropic
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,The Ozarker Lodge,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Thousand Hills Golf Resort,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Thousand Hills Resort Hotel,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,You are staying 1-2 nights,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,You are staying 3+ nights,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,entered,You want top-tier amenities,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb/VRBO,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Big Cedar Lodge,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini google_serp,dropped,Hotel/Resort,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Big Cedar Lodge,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Choose an Airbnb/VRBO if,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Hotel Grand Victorian,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,Indian Point / StoneBridge Resort,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,StoneBridge,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Cabins of Grand Mountain,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Choose an Airbnb / Vacation Rental if,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Hilton at Branson Landing,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Still Waters,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,The Ozarker Lodge,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills Golf Resort,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills Resort Hotel,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini google_serp,dropped,You want top-tier amenities,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Airbnb/VRBO,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Hilton at Branson Landing,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Holiday Hills Resort,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,Hotel/Resort,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,entered,StoneBridge Resort,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Chateau on the Lake Resort Spa,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Choose a Hotel if,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Choose an Airbnb/VRBO if,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Grand Country Inn,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Hotel Grand Victorian,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Indian Point / StoneBridge Resort,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge,gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity gemini google_serp,dropped,You are staying 1-2 nights,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,entered,Hilton Branson Convention Center,anthropic
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Hilton Branson Convention Center,anthropic
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,76 Country Boulevard (The Strip,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Airbnb/VRBO,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Branson Landing / Downtown,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Chateau on the Lake Resort Spa,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Hotel/Resort,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Indian Point / StoneBridge Resort,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Pointe Royale Golf Resort,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb / Vacation Rental,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Big Cedar Lodge,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Hotel / Resort,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Pointe Royale Golf Village,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills Golf Resort,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills Resort Hotel,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-08-23,2026-08-22,1,openai anthropic perplexity google_serp,entered,Pointe Royale Golf Village,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Hotel / Resort,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Pointe Royale Golf Resort,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Thousand Hills Golf Resort,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Choose a Hotel/Resort if,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Choose an Airbnb/Vacation Rental if,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Kimpton Hotel,anthropic
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Pointe Royale Golf Village,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Kimpton Hotel,anthropic
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Kimpton Hotel,anthropic
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Kimpton Hotel,anthropic
+2026-09-03,2026-09-02,1,openai anthropic,entered,Hilton Branson Convention Center,anthropic
+2026-09-04,2026-09-03,1,openai anthropic,entered,Kimpton Hotel,anthropic
+2026-09-04,2026-09-03,1,openai anthropic,dropped,Hilton Branson Convention Center,anthropic
+2026-09-05,2026-09-04,1,openai anthropic,dropped,Kimpton Hotel,anthropic
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Big Cedar Lodge,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Comfort Inn,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Holiday Inn,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Pointe Royale,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Quality Inn,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Hilton Branson Convention Center,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Kimpton Hotel,anthropic
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Big Cedar Lodge,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Holiday Inn,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Pointe Royale,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Quality Inn,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Comfort Inn,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Hilton Branson Convention Center,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Kimpton Hotel,anthropic
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Big Cedar Lodge,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Comfort Inn,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Hilton Branson Convention Center,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Radisson Hotel Branson,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Still Waters,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Holiday Inn Express,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Marriott's Willow Ridge Lodge villas,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,dropped,Still Waters,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Hampton Inn,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Pointe Royale,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Comfort Inn,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Hilton Branson Convention Center,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Holiday Inn Express,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Marriott's Willow Ridge Lodge villas,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Radisson Hotel Branson,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,Comfort Inn,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,La Quinta,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,Radisson Hotel Branson,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,Still Waters,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,dropped,Hampton Inn,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,dropped,Pointe Royale,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity,entered,Kimpton Hotel,anthropic
+2026-09-14,2026-09-13,1,openai anthropic perplexity,entered,Pointe Royale,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,Comfort Inn,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,La Quinta,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,Radisson Hotel Branson,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,Still Waters,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Hampton Inn,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Hilton Branson Convention Center,anthropic
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Lake Adventures at Eagle's Nest,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,Kimpton Hotel,anthropic
+2026-09-16,2026-09-15,1,openai anthropic perplexity,entered,Radisson Hotel Branson,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Hampton Inn,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Hilton Branson Convention Center,anthropic
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Pointe Royale,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Hilton Branson Convention Center,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Holiday Inn Express,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Pointe Royale,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Lake Adventures at Eagle's Nest,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Radisson Hotel Branson,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Comfort Inn,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Holiday Inn,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Hilton Branson Convention Center,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Holiday Inn Express,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Holiday Inn,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Big Cedar Lodge,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Comfort Inn,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Pointe Royale,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Big Cedar Lodge,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Hampton Inn,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Holiday Inn Express,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Kimpton Hotel,anthropic
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Welk Resort Branson,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,Radisson Hotel Branson,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Hampton Inn,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Holiday Inn Express,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Big Cedar Lodge,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Radisson Hotel Branson,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Welk Resort Branson,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Marriott's Willow Ridge Lodge villas,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Big Cedar Lodge,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Holiday Inn Express,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,The Lodge at Rock Canyon,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Holiday Inn Express,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Comfort Inn,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Grand Country Inn,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Hilton Promenade at Branson Landing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Holiday Inn Express,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Lodge of the Ozarks,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Still Waters,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Stone Castle Hotel & Conference Center,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,The Suites at Fall Creek,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Thousand Hills Resort Hotel,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Welk Resort Branson,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Marriott's Willow Ridge Lodge villas,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,The Lodge at Rock Canyon,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Comfort Inn & Suites Branson Meadows,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Seven Gables Inn,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Comfort Inn,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Grand Country Inn,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Hilton Promenade at Branson Landing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Holiday Inn Express,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Still Waters,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Stone Castle Hotel & Conference Center,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,The Suites at Fall Creek,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Thousand Hills Resort Hotel,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Welk Resort Branson,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Grand Country Inn,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Grand Crowne Resort,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Hilton Branson Convention Center,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Hilton Promenade at Branson Landing,openai perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Holiday Inn Club Vacations Holiday Hills Resort,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Still Waters,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Comfort Inn & Suites Branson Meadows,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Lodge of the Ozarks,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Seven Gables Inn,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Westgate Branson Woods Resort and Cabins,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Hampton Inn,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Holiday Inn,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Hotel Grand Victorian,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Lodge of the Ozarks,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Stone Castle Hotel & Conference Center,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,The Suites at Fall Creek,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Westgate Branson Woods Resort and Cabins,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Grand Country Inn,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Grand Crowne Resort,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Holiday Inn Club Vacations Holiday Hills Resort,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Still Waters,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Comfort Inn,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,La Quinta,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Thousand Hills Resort Hotel,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Hampton Inn,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Holiday Inn,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Hotel Grand Victorian,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Lodge of the Ozarks,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Stone Castle Hotel & Conference Center,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,The Suites at Fall Creek,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Westgate Branson Woods Resort and Cabins,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Lodge of the Ozarks,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Big Cedar Lodge,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Comfort Inn,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Hilton Branson Convention Center,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,La Quinta,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Thousand Hills Resort Hotel,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Big Cedar Lodge,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Hilton Branson Convention Center,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Hollister House,anthropic
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,La Quinta,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Margaritaville Resort Branson,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Marriott's Willow Ridge Lodge villas,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Quality Inn,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Thousand Hills Resort Hotel,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Welk Resort Branson,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Lodge of the Ozarks,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Comfort Suites,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Hampton Inn,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Holiday Inn Express,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Stone Castle Hotel & Conference Center,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Table Rock Resorts at Indian Point,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Big Cedar Lodge,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Hilton Branson Convention Center,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Hollister House,anthropic
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Margaritaville Resort Branson,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Marriott's Willow Ridge Lodge villas,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Quality Inn,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Thousand Hills Resort Hotel,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Welk Resort Branson,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Big Cedar Lodge,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Comfort Inn,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Comfort Inn & Suites Branson Meadows,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Drury,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Grand Country Inn,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Kimpton Hotel,anthropic
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Lodge of the Ozarks,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Seven Gables Inn,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Comfort Suites,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Hampton Inn,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Hilton Promenade at Branson Landing,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Holiday Inn Express,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,La Quinta,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Stone Castle Hotel & Conference Center,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Table Rock Resorts at Indian Point,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Hampton Inn,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Hilton Promenade at Branson Landing,openai perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Radisson Hotel Branson,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Comfort Inn & Suites Branson Meadows,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Drury,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Kimpton Hotel,anthropic
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Seven Gables Inn,perplexity

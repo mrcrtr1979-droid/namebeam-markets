@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-03,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-09-03_segment_roofing_miami_openai,NB-CZ-API_2026-09-03_segment_roofing_miami_openai.json,aee9039e887a49e6268cd3205e620f297db341b0c53286d761a3ca895baba354
+2026-09-03,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-09-03_segment_roofing_miami_anthropic,NB-CZ-API_2026-09-03_segment_roofing_miami_anthropic.json,7c6ccfe270017ca99f28ffad2fa53e13c2cfc029921d35aba6a8cc39782a6f7d
+2026-09-03,miami-roofing,Miami FL,residential roofing,perplexity,1,FAILED,0,,NB-CZ-API_2026-09-03_segment_roofing_miami_perplexity,NB-CZ-API_2026-09-03_segment_roofing_miami_perplexity.json,0d5662e91159b2d260a7048e3529558576c3947ffdc7a018d1a5449e44bc7c0d
+2026-09-03,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-09-03_segment_roofing_miami_gemini,NB-CZ-API_2026-09-03_segment_roofing_miami_gemini.json,ccb209053b7cbb4a44feb9fd2d0a35fd55fae77d7b5916d6c58ed4152698488d
+2026-09-03,miami-roofing,Miami FL,residential roofing,google_serp,1,EXTRACTION_FAILED,0,,NB-CZ-SERP_2026-09-03_segment_roofing_miami,NB-CZ-SERP_2026-09-03_segment_roofing_miami.json,84807ffc628fc2589aabbb2469cf7cf58085a2600014fee7d95369129c483465

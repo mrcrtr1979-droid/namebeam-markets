@@ -1,0 +1,156 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,PF Black Card,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,entered,Planet Fitness (Pleasanton - Johnson Dr,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness (Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness Black Card,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Secretly Sunless,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,Sola Salon Studios,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini google_serp,dropped,The Golden Girl,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Glow House Studio,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,The Golden Girl,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,PF Black Card,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness (Pleasanton - Johnson Dr,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,California Sun Wellness Spa,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,PF Black Card,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Planet Fitness (Pleasanton,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Sun Suite Tanning,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Glow House Studio,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Sun 101 Tanning,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,PF Black Card,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness (Pleasanton,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Sun Suite Tanning,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Sun Suite Tanning,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,California Sun Wellness Spa,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Sun 101 Tanning,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,The Golden Girl,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Glow House Studio,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,California Sun Wellness Spa,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Utopia Tanning & Spa,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity google_serp,dropped,Utopia Tanning & Spa,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,East Bay Tanning,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,Glow Spray Tanning / Independent Airbrush Artists,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,PF Black Card,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,Planet Fitness (Pleasanton,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,Sun 101 Tanning,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,entered,Tan Republic (Dublin / Livermore,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Glow House Studio,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini google_serp,dropped,Tan Republic,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Glow House Studio,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Secretly Sunless,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Sun Bronze Tanning,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Glow Spray Tanning / Independent Airbrush Artists,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Highlights,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,PF Black Card,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness (Pleasanton,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Sun 101 Tanning,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Tan Republic (Dublin / Livermore,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,The Golden Girl,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Organic Bronze Bar,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Sun Tropic Tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Tan Republic,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,The Golden Girl,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,East Bay Tanning,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Glow House Studio,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Sun Bronze Tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,UV bed tanning,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,East Bay Tanning,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Glow Spray Tanning / Independent Airbrush Artists,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Mystic Tan,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Sun Bronze Tanning,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Organic Bronze Bar,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Sun Tropic Tanning,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Tan Republic,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,entered,Planet Fitness (Pleasanton,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,entered,Tan Republic,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,dropped,Glow Spray Tanning / Independent Airbrush Artists,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini google_serp,dropped,Sun Bronze Tanning,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Glow House Studio,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Planet Fitness (Pleasanton - Johnson Dr,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Highlights,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Location,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Planet Fitness (Pleasanton,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Tan Republic,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,UV bed tanning,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Planet Fitness,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Glow House Studio,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Secretly Sunless,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Planet Fitness,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Glow House Studio,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Mystic Tan,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Organic Bronze Bar,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,PF Black Card,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Planet Fitness,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Planet Fitness Black Card,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Secretly Sunless,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Sun Suite Tanning,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,The Spa at Clubsport Pleasanton,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,East Bay Tanning,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Location,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Planet Fitness (Pleasanton,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Mystic Tan,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Secretly Sunless,perplexity
+2026-09-22,2026-09-21,1,anthropic perplexity google_serp,entered,PT Salon Pleasanton,perplexity
+2026-09-22,2026-09-21,1,anthropic perplexity google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Secretly Sunless,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,PT Salon Pleasanton,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,PT Salon Pleasanton,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Utopia Tanning & Spa,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Secretly Sunless,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,The Spa at Clubsport Pleasanton,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,PT Salon Pleasanton,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,Utopia Tanning & Spa,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,Sola Salon Studios,gemini
+2026-09-26,2026-09-25,1,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,gemini
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Spray Soleil Airbrush Tanning,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,The Golden Girl,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Spray Soleil Airbrush Tanning,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Spray Soleil Airbrush Tanning,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,The Golden Girl,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Spray Soleil Airbrush Tanning,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity

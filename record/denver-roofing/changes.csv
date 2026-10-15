@@ -1,0 +1,215 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Red Hawk Roofing,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Elite Roofing & Solar,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Red Diamond Roofing,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Premier Roofing,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Elite Roofing & Solar,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Valor Roof and Solar,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Apple Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Premier Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,Elite Roofing & Solar,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Elite Roofing & Solar,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Apple Roofing,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Premier Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,entered,Premier Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Elite Roofing & Solar,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Valor Roof and Solar,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Cenco Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Red Hawk Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,WTH Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Metro City Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Metro City Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Reputation,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Cenco Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Elite Roofing,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Ethos Roofing & Restoration,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Interstate Roofing,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Premier Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Premier Roofing Company,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,WTH Roofing,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Hilltop Contracting,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Apple Roofing,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,Gates Enterprises,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,Hilltop Contracting,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Cenco Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Gates Enterprises,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Apple Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Elite Roofing & Solar,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Red Hawk Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Valor Roof and Solar,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,WTH Roofing,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity,entered,Hilltop Contracting,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity,dropped,Elite Roofing & Solar,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity,dropped,WTH Roofing,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,Hilltop Contracting,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,Valor Roof and Solar,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Excel Roofing,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Insurance Claim Expertise,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Manufacturer Certifications,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Red Hawk Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Roofcorp of Metro Denver,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Top-Rated Hail Damage Roofers in Denver,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Sol Vista Roofing,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Interstate Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Cenco Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Metro City Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,entered,Elite Roofing & Solar,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,entered,Metro City Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Interstate Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Roofcorp of Metro Denver,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Home Genius Exteriors,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Interstate Roofing,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,entered,Red Hawk Roofing,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,Elite Roofing & Solar,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Interstate Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Red Hawk Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Cenco Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Hilltop Contracting,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Red Hawk Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Sol Vista Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Valor Roof and Solar,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Home Genius Exteriors,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,entered,Home Genius Exteriors,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,dropped,Cenco Roofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,dropped,Hilltop Contracting,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,dropped,Red Hawk Roofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,dropped,Sol Vista Roofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,dropped,Valor Roof and Solar,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Cenco Roofing,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Interstate Roofing,perplexity
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Excel Roofing,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,General Liability,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Reputation,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Workers' Compensation,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Class 4 Impact-Resistant Shingles,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Ethos Roofing & Restoration,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Roper Roofing & Solar,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Metro City Roofing,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Valor Roof and Solar,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Hilltop Contracting,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Interstate Roofing,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Valor Roof and Solar,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Interstate Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Hilltop Contracting,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Metro City Roofing,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Metro City Roofing,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Premier Roofing,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Interstate Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,10% to 28% annual premium discount,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,3. Peak to Peak Roofing & Exteriors,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Highlights,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Insurance Claim Experience,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Red Hawk Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Reputation,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Top-Rated Hail Damage Roofers in Denver,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,10% to 28% annual discounts,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Elite Roofing,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Ethos Roofing & Restoration,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Interstate Roofing,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Premier Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Roper Roofing & Solar,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Cenco Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Elite Roofing,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Ethos Roofing & Restoration,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Interstate Roofing,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Premier Roofing Company,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,10% to 28% annual premium discount,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,3. Peak to Peak Roofing & Exteriors,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Highlights,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Insurance Claim Experience,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Red Hawk Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Reputation,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Roofcorp of Metro Denver,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Top-Rated Hail Damage Roofers in Denver,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,"Beware of ""Storm Chasers",gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Certifications,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,General Liability Insurance,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Peak to Peak Roofing & Exteriors,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Red Flag,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Red Hawk Roofing,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Roper Roofing & Solar,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Workers' Compensation,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Premier Roofing Company,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,General Liability,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Insurance Claim Experience,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,No Deductible Waiving,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Premier Roofing Company,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,"Beware of ""Storm Chasers",gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Cenco Roofing,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Certifications,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,General Liability Insurance,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Red Flag,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Roper Roofing & Solar,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Cenco Roofing,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,entered,Hilltop Contracting,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Cenco Roofing,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,Red Hawk Roofing,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Roofcorp of Metro Denver,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Metro City Roofing,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Red Hawk Roofing,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Roofcorp of Metro Denver,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,10% to 28% annual discounts,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,"Beware of ""Storm Chasers",gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Cenco Roofing,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Excel Roofing,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,10% to 28% annual premium discount,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Class 4 Impact-Resistant Shingles,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Ethos Roofing & Restoration,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,General Liability Insurance,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Manufacturer Certifications,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Peak to Peak Roofing & Exteriors,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Red Flags to Avoid,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,Metro City Roofing,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Cenco Roofing,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Hilltop Contracting,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Cenco Roofing,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Core Roofing,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Premier Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Cenco Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Metro City Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Premier Roofing,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Cenco Roofing,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Hilltop Contracting,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Sol Vista Roofing,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Sol Vista Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Colorado Superior Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Countrywide Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Core Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Hilltop Contracting,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,entered,Horn Brothers Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,entered,Metro City Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Cenco Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Colorado Superior Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Countrywide Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Gates Enterprises,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Gates Enterprises,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Hilltop Contracting,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Horn Brothers Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Metro City Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Red Diamond Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Trek Contracting,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Hilltop Contracting,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Trek Contracting,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Cenco Roofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Hilltop Contracting,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Red Diamond Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Red Hawk Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Hilltop Contracting,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Hilltop Contracting,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Red Hawk Roofing,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Woodberg Roofing & Restoration,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Cenco Roofing,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Hilltop Contracting,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Cenco Roofing,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Woodberg Roofing & Restoration,perplexity

@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-04,phoenix-hvac,Phoenix AZ,hvac repair and replacement,openai,1,OK,0,,NB-CZ-API_2026-09-04_segment_hvac_phoenix_openai,NB-CZ-API_2026-09-04_segment_hvac_phoenix_openai.json,53b88652641ce8b9afaa7b75fe7cf624acd1770418f445234a7da71fc86b5990
+2026-09-04,phoenix-hvac,Phoenix AZ,hvac repair and replacement,anthropic,1,OK,0,,NB-CZ-API_2026-09-04_segment_hvac_phoenix_anthropic,NB-CZ-API_2026-09-04_segment_hvac_phoenix_anthropic.json,a81b21403a76682ac28148e3b8193c5ca91cba093c46bb369cab831111d8434c
+2026-09-04,phoenix-hvac,Phoenix AZ,hvac repair and replacement,perplexity,1,FAILED,0,,NB-CZ-API_2026-09-04_segment_hvac_phoenix_perplexity,NB-CZ-API_2026-09-04_segment_hvac_phoenix_perplexity.json,1041658a4f62f0f20d675a1689d5510340abd93d1ea54e11a2105dd5b3af8f9a
+2026-09-04,phoenix-hvac,Phoenix AZ,hvac repair and replacement,gemini,1,QUOTA_BLOCKED,0,,NB-CZ-API_2026-09-04_segment_hvac_phoenix_gemini,NB-CZ-API_2026-09-04_segment_hvac_phoenix_gemini.json,9d13da9daa63c9d1c7f81324684ce62b839e4ddbd0951cdd5bb7e08542ec3932
+2026-09-04,phoenix-hvac,Phoenix AZ,hvac repair and replacement,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-04_segment_hvac_phoenix,NB-CZ-SERP_2026-09-04_segment_hvac_phoenix.json,361c959413e5fc46bdb343b6b5931dfc39529d4e509f6e4dc48733b79261d8de

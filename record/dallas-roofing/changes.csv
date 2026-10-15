@@ -1,0 +1,263 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Priority Roofing,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Warranties,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Lonsmith,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,RX Roof,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,Warranties,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity,entered,Baker Roofing & Construction,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity,dropped,Bert Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,entered,Bert Roofing,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,dropped,Baker Roofing & Construction,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity,dropped,Priority Roofing,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Baker Roofing & Construction,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Dalco Contractors and Roofing,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,RX Roof,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,KPost Company,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,StazOn Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,entered,Kidd Roofing,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,entered,New View Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Arrington Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,StazOn Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Baker Roofing & Construction,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Bert Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Kidd Roofing,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,New View Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Accent Roofing & Construction,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Bert Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,CertainTeed Select ShingleMaster,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Christian Brothers Roofing,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,General Liability,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Lonsmith,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Owens Corning Platinum Preferred,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Priority Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Proof of Insurance,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,RCAT Licensed,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Arrington Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed SELECT ShingleMaster,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Dalco Contractors and Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,GAF Master Elite Contractor,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,General Liability Insurance,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Paradigm Roofing,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,StazOn Roofing,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,Texas Star Roofing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,1. KPost Roofing & Construction,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,2. Peak Roofing & Construction,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Certifications,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Dalco Contractors and Roofing,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,General Liability Insurance,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,StazOn Roofing,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Top-Rated Roofing Companies in Dallas,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Accent Roofing & Construction,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed Select ShingleMaster,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Christian Brothers Roofing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,General Liability,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,KPost Roofing & Waterproofing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Lonsmith,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Peak Roofing & Construction,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Priority Roofing,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Proof of Insurance,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Arrington Roofing,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Kidd Roofing,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Priority Roofing,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,StazOn Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Lonsmith,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,StazOn Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Dalco Contractors and Roofing,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Priority Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Priority Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Bert Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Kidd Roofing,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Lonsmith,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,Swan Roofing,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,dropped,StazOn Roofing,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,entered,StazOn Roofing,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,Swan Roofing,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity,entered,KPost Company,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity,dropped,Priority Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,GAF Master Elite Contractor,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,General Liability,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Priority Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Workers' Compensation,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Christian Brothers Roofing,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,KPost Roofing & Waterproofing,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Kangaroo Contractors,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer Certifications,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning Platinum Preferred,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,RCAT Licensed,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,T Rock Roofing,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Warranties,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Baker Roofing & Construction,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Bert Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Dalco Contractors and Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,Kidd Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,entered,T Rock Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,KPost Company,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,entered,Arrington Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,entered,New View Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Baker Roofing & Construction,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,Kidd Roofing,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity,dropped,RX Roof,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,Dalco Contractors and Roofing,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity,dropped,New View Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Dalco Contractors and Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,KPost Company,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,entered,Swan Roofing,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity,dropped,Bert Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,3 written estimates,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Dalco Contractors and Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,KPost Company,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Priority Roofing,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Swan Roofing,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,CertainTeed SELECT ShingleMaster,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,General Liability,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Highlights,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,KPost Company,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,KPost Roofing & Waterproofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Lon Smith Roofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Manufacturer Certifications,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,NTRCA Membership,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,North Texas Roofing Contractors Association (NTRCA,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Peak Roofing & Construction,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Texas Star Roofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,1. KPost Roofing & Waterproofing,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,3 written estimates,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Certifications,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,General Liability Insurance,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Owens Corning Platinum Preferred,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Top-Rated Roofing Companies in Dallas,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Blue Hammer Roofing,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,New View Roofing,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,CLC Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Bert Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Lon Smith Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,New View Roofing,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,KPost Company,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,StazOn Roofing,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,New View Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Accent Roofing & Construction,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Certifications,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,KPost Roofing & Waterproofing,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Kidd Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Manufacturer Certifications,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Peak Roofing & Construction,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Priority Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,1. KPost Roofing & Construction,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,2. Peak Roofing & Construction,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,CLC Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,CertainTeed Select ShingleMaster,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Roofing Contractors Association of Texas (RCAT,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,T Rock Roofing,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Top-Rated Roofing Companies in Dallas,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,General Liability Insurance,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Kangaroo Contractors,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,New View Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,North Texas Roofing Contractors Association (NTRCA,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,T Rock Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Texas Star Roofing,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Wortham Brothers Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Accent Roofing & Construction,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Bert Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Certifications,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,KPost Roofing & Waterproofing,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Kidd Roofing,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Manufacturer Certifications,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Owens Corning Platinum Preferred,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Priority Roofing,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,General Liability,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,RX Roof,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Roofing Contractors Association of Texas (RCAT,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Tarrant Roofing,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Top-Rated Roofing Companies in Dallas,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Workers' Compensation,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,General Liability Insurance,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Kangaroo Contractors,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Lon Smith Roofing,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,North Texas Roofing Contractors Association (NTRCA,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Wortham Brothers Roofing,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity,entered,Blue Hammer Roofing,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,entered,Wortham Brothers Roofing,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity,dropped,RX Roof,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Priority Roofing,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Wortham Brothers Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Bert Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Lon Smith Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Wortham Brothers Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,New View Roofing,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Priority Roofing,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,T Rock Roofing,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,3 written estimates,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,General Liability Insurance,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Manufacturer Certifications,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,NTRCA Membership,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,North Texas Roofing Contractors Association (NTRCA,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Owens Corning Platinum Preferred,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Paradigm Roofing,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Peak Roofing & Construction,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,RCAT Licensed,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Roofing Contractors Association of Texas (RCAT,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,T Rock Roofing,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,entered,Texas Star Roofing,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity gemini,dropped,Wortham Brothers Roofing,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,entered,CertainTeed Select ShingleMaster,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,entered,Highlights,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,entered,KPost Company,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,entered,Kangaroo Contractors,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,entered,Workers' Compensation,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,3 written estimates,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,Manufacturer Certifications,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,NTRCA Membership,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,Owens Corning Platinum Preferred,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,Paradigm Roofing,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,RCAT Licensed,gemini
+2026-09-22,2026-09-21,1,openai anthropic perplexity gemini,dropped,Roofing Contractors Association of Texas (RCAT,gemini
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Elevated Roofing,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,KPost Company,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Priority Roofing,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Bert Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Arrington Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,New View Roofing,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,KPost Company,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Priority Roofing,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,KPost Company,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Priority Roofing,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,dropped,T Rock Roofing,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,KPost Company,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Priority Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Priority Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Renown Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,T Rock Roofing,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Elevated Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Blue Hammer Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Priority Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Renown Roofing,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,T Rock Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Infinity Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,New View Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Arrington Roofing,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Infinity Roofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Firefighter Roofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,New View Roofing,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity,entered,JRH Construction,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity,entered,Renown Roofing,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity,dropped,Firefighter Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity,entered,Arrington Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity,entered,DAR Roofing,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity,dropped,JRH Construction,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity,dropped,Renown Roofing,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Arrington Roofing,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,DAR Roofing,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Bold Roofing Company,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Dane Roofing,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,DAR Roofing,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Remarkable Roofing & Construction,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Dane Roofing,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,New View Roofing,perplexity

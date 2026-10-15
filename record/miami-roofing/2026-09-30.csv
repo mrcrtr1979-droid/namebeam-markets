@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-30,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-09-30_segment_roofing_miami_openai,NB-CZ-API_2026-09-30_segment_roofing_miami_openai.json,32aaa12629b0403414af16e03eab0efc0d6c1b6022b83ae6a53939abb591d0ed
+2026-09-30,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-09-30_segment_roofing_miami_anthropic,NB-CZ-API_2026-09-30_segment_roofing_miami_anthropic.json,ed0c78fd2187d68abfb9dd6774611f984cb16a90853ddce0a8198bb5cca6ebd1
+2026-09-30,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,3,AJF Roofing; Canopy Roofing; On Call Roofing,NB-CZ-API_2026-09-30_segment_roofing_miami_perplexity,NB-CZ-API_2026-09-30_segment_roofing_miami_perplexity.json,29a6173f84501f0cb86f4b4e450946b8d3c9cde92ea675e2024e85bee780c2df
+2026-09-30,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-09-30_segment_roofing_miami_gemini,NB-CZ-API_2026-09-30_segment_roofing_miami_gemini.json,7c1f24579e1efd0a58d738175f69030a60526965ddf83f37395f57a1b7a7ab2f
+2026-09-30,miami-roofing,Miami FL,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-30_segment_roofing_miami,NB-CZ-SERP_2026-09-30_segment_roofing_miami.json,101be035128a4fcf9d92ea25e7cb04145809abc5874042e593df077d3e4ff79d

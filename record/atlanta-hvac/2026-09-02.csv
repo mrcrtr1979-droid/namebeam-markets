@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-02,atlanta-hvac,Atlanta GA,hvac repair and replacement,openai,1,OK,0,,NB-CZ-API_2026-09-02_segment_hvac_atlanta_openai,NB-CZ-API_2026-09-02_segment_hvac_atlanta_openai.json,3f3ab74368a7581be3a89cb7866bbe245a52eace1dfc2a773ac83ecda3fa9dda
+2026-09-02,atlanta-hvac,Atlanta GA,hvac repair and replacement,anthropic,1,OK,0,,NB-CZ-API_2026-09-02_segment_hvac_atlanta_anthropic,NB-CZ-API_2026-09-02_segment_hvac_atlanta_anthropic.json,443f13bba753fb9a9ee642bcc214ce6ea661a7b900b1c8cb1d737621fc409060
+2026-09-02,atlanta-hvac,Atlanta GA,hvac repair and replacement,perplexity,1,FAILED,0,,NB-CZ-API_2026-09-02_segment_hvac_atlanta_perplexity,NB-CZ-API_2026-09-02_segment_hvac_atlanta_perplexity.json,b4a625c08173754475feeb0eed202d26078f1f484b2c244a7c4fa3db82cb61c2
+2026-09-02,atlanta-hvac,Atlanta GA,hvac repair and replacement,gemini,1,QUOTA_BLOCKED,0,,NB-CZ-API_2026-09-02_segment_hvac_atlanta_gemini,NB-CZ-API_2026-09-02_segment_hvac_atlanta_gemini.json,b1942e3acfb213aa5700ee7b8257c325b724ed8434805bd727c4008ca0a486d8
+2026-09-02,atlanta-hvac,Atlanta GA,hvac repair and replacement,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-02_segment_hvac_atlanta,NB-CZ-SERP_2026-09-02_segment_hvac_atlanta.json,e06be30ccc258ccc1380f00ae87ef894a3a2f1beb68c0042a6133cdb563b4247
