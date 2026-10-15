@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex,follow">
 <title>Edition 1 of the AI Visibility Record, data through 2026-10-13 | Namebeam</title>
 <meta name="description" content="Edition 1 of the AI Visibility Record: five findings from 12,180 dated rows, 2026-09-01 to 2026-10-13, each with its number, denominator, window and source file. Released 2026-10-15.">
 <link rel="canonical" href="https://markets.namebeam.ai/edition-1/">
@@ -42,12 +41,97 @@ footer .eq{font-style:italic;margin-top:8px}
   .ce-net .ce-legal{overflow-wrap:anywhere}
 }
 </style>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org/",
+ "@type": "Dataset",
+ "name": "Namebeam AI Visibility Record, Edition 1",
+ "description": "Dated record of which businesses AI answer engines name for local questions in US markets, with the sources the engines returned. Edition 1 covers 2026-09-01 to 2026-10-13 (42 run days). The data pack holds 12180 answer rows (one per raw answer file, with the names each engine returned and the SHA-256 of the raw file), 45637 source URL rows, 28 rows from a Siri panel run by hand, and a metrics table that gives the denominator of every figure. Perplexity, OpenAI, Anthropic and Gemini were called through their programming interfaces, and Google results pages were read. Every file is listed in a SHA-256 manifest and a verify script checks the pack. Licensed CC BY 4.0.",
+ "url": "https://markets.namebeam.ai/edition-1/",
+ "version": "Edition 1 (final)",
+ "license": "https://creativecommons.org/licenses/by/4.0/",
+ "isAccessibleForFree": true,
+ "creator": {
+  "@type": "Organization",
+  "name": "Carter Enterprise LLC",
+  "alternateName": "Namebeam",
+  "url": "https://namebeam.ai"
+ },
+ "publisher": {
+  "@type": "Organization",
+  "name": "Carter Enterprise LLC",
+  "alternateName": "Namebeam",
+  "url": "https://namebeam.ai"
+ },
+ "keywords": [
+  "AI answer engines",
+  "local search",
+  "AI search citations",
+  "dated record",
+  "open data"
+ ],
+ "temporalCoverage": "2026-09-01/2026-10-13",
+ "spatialCoverage": {
+  "@type": "Place",
+  "name": "United States"
+ },
+ "measurementTechnique": "One fixed question per business or segment is put to each engine every day; each answer is stored as a raw file with its SHA-256. See the method note for the settings of every engine.",
+ "distribution": [
+  {
+   "@type": "DataDownload",
+   "name": "Answers table",
+   "encodingFormat": "text/csv",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/answers_2026-09-01_to_2026-10-13.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Sources table",
+   "encodingFormat": "text/csv",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/sources_2026-09-01_to_2026-10-13.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Siri panel",
+   "encodingFormat": "text/csv",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/siri_panel.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Metrics table",
+   "encodingFormat": "text/csv",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/metrics/metrics_v2.csv"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Method note",
+   "encodingFormat": "text/markdown",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/README.md"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Manifest",
+   "encodingFormat": "text/plain",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/MANIFEST.sha256"
+  },
+  {
+   "@type": "DataDownload",
+   "name": "Verify script",
+   "encodingFormat": "text/x-python",
+   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/verify.py"
+  }
+ ],
+ "sameAs": [
+  "https://huggingface.co/datasets/Namebeam/ai-visibility-daily-record"
+ ],
+ "datePublished": "2026-10-15"
+}
+</script>
 </head>
 <body>
 <div class="hero">
 <div class="kicker">Namebeam &middot; Edition 1 &middot; released 2026-10-15</div>
 <h1>Edition 1 of the AI Visibility Record</h1>
-<p class="sub">Five findings from a record of 12,180 dated rows, 2026-09-01 to 2026-10-13. Each one prints its number, its denominator, its window and the file it comes from.</p>
+<p class="sub">Public, hashed, openly licensed raw answers. Five findings from a record of 12,180 dated rows, 2026-09-01 to 2026-10-13. Each one prints its number, its denominator, its window and the file it comes from.</p>
 <div class="motto">The dated record of who AI names</div>
 </div>
 <div class="wrap">
