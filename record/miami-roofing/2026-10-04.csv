@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-10-04,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-10-04_segment_roofing_miami_openai,NB-CZ-API_2026-10-04_segment_roofing_miami_openai.json,bee6b31fc6fc7428dc256af262aac38fa6941f8aae1b7b4a36f7cc478b58b7e3
+2026-10-04,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-10-04_segment_roofing_miami_anthropic,NB-CZ-API_2026-10-04_segment_roofing_miami_anthropic.json,9b7be98897d28fcabbdf671e1e8bfa373baad0dd9263b959efe828e99bfb48dd
+2026-10-04,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,2,Duke Contractors; Exact Roofing,NB-CZ-API_2026-10-04_segment_roofing_miami_perplexity,NB-CZ-API_2026-10-04_segment_roofing_miami_perplexity.json,98ae94ab17b85091062b5f01477a7ffa85d04abb65ac634e27a5e9da95782892
+2026-10-04,miami-roofing,Miami FL,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-10-04_segment_roofing_miami_gemini,NB-CZ-API_2026-10-04_segment_roofing_miami_gemini.json,f8572335e5a5f6eefc3c34b6b681560bd65a550e4cb638c9beb37462f7dd3b7e
+2026-10-04,miami-roofing,Miami FL,residential roofing,google_serp,1,EXTRACTION_FAILED,0,,NB-CZ-SERP_2026-10-04_segment_roofing_miami,NB-CZ-SERP_2026-10-04_segment_roofing_miami.json,49a2afcea84e10127d87468dccc11fe3d5a662dbd348e72ae446c3bfa0cca766

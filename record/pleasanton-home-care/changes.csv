@@ -1,0 +1,394 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Alameda County Area Agency on Aging (AAA,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Always Best Care of Pleasanton,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Amada Senior Care (East Bay,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Home Care (Non-Medical,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Home Health Care (Medical,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Home Instead (Pleasanton / Tri-Valley,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Pleasanton Senior Center,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,SYNERGY HomeCare of Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Supervision,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Visiting Angels (Tri-Valley / Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,BrightStar Care of Dublin,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,BrightStar Care of Moraga,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,California Department of Social Services (CDSS,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Care Indeed,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Caregiver Vetting,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Licensing & Insurance,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,BrightStar Care of Dublin,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,BrightStar Care of Moraga,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Care Indeed,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Homewatch CareGivers of Pleasanton,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,In-Home Care (Non-Medical,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Pleasanton and the Tri-Valley area,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Visiting Angels (Tri-Valley,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Always Best Care of Pleasanton,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,BrightStar Care,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Home Care (Non-Medical,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Home Instead (Pleasanton / Tri-Valley,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Minimum Hours,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Nurse Next Door,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,SYNERGY HomeCare of Pleasanton,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Supervision,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Visiting Angels,perplexity gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Visiting Angels (Tri-Valley / Pleasanton,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Apollo Home Healthcare,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,ComForCare,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,ComForCare Home Care (Tri-Valley,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,From the Heart Senior Services,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Long-Term Care Insurance,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Long-Term Care Insurance (LTCI,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Tri-Valley Personal Home Care Services,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Visiting Angels,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Visiting Angels (Tri-Valley / Pleasanton,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,W-2 employees,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Alameda County Area Agency on Aging (AAA,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Amada Senior Care (East Bay,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,BrightStar Care of Dublin,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,BrightStar Care of Moraga,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Care Indeed,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Home Health Care (Medical,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,In-Home Care (Non-Medical,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Pleasanton Senior Center,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Pleasanton and the Tri-Valley area,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Visiting Angels (Tri-Valley,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Visiting Angels of Livermore,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,BrightStar Care (Dublin / Pleasanton Area,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Caregiver Matching,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Home Care (Non-Medical,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Home Health Care (Medical,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Home Instead (Tri-Valley Office,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Nurse Next Door,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Right at Home (East Bay / Tri-Valley,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Stanford Health Care at Home,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Supervision,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Synergy HomeCare (Tri-Valley,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Visiting Angels of Livermore,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,ComForCare,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,ComForCare Home Care (Tri-Valley,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Long-Term Care Insurance,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Long-Term Care Insurance (LTCI,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Right at Home (Tri-Valley,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Visiting Angels (Tri-Valley / Pleasanton,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,W-2 employees,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Alameda County Area Agency on Aging (AAA,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Amada Senior Care (East Bay,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Background Checks,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,BrightStar Care,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,California Department of Social Services (CDSS,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Employment Status,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Licensing & Insurance,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Pleasanton Senior Center,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Pleasanton and the Tri-Valley area,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley / East Bay,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Apollo Home Healthcare,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,BrightStar Care (Dublin / Pleasanton Area,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,From the Heart Senior Services,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Home Care (Non-Medical,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Home Health Care (Medical,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Home Instead (Tri-Valley Office,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Right at Home (East Bay / Tri-Valley,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Right at Home East Bay,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Stanford Health Care at Home,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Supervision,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Synergy HomeCare (Tri-Valley,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Tri-Valley Personal Home Care Services,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Always Best Care of Pleasanton,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Right at Home East Bay,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Nurse Next Door,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,dropped,Visiting Angels of Livermore,perplexity
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,In-Home Care (Non-Medical,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,entered,Right at Home (Tri-Valley,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Assess Needs,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Caregiver Vetting,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Home Instead (Pleasanton / Tri-Valley,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Licensing & Insurance,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Minimum Hours,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Overview,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Right at Home (East Bay / Tri-Valley,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Specialized Training,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini,dropped,Stanford Health Care - ValleyCare Home Health,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Assess Needs,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Home Care (Non-Medical,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Home Health Care (Medical,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Overview,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,Stanford Health Care at Home,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,entered,W-2 employees,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Highlights,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,In-Home Care (Non-Medical,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Right at Home (Tri-Valley,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Schedule In-Home Consultations,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini,dropped,Visiting Angels (Tri-Valley / Pleasanton,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Always Best Care of Pleasanton,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,ComForCare Home Care (Tri-Valley,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,FirstLight Home Care,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Interim HealthCare,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Nurse Next Door,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Seniors Helping Seniors (Tri-Valley,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,entered,Visiting Angels (Tri-Valley,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Assess Needs,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Home Care (Non-Medical,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Home Health Care (Medical,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Right at Home East Bay,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,Stanford Health Care at Home,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini,dropped,W-2 employees,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Caregiver Continuity,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Home Care Organization (HCO,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Long-Term Care Insurance (LTCI,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Minimum Hours,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Pleasanton and Tri-Valley area,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Right at Home,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Right at Home East Bay,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,State Licensing,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,entered,Visiting Angels of Livermore,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,FirstLight Home Care,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Home Instead,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Interim HealthCare,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Nurse Next Door,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity gemini,dropped,Seniors Helping Seniors (Tri-Valley,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Beacon Home Care,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Caregiver Matching & Backups,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,CenterWell Home Health,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Employment Status,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Home Care Organizations (HCOs,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Nurse Next Door,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Pleasanton Senior Center,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Pleasanton and the Tri-Valley area,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley / East Bay,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,W-2 employees,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Caregiver Continuity,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Home Care Organization (HCO,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Homewatch CareGivers of Pleasanton,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Long-Term Care Insurance (LTCI,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Pleasanton and Tri-Valley area,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Right at Home East Bay,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,State Licensing,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Visiting Angels (Tri-Valley,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Visiting Angels of Livermore,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Home Care Assistance of Pleasanton,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Home Instead,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Right at Home East Bay,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Beacon Home Care,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Right at Home,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Beacon Home Care,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Home Care Assistance of Pleasanton,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Home Instead,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,CenterWell Home Health,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,ComForCare Home Care (Tri-Valley,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Home Health Care (Medical,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,In-Home Care (Non-Medical,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Long-Term Care Insurance (LTCI,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Pleasanton and Tri-Valley area,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Stanford Health Care - ValleyCare Home Health,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Visiting Angels,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,W-2 employees,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Beacon Home Care,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Right at Home (East Bay / Tri-Valley,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,SYNERGY HomeCare of Pleasanton,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Apollo Home Healthcare,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,BrightStar Care (Dublin / Pleasanton Area,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,FirstLight Home Care,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Home Instead (Pleasanton / Tri-Valley,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,LifeGuard Home Health,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Minimum Hours,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Right at Home,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Sky Home Health Services,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Specialized Training,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Amada Senior Care (East Bay,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,CenterWell Home Health,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Home Health Care (Medical,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,In-Home Care (Non-Medical,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Long-Term Care Insurance (LTCI,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Pleasanton and Tri-Valley area,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Right at Home East Bay,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Stanford Health Care - ValleyCare Home Health,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Visiting Angels,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,W-2 employees,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,All Seasons Homecare,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Home Care (Non-Medical,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Home Care Assistance of Pleasanton,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Home Care Organizations (HCOs,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Home Health Care (Medical,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Home Instead (Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Licensing & Insurance,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley / Pleasanton,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Seniors Helping Seniors (Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Visiting Angels (Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,BrightStar Care (Dublin / Pleasanton Area,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,ComForCare Home Care (Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,FirstLight Home Care,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Home Instead (Pleasanton / Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,LifeGuard Home Health,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Minimum Hours,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Nurse Next Door,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Right at Home (Tri-Valley,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Sky Home Health Services,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Specialized Training,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,BrightStar Care,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Caregiver Vetting,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Comfort Keepers of Pleasanton,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Employment Status,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Home Instead,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Long-Term Care Insurance,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Minimum Hours,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,SYNERGY HomeCare of Pleasanton,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Visiting Angels,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,W-2 employees,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,All Seasons Homecare,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Apollo Home Healthcare,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Home Care Assistance of Pleasanton,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Home Care Organizations (HCOs,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Home Health Care (Medical,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Home Instead (Tri-Valley,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Licensing & Insurance,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Right at Home (Tri-Valley / Pleasanton,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Seniors Helping Seniors (Tri-Valley,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Visiting Angels (Tri-Valley,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Amada Senior Care (East Bay,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Apollo Home Healthcare,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Caregiver Matching & Backups,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Highlights,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Home Care Organization (HCO,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Home Instead (Tri-Valley,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Right at Home (East Bay / Tri-Valley,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Synergy HomeCare (Tri-Valley,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Visiting Angels of Livermore,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,BrightStar Care,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Caregiver Vetting,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Comfort Keepers of Pleasanton,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Employment Status,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Home Care (Non-Medical,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Home Instead,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Long-Term Care Insurance,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Minimum Hours,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,SYNERGY HomeCare of Pleasanton,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Visiting Angels,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Background Checks,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Comfort Keepers of Pleasanton,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Home Care Assistance of Pleasanton,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Home Instead,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Home Instead (Tri-Valley Office,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Interim HealthCare,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Right at Home (Tri-Valley / Pleasanton,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,State Licensing,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Visiting Angels,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Apollo Home Healthcare,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Caregiver Matching & Backups,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Highlights,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Home Instead (Tri-Valley,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Right at Home (East Bay / Tri-Valley,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Synergy HomeCare (Tri-Valley,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Visiting Angels of Livermore,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,W-2 employees,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity,entered,Right at Home East Bay,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Comfort Keepers of Pleasanton,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Home Care Assistance of Pleasanton,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Home Instead,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Interim HealthCare,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Right at Home,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity,dropped,Visiting Angels,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Apollo Home Healthcare,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Home Care Assistance of Pleasanton,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Visiting Angels of Livermore,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,entered,Right at Home,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,All Seasons Homecare,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Home Instead,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Sky Home Health Services,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Home Care Assistance of Pleasanton,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Right at Home,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity,dropped,Visiting Angels of Livermore,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,entered,Home Care Assistance of Pleasanton,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,entered,Right at Home,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,dropped,Home Instead,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,dropped,Right at Home East Bay,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,dropped,Senior Helpers of Pleasanton,perplexity
+2026-09-21,2026-09-20,1,anthropic perplexity,dropped,Sky Home Health Services,perplexity
+2026-09-22,2026-09-21,1,anthropic perplexity,entered,Senior Helpers of Pleasanton,perplexity
+2026-09-22,2026-09-21,1,anthropic perplexity,dropped,Apollo Home Healthcare,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Apollo Home Healthcare,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,LifeGuard Home Health,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Right at Home East Bay,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Sky Home Health Services,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,All Seasons Homecare,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,Right at Home,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,All Seasons Homecare,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Right at Home,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,LifeGuard Home Health,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Right at Home East Bay,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,All Seasons Homecare,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Always Best Care of Pleasanton,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,All Seasons Homecare,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,LifeGuard Home Health,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Right at Home,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Senior Helpers of Pleasanton,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Always Best Care of Pleasanton,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Bayada,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,ComForCare,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Home Instead,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Right at Home,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Senior Helpers of Pleasanton,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Silversun Home Care,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,All Seasons Homecare,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Apollo Home Healthcare,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,LifeGuard Home Health,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Sky Home Health Services,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Visiting Angels of Livermore,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Always Best Care of Pleasanton,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Bayada,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,ComForCare,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Home Care Assistance of Pleasanton,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Right at Home,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Silversun Home Care,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Always Best Care of Pleasanton,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,ComForCare,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Right at Home,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Visiting Angels of Livermore,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,BrightStar Care,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Comfort Keepers of Pleasanton,openai perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Home Care Assistance of Pleasanton,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Visiting Angels,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Always Best Care of Pleasanton,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,ComForCare,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Right at Home,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,BrightStar Care,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Senior Helpers of Pleasanton,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Visiting Angels,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Hired Hands Homecare,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Interim HealthCare,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Senior Helpers of Pleasanton,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Home Care Assistance of Pleasanton,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Home Instead,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Home Instead,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Comfort Keepers of Pleasanton,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Hired Hands Homecare,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Interim HealthCare,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Senior Helpers of Pleasanton,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Always Best Care of Pleasanton,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Home Care Assistance of Pleasanton,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Right at Home,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Senior Helpers of Pleasanton,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Home Instead,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Comfort Keepers of Pleasanton,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Always Best Care of Pleasanton,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Right at Home,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Senior Helpers of Pleasanton,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,All Seasons Homecare,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Home Instead,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Right at Home,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Senior Helpers of Pleasanton,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Seniors Helping Seniors,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Visiting Angels,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Comfort Keepers of Pleasanton,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Home Care Assistance of Pleasanton,perplexity

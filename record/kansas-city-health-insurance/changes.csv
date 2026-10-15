@@ -1,0 +1,300 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,AIS Health Insurance Advisors,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,HealthMarkets agent Caitlyn Cregan,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Jeff David Insurance,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Benefit Services of Kansas City,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,Benefit Services of Kansas City,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,HUB International,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,dropped,HealthMarkets agent Caitlyn Cregan,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,HUB International,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,HealthMarkets agent Caitlyn Cregan,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,entered,Kansas,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Benefit Services of Kansas City,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Jeff David Insurance,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,AIS Health Insurance Advisors,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Jeff David Insurance,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,HealthMarkets agent Caitlyn Cregan,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,Kansas,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Apollo Health Insurance,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,entered,Blue Star Benefits,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,HUB International,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Jeff David Insurance,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Benefit Services of Kansas City,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,HUB International,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Jeff David Insurance,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Blue Star Benefits,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity google_serp,dropped,Benefit Services of Kansas City,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Benefit Services of Kansas City,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,dropped,Jeff David Insurance,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,HUB International,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,NuLight Consulting,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Benefit Services of Kansas City,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Jeff David Insurance,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Apollo Health Insurance,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity,entered,Apollo Health Insurance,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity,entered,HUB International,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,HUB International,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-08-24,2026-08-23,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity,entered,Benefit Services of Kansas City,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity,dropped,BBS Insurance,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Agent or Broker,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,HealthMarkets Insurance Agency (Local KC Agents,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Jeff David Insurance,perplexity
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,Senior Health Solutions (KC Metro,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,entered,"Use Healthcare.gov's ""Find Local Help"" Tool",gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,"HealthCare.gov ""Find Local Help",gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Kansas,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity gemini google_serp,dropped,Small Business,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,CLAIM (Missouri) & SHICK (Kansas,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,"Healthcare.gov ""Find Local Help",gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Lockton Companies,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Overview,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Agent or Broker,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Apollo Health Insurance,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,HealthMarkets Insurance Agency (Local KC Agents,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Senior Health Solutions (KC Metro,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,"Use Healthcare.gov's ""Find Local Help"" Tool",gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Apollo Health Insurance,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Broker Services are FREE to You,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Independent brokers,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Independent vs. Captive,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,You should never pay a fee out-of-pocket,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,CLAIM (Missouri) & SHICK (Kansas,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Haas & Wilkerson Insurance,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Lockton Companies,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,NuLight Consulting,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Overview,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Blue Star Benefits,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Haas & Wilkerson Insurance,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Kansas,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,NuLight Consulting,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Why,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,"Healthcare.gov ""Find Local Help",gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Independent brokers,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Independent vs. Captive,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,You should never pay a fee out-of-pocket,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,HealthMarkets Insurance Agency (Local KC Agents,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Jeff David Insurance,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,entered,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Blue Star Benefits,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Broker Services are FREE to You,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,NuLight Consulting,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini,dropped,Why,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,100% free to you,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,BBS Insurance,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,CLAIM,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,CLAIM (Missouri) & SHICK (Kansas,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,HealthMarkets Insurance Agency (Local KC Representatives,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,NuLight Consulting,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,entered,SHICK,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,HealthMarkets Insurance Agency (Local KC Agents,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Kansas,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini,dropped,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Jeff David Insurance,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Kansas,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Lockton Companies,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,100% free to you,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,CLAIM,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,CLAIM (Missouri) & SHICK (Kansas,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Haas & Wilkerson Insurance,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,HealthMarkets Insurance Agency (Local KC Representatives,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,SHICK,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,AIS Health Insurance Advisors,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,"Bukaty Companies (Overland Park, KS",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,CLAIM,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Captive Agents,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,"Haas & Wilkerson Insurance (Fairway, KS",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,"Healthcare.gov ""Find Local Help",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Independent Brokers,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,KC Health Insurance / Local Independent Brokers,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,Kansas,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,SHICK,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,entered,State Insurance Departments,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,AIS Health Insurance Advisors,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Apollo Health Insurance,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Bukaty Companies,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,CBIZ Benefits & Insurance Services,gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,"HealthCare.gov ""Find Local Help",gemini
+2026-09-08,2026-09-07,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,AIS Health Insurance Advisors,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Apollo Health Insurance,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,BBS Insurance,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Bukaty Companies,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Haas & Wilkerson Insurance,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Individual/Family (ACA,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Jeff David Insurance,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Kansas Side,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Missouri Side,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Small Business,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,entered,Thomas McGee Group,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,Benefit Services of Kansas City,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,"Bukaty Companies (Overland Park, KS",gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,Captive Agents,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,"Haas & Wilkerson Insurance (Fairway, KS",gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,"Healthcare.gov ""Find Local Help",gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,Independent Brokers,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,KC Health Insurance / Local Independent Brokers,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,Kansas,gemini
+2026-09-09,2026-09-08,1,openai anthropic perplexity gemini,dropped,State Insurance Departments,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Benefit Services of Kansas City,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Cover Kansas,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,"Healthcare.gov ""Find Local Help",gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Individual/Family ACA plans,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Small Business Group Insurance,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Why,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Apollo Health Insurance,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,BBS Insurance,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,CLAIM,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Individual/Family (ACA,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Kansas Side,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Missouri Side,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,NuLight Consulting,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,SHICK,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Small Business,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Thomas McGee Group,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,NuLight Consulting,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,HUB International,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,"Heartland Insurance Agency, Inc",perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,Mylo,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,entered,The Morrill Insurance Group,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Benefit Services of Kansas City,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,BBS Insurance,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Benefit Services of Kansas City,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Jeff David Insurance,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Kansas (SHICK,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Missouri (CLAIM,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,You should never pay a fee,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,100% free to you,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Ambetter,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Cover Kansas,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Dual-State Licensing,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,HUB International,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,"Heartland Insurance Agency, Inc",perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Individual/Family ACA plans,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Mylo,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Small Business Group Insurance,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,The Morrill Insurance Group,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,UnitedHealthcare,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Captive Agents,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,HealthMarkets Insurance Agency (Local KC Representatives,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Independent Brokers,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Independent vs. Captive,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Kansas,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,State Insurance Departments,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Kansas (SHICK,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Missouri (CLAIM,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,You should never pay a fee,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Agent or Broker,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Brokers are Free to You,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,CBIZ Benefits & Insurance Services,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,CLAIM,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Haas & Wilkerson Insurance,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Jeff David Insurance,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Kansas Side,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Missouri Side,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,SHICK,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Captive Agents,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,HealthMarkets Insurance Agency (Local KC Representatives,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Independent Brokers,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Independent vs. Captive,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Kansas,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,State Insurance Departments,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Ambetter,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Agent or Broker,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,BBS Insurance,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Brokers are Free to You,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,CBIZ Benefits & Insurance Services,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Jeff David Insurance,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,BBS Insurance,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Blue Star Benefits,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Bukaty Companies (Overland Park / KC Metro,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,"Haas & Wilkerson Insurance (Fairway, KS",gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,HealthMarkets Insurance Agency (Local KC Agents,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,"Heartland Insurance Agency, Inc",perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Ambetter,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Benefit Services of Kansas City,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Bukaty Companies,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,CLAIM,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Haas & Wilkerson Insurance,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Kansas Side,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Missouri Side,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,SHICK,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Benefit Services of Kansas City,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Medicare KC,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,Mylo,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,entered,The Morrill Insurance Group,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity,dropped,Blue Star Benefits,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Benefit Services of Kansas City,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,Medicare KC,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity,dropped,The Morrill Insurance Group,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Apollo Health Insurance,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Brokers are Free to You,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,"Bukaty Companies (Overland Park, KS",gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Captive Agents,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,HUB International,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Independent Brokers,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Independent vs. Captive,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,Small Business/Group coverage,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,entered,You should never pay a fee out-of-pocket,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Agent or Broker,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,BBS Insurance,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Bukaty Companies (Overland Park / KC Metro,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,"Heartland Insurance Agency, Inc",perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Independent brokers,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,KC Health Insurance / Local Independent Brokers,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Kansas (SHICK,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Missouri (CLAIM,gemini
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Mylo,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity gemini google_serp,dropped,Senior Health Solutions / Local Medicare Specialists,gemini
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Benefit Services of Kansas City,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,HUB International,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,entered,"Heartland Insurance Agency, Inc",perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,BBS Insurance,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,"Heartland Insurance Agency, Inc",perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity,dropped,NuLight Consulting,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,"Heartland Insurance Agency, Inc",perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,entered,Mylo,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Jeff David Insurance,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Apollo Health Insurance,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,"Heartland Insurance Agency, Inc",perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Mylo,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,Apollo Health Insurance,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Jeff David Insurance,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Apollo Health Insurance,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Benefit Services of Kansas City,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity,dropped,Jeff David Insurance,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Medicare KC,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,AIS Health Insurance Advisors,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Apollo Health Insurance,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,BBS Insurance,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Medicare KC,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,BBS Insurance,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,AIS Health Insurance Advisors,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Apollo Health Insurance,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Apollo Health Insurance,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Apollo Health Insurance,perplexity

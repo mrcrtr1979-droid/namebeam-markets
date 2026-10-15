@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-03,houston-hvac,Houston TX,hvac repair and replacement,openai,1,OK,0,,NB-CZ-API_2026-09-03_segment_hvac_houston_openai,NB-CZ-API_2026-09-03_segment_hvac_houston_openai.json,fa333749ac71444202e76444b20169039689a2b9e4887059ce65b708ac5dfc3d
+2026-09-03,houston-hvac,Houston TX,hvac repair and replacement,anthropic,1,OK,0,,NB-CZ-API_2026-09-03_segment_hvac_houston_anthropic,NB-CZ-API_2026-09-03_segment_hvac_houston_anthropic.json,1d32f03051b0b23eb19c9c6da5fc3399c859c63dfa57425144b43ea29c38d55d
+2026-09-03,houston-hvac,Houston TX,hvac repair and replacement,perplexity,1,FAILED,0,,NB-CZ-API_2026-09-03_segment_hvac_houston_perplexity,NB-CZ-API_2026-09-03_segment_hvac_houston_perplexity.json,d02aaa487155a729d69f5a359b4ae0bcdbb23879c1d981f1900d1d288cac5229
+2026-09-03,houston-hvac,Houston TX,hvac repair and replacement,gemini,1,QUOTA_BLOCKED,0,,NB-CZ-API_2026-09-03_segment_hvac_houston_gemini,NB-CZ-API_2026-09-03_segment_hvac_houston_gemini.json,3532a9178e846184e98528b75138b78565c088cbe9bc65ebc5fa1fe995b5cb42
+2026-09-03,houston-hvac,Houston TX,hvac repair and replacement,google_serp,1,OK,0,,NB-CZ-SERP_2026-09-03_segment_hvac_houston,NB-CZ-SERP_2026-09-03_segment_hvac_houston.json,ffb6234dc75f521eb159dbce34543f4793cdd38c4f3728c8f69d0ca1934dd8fa

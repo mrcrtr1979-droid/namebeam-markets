@@ -1,0 +1,194 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Firestone Complete Auto Care,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Lexus of Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Mercedes-Benz of Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,entered,Pro Tip,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Autohaus Pleasanton,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Big O Tires,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Edge Motorworks,gemini
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Oil Changers,perplexity
+2026-08-27,2026-08-26,1,openai anthropic perplexity gemini,dropped,Tri-Valley Auto Repair,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Big O Tires,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Repair,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Firestone Complete Auto Care,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Lexus of Pleasanton,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Mercedes-Benz of Pleasanton,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Care,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,East Bay BMW,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Know Your Oil Type,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Lexus of Pleasanton,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Pleasanton Automotive,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,entered,Tire Choice Auto Service Centers,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Harry's Auto Repair,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Old Town Auto Care,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Repair,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Pro Tip,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini,dropped,Valvoline,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity,entered,Old Town Auto Care,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity,dropped,Tire Choice Auto Service Centers,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity,entered,Tire Choice Auto Service Centers,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,East Bay BMW,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Hopyard Auto Repair,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Lexus of Pleasanton,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Care,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Edge Motorworks,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Jiffy Lube,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Repair,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Precision Auto Repair,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Tire Choice Auto Service Centers,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini,dropped,Valvoline,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Jiffy Lube,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Valvoline Instant Oil Change,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Walmart Auto Care Center,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,YourMechanic,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity,dropped,Old Town Auto Care,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity,dropped,SpeeDee Oil Change & Auto Service,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,SpeeDee Oil Change & Auto Service,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,Walmart Auto Care Center,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,YourMechanic,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Old Town Auto Care,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Jiffy Lube,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,Valvoline Instant Oil Change,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Firestone Complete Auto Care,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Jiffy Lube,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Walmart Auto Care Center,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Firestone Complete Auto Care,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Jiffy Lube,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,SpeeDee Oil Change & Auto Service,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Walmart Auto Care Center,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Jiffy Lube,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Pep Boys,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,SpeeDee Oil Change & Auto Service,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Valvoline Instant Oil Change,openai
+2026-09-11,2026-09-10,1,openai anthropic perplexity,entered,Walmart Auto Care Center,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity,dropped,Old Town Auto Care,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Ed's Automotive & Light Truck Repair,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Know Your Oil Type,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Old Town Auto Care,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Care,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,entered,YourMechanic,openai
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Mall,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Pleasanton Automotive,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Precision Auto Repair,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini,dropped,Walmart Auto Care Center,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Valvoline,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,entered,Walmart Auto Care Center,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Ed's Automotive & Light Truck Repair,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Know Your Oil Type,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Old Town Auto Care,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Pep Boys,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Care,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Autotron Service Center,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Big Brand Tire & Service,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Firestone Complete Auto Care,openai gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Care,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Wheel Works,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Tire Choice Auto Service Centers,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Tri-Valley Auto Repair,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Valvoline,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,YourMechanic,openai
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Repair,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Precision Auto Repair,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Tire Choice Auto Service Centers,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Valvoline,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Big Brand Tire & Service,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Big O Tires,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Care,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Wheel Works,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Big Brand Tire & Service,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Big O Tires,perplexity gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,East Bay BMW,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Lexus of Pleasanton,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Pep Boys,openai
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Care,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Autotron Service Center,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Firestone Complete Auto Care,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Repair,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Firestone Complete Auto Care,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,entered,Oil Changers,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,East Bay BMW,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Lexus of Pleasanton,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Pep Boys,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Tire Choice Auto Service Centers,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Valvoline,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity gemini,dropped,Valvoline Instant Oil Change,openai gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,entered,Autoworks of Pleasanton,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,entered,East Bay BMW,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,entered,Tire Choice Auto Service Centers,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,entered,Valvoline,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,entered,Valvoline Instant Oil Change,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,dropped,Firestone Complete Auto Care,openai
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,dropped,Oil Changers,gemini
+2026-09-18,2026-09-17,1,openai anthropic perplexity gemini,dropped,Precision Auto Repair,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Pep Boys,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Mall,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Pleasanton Auto Repair,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Precision Auto Repair,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,Wheel Works,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,entered,YourMechanic,openai
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Autoworks of Pleasanton,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Big Brand Tire & Service,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,East Bay BMW,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Pleasanton Auto Care,gemini
+2026-09-19,2026-09-18,1,openai anthropic perplexity gemini,dropped,Walmart Auto Care Center,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Precision Auto Repair,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Valvoline Instant Oil Change,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,Walmart Auto Care Center,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Pep Boys,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Tire Choice Auto Service Centers,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,YourMechanic,openai
+2026-09-21,2026-09-20,1,openai anthropic,entered,Pep Boys,openai
+2026-09-21,2026-09-20,1,openai anthropic,dropped,Valvoline Instant Oil Change,openai
+2026-09-22,2026-09-21,1,openai anthropic,entered,Valvoline Instant Oil Change,openai
+2026-09-22,2026-09-21,1,openai anthropic,dropped,Pep Boys,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Big Brand Tire & Service,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,YourMechanic,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Jiffy Lube,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Walmart Auto Care Center,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Jiffy Lube,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Precision Auto Repair,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,entered,Walmart Auto Care Center,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Big Brand Tire & Service,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Valvoline Instant Oil Change,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity,entered,Valvoline Instant Oil Change,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Precision Auto Repair,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,Walmart Auto Care Center,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity,dropped,YourMechanic,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,Pep Boys,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,Precision Auto Repair,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Big Brand Tire & Service,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Hopyard Auto Repair,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Old Town Auto Care,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,entered,Walmart Auto Care Center,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Big O Tires,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Pep Boys,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Precision Auto Repair,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Tire Choice Auto Service Centers,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Hopyard Auto Repair,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Old Town Auto Care,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Valvoline Instant Oil Change,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Ed's Automotive & Light Truck Repair,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Valvoline Instant Oil Change,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Jiffy Lube,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Walmart Auto Care Center,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Jiffy Lube,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Ed's Automotive & Light Truck Repair,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Pep Boys,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Old Town Auto Care,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,YourMechanic,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Pep Boys,openai
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Ed's Automotive & Light Truck Repair,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,Old Town Auto Care,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,YourMechanic,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Pep Boys,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Jiffy Lube,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Valvoline Instant Oil Change,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Jiffy Lube,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Valvoline Instant Oil Change,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,YourMechanic,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Ed's Automotive & Light Truck Repair,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Pep Boys,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Old Town Auto Care,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Pep Boys,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,YourMechanic,openai

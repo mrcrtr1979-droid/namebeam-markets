@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-08-17,miami-roofing,Miami FL,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-08-17_segment_roofing_miami_openai,NB-CZ-API_2026-08-17_segment_roofing_miami_openai.json,33b9eb54582cda4f9c0286c55a26182f47acac831eef9e385174c614def7793e
+2026-08-17,miami-roofing,Miami FL,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-08-17_segment_roofing_miami_anthropic,NB-CZ-API_2026-08-17_segment_roofing_miami_anthropic.json,b916488ee5ee0243a738bce4cbfe17c4f39426e71e9f5616fd9f057a11b99528
+2026-08-17,miami-roofing,Miami FL,residential roofing,perplexity,1,OK,2,Extreme Roofing; Ironwood Roofing Miami,NB-CZ-API_2026-08-17_segment_roofing_miami_perplexity,NB-CZ-API_2026-08-17_segment_roofing_miami_perplexity.json,7da7f850ee0ab62109d8c7fb6e54978098ab01b0492680e1aa6837b3d64bf8ca
+2026-08-17,miami-roofing,Miami FL,residential roofing,gemini,1,QUOTA_BLOCKED,0,,NB-CZ-API_2026-08-17_segment_roofing_miami_gemini,NB-CZ-API_2026-08-17_segment_roofing_miami_gemini.json,ab1dc170935def33f4f26597abf769903f53740823159a90d1ecf608aafb1500
+2026-08-17,miami-roofing,Miami FL,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-08-17_segment_roofing_miami,NB-CZ-SERP_2026-08-17_segment_roofing_miami.json,28327fc01a2c8e63718ac64764696b6016b794f66301fb363c5f9ef6198bba8c

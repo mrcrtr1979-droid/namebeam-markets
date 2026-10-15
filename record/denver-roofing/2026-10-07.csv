@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-10-07,denver-roofing,Denver CO,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-10-07_segment_roofing_denver_openai,NB-CZ-API_2026-10-07_segment_roofing_denver_openai.json,79e8cf409755cf3a08d30665a6435ba67b4d70fba275c4fa784ac9f80f835c5a
+2026-10-07,denver-roofing,Denver CO,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-10-07_segment_roofing_denver_anthropic,NB-CZ-API_2026-10-07_segment_roofing_denver_anthropic.json,893f1870d4741b2c27a743d7a5c3374d46164a0059fb2ee2824c212b8bb0df6c
+2026-10-07,denver-roofing,Denver CO,residential roofing,perplexity,1,OK,2,Cenco Roofing; Gates Enterprises,NB-CZ-API_2026-10-07_segment_roofing_denver_perplexity,NB-CZ-API_2026-10-07_segment_roofing_denver_perplexity.json,620b2c429f61a16395cd672eebbc170c976d7fe4afaa082261bb11ef26df4b60
+2026-10-07,denver-roofing,Denver CO,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-10-07_segment_roofing_denver_gemini,NB-CZ-API_2026-10-07_segment_roofing_denver_gemini.json,10cfa38749926e4ff724b0844ac5ba3a728dccb7bf42a0fe1b3a414a5afa9d8e
+2026-10-07,denver-roofing,Denver CO,residential roofing,google_serp,1,OK,0,,NB-CZ-SERP_2026-10-07_segment_roofing_denver,NB-CZ-SERP_2026-10-07_segment_roofing_denver.json,2b8ce13296787a2a5f4c3e36c69ce4d506e9dd74ca3f443db7ffe90c9c7b017c

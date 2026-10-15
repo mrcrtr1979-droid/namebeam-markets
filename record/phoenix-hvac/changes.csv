@@ -1,0 +1,204 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,entered,Parker & Sons,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-08-12,2026-08-11,1,openai anthropic perplexity google_serp,dropped,Promise Heating & Air,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,entered,Promise Heating & Air,perplexity
+2026-08-13,2026-08-12,1,openai anthropic perplexity google_serp,dropped,American Home Water & Air,perplexity
+2026-08-14,2026-08-13,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-08-15,2026-08-14,1,openai anthropic perplexity google_serp,dropped,Promise Heating & Air,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,entered,Promise Heating & Air,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Arizona Registrar of Contractors (ROC,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Air Conditioning & Heating,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Goettl Heating,perplexity
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,"Hays Cooling, Heating & Plumbing",gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Known for,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch Mechanical,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,entered,Second Opinions,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,1. George Brazil Air Conditioning & Heating,gemini
+2026-08-17,2026-08-16,1,openai anthropic perplexity gemini google_serp,dropped,2. Howard Air,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Plumbing,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Goettl Heating,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,"Hays Cooling, Heating & Plumbing",gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Known for,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Magic Touch Mechanical,gemini
+2026-08-18,2026-08-17,1,openai anthropic perplexity gemini google_serp,dropped,Second Opinions,gemini
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,American Home Water & Air,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,dropped,Promise Heating & Air,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,entered,Promise Heating & Air,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,American Home Water & Air,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,AZ Perfect Comfort,perplexity
+2026-08-22,2026-08-21,1,openai anthropic perplexity google_serp,entered,Ideal Air Conditioning and Insulation,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Plumbing,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Air Conditioning & Heating,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Goettl Heating,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Highlights,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch Mechanical,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,1. George Brazil Air Conditioning & Heating,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,2. Howard Air,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Air Filter,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Breaker Box,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Ideal Air Conditioning and Insulation,perplexity
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Thermostat Batteries,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,"Hays Cooling, Heating & Plumbing",gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Overview,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Arizona Registrar of Contractors (ROC,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Chas Roberts Air Conditioning & Plumbing,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Highlights,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Magic Touch Mechanical,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Promise Heating & Air,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,AZ Perfect Comfort,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Air Filter,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch Mechanical,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Promise Heating & Air,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Thermostat Batteries,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Overview,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-08-29,2026-08-28,1,openai anthropic perplexity google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-08-30,2026-08-29,1,openai anthropic perplexity google_serp,dropped,Promise Heating & Air,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Heating,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,George Brazil,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Known for,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,"Penguin Air, Plumbing & Electrical",gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Promise Heating & Air,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,American Home Water & Air,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Arizona Registrar of Contractors (ROC,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Breaker Box,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Chas Roberts,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Magic Touch Mechanical,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Thermostat,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,American Home Water & Air,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Plumbing,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Chas Roberts Air Conditioning & Heating,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,George Brazil,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity gemini google_serp,dropped,Promise Heating & Air,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,entered,Aire Serv,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,entered,Promise Heating & Air,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,dropped,Aire Serv,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,dropped,Promise Heating & Air,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Desert Diamond Air,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Island Breeze Air Conditioning & Heating LLC,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,Desert Diamond Air,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,Island Breeze Air Conditioning & Heating LLC,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity,entered,Island Breeze Air Conditioning & Heating LLC,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,AZ Perfect Comfort,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Arizona Registrar of Contractors (ROC,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Chas Roberts,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,"Hays Cooling, Heating & Plumbing",gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,A/C & Plumbing Doctors,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,American Home Water & Air,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Chas Roberts Air Conditioning & Heating,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Island Breeze Air Conditioning & Heating LLC,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Known for,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Plumbing,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Coverage,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch Mechanical,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Second Opinions,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Chas Roberts,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,"Hays Cooling, Heating & Plumbing",gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,"Penguin Air, Plumbing & Electrical",gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity google_serp,entered,Day & Night Air,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity google_serp,entered,Ideal Air Conditioning and Insulation,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity google_serp,dropped,American Home Water & Air,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity google_serp,dropped,Ideal Air Conditioning and Insulation,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity google_serp,dropped,Day & Night Air,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,entered,Day & Night Air,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity google_serp,entered,Chas Roberts,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Chas Roberts,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,entered,AZ Perfect Comfort,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Day & Night Air,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Chas Roberts,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Aire Serv,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Goettl Heating,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Aire Serv,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Chas Roberts,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,AZ Perfect Comfort,perplexity
+2026-09-25,2026-09-24,1,openai anthropic perplexity google_serp,entered,Day & Night Air,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Desert Diamond Air,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Day & Night Air,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,American Home Water & Air,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Day & Night Air,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Fix It Frankie,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Goettl Heating,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Howard Air,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Parker & Sons,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,entered,Ideal Air Conditioning and Insulation,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,American Home Water & Air,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Day & Night Air,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Desert Diamond Air,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Fix It Frankie,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,1st Choice Mechanical,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Ideal Air Conditioning and Insulation,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Benefit Air,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Desert Diamond Air,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Ideal Air Conditioning and Insulation,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,1st Choice Mechanical,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,A/C & Plumbing Doctors,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Veterans AC PHX,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Benefit Air,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Desert Diamond Air,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Ideal Air Conditioning and Insulation,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,AZ Perfect Comfort,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Phoenix Air Department,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,A/C & Plumbing Doctors,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Veterans AC PHX,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Cool Zone Air Conditioning & Heating,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Goettl Heating,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Hobaica Services,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Ideal Air Conditioning and Insulation,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,On Time HVAC,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Rescue Rooter,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Cool Zone Air Conditioning & Heating,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,1st Choice Mechanical,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Goettl Heating,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Hobaica Services,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Ideal Air Conditioning and Insulation,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,On Time HVAC,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Arizona Refrigeration Service,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Hobaica Services,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,1st Choice Mechanical,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Phoenix Air Department,perplexity

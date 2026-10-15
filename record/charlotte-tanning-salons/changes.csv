@@ -1,0 +1,155 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronzing Studio,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Bronzed Bunny,gemini
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,MUSE Tan Atelier South End,perplexity
+2026-08-28,2026-08-27,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar in SouthPark,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar in SouthPark,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Convenience,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Glow Custom Spray Tanning,gemini
+2026-08-29,2026-08-28,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronzing Studio,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Glow Custom Spray Tanning,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Organic Tan Face & Body,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,entered,Ultra Tan,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Locations,gemini
+2026-08-30,2026-08-29,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar in SouthPark,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,2 days before,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Locations,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar in SouthPark,perplexity gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,entered,Palm Beach Tan - Park Towne Village,perplexity
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,Organic Tan Face & Body,gemini
+2026-08-31,2026-08-30,1,openai anthropic perplexity gemini google_serp,dropped,UV bed tanning,gemini
+2026-09-01,2026-08-31,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,entered,Organic Tan Charlotte,gemini
+2026-09-04,2026-09-03,1,openai anthropic gemini google_serp,dropped,Location,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini google_serp,entered,Ultra Tan,gemini
+2026-09-05,2026-09-04,1,openai anthropic gemini google_serp,dropped,Glow Custom Spray Tanning,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini google_serp,entered,Dilworth Tan,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini google_serp,entered,Organic Tan Face & Body,gemini
+2026-09-06,2026-09-05,1,openai anthropic perplexity gemini google_serp,dropped,Organic Tan Charlotte,gemini
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,entered,Sun Tan City,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity google_serp,dropped,Dilworth Tan,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Muse Tan,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,Mystic Tan,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity google_serp,dropped,Sun Tan City,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,Muse Tan,perplexity
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,Mystic Tan,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Location,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Locations,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,entered,Organic Tan Face & Body,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,2 days before,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Bronzed Bunny,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,Organic Tan Charlotte,gemini
+2026-09-10,2026-09-09,1,openai anthropic perplexity gemini,dropped,UV bed tanning,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Dilworth Tan,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Gorgeous GLO Beauty Bar,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Organic Bronzing Studio,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,entered,Ultra Tan,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Botanical Tans,perplexity
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Location,gemini
+2026-09-11,2026-09-10,1,openai anthropic perplexity gemini,dropped,Organic Tan Face & Body,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Botanical Tans,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,entered,Location,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Dilworth Tan,perplexity
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronzing Studio,gemini
+2026-09-12,2026-09-11,1,openai anthropic perplexity gemini google_serp,dropped,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Bronzed Glow Luxury Spray Tanning,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Glow Charlotte,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Glow Custom Spray Tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,Sugar Sugar Charlotte,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,entered,UV bed tanning,gemini
+2026-09-13,2026-09-12,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar in SouthPark,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,entered,Organic Bronze Bar in SouthPark,perplexity gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Glow Custom Spray Tanning,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Mystic Tan,gemini
+2026-09-14,2026-09-13,1,openai anthropic perplexity gemini,dropped,Ultra Tan,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,entered,Organic Tan Charlotte,gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Glow Charlotte,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Organic Bronze Bar in SouthPark,perplexity gemini
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,Sugar Sugar Charlotte,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity gemini,dropped,UV bed tanning,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,Bronzed Glow Luxury Spray Tanning,perplexity
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,Location,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,Locations,gemini
+2026-09-16,2026-09-15,1,openai anthropic perplexity gemini google_serp,dropped,Organic Tan Charlotte,gemini
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-17,2026-09-16,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity google_serp,entered,Dilworth Tan,perplexity
+2026-09-18,2026-09-17,1,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-19,2026-09-18,1,openai anthropic perplexity google_serp,dropped,Dilworth Tan,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-20,2026-09-19,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity google_serp,entered,Sweet Serenity Spa,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Dilworth Tan,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Mystic Tan,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Sun Tan City,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Muse Tan,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Planet Beach,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Dilworth Tan,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Mystic Tan,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Muse Tan,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Planet Beach,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity google_serp,dropped,Sun Tan City,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Gorgeous GLO Beauty Bar,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,entered,Muse Tan,perplexity
+2026-09-26,2026-09-25,1,openai anthropic perplexity google_serp,dropped,Sweet Serenity Spa,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan at The Arboretum,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,entered,Sun Tan City,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Botanical Tans,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Muse Tan,perplexity
+2026-09-27,2026-09-26,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan - Park Towne Village,perplexity
+2026-09-28,2026-09-27,1,openai anthropic perplexity google_serp,dropped,Sun Tan City,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Planet Beach,openai
+2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan at The Arboretum,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,dropped,Planet Beach,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Gorgeous GLO Beauty Bar,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,No Shade Spray Tanning's SouthPark location,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan at The Arboretum,perplexity
+2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,entered,Sun Tan City,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Gorgeous GLO Beauty Bar,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,No Shade Spray Tanning's SouthPark location,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,openai
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,dropped,Sun Tan City,openai
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Palm Beach Tan,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Palm Beach Tan at The Arboretum,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity

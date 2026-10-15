@@ -1,0 +1,149 @@
+date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Beach Gear,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Beach House Rentals,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Hot Tub,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,Kendall & Potter Property Management,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,entered,The Coast,gemini
+2026-08-06,2026-08-05,1,anthropic perplexity gemini,dropped,Capitola Venetian,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,entered,Transient Occupancy Tax (TOT) permit number,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Beach Gear,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Beach House Rentals,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Blacks Beach Retreat,perplexity
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Hot Tub,gemini
+2026-08-07,2026-08-06,1,anthropic perplexity gemini,dropped,Kendall & Potter Property Management,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Beach Gear,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Cheshire Rio Realty,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Fireplace/Fire Pit,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Hot Tub,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Kendall & Potter Property Management,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,Outdoor Shower,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,entered,The Mountains (Felton/Boulder Creek,gemini
+2026-08-08,2026-08-07,1,anthropic perplexity gemini,dropped,Transient Occupancy Tax (TOT) permit number,gemini
+2026-08-09,2026-08-08,1,anthropic perplexity google_serp,entered,3BR family getaway near the Beach Boardwalk,perplexity
+2026-08-09,2026-08-08,1,anthropic perplexity google_serp,entered,Blacks Beach Retreat,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,3BR family getaway near the Beach Boardwalk,perplexity
+2026-08-10,2026-08-09,1,openai anthropic perplexity google_serp,dropped,Blacks Beach Retreat,perplexity
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Aptos & Rio Del Mar,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Beach House Rentals,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Cheshire Rio Vacation Rentals,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Kendall & Potter,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Outdoor Shower,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Pleasure Point / Eastside Santa Cruz,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,entered,Transient Occupancy Tax (TOT) license number,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Aptos / Rio Del Mar,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,Capitola Venetian,gemini
+2026-08-11,2026-08-10,1,openai anthropic perplexity gemini google_serp,dropped,San Lorenzo Valley,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,Beach Gear & Bikes,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,The Coast,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,entered,The Mountains (Felton/Boulder Creek,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Beach Gear,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Beach House Rentals,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Cheshire Rio Vacation Rentals,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Kendall & Potter,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Outdoor Shower,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Pleasure Point / Eastside Santa Cruz,gemini
+2026-08-12,2026-08-11,1,openai anthropic perplexity gemini google_serp,dropped,Transient Occupancy Tax (TOT) license number,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,entered,Beach House Rentals,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,entered,Cheshire Rio Realty,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,entered,Kendall & Potter Property Management,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,entered,"The Coast (Santa Cruz, Capitola, Aptos",gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,dropped,Aptos & Rio Del Mar,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,dropped,The Coast,gemini
+2026-08-13,2026-08-12,1,openai anthropic perplexity gemini,dropped,The Mountains (Felton/Boulder Creek,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,entered,Beach Gear Included,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,entered,Capitola Venetian Cottages,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,entered,Outdoor Shower,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,dropped,Beach Gear & Bikes,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,dropped,Beach House Rentals,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,dropped,Cheshire Rio Realty,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,dropped,Kendall & Potter Property Management,gemini
+2026-08-14,2026-08-13,1,openai anthropic perplexity gemini,dropped,"The Coast (Santa Cruz, Capitola, Aptos",gemini
+2026-08-15,2026-08-14,1,openai anthropic perplexity,entered,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-16,2026-08-15,1,openai anthropic perplexity,dropped,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-18,2026-08-17,1,openai anthropic perplexity google_serp,entered,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-19,2026-08-18,1,openai anthropic perplexity google_serp,dropped,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-20,2026-08-19,1,openai anthropic perplexity google_serp,entered,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Aptos & Rio Del Mar,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,Pleasure Point / Eastside Santa Cruz,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,entered,"The Coast (Santa Cruz, Capitola, Aptos",gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Beautiful 1 bedroom in Seabright Beach area,perplexity
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Capitola Vacation Rentals,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Cheshire Rio Vacation Rentals,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Coastal Stay,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Inland / Mountains,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,Outdoor Shower,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,The Coast,gemini
+2026-08-21,2026-08-20,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Dedicated Parking,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Hot Tub,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Inland / Mountains,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,The Coast,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Transient Occupancy Tax (TOT) permit number,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,entered,Venetian Court Condos,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Aptos & Rio Del Mar,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,Pleasure Point / Eastside Santa Cruz,gemini
+2026-08-22,2026-08-21,1,openai anthropic perplexity gemini google_serp,dropped,"The Coast (Santa Cruz, Capitola, Aptos",gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Beach House Rentals,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,Kendall & Potter,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,entered,The Mountains,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Dedicated Parking,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Hot Tub,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Inland / Mountains,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Transient Occupancy Tax (TOT) permit number,gemini
+2026-08-23,2026-08-22,1,openai anthropic perplexity gemini google_serp,dropped,Venetian Court Condos,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Hot Tub,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,entered,Transient Occupancy Tax (TOT) license number,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Beach House Rentals,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,Kendall & Potter,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,The Coast,gemini
+2026-08-24,2026-08-23,1,openai anthropic perplexity gemini google_serp,dropped,The Mountains,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Blacks Beach Retreat,perplexity
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Dedicated Parking,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,entered,Venetian Court Condos,gemini
+2026-08-25,2026-08-24,1,openai anthropic perplexity gemini google_serp,dropped,Transient Occupancy Tax (TOT) license number,gemini
+2026-08-26,2026-08-25,1,openai anthropic perplexity google_serp,dropped,Blacks Beach Retreat,perplexity
+2026-09-01,2026-08-31,1,openai anthropic perplexity,entered,Blacks Beach Retreat,perplexity
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Santa Cruz Vacation Rentals,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity,entered,Vacasa,openai
+2026-09-06,2026-09-05,1,openai anthropic perplexity,dropped,3BR family getaway near the Beach Boardwalk,perplexity
+2026-09-07,2026-09-06,1,openai anthropic perplexity,entered,TurnKey,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,Santa Cruz Vacation Rentals,openai
+2026-09-07,2026-09-06,1,openai anthropic perplexity,dropped,Vacasa,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,entered,Vacasa,openai
+2026-09-08,2026-09-07,1,openai anthropic perplexity,dropped,TurnKey,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,entered,Capitola Vacation Rentals,openai
+2026-09-09,2026-09-08,1,openai anthropic perplexity,dropped,Vacasa,openai
+2026-09-10,2026-09-09,1,openai anthropic perplexity,dropped,Capitola Vacation Rentals,openai
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,3BR family getaway near the Beach Boardwalk,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,Blacks Beach Retreat,perplexity
+2026-09-13,2026-09-12,1,openai anthropic perplexity,entered,Santa Cruz Vacation Rentals,openai
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,3BR family getaway near the Beach Boardwalk,perplexity
+2026-09-14,2026-09-13,1,openai anthropic perplexity,dropped,Blacks Beach Retreat,perplexity
+2026-09-15,2026-09-14,1,openai anthropic perplexity,dropped,Santa Cruz Vacation Rentals,openai
+2026-09-20,2026-09-19,1,openai anthropic perplexity,entered,Santa Cruz Vacation Rentals,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Blacks Beach Retreat,perplexity
+2026-09-21,2026-09-20,1,openai anthropic perplexity,entered,Vacasa,openai
+2026-09-21,2026-09-20,1,openai anthropic perplexity,dropped,Santa Cruz Vacation Rentals,openai
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,entered,Aptos / Rio Del Mar,perplexity
+2026-09-22,2026-09-21,1,openai anthropic perplexity google_serp,dropped,Blacks Beach Retreat,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,entered,Santa Cruz Vacation Rentals,openai
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Aptos / Rio Del Mar,perplexity
+2026-09-23,2026-09-22,1,openai anthropic perplexity google_serp,dropped,Vacasa,openai
+2026-09-24,2026-09-23,1,openai anthropic perplexity,dropped,Santa Cruz Vacation Rentals,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,TurnKey,openai
+2026-09-26,2026-09-25,1,openai anthropic perplexity,entered,Vacasa,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,TurnKey,openai
+2026-09-27,2026-09-26,1,openai anthropic perplexity,dropped,Vacasa,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Capitola Vacation Rentals,openai
+2026-09-30,2026-09-29,1,openai anthropic perplexity google_serp,entered,Santa Cruz Vacation Rentals,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,entered,Capitola Village home with a parking spot,perplexity
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Capitola Vacation Rentals,openai
+2026-10-01,2026-09-30,1,openai anthropic perplexity google_serp,dropped,Santa Cruz Vacation Rentals,openai
+2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Capitola Village home with a parking spot,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Aptos Bayview cottage,perplexity
+2026-10-04,2026-10-03,1,openai anthropic perplexity google_serp,entered,Capitola Village bungalow,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Capitola architectural cottage,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Aptos Bayview cottage,perplexity
+2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Capitola Village bungalow,perplexity
+2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Capitola architectural cottage,perplexity

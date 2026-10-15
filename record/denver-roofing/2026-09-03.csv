@@ -1,0 +1,6 @@
+date,question_slug,market,niche,engine,run,status,names_count,businesses_named,check_id,raw_file,raw_file_sha256
+2026-09-03,denver-roofing,Denver CO,residential roofing,openai,1,OK,0,,NB-CZ-API_2026-09-03_segment_roofing_denver_openai,NB-CZ-API_2026-09-03_segment_roofing_denver_openai.json,5481c8367d48857c2036a5fe339d14f91fd7c7d11b5de20d347bfa523a6ba557
+2026-09-03,denver-roofing,Denver CO,residential roofing,anthropic,1,OK,0,,NB-CZ-API_2026-09-03_segment_roofing_denver_anthropic,NB-CZ-API_2026-09-03_segment_roofing_denver_anthropic.json,d521878166dd1d750faf6fe9cfae4871495829e89754d266c8f76438795fea37
+2026-09-03,denver-roofing,Denver CO,residential roofing,perplexity,1,FAILED,0,,NB-CZ-API_2026-09-03_segment_roofing_denver_perplexity,NB-CZ-API_2026-09-03_segment_roofing_denver_perplexity.json,e554bb105755a1739fdc50710fc7e98707588ee88c5de7fc5cdaf9108f7b03da
+2026-09-03,denver-roofing,Denver CO,residential roofing,gemini,1,FAILED,0,,NB-CZ-API_2026-09-03_segment_roofing_denver_gemini,NB-CZ-API_2026-09-03_segment_roofing_denver_gemini.json,b6fad7d7d6a4bac64f837e09399148ae19a7ddda18b740d5a86ad93fec67d06f
+2026-09-03,denver-roofing,Denver CO,residential roofing,google_serp,1,EXTRACTION_FAILED,0,,NB-CZ-SERP_2026-09-03_segment_roofing_denver,NB-CZ-SERP_2026-09-03_segment_roofing_denver.json,b7a457d9474680725026e4bcee487758e9ae86d4fd570ecc71f3e9213a96b02b
