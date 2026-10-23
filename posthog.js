@@ -1,7 +1,12 @@
 /* posthog.js: PostHog loader and dataLayer bridge. Key and host are placeholders filled at deploy. */
 (function () {
   var KEY = 'phc_kKsaZbRt2hgQG4a24VW7VFEPxkcESnKWWWHaYRwyYc2v', HOST = 'https://us.i.posthog.com';
-  var EVENTS = { buy_click: 1, sample_open: 1, lead_submit: 1 };
+  var EVENTS = { sample_open: 1, lead_submit: 1 }; /* buy_click is sent by the click listener below, not the dataLayer bridge */
+  var REF = '';
+  try {
+    var qs = new URLSearchParams(location.search);
+    if (qs.get('ref') && !qs.get('utm_source')) REF = qs.get('ref').slice(0, 100);
+  } catch (e) {}
   try {
     !function (t, e) {
       var o, n, p, r;
@@ -14,7 +19,21 @@
         e._i.push([i, s, a]);
       }, e.__SV = 1);
     }(document, window.posthog || []);
-    window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie' });
+    window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie', loaded: function (ph) { try { if (REF) ph.register({ ref_param: REF }); } catch (e) {} } });
+    if (REF) window.posthog.register({ ref_param: REF });
+  } catch (e) {}
+  /* buy_click: delegated listener. The click leaves the page, so the event is sent at once (send_instantly) over sendBeacon
+     instead of waiting in the batch queue, which the navigation drops. Never blocks the click. */
+  try {
+    document.addEventListener('click', function (e) {
+      try {
+        var a = e.target && e.target.closest ? e.target.closest('a[data-price], a[data-market], a[href*="buy.stripe.com"]') : null;
+        if (!a || !window.posthog) return;
+        if (!/buy\.stripe\.com|\/buy(\/|$|[?#])/.test(a.href)) return; /* data-market also tags explorer and sample links; only buy links count */
+        window.posthog.capture('buy_click', { price: a.dataset.price || null, market: a.dataset.market || null, href: a.href, path: location.pathname },
+          { send_instantly: true, transport: 'sendBeacon' });
+      } catch (err) {}
+    }, true);
   } catch (e) {}
   function fwd(d) {
     try {
