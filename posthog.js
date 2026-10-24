@@ -19,8 +19,27 @@
         e._i.push([i, s, a]);
       }, e.__SV = 1);
     }(document, window.posthog || []);
-    window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie', loaded: function (ph) { try { if (REF) ph.register({ ref_param: REF }); } catch (e) {} } });
+    /* Replay: inputs masked, never on /thanks/ (the recorder starts only if the project replay setting is on; sampling is that setting's rate).
+       capture_exceptions: unhandled errors and rejections. capture_heatmaps: aggregate clicks and scroll, no autocapture needed (enable_heatmaps is its deprecated name). */
+    var NOREC = /^\/thanks(\/|$)/.test(location.pathname);
+    window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie',
+      capture_exceptions: true, capture_heatmaps: true, disable_session_recording: NOREC, session_recording: { maskAllInputs: true },
+      loaded: function (ph) { try { if (REF) ph.register({ ref_param: REF }); } catch (e) {} } });
     if (REF) window.posthog.register({ ref_param: REF });
+  } catch (e) {}
+  /* Experiment scaffold, off by default. Acts only if PostHog serves the flag "home-cta-test" for this visitor; with the flag absent nothing runs or changes.
+     "test" swaps the home page primary button label to approved copy already on the site; "control" leaves the page as is (exposure still logged). */
+  try {
+    var FK = 'home-cta-test', host = location.hostname.replace(/^www\./, ''), home = location.pathname === '/' || location.pathname === '/index.html';
+    var CTA = { 'namebeam.ai': ['.cta-row a.btn[href="#explorer"]', 'Explore every market', 'Look up my market'],
+                'markets.namebeam.ai': ['header nav a.btn[href="/check/"]', 'Free check', 'Run my free check'] }[host];
+    if (CTA && home) window.posthog.onFeatureFlags(function (flags, variants) {
+      try {
+        if (!variants || !variants[FK]) return;
+        var v = window.posthog.getFeatureFlag(FK), el = document.querySelector(CTA[0]);
+        if (v === 'test' && el && el.textContent.trim() === CTA[1]) el.textContent = CTA[2];
+      } catch (e) {}
+    });
   } catch (e) {}
   /* buy_click: delegated listener. The click leaves the page, so the event is sent at once (send_instantly) over sendBeacon
      instead of waiting in the batch queue, which the navigation drops. Never blocks the click. */
