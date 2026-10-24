@@ -43,88 +43,91 @@ footer .eq{font-style:italic;margin-top:8px}
 </style>
 <script type="application/ld+json">
 {
- "@context": "https://schema.org/",
- "@type": "Dataset",
- "name": "Namebeam AI Visibility Record, Edition 1",
- "description": "Dated record of which businesses AI answer engines name for local questions in US markets, with the sources the engines returned. Edition 1 covers 2026-09-01 to 2026-10-13 (42 run days). The data pack holds 12180 answer rows (one per raw answer file, with the names each engine returned and the SHA-256 of the raw file), 45637 source URL rows, 28 rows from a Siri panel run by hand, and a metrics table that gives the denominator of every figure. Perplexity, OpenAI, Anthropic and Gemini were called through their programming interfaces, and Google results pages were read. Every file is listed in a SHA-256 manifest and a verify script checks the pack. Licensed CC BY 4.0.",
- "url": "https://markets.namebeam.ai/edition-1/",
- "version": "Edition 1 (final)",
- "license": "https://creativecommons.org/licenses/by/4.0/",
- "isAccessibleForFree": true,
- "creator": {
-  "@type": "Organization",
-  "name": "Carter Enterprise LLC",
-  "alternateName": "Namebeam",
-  "url": "https://namebeam.ai"
- },
- "publisher": {
-  "@type": "Organization",
-  "name": "Carter Enterprise LLC",
-  "alternateName": "Namebeam",
-  "url": "https://namebeam.ai"
- },
- "keywords": [
-  "AI answer engines",
-  "local search",
-  "AI search citations",
-  "dated record",
-  "open data"
- ],
- "temporalCoverage": "2026-09-01/2026-10-13",
- "spatialCoverage": {
-  "@type": "Place",
-  "name": "United States"
- },
- "measurementTechnique": "One fixed question per business or segment is put to each engine on every run day; each answer is stored as a raw file with its SHA-256. See the method note for the settings of every engine.",
- "distribution": [
-  {
-   "@type": "DataDownload",
-   "name": "Answers table",
-   "encodingFormat": "text/csv",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/answers_2026-09-01_to_2026-10-13.csv"
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Namebeam AI Visibility Record, Edition 1",
+  "description": "Dated record of which businesses AI answer engines name for local questions in US markets, with the sources the engines returned. Edition 1 covers 2026-09-01 to 2026-10-13 (42 run days). The data pack holds 12180 answer rows (one per raw answer file, with the names each engine returned and the SHA-256 of the raw file), 45637 source URL rows, 28 rows from a Siri panel run by hand, and a metrics table that gives the denominator of every figure. Perplexity, OpenAI, Anthropic and Gemini were called through their programming interfaces, and Google results pages were read. Every file is listed in a SHA-256 manifest and a verify script checks the pack. Licensed CC BY 4.0. CC BY 4.0 covers the compilation (selection, arrangement and structure of the tables), the code, annotations, derived columns and documentation. The raw answer text returned by OpenAI, Anthropic, Google Gemini and Perplexity, and the search result rows, are published as dated factual records and are not licensed by Namebeam; provider terms may apply.",
+  "url": "https://markets.namebeam.ai/edition-1/",
+  "version": "Edition 1 (final)",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Carter Enterprise LLC",
+    "alternateName": "Namebeam",
+    "url": "https://namebeam.ai"
   },
-  {
-   "@type": "DataDownload",
-   "name": "Sources table",
-   "encodingFormat": "text/csv",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/sources_2026-09-01_to_2026-10-13.csv"
+  "publisher": {
+    "@type": "Organization",
+    "name": "Carter Enterprise LLC",
+    "alternateName": "Namebeam",
+    "url": "https://namebeam.ai"
   },
-  {
-   "@type": "DataDownload",
-   "name": "Siri panel",
-   "encodingFormat": "text/csv",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/siri_panel.csv"
+  "keywords": [
+    "AI answer engines",
+    "local search",
+    "AI search citations",
+    "dated record",
+    "open data"
+  ],
+  "temporalCoverage": "2026-09-01/2026-10-13",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "United States"
   },
-  {
-   "@type": "DataDownload",
-   "name": "Metrics table",
-   "encodingFormat": "text/csv",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/metrics/metrics_v2.csv"
-  },
-  {
-   "@type": "DataDownload",
-   "name": "Method note",
-   "encodingFormat": "text/markdown",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/README.md"
-  },
-  {
-   "@type": "DataDownload",
-   "name": "Manifest",
-   "encodingFormat": "text/plain",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/MANIFEST.sha256"
-  },
-  {
-   "@type": "DataDownload",
-   "name": "Verify script",
-   "encodingFormat": "text/x-python",
-   "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/verify.py"
-  }
- ],
- "sameAs": [
-  "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/releases/edition-1"
- ],
- "datePublished": "2026-10-15",
- "dateModified": "2026-10-24"
+  "measurementTechnique": "One fixed question per business or segment is put to each engine on every run day; each answer is stored as a raw file with its SHA-256. See the method note for the settings of every engine.",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "name": "Answers table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/answers_2026-09-01_to_2026-10-13.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Sources table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/sources_2026-09-01_to_2026-10-13.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Siri panel",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/siri_panel.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Metrics table",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/metrics/metrics_v2.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Method note",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/README.md"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Manifest",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/MANIFEST.sha256"
+    },
+    {
+      "@type": "DataDownload",
+      "name": "Verify script",
+      "encodingFormat": "text/x-python",
+      "contentUrl": "https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/verify.py"
+    }
+  ],
+  "sameAs": [
+    "https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/releases/edition-1",
+    "https://doi.org/10.5281/zenodo.23626831",
+    "https://doi.org/10.5281/zenodo.23626830"
+  ],
+  "datePublished": "2026-10-15",
+  "dateModified": "2026-10-24",
+  "identifier": "https://doi.org/10.5281/zenodo.23626831"
 }
 </script>
 <script src="/posthog.js" defer></script>
