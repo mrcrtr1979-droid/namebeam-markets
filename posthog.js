@@ -3,12 +3,19 @@
   var KEY = 'phc_kKsaZbRt2hgQG4a24VW7VFEPxkcESnKWWWHaYRwyYc2v', HOST = 'https://us.i.posthog.com';
   var EVENTS = { sample_open: 1, lead_submit: 1 }; /* buy_click is sent by the click listener below, not the dataLayer bridge */
   var REF = '';
+  /* Opt-out: a browser Do Not Track or Global Privacy Control signal means PostHog is never loaded, so nothing is sent to it at all.
+     respect_dnt in the init options is a second guard that makes the library itself check the same signals. */
+  var OPTOUT = false;
+  try {
+    var nv = navigator;
+    OPTOUT = nv.globalPrivacyControl === true || nv.doNotTrack === '1' || nv.doNotTrack === 'yes' || window.doNotTrack === '1' || nv.msDoNotTrack === '1';
+  } catch (e) {}
   try {
     var qs = new URLSearchParams(location.search);
     if (qs.get('ref') && !qs.get('utm_source')) REF = qs.get('ref').slice(0, 100);
   } catch (e) {}
   try {
-    !function (t, e) {
+    if (!OPTOUT) !function (t, e) {
       var o, n, p, r;
       e.__SV || (window.posthog = e, e._i = [], e.init = function (i, s, a) {
         function g(t, e) { var o = e.split('.'); 2 == o.length && (t = t[o[0]], e = o[1]); t[e] = function () { t.push([e].concat(Array.prototype.slice.call(arguments, 0))); }; }
@@ -22,10 +29,11 @@
     /* Replay: inputs masked, never on /thanks/ (the recorder starts only if the project replay setting is on; sampling is that setting's rate).
        capture_exceptions: unhandled errors and rejections. capture_heatmaps: aggregate clicks and scroll, no autocapture needed (enable_heatmaps is its deprecated name). */
     var NOREC = /^\/thanks(\/|$)/.test(location.pathname);
-    window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie',
+    if (!OPTOUT) window.posthog.init(KEY, { api_host: HOST, capture_pageview: true, autocapture: false, persistence: 'localStorage+cookie',
+      respect_dnt: true,
       capture_exceptions: true, capture_heatmaps: true, disable_session_recording: NOREC, session_recording: { maskAllInputs: true },
       loaded: function (ph) { try { if (REF) ph.register({ ref_param: REF }); } catch (e) {} } });
-    if (REF) window.posthog.register({ ref_param: REF });
+    if (REF && !OPTOUT) window.posthog.register({ ref_param: REF });
   } catch (e) {}
   /* Experiment scaffold, off by default. Acts only if PostHog serves the flag "home-cta-test" for this visitor; with the flag absent nothing runs or changes.
      "test" swaps the home page primary button label to approved copy already on the site; "control" leaves the page as is (exposure still logged). */
