@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sample Client Check evidence file (annotated)</title>
+<meta name="description" content="One real Client Check question from the 2026-10-23 run, with the client business redacted: named in k of 3 runs per engine, every answer hashed, each column explained and how to verify it.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://markets.namebeam.ai/agency/sample/">
+<style>
+/* Namebeam header, footer and call to action (colors and type copied from namebeam.ai) */
+:root{--nb-navy:#0b1b33;--nb-navy2:#0e2140;--nb-card:#12294a;--nb-gold:#e8b23a;--nb-gold2:#f4cf6b;--nb-line:#22355a;--nb-muted:#9fb2d0}
+.nb-header{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--nb-line);position:sticky;top:0;background:rgba(11,27,51,.96);backdrop-filter:blur(6px);z-index:50;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;text-align:left;box-sizing:border-box}
+.nb-header *{box-sizing:border-box}
+.nb-header a{text-decoration:none}
+.nb-header a.nb-brand{display:flex;align-items:center;gap:10px;color:#fff}
+.nb-brand .nb-name{font-weight:800;font-size:20px;color:#fff;line-height:1.2}
+.nb-brand .nb-name span{color:var(--nb-gold)}
+.nb-brand .nb-tag{font-size:9px;letter-spacing:.18em;color:var(--nb-gold);text-transform:uppercase}
+.nb-nav a{color:#cddcf2;font-size:13.5px;margin-left:18px}
+.nb-nav a:hover{color:#fff}
+.nb-btn{display:inline-block;background:var(--nb-gold);color:#1a1206;font-weight:800;padding:11px 18px;border-radius:9px;text-decoration:none;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.4}
+.nb-nav a.nb-btn{padding:8px 14px;margin-left:18px;color:#1a1206;font-size:13.5px}
+.nb-btn.nb-ghost,.nb-nav a.nb-btn.nb-ghost{background:transparent;color:var(--nb-gold2);border:1px solid var(--nb-gold)}
+.nb-cta{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin:26px 0 0}
+.nb-cta a.nb-btn{color:#1a1206;font-size:16px;padding:12px 20px}
+.nb-cta a.nb-btn.nb-ghost{color:var(--nb-gold2)}
+@media(max-width:760px){
+.nb-header{position:static;flex-wrap:wrap;gap:6px 0;align-items:center}
+.nb-header::after{content:"";order:1;flex-basis:100%;height:0}
+.nb-nav{display:contents}
+.nb-nav a{order:2;margin-left:0;margin-right:16px;font-size:13px;line-height:1.9}
+.nb-nav a.nb-btn{order:1;margin-left:auto;margin-right:0;font-size:13.5px;line-height:1.6}
+.nb-cta a.nb-btn{width:100%;text-align:center}
+}
+.ce-foot{border-top:1px solid rgba(227,179,65,.35);background:linear-gradient(0deg,#07121f 0%,#0a1a2f 100%);padding:34px 18px 42px;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;box-sizing:border-box}
+.ce-net{max-width:960px;margin:0 auto;text-align:center}
+.ce-net .ce-kick{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;color:#E3B341;font-size:11px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:6px}
+.ce-net .ce-parent{color:#F6F8FC;font-weight:800;letter-spacing:.12em;font-size:.9rem;margin-bottom:16px}
+.ce-net .ce-legs{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 12px;margin:0 0 16px;padding:0}
+.ce-net .ce-legs a{color:#E3B341;text-decoration:none;font-weight:700;letter-spacing:.05em;font-size:.8rem;border:1px solid rgba(227,179,65,.45);border-radius:6px;padding:7px 13px}
+.ce-net .ce-legs a:hover{background:rgba(227,179,65,.12);border-color:#E3B341}
+.ce-net .ce-social{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;margin:0 0 18px;padding:0}
+.ce-net .ce-social a{color:#8ea9cc;text-decoration:none;font-size:.76rem;letter-spacing:.08em;text-transform:uppercase}
+.ce-net .ce-social a:hover{color:#E3B341}
+.ce-net .ce-legal{color:#8ea9cc;font-size:.72rem;letter-spacing:.04em;margin-bottom:6px}
+.ce-net .ce-copy{color:#8ea9cc;font-size:.72rem;margin-bottom:14px}
+.ce-net .ce-fine{color:#5c7595;font-size:.68rem;line-height:1.55;max-width:720px;margin:0 auto}
+.ce-net .ce-slogan{color:#E3B341;font-style:italic;font-size:.82rem;margin-bottom:10px}
+@media(max-width:520px){
+  footer.ce-foot{padding:30px 14px 38px}
+  .ce-net .ce-kick{letter-spacing:.09em;font-size:9.5px}
+  .ce-net .ce-legs{gap:8px 8px}
+  .ce-net .ce-legs a{font-size:.7rem;padding:6px 9px;letter-spacing:.02em}
+  .ce-net .ce-social{gap:6px 14px}
+  .ce-net .ce-social a{font-size:.7rem;letter-spacing:.04em}
+  .ce-net .ce-legal{overflow-wrap:anywhere}
+}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:#eef2f8;color:#0b1b33;margin:0;line-height:1.7}
+.hero{background:radial-gradient(circle at 50% 30%,#14305a,#0b1b33 70%);color:#eaf1fb;padding:64px 24px;text-align:center}
+.hero .kicker{letter-spacing:.24em;font-size:12px;color:var(--nb-gold);text-transform:uppercase;font-weight:700}
+.hero h1{font-size:42px;margin:18px 0 12px;line-height:1.2;color:#fff}
+.hero p.sub{font-size:19px;color:#dbe6f7;max-width:640px;margin:0 auto}
+.hero .kicker a{color:inherit}
+@media (max-width:600px){.hero{padding:40px 20px}.hero h1{font-size:30px}.hero p.sub{font-size:17px}}
+.wrap{max-width:760px;margin:0 auto;padding:48px 24px}
+.wrap a{color:#14509a}
+.wrap h2{line-height:1.3;color:#0b1b33}
+.stat{background:#fff;border:1px solid #d3dcea;border-left:4px solid var(--nb-gold);border-radius:10px;padding:24px;margin:24px 0}
+.herocta{margin:30px 0 0}
+.herocta a{display:inline-block;background:var(--nb-gold);color:#1a1206;padding:14px 28px;border-radius:9px;text-decoration:none;font-weight:800;font-size:17px;margin:6px}
+.herocta a.ghost{background:transparent;color:var(--nb-gold2);border:1px solid var(--nb-gold)}
+.stat .n{font-size:44px;font-weight:800}
+ul.pack{list-style:none;padding:0}
+ul.pack li{background:#fff;border:1px solid #d3dcea;border-radius:10px;padding:20px 24px;margin:14px 0}
+ul.pack li b{display:block;font-size:18px;margin-bottom:4px}
+.price{text-align:center;background:#0b1b33;color:#eaf1fb;border:1px solid #22355a;border-radius:10px;padding:36px;margin:36px 0}
+.price .amt{font-size:56px;font-weight:800;color:var(--nb-gold)}
+.price p{color:#dbe6f7}
+.cta{text-align:center;padding:20px}
+.cta a{display:inline-block;background:var(--nb-gold);color:#1a1206;padding:16px 40px;border-radius:9px;text-decoration:none;font-size:19px;font-weight:800}
+.fine{font-size:14px;color:#51627f;text-align:center;max-width:600px;margin:0 auto}
+footer.nb-pagefoot{background:#0b1b33;border-top:1px solid #22355a;padding:28px 24px;text-align:center;font-size:14px;color:#cddcf2}
+footer.nb-pagefoot a{color:#f4cf6b}
+footer.nb-pagefoot .eq{font-style:italic;margin-top:8px;color:#e8b23a}
+
+.wrap table{border-collapse:collapse;width:100%;background:#fff;font-size:14px;margin:12px 0}
+.wrap th,.wrap td{border:1px solid #d3dcea;padding:8px 10px;text-align:left;vertical-align:top}
+.wrap th{background:#0b1b33;color:#eaf1fb}
+.tw{overflow-x:auto}
+code{font-size:12px;word-break:break-all}
+dl.how dt{font-weight:800;margin-top:12px}
+dl.how dd{margin:2px 0 0 0}
+</style>
+<script src="/posthog.js" defer></script>
+</head>
+<body>
+<header class="nb-header">
+  <a class="nb-brand" href="https://namebeam.ai/">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" width="46" height="46" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="nb-name">Name<span>beam</span></div><div class="nb-tag">The dated record of who AI names</div></div>
+  </a>
+  <nav class="nb-nav">
+    <a href="https://namebeam.ai/#how">How it works</a><a href="https://namebeam.ai/#proof">Proof</a><a href="https://namebeam.ai/#owners">Business owners</a><a href="https://namebeam.ai/#agencies">Agencies</a>
+    <a class="nb-btn" href="https://check.namebeam.ai/">Free check</a>
+  </nav>
+</header>
+<div class="hero">
+<div class="kicker"><a href="https://namebeam.ai/">NameBeam</a> &middot; for agencies</div>
+<h1>Sample Client Check evidence file (annotated)</h1>
+<p class="sub">One real question from the run of 2026-10-23, shown the way a client receives it. The client business is redacted as [client business]. The other businesses are named exactly as the engines wrote them.</p>
+</div>
+<div class="wrap">
+<h2>The question and the run</h2>
+<ul>
+<li><b>Question, sent verbatim to each engine:</b> best injury lawyer in Fort Worth</li>
+<li><b>Run date (UTC):</b> 2026-10-23</li>
+<li><b>Target:</b> [client business], Fort Worth, TX, personal injury law</li>
+<li><b>Engines:</b> perplexity, gemini, openai, anthropic. Each was asked the identical question 3 times in the run. 12 requests, 12 answered, 0 failed.</li>
+<li><b>Channel:</b> API, no memory, no personalization. Results can differ from the logged-in consumer apps.</li>
+<li><b>Source:</b> the 2026-10-23 Client Check receipt, run folder status/client_checks/2026-10-23_r7, check id BRSMOKE-AGW1027-02-lawrank.</li>
+</ul>
+
+<h2>Table 1: named in k of 3 runs, per engine</h2>
+<div class="tw"><table><tr><th>Engine</th><th>Client named (exact match)</th></tr><tr><td>perplexity</td><td>named in 3 of 3 runs</td></tr><tr><td>gemini</td><td>named in 2 of 3 runs</td></tr><tr><td>openai</td><td>named in 0 of 3 runs</td></tr><tr><td>anthropic</td><td>named in 0 of 3 runs</td></tr></table></div>
+<dl class="how">
+<dt>Engine</dt><dd>Which AI assistant was asked. Verify: the served model for each run is in Table 2.</dd>
+<dt>Named in k of 3 runs</dt><dd>In how many of the 3 identical runs the answer text contained the client name, case-insensitive. A failed run is counted as failed and never as not named. Verify: open the answer text for each run and search for the name.</dd>
+</dl>
+
+<h2>Table 2: every run, one row per answer</h2>
+<div class="tw"><table><tr><th>Engine</th><th>Run</th><th>Run status</th><th>Client appears</th><th>First three named</th><th>SHA-256 of answer text</th><th>Served model</th></tr><tr><td>perplexity</td><td>1</td><td>OK</td><td>yes</td><td>[client business], [client business]; The Barber Law Firm; Patterson Law Group</td><td><code>5a5afac87c89a8809b53f959fe7b5994d1c0f1e2b21fcd2f890ba111a4b9af21</code></td><td>perplexity/sonar</td></tr><tr><td>perplexity</td><td>2</td><td>OK</td><td>yes</td><td>Varghese Summersett; [client business]; Patterson Law Group</td><td><code>ca1ed42e69bca31c91ba3be1383af44e1b98d1f72079e64fe6bec1186999a5f7</code></td><td>perplexity/sonar</td></tr><tr><td>perplexity</td><td>3</td><td>OK</td><td>yes</td><td>Laird &amp; McCloskey; Brad Parker / Parker Law Firm; Michael Francis / Francis Injury</td><td><code>42ecddd1050308b39b30b2c6c46133e6d03eac500364b6c53e14906f96a97deb</code></td><td>perplexity/sonar</td></tr><tr><td>gemini</td><td>1</td><td>OK</td><td>no</td><td>Bill Berraser; In Texas; Local Fort Worth</td><td><code>99804d8bf502d0fea8b5ec8a3e5e85d751c932e217743833e49ac2c840458a09</code></td><td>gemini-3.5-flash-lite</td></tr><tr><td>gemini</td><td>2</td><td>OK</td><td>yes</td><td>Tarrant County; Brian Branch; Board Certified Personal Injury Trial Law</td><td><code>0e3f4a1c7249bc3c78b1e0e3a7eba92083e3d44b5e05d7cdf4026f5f741e64e2</code></td><td>gemini-3.5-flash-lite</td></tr><tr><td>gemini</td><td>3</td><td>OK</td><td>yes</td><td>[client business]; Lead Attorney; [client business]</td><td><code>f9b2ea98032cd451be6694d85e6f9c500b90ddda98aeffcfe975fd5cae36067f</code></td><td>gemini-3.5-flash-lite</td></tr><tr><td>openai</td><td>1</td><td>OK</td><td>no</td><td>Civil Trial Law; Avvo. Consider; Tarrant County</td><td><code>39a96cd27ba02caf5f2b8c50bc094f08acd4f53b46ef85433b1b40dc955bbaea</code></td><td>gpt-5-mini-2025-08-07</td></tr><tr><td>openai</td><td>2</td><td>OK</td><td>no</td><td>American Association for Justice; Martindale-Hubbell AV</td><td><code>647684084efcdd5d8cc3d358e633ff78adbda23a9929e650d40ff959d47e1631</code></td><td>gpt-5-mini-2025-08-07</td></tr><tr><td>openai</td><td>3</td><td>OK</td><td>no</td><td>AV Preeminent</td><td><code>389d3c67f500e6810d098c014bf024885482a5f2b69e8961b0587e534a9debcd</code></td><td>gpt-5-mini-2025-08-07</td></tr><tr><td>anthropic</td><td>1</td><td>OK</td><td>no</td><td>State Bar of Texas; Avvo; Better Business Bureau (BBB)</td><td><code>451b86e3184fe784db3d416c52ce7245b878fba5e21241f92b19c77e72ebbfe5</code></td><td>anthropic.claude-haiku-4-5-20251001-v1:0</td></tr><tr><td>anthropic</td><td>2</td><td>OK</td><td>no</td><td>Top-Rated Firms; Berenson Injury Law; Rasansky Law Firm</td><td><code>f7f9fcee238e714db5dd806ecaeaeb385b98ff6ecb1538753ebd92a018b3ee25</code></td><td>anthropic.claude-haiku-4-5-20251001-v1:0</td></tr><tr><td>anthropic</td><td>3</td><td>OK</td><td>no</td><td>State Bar of Texas; Avvo &amp; Google Reviews; Better Business Bureau (BBB)</td><td><code>ed05b0ac76e974a2dcefdf1b6144a9dbc4d2f1a054d0fe6341a73c6be393fc81</code></td><td>anthropic.claude-haiku-4-5-20251001-v1:0</td></tr></table></div>
+<dl class="how">
+<dt>Run</dt><dd>1, 2 or 3 of the identical request. Each run is a separate call, saved on its own. Verify: the delivered folder holds one file per run.</dd>
+<dt>Run status</dt><dd>OK means the engine returned an answer. Verify: the run file carries the same status field.</dd>
+<dt>Client appears</dt><dd>yes when the client name is in the answer, no when it is not. Verify: search the answer text yourself. A looser punctuation-insensitive match is flagged for a human to confirm.</dd>
+<dt>First three named</dt><dd>The first three business-like names in the answer, in order of first appearance, from the record's name extractor. It is mechanical, not a human read: a heading or a look-alike phrase can slip in (some rows above show that, for example place names or directory names). Verify: read the first lines of the answer text and compare.</dd>
+<dt>SHA-256 of answer text</dt><dd>A fingerprint of the saved answer text in UTF-8. If one character changes, the hash changes. Verify: hash the answer text from the delivered run file, for example with <code>printf '%s' "$ANSWER" | sha256sum</code> or <code>python3 -c "import hashlib,sys;print(hashlib.sha256(sys.stdin.read().encode()).hexdigest())"</code>, and compare it with this column. The hashes on this page are of the original, unredacted answers, so they match only the file a client receives, not the redacted text.</dd>
+<dt>Served model</dt><dd>The model name the engine reported for that request. Verify: it is in the run file's engine metadata.</dd>
+</dl>
+
+<h2>What this file does not claim</h2>
+<ul>
+<li>No ranking. It shows whether the business was named, not where it stands.</li>
+<li>No prediction. It does not say what the engines will answer tomorrow.</li>
+<li>One dated sample per run: 3 identical requests per engine on one UTC date.</li>
+<li>API channel only. It does not measure what a person sees in a logged-in app.</li>
+<li>A name in an answer is not a recommendation to hire.</li>
+</ul>
+<p><a href="/agency/">Back to the agency page</a></p>
+</div>
+<footer class="nb-pagefoot">
+<div>THE DATED RECORD OF WHO AI NAMES &middot; NameBeam, Carter Enterprise LLC</div>
+<div style="font-size:13px;margin-top:8px"><a href="/leaderboard/">Leaderboard</a> &middot; <a href="/reports/september-2026-recap">September recap</a> &middot; <a href="/badge/">AI-Named badge</a> &middot; <a href="https://check.namebeam.ai/">Free check</a> &middot; <a href="https://namebeam.ai/">namebeam.ai</a></div>
+<div class="eq">Every claim owes the future a receipt.</div>
+<div class="xlinks-row" data-xlinks="1021" style="font-size:13px;margin-top:8px"><a href="https://trunkline.money/?utm_source=markets&amp;utm_medium=crosslink">trunkline.money</a> &middot; <a href="https://namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">namebeam.ai</a> &middot; <a href="https://markets.namebeam.ai/">markets.namebeam.ai</a> &middot; <a href="https://check.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">check.namebeam.ai</a> &middot; <a href="https://proof.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">proof.namebeam.ai</a> &middot; <a href="https://thereceiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink">thereceiptsindex.com</a> &middot; <a href="https://receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink">receiptsindex.com</a> &middot; <a href="https://api.receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink">api.receiptsindex.com</a> &middot; <a href="https://shop.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">shop.namebeam.ai</a> &middot; <a href="https://r.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">r.namebeam.ai</a></div><p class="fine" style="margin:8px 0 0;font-size:13px">Namebeam, a Carter Enterprise property. This is the first leg.</p></footer>
+<footer class="ce-foot">
+  <div class="ce-net">
+    <div class="ce-kick">Part of the Carter Enterprise Network</div>
+    <div class="ce-parent">CARTER ENTERPRISE LLC</div>
+    <nav class="ce-legs">
+      <a href="https://trunkline.money" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://thereceiptsindex.com" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com" target="_blank" rel="noopener">RECEIPTS API</a>
+    </nav>
+    <nav class="ce-social">
+      <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
+      <a href="https://namebeam.ai/company">Company</a>
+      <a href="https://www.youtube.com/channel/UC63mV8l26O0pB6S-tDRVTtg" target="_blank" rel="noopener">YouTube</a>
+      <a href="mailto:hello@namebeam.ai">Contact</a>
+      <a href="/privacy/">Privacy</a>
+    </nav>
+    <nav class="ce-legs" id="receipts-links">
+      <a href="https://markets.namebeam.ai/report/october-2026/">October 2026 report</a>
+      <a href="https://markets.namebeam.ai/ai-picks/">AI Picks chart</a>
+      <a href="https://markets.namebeam.ai/sources/">Sources AI engines read</a>
+      <a href="https://markets.namebeam.ai/agency/">For agencies</a>
+      <a href="https://namebeam.ai/citation-ledger">Citation ledger</a>
+      <a href="https://proof.namebeam.ai/ai-visibility-factors" target="_blank" rel="noopener">AI visibility factors</a>
+      <a href="https://proof.namebeam.ai/" target="_blank" rel="noopener">Proof record</a>
+      <a href="https://api.receiptsindex.com/datasets/" target="_blank" rel="noopener">Public datasets</a>
+    </nav>
+    <div class="ce-legal">Carter Enterprise LLC &middot; 30 N Gould St, Ste 65270, Sheridan, WY 82801</div>
+    <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a promise of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+  </div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/nb-funnel.js" defer></script>
+</body>
+</html>
