@@ -541,6 +541,11 @@ def c5(rows, hi):
     return n, cnt('expertise.com'), cnt('yelp.com')
 
 
+def pct_share(x, n):
+    """Percent of n for a share line. A zero denominator prints n/a instead of raising ZeroDivisionError."""
+    return 'n/a' if not n else '%.1f%%' % (100.0 * x / n)
+
+
 def patch_report(a, allrows):
     pth = os.path.join(a.site, 'report', 'october-2026', 'index.html')
     t = open(pth, encoding='utf-8').read()
@@ -548,7 +553,7 @@ def patch_report(a, allrows):
     n26, e26, y26 = c5(allrows, HI_PERP)
     print('C5 at 09-27 (published 670/250/221):', n27, e27, y27, '| at 09-26:', n26, e26, y26)
     assert (n27, e27, y27) == (670, 250, 221), 'published figure not reproduced'
-    sh = lambda x, n: '%.1f%%' % (100.0 * x / n)
+    sh = pct_share
     d = []
     o_e, o_y = '250 of 670 cell-days with cited sources (37.3%)', '221 of 670 (33.0%)'
     n_e, n_y = '%d of %d cell-days with cited sources (%s)' % (e26, n26, sh(e26, n26)), '%d of %d (%s)' % (y26, n26, sh(y26, n26))
