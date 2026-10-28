@@ -30,3 +30,8 @@ All 24 per-market September 2026 reports: https://markets.namebeam.ai/reports/
 Free 5 engine check: https://check.namebeam.ai
 
 Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801
+
+MCP server
+Read-only MCP server for the Receipts Index API (free index, free sample, x402 prices; it never pays).
+Source: https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/mcp
+Install: npx -y receipts-index-mcp
