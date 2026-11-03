@@ -77,3 +77,15 @@
     };
   } catch (e) {}
 })();
+/* Affiliate tracking (AFFIL-NB-1103, 2026-11-03): load /nb-endorsely.js once on every page that carries this file.
+   Separate from the PostHog opt-out above: it credits an affiliate's referral at checkout and sends nothing to PostHog. */
+(function () {
+  try {
+    if (!document.querySelector('script[src*="/nb-endorsely.js"]')) {
+      var en = document.createElement('script');
+      en.src = '/nb-endorsely.js';
+      en.async = true;
+      (document.head || document.documentElement).appendChild(en);
+    }
+  } catch (e) {}
+})();
