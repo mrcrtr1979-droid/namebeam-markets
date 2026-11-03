@@ -175,3 +175,4 @@ section[id]{scroll-margin-top:84px}
 .pv-rel{display:flex;flex-wrap:wrap;gap:8px 16px}
 .pv-ent{color:#F6F8FC}
 .pv-pn{display:flex;justify-content:space-between;gap:12px;margin:16px 0;font-size:14px}
+.pv-cites a,.pv-scroll td a{word-break:break-all}
