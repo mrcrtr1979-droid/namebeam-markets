@@ -39,10 +39,29 @@
     var els = document.querySelectorAll('[pricing-table-id],[buy-button-id]');
     for (i = 0; i < els.length; i++) { els[i].setAttribute('client-reference-id', r); }
   }
+  /* PostHog (COO cohort PARTNER REFERRED, 2026-11-03): once the PostHog library has loaded, the referral id goes on as a
+     super property (every later event carries it) and a person property, plus one partner_referral_seen event. Visitors with
+     Do Not Track or GPC never load PostHog (posthog.js), so nothing is sent for them. */
+  var told = false;
+  function tell(r) {
+    var n = 0;
+    (function t() {
+      if (told) { return; }
+      var ph = window.posthog;
+      if (ph && ph.__loaded && typeof ph.register === 'function') {
+        told = true;
+        try { ph.register({ endorsely_referral: r }); } catch (e) {}
+        try { if (typeof ph.setPersonProperties === 'function') { ph.setPersonProperties({ endorsely_referral: r }); } } catch (e) {}
+        try { ph.capture('partner_referral_seen', { endorsely_referral: r, path: location.pathname }); } catch (e) {}
+        return;
+      }
+      if (++n < 60) { setTimeout(t, 250); }
+    }());
+  }
   var tries = 0;
   (function tick() {
     var r = ref();
-    if (r) { stampAll(r); return; }
+    if (r) { stampAll(r); tell(r); return; }
     if (++tries < 40) { setTimeout(tick, 250); }
   }());
   document.addEventListener('click', function (e) {
