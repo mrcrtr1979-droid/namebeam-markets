@@ -49,6 +49,23 @@
       } catch (e) {}
     });
   } catch (e) {}
+  /* request_click sends product and page metadata only; never email or mailto contents. */
+  try {
+    document.addEventListener('click', function (e) {
+      try {
+        var a = e.target && e.target.closest ? e.target.closest('a[data-request-product][href^="mailto:"]') : null;
+        if (!a || !window.posthog) return;
+        var product = a.getAttribute('data-request-product');
+        if (!/^(agency_evidence_pack|commercial_rights|feed_access)$/.test(product)) return;
+        window.posthog.capture('request_click', {
+          product: product,
+          page_path: location.pathname,
+          destination_type: 'mailto',
+          release: 'market_record_release_1105'
+        }, { send_instantly: true, transport: 'sendBeacon' });
+      } catch (err) {}
+    }, true);
+  } catch (e) {}
   /* buy_click: delegated listener. The click leaves the page, so the event is sent at once (send_instantly) over sendBeacon
      instead of waiting in the batch queue, which the navigation drops. Never blocks the click. */
   try {
