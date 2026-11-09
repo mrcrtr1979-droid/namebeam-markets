@@ -1,0 +1,59 @@
+# LB15 one-off deploy kit, 2026-11-08. Lives at .github/workflows/lb15-deploy-1108.yml on branch lb15/markets-1108
+# together with tools/lb15_patch_1108.py. Runs once on push to that branch, applies the patch in place,
+# checks it, commits as lb15-deploy-1108 with BOTH kit files removed in the same commit, and pushes.
+name: lb15-deploy-1108
+
+on:
+  push:
+    branches:
+      - lb15/markets-1108
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the branch
+        uses: actions/checkout@v4
+        with:
+          ref: lb15/markets-1108
+          fetch-depth: 0
+
+      - name: Apply the patch in place
+        run: python3 -I tools/lb15_patch_1108.py
+
+      - name: Check footer, titles and file count
+        run: |
+          set -eu
+          FOOTER='Namebeam, a Carter Enterprise property. This is the first leg.'
+          git status --short
+          CHANGED=$(git diff --name-only | grep -v '^\.github/' | grep -v '^tools/lb15_patch_1108.py$' || true)
+          N=$(printf '%s\n' "$CHANGED" | grep -c . || true)
+          echo "changed files: $N"
+          if [ "$N" -ne 0 ] && [ "$N" -ne 30 ]; then
+            echo "FAIL: expected 30 changed files (or 0 if already applied), got $N"; exit 1
+          fi
+          fail=0
+          for f in $(printf '%s\n' "$CHANGED" | grep '\.html$' || true); do
+            if ! grep -qF "$FOOTER" "$f"; then echo "FAIL: footer line missing in $f"; fail=1; fi
+          done
+          if git diff -U0 -- '*.html' | grep -E '^\+<title>' | grep -qi 'perplexity'; then
+            echo "FAIL: Perplexity in an added title"; fail=1
+          fi
+          if git diff -U0 -- '*.html' | grep -E '^\+<(title|h1)>' | grep -q 'ChatGPT'; then
+            echo "FAIL: engine name in an added title or H1"; fail=1
+          fi
+          [ "$fail" -eq 0 ] || exit 1
+          echo "checks passed"
+
+      - name: Commit, remove the kit in the same commit, push
+        run: |
+          set -eu
+          git config user.name "lb15-deploy-1108"
+          git config user.email "lb15-deploy-1108@users.noreply.github.com"
+          git add -A -- . ':!tools/lb15_patch_1108.py' ':!.github/workflows/lb15-deploy-1108.yml'
+          git rm -q --ignore-unmatch tools/lb15_patch_1108.py .github/workflows/lb15-deploy-1108.yml
+          git commit -m "LB15 markets patch 2026-11-08: three record landings, agencies and buy canonicals, sitemap to 132 hubs, 24 report canonicals"
+          git push origin HEAD:lb15/markets-1108
