@@ -1,0 +1,27 @@
+name: cap-strip-1108
+on:
+  push:
+    branches: [cap/markets-1108]
+permissions:
+  contents: write
+jobs:
+  strip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: cap/markets-1108
+      - name: Strip Perplexity cited sources (CAP 2026-11-08)
+        run: python3 tools/cap_strip_1108.py
+      - name: Check
+        run: |
+          if grep -rlE "Perplexity cited|sources_cited|33\.6" record market_*.html sources report samples --include=*.html; then echo "LEFTOVER"; exit 1; fi
+          git status --short | head -50
+      - name: Commit and remove the one-off tool
+        run: |
+          git config user.name "cap-strip-1108"
+          git config user.email "actions@users.noreply.github.com"
+          git rm -q tools/cap_strip_1108.py .github/workflows/cap-strip-1108.yml
+          git add -A
+          git commit -m "CAP 2026-11-08: no Perplexity cited sources on public pages (33 files); remove one-off tool"
+          git push
