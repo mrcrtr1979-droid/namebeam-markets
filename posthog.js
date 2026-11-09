@@ -76,6 +76,15 @@
         if (!/buy\.stripe\.com|\/buy(\/|$|[?#])/.test(a.href)) return; /* data-market also tags explorer and sample links; only buy links count */
         window.posthog.capture('buy_click', { price: a.dataset.price || null, market: a.dataset.market || null, href: a.href, path: location.pathname },
           { send_instantly: true, transport: 'sendBeacon' });
+        /* checkout_started (PostHog P1, 2026-11-03): one event per click on a Stripe payment link, with product, price, the link
+           id, the visit's utm values and whether an affiliate referral stamped the link (client_reference_id not receipt_*). */
+        if (/buy\.stripe\.com\//.test(a.href)) {
+          var u = new URL(a.href), q = new URLSearchParams(location.search), utm = {}, cr = u.searchParams.get('client_reference_id') || '';
+          ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { if (q.get(k)) utm[k] = q.get(k).slice(0, 100); });
+          window.posthog.capture('checkout_started', Object.assign({ product: a.dataset.market || null, price: a.dataset.price || null,
+            stripe_link: u.pathname.replace(/^\//, ''), referred: !!cr && !/^receipt_/.test(cr), path: location.pathname }, utm),
+            { send_instantly: true, transport: 'sendBeacon' });
+        }
       } catch (err) {}
     }, true);
   } catch (e) {}
