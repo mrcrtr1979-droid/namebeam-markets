@@ -6,7 +6,7 @@
    constant below and the Worker's TURNSTILE_MODE together. */
 (function () {
   var EDGE = "https://ce-edge.mrcrtr1979.workers.dev";
-  var SITEKEY = "1x00000000000000000000AA";
+  var SITEKEY = "0x4AAAAAAF657LfunEwSgGdr";
   var CONSENT = "Email me the free sample for this market and up to 3 follow-ups about the Namebeam record. Reply no to stop.";
 
   function slugOf(p) {
