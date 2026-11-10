@@ -1,0 +1,529 @@
+{
+  "slug": "pleasanton-oil-change",
+  "market": "Pleasanton CA",
+  "niche": "oil change shops",
+  "shape": "day_pages",
+  "window_first": "2026-08-26",
+  "window_last": "2026-10-07",
+  "run_days": 42,
+  "rows_total": 210,
+  "by_engine": {
+    "anthropic": {
+      "rows": 42,
+      "ok": 42,
+      "days_with_ok": 42
+    },
+    "perplexity": {
+      "rows": 42,
+      "ok": 38,
+      "days_with_ok": 38
+    },
+    "google_serp": {
+      "rows": 42,
+      "ok": 16,
+      "days_with_ok": 16
+    },
+    "gemini": {
+      "rows": 42,
+      "ok": 17,
+      "days_with_ok": 17
+    },
+    "openai": {
+      "rows": 42,
+      "ok": 42,
+      "days_with_ok": 42
+    }
+  },
+  "by_date": [
+    {
+      "date": "2026-08-26",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    }
+  ],
+  "files": {
+    "all_csv": {
+      "path": "/record/pleasanton-oil-change/all.csv",
+      "sha256": "c24ab8955ff2b94d2e786974ee0f5055d37ec9325b7fbcdcd2c7ad1e1b87540c"
+    },
+    "day_csv_count": 42,
+    "manifest": "/record/manifest.sha256",
+    "changes_csv": {
+      "path": "/record/pleasanton-oil-change/changes.csv",
+      "sha256": "cefb594cfcf35385e0c16bc6549212f94b5bccb0ae388a137aa60abf4abcd7e3"
+    }
+  },
+  "engine_behavior": {
+    "n": 181,
+    "any_pair_shares_name_pct": 99.3,
+    "day_over_day_set_changed_pct": 100.0,
+    "engines": [
+      "openai",
+      "gemini",
+      "anthropic"
+    ],
+    "method": "tools/findings_1109.py rules, Perplexity excluded, no business named",
+    "per_engine_stability": {
+      "openai": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.263
+      },
+      "gemini": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.223
+      },
+      "anthropic": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.425
+      }
+    }
+  },
+  "engine_behavior_reason": null,
+  "generated_utc": "2026-11-09 21:51:26 UTC",
+  "source": "public CSVs on markets.namebeam.ai and the public corpus",
+  "no_business_names": true
+}
