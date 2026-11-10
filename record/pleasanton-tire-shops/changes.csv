@@ -193,3 +193,1159 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Big Brand Tire & Service,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,SimpleTire,openai
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,The Tire Choice,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,National Chains,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Local/Independent Shops,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,To compare,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Firestone Complete Auto Care,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Pep Boys. They,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Tire Rack,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,SimpleTire,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Discount Tire and Firestone,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,My pick: Big Brand Tire & Service,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,The Tire Choice,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,dropped,Big O Tires,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Check Google Maps/Yelp reviews,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Call ahead,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Compare prices,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Ask about alignment,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Pro tip,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Costco,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Discount Tire,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Bay Area,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Costco Tire Center,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Big O Tires,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Tire Choice,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,To compare,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Firestone Complete Auto Care,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Pep Boys. They,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Tire Rack,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,SimpleTire,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Discount Tire and Firestone,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,My pick: Big Brand Tire & Service,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,The Tire Choice,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Chain Retailers,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Check reviews,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Ask about,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,I'd recommend checking current Google Maps reviews,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Seever & Sons Tire,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,"Costco Tire Center, 7200 Johnson Drive",perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,America’s Tire in San Ramon,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,National Chains,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Check Google Maps/Yelp reviews,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Ask about alignment,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Pro tip,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Costco,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Bay Area,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Big O Tires,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Tire Choice,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,National chains,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Local shops,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Ask about warranties,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Look for certifications,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Compare total costs,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,I'd recommend checking current Google/Yelp reviews,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Pep Boys,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Tire Rack,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Costco,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,ASE-certified,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,Big Brand Tire & Service,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity,entered,My pick for installation,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Chain Retailers,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Local/Independent Shops,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Compare prices,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Ask about,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,I'd recommend checking current Google Maps reviews,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Costco Tire Center,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,Google and Yelp,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,"Costco Tire Center, 7200 Johnson Drive",perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity,dropped,America’s Tire in San Ramon,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Compare prices,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,I'd recommend,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Pleasanton Costco,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Pleasanton and I,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,America’s Tire in San Ramon,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,The Tire Choice at 4216 Rosewood Rd,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,My pick,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Compare total costs,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,I'd recommend checking current Google/Yelp reviews,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Discount Tire,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Pep Boys,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Tire Rack,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Costco,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,ASE-certified,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Seever & Sons Tire,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,My pick for installation,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,National Chains,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Local Shops,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Ask about,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,My suggestion,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Costco Tire Center,openai perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Pep Boys,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Hunter,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,John Bean,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Dublin,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Alameda County,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Pleasanton ZIP,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,ZIP I,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Big Brand Tire,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Big O Tires,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Seever & Sons,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,National chains,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Local shops,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Ask about warranties,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Look for certifications,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,I'd recommend,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Pleasanton Costco,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Pleasanton and I,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,America’s Tire in San Ramon,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,The Tire Choice at 4216 Rosewood Rd,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,My pick,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,I'd recommend,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,ASE-certified,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Costco,anthropic openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Discount Tire,anthropic openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Tire Rack,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Firestone Complete Auto Care,anthropic openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,ASE,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,TPMS,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,America’s Tire,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Big Brand Tire & Service,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Seever & Sons Tire,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,My pick,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Sons Tire,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Big Brand,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Seever,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Check reviews,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Call ahead,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Ask about,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,My suggestion,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Costco Tire Center,openai perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Hunter,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,John Bean,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Dublin,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Alameda County,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Pleasanton ZIP,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,ZIP I,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Seever & Sons,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Costco Tire Center,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,America,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Tire,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Seever & Son’s Tire,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,My pick for installation,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Son,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Pleasanton. It,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Washington Street,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Compare prices,anthropic
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,I'd recommend,anthropic
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Pep Boys,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,ASE,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,TPMS,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Seever & Sons Tire,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Sons Tire,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Big Brand,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Local/Independent Shops,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Read recent reviews,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Compare prices,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Check turnaround times,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Independent Shops,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Tips for Finding the Best Installation,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,I'd recommend,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Local/Independent,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Pep Boys,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,America’s Tire in Dublin,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Costco Pleasanton,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Big Brand and Seever,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Local Shops,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Costco Tire Center,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Big O Tires,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Seever,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Pleasanton. It,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Washington Street,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Local Shops,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Verify services included,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Les Schwab,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Dublin,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Costco Tire Center,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Pleasanton shop,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Big O Tires at 3688A Washington St,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Tire Choice at 4216 Rosewood Rd,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Pleasanton. Tire Rack,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Big O Tires,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,Tire Choice,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Local/Independent Shops,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Check turnaround times,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Independent Shops,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Tips for Finding the Best Installation,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,ASE-certified,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Local/Independent,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Seever & Son’s Tire,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Big Brand Tire,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Son,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Tire,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,Big Brand and Seever,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,National chains,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Local shops,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,ASE-certified,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Tire,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,SimpleTire,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Whether,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,My pick: Seever & Sons Tire,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Big Brand Tire,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Sons Tire,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Johnson Drive,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Seever & Sons Tire,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,National Chains,anthropic openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Local Shops,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Read recent reviews,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Verify services included,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Les Schwab,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Dublin,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Pleasanton shop,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Big O Tires at 3688A Washington St,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Tire Choice at 4216 Rosewood Rd,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Costco Pleasanton,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Pleasanton. Tire Rack,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Tire Choice,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,My pick for installation,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,America’s Tire in Dublin,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,National Chains,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Local Shops,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Read recent reviews,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Verify installation includes,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Les Schwab,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Discount Tire Direct,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Pleasanton-based shop,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Big Brand Tire & Service,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Tire Choice,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Big Brand,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Pleasanton. Tire Rack,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,My pick for installation,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,America’s Tire in Dublin,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,National chains,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Local shops,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Firestone Complete Auto Care,anthropic openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,SimpleTire,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Whether,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,My pick: Seever & Sons Tire,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Big O Tires,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Sons Tire,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Johnson Drive,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,Seever & Sons Tire,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Local/Independent Shops,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Check Google Maps/Yelp reviews,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Ask about alignment,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Independent Shops,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Firestone Complete Auto Care,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Local/Independent,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Seever,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Son,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Seever & Son’s Tire,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Local Shops,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Read recent reviews,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Verify installation includes,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,ASE-certified,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Discount Tire Direct,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Pep Boys,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Pleasanton-based shop,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Big Brand Tire & Service,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Big Brand,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Pleasanton. Tire Rack,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Big Brand Tire,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,America’s Tire in Dublin,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Local Shops,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Read recent reviews,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Verify installation includes,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Livermore,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Dublin,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Pep Boys,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,My pick: Seever & Sons Tire,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Big Brand Tire,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Big O Tires,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Sons Tire,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Sons and America,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Seever & Sons Tire,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Big Brand,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Local/Independent Shops,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Check Google Maps/Yelp reviews,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Ask about alignment,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Independent Shops,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,I'd recommend,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Local/Independent,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Tire Choice,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Son,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Seever & Son’s Tire,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,My pick for installation,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Look for promotions,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Verify wait times,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,For best installation,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,I'd recommend,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Warehouse Clubs,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Dedicated Tire/Auto Shops,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Dealerships,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,The Catch,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Customer Service,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Technology,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Pronto Service Center,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Check Tire Rack First,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,America's Tire in Pleasanton,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Always Get an Alignment,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Watch for Rebates,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,America’s Tire on Bernal Ave,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Dedicated Tire,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Auto Shops,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,OEM-specific,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Full Service,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Goodyear,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,America's Tire,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Always Get,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Memorial Day,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Labor Day,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Black Friday,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Recommendation Summary,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,America’s Tire in Dublin,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Sons,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Read recent reviews,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Verify installation includes,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,The Deal,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Hansen’s Automotive,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Go to Costco,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Go to America’s Tire,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Go to Pleasanton Automotive,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,BFGoodrich,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Near the Stoneridge Mall,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,East Bay. They,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Tire Rack and Costco,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Livermore,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Pep Boys,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Costco Tire Center,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Big O Tires,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Sons and America,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Local/Independent Shops,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Read recent reviews,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Check wait times,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,ASE-certified,anthropic openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Local/Independent,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Costco Tire Center (Livermore),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,The Installation Perks,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Pleasanton Dublin Shell / Service Center,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Big O Tires,gemini perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Les Schwab Tire Center,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Discount Tire (Livermore),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Road Force Balancing,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Costco (Livermore),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Big O Tires (Dublin/Pleasanton area),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Pleasanton Dublin Shell,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Costco Tire Center,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Livermore,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,BFGoodrich. Costco,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Top-Tier Customer Service,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Service Center,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Downtown Pleasanton,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,High-Performance Cars,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,European Autowerks,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Sports Car Shop,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Recommendations Checklist,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Pleasanton ZIP,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,My pick: Seever & Son’s Tire,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Big Brand Tire & Service,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Son,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Seever & Son’s Tire,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Local Shops,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Look for promotions,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Verify wait times,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,For best installation,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Firestone Complete Auto Care,anthropic openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Warehouse Clubs,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Dedicated Tire/Auto Shops,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Dealerships,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Customer Service,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Technology,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Pleasanton Automotive,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Pronto Service Center,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Check Tire Rack First,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,America's Tire in Pleasanton,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Always Get an Alignment,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Watch for Rebates,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,America’s Tire on Bernal Ave,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Dedicated Tire,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Auto Shops,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,OEM-specific,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Full Service,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Michelin,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Goodyear,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,America's Tire,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Always Get,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Memorial Day,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Labor Day,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Black Friday,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Recommendation Summary,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Costco Wholesale,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,My pick: Seever & Sons Tire,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,America’s Tire in Dublin,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Sons Tire,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Sons,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Seever & Sons Tire,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Local Shops,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Verify wait times,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Custom Alignment & Tire (Pleasanton),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Costco Wholesale (Livermore - *Just down I-580*),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Goodyear Auto Service (Pleasanton),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,For the absolute best price,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,America's Tire,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Custom Alignment & Tire,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Highest-Rated Service,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Custom Alignment,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Heart Certified Auto Care,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Costco Wholesale,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,BFGoodrich,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Border of Pleasanton,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Goodyear Auto Service,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Goodyear and Kelly,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Firestone Complete Auto Care,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,SimpleTire,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Pep Boys,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Installation Quality,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Tire Choice,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Sons Tire,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton. A,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Seever & Sons Tire,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Local/Independent Shops,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Check wait times,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,I'd recommend,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Independent Shops,anthropic gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Local/Independent,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Costco Tire Center (Livermore),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,The Installation Perks,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,The Catch,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dublin Shell / Service Center,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Big O Tires,gemini perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Les Schwab Tire Center,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Discount Tire (Livermore),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Road Force Balancing,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Costco (Livermore),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Big O Tires (Dublin/Pleasanton area),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dublin Shell,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,BFGoodrich. Costco,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Top-Tier Customer Service,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Service Center,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Pleasanton,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,High-Performance Cars,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,European Autowerks,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Sports Car Shop,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Recommendations Checklist,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton ZIP,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,My pick: Seever & Son’s Tire,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Seever,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Son,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Seever & Son’s Tire,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Local/Independent,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Look for promotions,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Sam's Club,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,I'd recommend,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,America’s Tire (Discount Tire),gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Community Auto Care,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Pleasanton Automotive,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Stoneridge Mall,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,East Bay. They,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Michelin,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Dealership Service,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,BMW of Pleasanton,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Audi Pleasanton,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,EVs,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Big Brand Tire & Service,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Seever,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Tire. Ask,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,My pick for installation,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Local Shops,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Read recent reviews,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Verify wait times,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Custom Alignment & Tire (Pleasanton),gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Costco Wholesale (Livermore - *Just down I-580*),gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Goodyear Auto Service (Pleasanton),gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,For the absolute best price,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,America's Tire,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Custom Alignment & Tire,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Highest-Rated Service,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Custom Alignment,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Heart Certified Auto Care,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Livermore,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Border of Pleasanton,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Goodyear Auto Service,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Goodyear and Kelly,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Tire Choice,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Pleasanton. A,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Tire Rack,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Local Shops,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Read recent reviews,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Verify alignment services,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Online Retailers (Usually the cheapest upfront),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Tire Rack / Discount Tire Direct,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Costco Wholesale (Dublin/Pleasanton border),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Local Brick-and-Mortar,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,America’s Tire (Livermore - just down I-580),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Check prices,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Tire Rack,gemini perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Phase,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Buy,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Online Retailers,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Discount Tire Direct,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Livermore,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Tire Pressure Monitoring Systems,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Honest Work,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Pleasanton. They,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Motor Sports,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Independent Specialists,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,European,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Convenience Pick,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Smart Shopper,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,My pick: Big Brand Tire & Service,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,America’s Tire in Dublin,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Local/Independent,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Look for promotions,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Sam's Club,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,I'd recommend,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,America’s Tire (Discount Tire),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Community Auto Care,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Stoneridge Mall,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,East Bay. They,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Michelin,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Dealership Service,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,BMW of Pleasanton,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Audi Pleasanton,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,EVs,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Seever,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Sons Tire,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Tire. Ask,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Seever & Sons Tire,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,National chains,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Local shops,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Look for shops that balance tires,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Custom Alignment (Pleasanton),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,H&H Automotive,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,America’s Tire (on 1st St),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Business Center,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Dublin Costco,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Mobile installation option,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,YourMechanic,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Go to America’s Tire on 1st St,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Go to Custom Alignment,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Go to Costco (Dublin),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Custom Alignment,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Tri-Valley. They,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Johnson Drive,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Online-to-Installer Experience,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Go to Costco,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,The Catch,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Go to America’s Tire,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,My pick for installation,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Good option right in Pleasanton,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Costco Tire Center,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Pleasanton. Tire Rack,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Johnson Dr. Appointments,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Local Shops,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Compare prices,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Read recent reviews,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Verify alignment services,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Online Retailers (Usually the cheapest upfront),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Tire Rack / Discount Tire Direct,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Costco Wholesale (Dublin/Pleasanton border),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Local Brick-and-Mortar,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Pleasanton Automotive,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,America’s Tire (Livermore - just down I-580),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Check prices,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Phase,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Buy,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Online Retailers,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,BFGoodrich,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Livermore,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Tire Pressure Monitoring Systems,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Honest Work,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Pleasanton. They,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Motor Sports,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Independent Specialists,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,European,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Convenience Pick,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Smart Shopper,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,My pick: Big Brand Tire & Service,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,America’s Tire in Dublin,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Local Shops,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Compare total costs,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,ASE-certified,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Firestone Complete Auto Care,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,America’s Tire (Discount Tire),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,The Installation Experience,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Pleasanton Dublin Shell / Certified Auto Repair,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Goodyear Auto Service,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,America’s Tire on Santa Rita Rd,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Don't skip the alignment,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Bay Area. They,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,BFGoodrich,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Pleasanton Dublin Shell,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Certified Auto Repair,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Goodyear,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,America's Tire,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Livermore,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,The Tire Choice,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Tire Choice,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,America’s Tire in Dublin,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,National chains,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Local shops,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Look for shops that balance tires,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Custom Alignment (Pleasanton),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,H&H Automotive,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,America’s Tire (on 1st St),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Business Center,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Dublin Costco,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Mobile installation option,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,YourMechanic,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Go to America’s Tire on 1st St,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Go to Custom Alignment,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Go to Costco (Dublin),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Custom Alignment,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Tri-Valley. They,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Johnson Drive,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Online-to-Installer Experience,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Go to Costco,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,The Catch,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Go to America’s Tire,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Good option right in Pleasanton,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Costco Tire Center,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Pleasanton. Tire Rack,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Johnson Dr. Appointments,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,National chains,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Local shops,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Compare prices,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Ask about alignment,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,I'd recommend,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Independent Shops,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Costco Wholesale (Dublin/Pleasanton border - Hacienda Dr),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,The Catch,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Discount Tire (Downtown Pleasanton / Bernal Ave),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Tire Rack (Online) + Local Installer,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,A+ Japanese Auto Repair,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Discount Tire (Bernal Ave),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Costco Tire Center,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,For the absolute best price & warranty,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Discount Tire on Bernal/Rosewood,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,For everyday commuters on a budget,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Phase,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Buy,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Your Tires,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,BFGoodrich. They,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Downtown Pleasanton,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Local Installer,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Hunter Road Force,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Precision Shop,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Japanese Auto Repair,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Sandoval Way,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Certificates for Refund,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Road Force,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Road Force Balancing,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Costco’s Pleasanton Tire Center,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Pleasanton Tire Center,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,National Chains,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Local Shops,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Compare total costs,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,ASE-certified,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,America’s Tire (Discount Tire),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,The Installation Experience,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Pleasanton Dublin Shell / Certified Auto Repair,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Goodyear Auto Service,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,America’s Tire on Santa Rita Rd,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Don't skip the alignment,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Bay Area. They,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,BFGoodrich,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Pleasanton Dublin Shell,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Certified Auto Repair,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Goodyear,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Discount Tire Direct,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,America's Tire,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Livermore,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,The Tire Choice,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Tire Choice,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Check current promotions,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,ASE-certified,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,America’s Tire (Discount Tire),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Les Schwab Tire Center,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Pleasanton Auto Repair,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Membership Option,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Wheel Shops,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Near Pleasanton,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,East Bay,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Full Service,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Choose Costco,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Choose America,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Johnson Drive,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Goodyear,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Big O Tires,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Ask about alignment,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Independent Shops,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Costco Wholesale (Dublin/Pleasanton border - Hacienda Dr),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Discount Tire (Downtown Pleasanton / Bernal Ave),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Tire Rack (Online) + Local Installer,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,A+ Japanese Auto Repair,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Discount Tire (Bernal Ave),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,For the absolute best price & warranty,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Discount Tire on Bernal/Rosewood,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,For everyday commuters on a budget,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Phase,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Buy,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Your Tires,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,BFGoodrich. They,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Downtown Pleasanton,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Local Installer,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Hunter Road Force,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Precision Shop,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Japanese Auto Repair,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Sandoval Way,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Certificates for Refund,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Road Force,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Road Force Balancing,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Costco’s Pleasanton Tire Center,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Pleasanton Tire Center,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,America’s Tire in Dublin,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Perk,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Book an appointment online,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Burbank Tires & Auto Repair,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,YourMechanic,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Drawback,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Dublin Shell,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Tier,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Buy,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,BFGoodrich. They,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Domestic Auto Repair,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Burbank Tires,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Auto Repair,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,San Jose,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Specialty Cars,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Dealerships,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Electric Vehicle,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Road Force,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,America's Tire,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Road Force Balancing,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Firestone,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton shop,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Costco at 7200 Johnson Dr,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Costco and America,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,My pick for installation,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Check current promotions,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,The Catch,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Les Schwab Tire Center,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Auto Repair,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Membership Option,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Wheel Shops,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Near Pleasanton,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,East Bay,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Full Service,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Choose Costco,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Choose America,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Johnson Drive,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Goodyear,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,National Chains,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Local Shops,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Read recent reviews,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,The Verdict,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Heart Certified Auto Care (formerly Pleasanton Automart),gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Goodguys Tires & Auto Repair,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,East Bay BMW / MINI,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Infiniti/Porsche Pleasanton dealerships,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Budget/Value,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Service/Speed/Care,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,White-Glove/Local,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Heart Certified Auto Care,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Automart,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Goodguys Tires,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Tri-Valley,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,East Bay BMW,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Porsche Pleasanton,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Hunter Road Force,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Ask Wherever You Go,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Livermore,gemini openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,SimpleTire,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,America’s Tire in Dublin,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Tire Choice,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Try Big Brand,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,National chains,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Local shops,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,I'd recommend,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,ASE-certified,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,America’s Tire (Discount Tire),gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,The Perk,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Book an appointment online,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Burbank Tires & Auto Repair,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,YourMechanic,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,The Drawback,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dublin Shell,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Tier,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Buy,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,BFGoodrich. They,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Domestic Auto Repair,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Burbank Tires,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,San Jose,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Specialty Cars,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dealerships,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Electric Vehicle,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,America's Tire,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Bridgestone,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Road Force Balancing,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Firestone,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton shop,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Costco at 7200 Johnson Dr,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Costco and America,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,My pick,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,National chains,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Local shops,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Check turnaround time,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,I'd recommend,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,ASE-certified,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,The Catch,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,America’s Tire (Discount Tire),gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Automotive,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,G & C Auto Service,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Expert Service,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Bridgestone and Firestone. They,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,White-Glove Installation,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,C Auto Service,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Recommendation Checklist,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Owens Drive. They,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Bridgestone,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Tri,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Valley,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,TIA-certified,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,TPMS,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Big Brand. Call,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,My pick,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,My pick for installation,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,National Chains,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Local Shops,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Read recent reviews,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,The Verdict,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Heart Certified Auto Care (formerly Pleasanton Automart),gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Goodguys Tires & Auto Repair,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,East Bay BMW / MINI,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Infiniti/Porsche Pleasanton dealerships,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Budget/Value,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Service/Speed/Care,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,White-Glove/Local,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Heart Certified Auto Care,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Automart,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Goodguys Tires,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Auto Repair,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Tri-Valley,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,East Bay BMW,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Porsche Pleasanton,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Hunter Road Force,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Ask Wherever You Go,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,gemini openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Road Force,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Pep Boys,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Try Big Brand,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,National Chains,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Local Shops,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Compare total costs,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,H&H Automotive,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Independent Shops,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Downtown Pleasanton,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Business Park,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Michelin,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,BFGoodrich,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Brand Specifics,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Infiniti of Pleasanton,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,BMW of Pleasanton,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Courtesy Acura,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,OEM-spec,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Road Force,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton. Buy,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Livermore,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,National Tire,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Pep Boys,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Costco and Big Brand. Ask,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,National chains,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Local shops,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Compare prices,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Check turnaround time,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,I'd recommend,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,G & C Auto Service,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Expert Service,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Bridgestone and Firestone. They,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,White-Glove Installation,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,SimpleTire,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,C Auto Service,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Recommendation Checklist,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Owens Drive. They,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Tri,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Valley,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,TIA-certified,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,TPMS,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Big O Tires,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Tire Choice,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand. Call,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,National chains,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Local shops,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,The Installation Experience,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Mel’s Tires & Auto Service,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,TireRack.com,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Mel’s on Main Street,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Stoneridge Mall,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Their Pleasanton,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Mel,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Auto Service,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Warehouse Pricing,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Mobile Installation,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Main Street,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton shop,gemini perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Big Brand Tire & Service,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,The Tire Choice,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Old Santa Rita Rd. Its Pleasanton,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Tire Choice,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Local Shops,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,H&H Automotive,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Automotive,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,America’s Tire (Discount Tire),gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Independent Shops,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Pleasanton,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Tire,gemini perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Business Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Michelin,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Bridgestone,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,BFGoodrich,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Brand Specifics,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Infiniti of Pleasanton,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,BMW of Pleasanton,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Courtesy Acura,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,OEM-spec,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Road Force,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton. Buy,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,The Catch,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,National Tire,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Costco and Big Brand. Ask,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,America’s Tire in Dublin,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Local Shops,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Compare prices,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Read recent reviews,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Verify alignment services,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,The Catch,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Hearthstone Tire & Auto Service,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Pleasanton Automall (Brand-Specific Dealerships),gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,America’s Tire (Discount Tire),gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Nearest Locations,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Top-Tier Installation,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Customer Service,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Hearthstone Tire,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Pleasanton Automall,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Brand-Specific Dealerships,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Tire Pressure Monitoring Systems,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Livermore,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Independent Shops,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Costco Tire Center and Discount Tire,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Pleasanton. Firestone,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Goodyear,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Pleasanton Costco,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Big O Tires on Washington Street,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Big O Tires,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Washington Street,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Big O. Ask,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,My pick: Big Brand Tire & Service,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,National chains,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Local shops,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Compare total costs,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,ASE-certified,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,The Installation Experience,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Mel’s Tires & Auto Service,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Costco Wholesale,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,TireRack.com,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Mel’s on Main Street,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Stoneridge Mall,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Their Pleasanton,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Mel,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Warehouse Pricing,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Mobile Installation,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Main Street,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Pleasanton shop,gemini perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Pep Boys,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,The Tire Choice,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Old Santa Rita Rd. Its Pleasanton,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Tire Choice,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Installation cost,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Pleasanton Wheel Alignment,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,H&H Automotive,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Book an appointment online,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Costco Wholesale,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,For the absolute best price and warranty,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Fast Service,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Tire,gemini perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,My pick for best installation,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,For convenience in Pleasanton,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,For value,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,America’s Tire for installation,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Costco and Big Brand. Ask,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Verify alignment services,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Hearthstone Tire & Auto Service,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Pleasanton Automall (Brand-Specific Dealerships),gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Nearest Locations,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Customer Service,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Hearthstone Tire,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Auto Service,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Pleasanton Automall,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Brand-Specific Dealerships,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Tire Pressure Monitoring Systems,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Livermore,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Independent Shops,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Costco Tire Center and Discount Tire,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Pleasanton. Firestone,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Pleasanton Costco,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Big O Tires on Washington Street,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Big O Tires,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Washington Street,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Big O. Ask,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,My pick: Big Brand Tire & Service,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,National chains,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Local shops,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Ask about services,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,I'd recommend,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Bridgestone,anthropic gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Warehouse Clubs,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Dedicated Tire Shops,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Dealerships,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Big O Tires,gemini openai perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Pleasanton Automotive,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,For the lowest price,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,America's Tire,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Firestone,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,BFGoodrich,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Alignment Shops,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Ridge Shopping Center,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Full-Service Mechanics,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Local Trust,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Pep Boys,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Livermore,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Costco Pleasanton,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,My pick for installation,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Johnson Drive,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Washington Street,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,National Chains,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Installation cost,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Pleasanton Wheel Alignment,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,H&H Automotive,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Book an appointment online,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,For the absolute best price and warranty,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Local Shops,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Top-Tier Installation,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Fast Service,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Tire,gemini perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,My pick for best installation,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,For convenience in Pleasanton,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,America’s Tire for installation,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Costco and Big Brand. Ask,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,National Chains,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Local Shops,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Verify alignment services,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Pleasanton Wheel Alignment,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,The Installation,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Hansel Auto Care,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Chevron (Pleasanton Texaco / local full-service stations),gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Their,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Pleasanton. They,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Price Matching,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Stoneridge Mall,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Tire,gemini openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Bernal Corporate Park,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Pleasanton Texaco,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Choose Costco,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Choose America,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Choose Pleasanton Wheel Alignment,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,SimpleTire,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Discount Tire Direct,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,TPMS,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Independent Shops,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Installation Quality,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,The Tire Choice,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Old Santa Rita Rd. Its,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Rosewood Rd. Ask,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Tire Choice,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,National chains,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Local shops,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Ask about services,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,I'd recommend,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Goodyear,anthropic gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Warehouse Clubs,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Dedicated Tire Shops,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Dealerships,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Pleasanton Automotive,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,For the lowest price,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,America's Tire,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Alignment Shops,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Ridge Shopping Center,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Full-Service Mechanics,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Local Trust,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,For value,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Livermore,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Costco Pleasanton,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Johnson Drive,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Washington Street,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,ASE-certified,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Installation perks,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Michelin,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Installation,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Near the Safeway,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Auto Repair,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,America's Tire,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Choose America's Tire,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,"Michelin, Bridgestone, and BFGoodrich",gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Livermore,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Seever,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Son,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Seever & Son’s Tire,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Read recent reviews,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Verify alignment services,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,The Installation,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Hansel Auto Care,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Chevron (Pleasanton Texaco / local full-service stations),gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Their,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Price Matching,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Bernal Corporate Park,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Pleasanton Texaco,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Choose Pleasanton Wheel Alignment,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,SimpleTire,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Discount Tire Direct,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,TPMS,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Pep Boys,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Independent Shops,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Installation Quality,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,The Tire Choice,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Big Brand Tire,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Old Santa Rita Rd. Its,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Rosewood Rd. Ask,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Big Brand,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Big Brand Tire & Service,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Tire Choice,perplexity

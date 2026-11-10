@@ -127,3 +127,1528 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Nash 2BR 2BA-Private Balcony-Free Parking-Pool,perplexity
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Treetop Bungalow in 12 South,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Nash 2BR 2BA-Private Balcony-Free Parking-Pool,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Location,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,East Nashville,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Germantown,anthropic openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Green Hills,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Downtown/Gulch,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Amenities for families,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,West End,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Centennial Park,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Grand Ole Opry,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Nashville Zoo,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Entire,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Washer,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Donelson and Franklin,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Family,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Adventure Science Center,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Five Points,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Hillsboro Village,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Franklin,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,The Gulch,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Country Music Hall of Fame,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Airbnb,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,East Nash,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,CMA Fest,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Luxe SoBro,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,West End,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Centennial Park,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Grand Ole Opry,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Nashville Zoo,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Entire,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Washer,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Donelson and Franklin,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Family,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Adventure Science Center,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Five Points,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Sylvan Park,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Space,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Kitchen,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Parking,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Washer/dryer,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Kid-friendly amenities,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Five Points,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Lockeland Springs,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Midtown,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,East Nashville two-bedroom cottage,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Germantown family-friendly rentals,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,SoBro/downtown,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Location,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Amenities for families,anthropic
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Hillsboro Village,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Franklin,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Country Music Hall of Fame,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Airbnb,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,East Nash,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Luxe SoBro,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Location,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Downtown/The Gulch,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Amenities for families,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Nissan Stadium,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Vanderbilt,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,West End,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Centennial Park,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Berry Hill,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Historic Lockeland Springs 2BR The Koselig Korner,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Downtown/Gulch,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Space,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Kitchen,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Parking,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Washer/dryer,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Kid-friendly amenities,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Five Points,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Lockeland Springs,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Midtown,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,East Nashville two-bedroom cottage,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Germantown family-friendly rentals,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,SoBro/downtown,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Downtown/Gulch,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Full kitchen,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Washer/dryer,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Parking included,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Outdoor space,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Country Music Hall of Fame,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Hillsboro Village,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Belle Meade,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Airbnb,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Midtown/West End,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Downtown/SoBro,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Location,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Downtown/The Gulch,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Amenities for families,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Nissan Stadium,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,West End,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,The Gulch,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Berry Hill,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Historic Lockeland Springs 2BR The Koselig Korner,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Reviews mentioning families,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,East End,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Five Points,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Music Row,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Entire,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,CMA Fest and NFL,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Tennessee Titans,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Outdoor space,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Country Music Hall of Fame,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Vanderbilt,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Hillsboro Village,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Centennial Park,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Belle Meade,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Airbnb,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Midtown/West End,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Downtown/SoBro,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Filter by,anthropic openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Grand Ole Opry,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Gulch,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Hillsboro Village,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,West End,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Centennial Park,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,X and Y,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,The Gulch,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Outdoor space,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Superhost,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,SoBro,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,The Nashville Rhythm,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Midtown,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Five Points,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Music Row,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Entire,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,CMA Fest and NFL,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,CMA Fest,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Tennessee Titans,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Green Hills. Great,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Upscale,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Belle Meade,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Parthenon,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Country Music Hall of Fame,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Adventure Science Center,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Downtown/The Gulch,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Nashville Zoo,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Blush-n-Bloom,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,The Corner Cottage in Green Hills,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,My pick,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Reviews mentioning families,anthropic
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Gulch,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,East End,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Hillsboro Village,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,X and Y,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,The Nashville Rhythm,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Amenities for families,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Read recent reviews,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Message hosts,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Check cancellation policies,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Compare total costs,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Very,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Hillsboro Village,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,CMA Fest,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Browse Nashville,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Browse Midtown,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,Midtown family-friendly rentals,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Sylvan Park,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Outdoor space,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Green Hills. Great,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Belle Meade,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Parthenon,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Country Music Hall of Fame,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Grand Ole Opry,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Adventure Science Center,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Downtown/The Gulch,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Nashville Zoo,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,Blush-n-Bloom,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,The Corner Cottage in Green Hills,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,My pick,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,SoBro,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Sylvan Park,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Outdoor space,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Belle Meade,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Music City,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Air Conditioning,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Lockeland Springs,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Midtown/West End,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,The Koselig Korner,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Amenities for families,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Read recent reviews,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Message hosts,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Check cancellation policies,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Compare total costs,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Very,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Upscale,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Centennial Park,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Browse Nashville,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Browse Midtown,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Midtown family-friendly rentals,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Booking.com,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Family-Friendly Nearby Activities,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Nashville Zoo,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Opry,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Country Music Hall of Fame,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Grand Ole Opry,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Gaylord Opryland,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Donelson,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,Vrbo. It,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,entered,SoBro,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Full kitchen,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Washer/dryer,anthropic openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Parking included,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Outdoor space,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Filter by,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Belle Meade,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Music City,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,CMA Fest,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,The Gulch,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Superhost,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Air Conditioning,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Hillsboro Village,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Lockeland Springs,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Midtown,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,Midtown/West End,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity,dropped,The Koselig Korner,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Amenities for families,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Washer/dryer,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Full kitchen,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Parking included,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Filter by,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Centennial Park,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,CMA Fest,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Midtown,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Superhost,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Private Balcony,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Free Parking,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,entered,Browse East Nashville,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Sylvan Park,anthropic openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Booking.com,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Family-Friendly Nearby Activities,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Nashville Zoo,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Opry,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Country Music Hall of Fame,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Grand Ole Opry,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Gaylord Opryland,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,Vrbo. It,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity,dropped,SoBro,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,The Gulch,anthropic openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Sylvan Park,anthropic openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Proximity to attractions,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Nashville. To,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Hillsboro Village,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Centennial Park and Belmont University,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Forest Hills,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Belle Meade,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Grand Ole Opry,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Opry Mills,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Adventure Science Center,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Kid-friendly amenities,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Air Conditioning,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,The Corner Cottage in Green Hills,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Nissan Stadium,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Downtown/Gulch,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Amenities for families,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,West End,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,CMA Fest,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Midtown,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Superhost,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Donelson,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Private Balcony,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Free Parking,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Browse East Nashville,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Downtown/Gulch,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Verified reviews,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Booking.com,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Budget Reality,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Entire,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Upscale,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Midtown,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Superhost,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Nashville Zoo,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Crieve Hall/Brentwood,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,SoBro,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Private Balcony,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Free Parking,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Crieve Hall,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Proximity to attractions,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Filter by,anthropic
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Nashville. To,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Centennial Park and Belmont University,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Forest Hills,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Belle Meade,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Grand Ole Opry,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Opry Mills,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Kid-friendly amenities,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Air Conditioning,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,The Corner Cottage in Green Hills,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Nissan Stadium,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Money-Saving Tips,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Ask Yourself,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Filter by,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,"Look for Superhosts with ""Family Friendly"" badges",gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Check the Noise Ordinances,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Prioritize Parking,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,The Bode (SoBro),gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Placemakr The Gulch,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,MidTown,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Twelve Downtown,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Typical,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Shelby Park,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Highly-Rated Specific Property Types,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Modern Nashville Townhome,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Look for Superhosts,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Family Friendly,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,South and East Nashville,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Hotel Alternative,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Five Daughters Bakery,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Hillsboro-West End,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Belle Meade,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Franklin,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Brentwood,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,CMA Fest,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Downtown 2BR/2BA with pool and balcony,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Vacation Home—5 Mins Downtown! on Vrbo,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Vacation Home,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Mins Downtown,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,View the Vrbo,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Verified reviews,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Booking.com,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Budget Reality,anthropic
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Property Type,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Mint House (Downtown/The Gulch),gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Local Superhosts with 4.9+ Ratings,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Superhosts,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Check the Bedroom Count,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Verify Parking,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Noise Check,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Pine Street Flats,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Mint House,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Stay Alfred,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Local Neighborhood Vibe,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Ice Creams,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Nature Park,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Superhosts. Ensure,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Easy Parking,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Hillsboro Village,gemini openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Vanderbilt University,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Parthenon,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Central Park,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Top-Rated Property Management Companies,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,TVs,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Local Superhosts,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Cheekwood Estate,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Midtown,gemini openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Downtown/The Gulch,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Entire,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Upscale,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Nashville Zoo,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Crieve Hall/Brentwood,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Private Balcony,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Free Parking,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Crieve Hall,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Amenities for families,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Check recent reviews,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Verify cancellation policy,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Message hosts,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Compare prices,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Budget Expectations,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Outdoor space,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Mint House (The Gulch),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,The Local Stay / Stay Here Nashville,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,West End / Hillsboro Village,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Check the Permit Number,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Mind the Noise Ordinances,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Local Neighborhood Vibe,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Trendy Neighborhood,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Avenue South,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Sevier Park,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Burger Up,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Highly-Rated Specific Properties,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Management Companies,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Mint House,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Stay Here Nashville,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Hillsboro Village,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Metro Nashville,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Lower Broadway,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Midtown,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Five Points,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Ryman,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Belmont,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Nashville Zoo,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Free Parking,openai perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,My pick,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Private Balcony,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Sylvan Park,anthropic openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Downtown/Gulch,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Money-Saving Tips,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Ask Yourself,anthropic
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Vibe,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,"Look for Superhosts with ""Family Friendly"" badges",gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Check the Noise Ordinances,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Prioritize Parking,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,The Bode (SoBro),gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Placemakr The Gulch,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,MidTown,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,SoBro,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Twelve Downtown,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Typical,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Highly-Rated Specific Property Types,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Modern Nashville Townhome,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Look for Superhosts,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Family Friendly,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Family Rental,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,South and East Nashville,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Hotel Alternative,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Five Daughters Bakery,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Hillsboro-West End,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Belle Meade,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Franklin,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Brentwood,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Downtown 2BR/2BA with pool and balcony,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Vacation Home—5 Mins Downtown! on Vrbo,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Vacation Home,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Mins Downtown,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,View the Vrbo,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Sylvan Park,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Donelson,anthropic openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Family-Friendly Nearby,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Ryman Auditorium,anthropic gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Verify Parking,anthropic gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,The 12 South Neighborhood,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Proximity to Downtown,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,The Carriage House at 12 South,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Gulch Luxury High-Rise Condo with Pool,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,East Nashville Modern Farmhouses,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Check the Noise Ordinance,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Look for 2 Bathrooms,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Placemakr The Gulch,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Urban Cowboy,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Because Nashville,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Trendy Food,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,South Neighborhood,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Jeni's and Five Daughters Bakery,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Proximity,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Uber,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Older Kids,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,MidTown,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Country Music Hall of Fame,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Local Vibe,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Entire Craftsman-style,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Cumberland River,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Top-Rated Specific Properties,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Gulch Luxury High-Rise Condo,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Crucial Tips for Booking,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,STRs. Avoid,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Hotel Alternative,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Downtown/The Gulch,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Five Daughters Bakery,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Near Vanderbilt and Centennial Park,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Opryland,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Vanderbilt and Centennial Park,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,The Corner Cottage in Green Hills,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Airbnb. It,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Amenities for families,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Check recent reviews,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Verify cancellation policy,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Message hosts,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Compare prices,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Budget Expectations,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Full kitchen,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Parking included,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Outdoor space,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Mint House (The Gulch),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,The Local Stay / Stay Here Nashville,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,West End / Hillsboro Village,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Check the Permit Number,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Mind the Noise Ordinances,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Local Neighborhood Vibe,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Shelby Park,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Trendy Neighborhood,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Avenue South,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Burger Up,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Highly-Rated Specific Properties,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Management Companies,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Mint House,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Stay Here Nashville,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Metro Nashville,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Midtown,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Five Points,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Ryman,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Belmont,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,CMA Fest,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,My pick,perplexity
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Downtown/Gulch,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Full kitchen,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Parking included,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Outdoor space,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,SoBro / Downtown Aparthotels,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Wrigley Building Lofts / Lower Broadway Airbnbs,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,"The ""East Nashville Cottage",gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Modern 2-Bedroom Townhomes,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Gaylord Opryland Area / Music Valley,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Check for the Permit Number,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,"Beware of ""Bachelorette Party"" Hotspots",gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Read the reviews carefully,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,SoBro,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Downtown Aparthotels,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Hilton Grand Vacations Club The Byroad,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,South of Broadway,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Wrigley Building Lofts,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Lower Broadway Airbnbs,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,SoBro. Exposed,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Metro Nashville,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Younger Kids,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,East Nashville Cottage,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Lockeland Springs,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Five Points,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Shelby Bottoms Greenway,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Suburban Comfort,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Bedroom Townhomes,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Gaylord Opryland Area,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Music Valley,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Gaylord Springs,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,SoundWaves,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Gaylord Opryland,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Permit Number,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Always,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Bachelorette Party,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Recommendation Checklist,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Want,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Pack,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Play,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Vanderbilt,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Host responsiveness,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,My quick pick,perplexity
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,entered,Broadway. It,perplexity
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Donelson,anthropic openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Family-Friendly Nearby,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Ryman Auditorium,anthropic gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Adventure Science Center,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Nashville Zoo,anthropic
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,The 12 South Neighborhood,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Proximity to Downtown,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,The Carriage House at 12 South,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Gulch Luxury High-Rise Condo with Pool,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,East Nashville Modern Farmhouses,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Check the Noise Ordinance,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Look for 2 Bathrooms,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Placemakr The Gulch,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Urban Cowboy,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Because Nashville,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Trendy Food,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,South Neighborhood,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Jeni's and Five Daughters Bakery,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Proximity,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Uber,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Older Kids,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,MidTown,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Local Vibe,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Entire Craftsman-style,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Cumberland River,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Specific Properties,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Gulch Luxury High-Rise Condo,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,STRs. Avoid,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Hotel Alternative,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Downtown/The Gulch,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Five Daughters Bakery,gemini
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Near Vanderbilt and Centennial Park,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Opryland,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Superhost,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Vanderbilt and Centennial Park,openai
+2026-10-25,2026-10-24,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb. It,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,The Vibe,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,The Modern East Nashville Craftsman,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Legal Condo Complexes (The Gulch / SoBro),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Check the Permit Number,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Kimpton Aertson Hotel,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Graduate Nashville,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Family Vibe,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Jeni's Splendid Ice Creams,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Local Culture,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,MidTown,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Pool Access,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Vanderbilt University,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Pine Street,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,VRBO Property Types,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Look for Superhosts,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Legal Condo Complexes,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,CorpHousing,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Mint House,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Crucial Booking Tips for Nashville,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Airbnbs. Non-owner-occupied,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Music Row,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Avoid Lower Broadway,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Honky Tonk Highway,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Family-Friendly Hotel Instead,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,entered,Broadway. The,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Full kitchen,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Parking included,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Outdoor space,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,SoBro / Downtown Aparthotels,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Wrigley Building Lofts / Lower Broadway Airbnbs,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,"The ""East Nashville Cottage",gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Modern 2-Bedroom Townhomes,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Gaylord Opryland Area / Music Valley,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Check for the Permit Number,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,"Beware of ""Bachelorette Party"" Hotspots",gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Read the reviews carefully,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Downtown Aparthotels,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Country Music Hall of Fame,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Hilton Grand Vacations Club The Byroad,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,South of Broadway,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Wrigley Building Lofts,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Lower Broadway Airbnbs,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,SoBro. Exposed,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Younger Kids,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,East Nashville Cottage,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Lockeland Springs,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Five Points,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Shelby Bottoms Greenway,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Vibe,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Suburban Comfort,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Bedroom Townhomes,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Gaylord Opryland Area,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Music Valley,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Gaylord Springs,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,SoundWaves,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Gaylord Opryland,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Crucial Tips for Booking,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Permit Number,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Always,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Bachelorette Party,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Recommendation Checklist,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Want,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Tips for Booking,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,The Corner Cottage in Green Hills,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,My quick pick,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini,dropped,Broadway. It,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Full kitchen,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Parking included,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Outdoor space,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Booking.com,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Vibe,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Historic Craftsman Cottages (East Nashville),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Luxury Townhomes (Midtown / Edgehill),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,"Beware of ""Bachelorette Central",gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,The Bode,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Placemakr Berry Hill,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Bartaco and Frothy Monkey,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Local Food,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Five Points Pizza,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Richland Creek Greenway,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,TVs,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Historic Craftsman Cottages,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Luxury Townhomes,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Crucial Tips for Booking,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Bachelorette Central,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,AM. Look,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Hotel Alternative,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Superhost,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Five Points,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Tips for Booking,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,The Corner Cottage in Green Hills,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Nashville. The,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,Broadway. It,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,entered,South and Hillsboro Village,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Verify Parking,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,The Modern East Nashville Craftsman,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Legal Condo Complexes (The Gulch / SoBro),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Kimpton Aertson Hotel,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Graduate Nashville,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Jeni's Splendid Ice Creams,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Local Culture,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,The Gulch,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,MidTown,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Pool Access,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Vanderbilt University,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Pine Street,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,VRBO Property Types,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Look for Superhosts,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Legal Condo Complexes,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,CorpHousing,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Mint House,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Crucial Booking Tips for Nashville,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Airbnbs. Non-owner-occupied,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Music Row,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Avoid Lower Broadway,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Honky Tonk Highway,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Family-Friendly Hotel Instead,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini,dropped,Broadway. The,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Budget Reality,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,The Gulch,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Midtown / Music Row,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Non-Owner Occupied Short Term Rental Properties (NOO-STRs),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Book legal properties only,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Nashville Metro Short-Term Rental Permit Number,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Watch out for bachelorette party hotspots,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Elevator Access,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Pool/Outdoor Space,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Gulch,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Family of Four,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Biscuit Love,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Midtown,gemini perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Music Row,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Vanderbilt University and Centennial Park,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Top-Rated Property Types,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Country Music Hall of Fame,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Johnny Cash Museum,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,AvantStay,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Stay Alfred,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Local Vibe,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Shelby Park,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Non-Owner Occupied Short Term Rental Properties,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,NOO-STRs,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Recommendation Checklist for Booking,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Outdoor Space,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,May and September,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Centennial Park,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Permit Number,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Vanderbilt University,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Look for Superhosts,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Roomy 1-Level Condo Near Vanderbilt With Parking,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,"Nash 2BR 2BA—Private Balcony—Free Parking—Pool,",perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Level Condo Near Vanderbilt With Parking,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,See Nashville,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Full kitchen,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Washer/dryer,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Parking included,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Outdoor space,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Filter by,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Historic Craftsman Cottages (East Nashville),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Luxury Townhomes (Midtown / Edgehill),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Check the Permit Number,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,"Beware of ""Bachelorette Central",gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,The Bode,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Placemakr Berry Hill,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Family Vibe,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Bartaco and Frothy Monkey,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Local Food,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Five Points Pizza,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Richland Creek Greenway,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,TVs,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Historic Craftsman Cottages,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Luxury Townhomes,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Crucial Tips for Booking,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Metro Nashville,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Bachelorette Central,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Lower Broadway,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,AM. Look,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Hotel Alternative,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Hillsboro Village,gemini perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Superhost,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Tips for Booking,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,The Corner Cottage in Green Hills,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Nashville. The,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Broadway. It,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,South and Hillsboro Village,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Kitchen,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Washer/dryer,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Parking included,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Reviews mentioning families,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Ask Yourself,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Filter by,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Verify Parking,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Distance to Broadway,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Hillsboro Village / West End,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,"Look for ""Superhosts"" with ""Family/Kid-Friendly"" amenities",gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Managed by Local Super-Host Companies,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,The Local House,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Staymint,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,PillowPalace,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Look for Modern Townhomes,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Check for a Permit Number,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Cumberland River,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Distance,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Uber,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Lyft,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Sevier Park,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Jeni's Splendid Ice Creams,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Draper James,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Reese Witherspoon,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Home Away,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Hillsboro Village,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,West End,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Pancake Pantry,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Highly-Rated Property Types,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Local Super-Host Companies,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,In Nashville,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,STRPs,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Legitimate Airbnbs,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Metro Nashville,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Avoid Lower Broadway,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Lower Broadway,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,View Nashville,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Browse Nashville,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Booking.com,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Budget Reality,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,The Gulch,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Midtown / Music Row,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Non-Owner Occupied Short Term Rental Properties (NOO-STRs),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Book legal properties only,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Nashville Metro Short-Term Rental Permit Number,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Watch out for bachelorette party hotspots,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Elevator Access,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Pool/Outdoor Space,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Family of Four,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Biscuit Love,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Midtown,gemini perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Music Row,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Vanderbilt University and Centennial Park,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Top-Rated Property Types,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Country Music Hall of Fame,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Johnny Cash Museum,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,AvantStay,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Stay Alfred,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Local Vibe,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Non-Owner Occupied Short Term Rental Properties,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,NOO-STRs,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Recommendation Checklist for Booking,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Outdoor Space,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,May and September,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Look for Superhosts,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Roomy 1-Level Condo Near Vanderbilt With Parking,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,"Nash 2BR 2BA—Private Balcony—Free Parking—Pool,",perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Level Condo Near Vanderbilt With Parking,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,See Nashville,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Booking.com,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,The Nations / Sylvan Park,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Search terms,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,The East Nashville Treehouse Loft,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Charming 1920s Bungalow in 12 South,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,The Nations Modern Luxury Duplex,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,"Beware the ""Bachelorette"" Hotspots",gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Ask About Baby Gear,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Phase,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Near Vanderbilt University,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Parthenon,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Premier Hosts,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Kids,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,South Townhome,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,West End Condo,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Nashville Zoo,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Grand Ole Opry,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Midtown,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Tips for Booking,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Family Rental,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Nashville. The,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Kitchen,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Washer/dryer,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Parking included,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Reviews mentioning families,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Ask Yourself,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Verify Parking,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Distance to Broadway,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,"Look for ""Superhosts"" with ""Family/Kid-Friendly"" amenities",gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Managed by Local Super-Host Companies,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,The Local House,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Staymint,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,PillowPalace,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Look for Modern Townhomes,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Check for a Permit Number,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Cumberland River,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Distance,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Uber,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Lyft,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Jeni's Splendid Ice Creams,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Draper James,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Reese Witherspoon,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Home Away,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Pancake Pantry,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Highly-Rated Property Types,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Local Super-Host Companies,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,In Nashville,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,STRPs,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Permit Number,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Legitimate Airbnbs,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Metro Nashville,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,SoBro,gemini perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,View Nashville,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Full kitchen,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Washer/dryer,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Parking included,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Reviews mentioning families,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Icon,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Twelve Midtown,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Check the Permit Number,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Beware of Bachelorette Party Hotspots,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Parking Fees,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Graduate Nashville,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Homewood Suites in The Gulch,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,South and East Nashville,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Uber,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Young Kids,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Local Neighborhood Vibe,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Reese Witherspoon,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Draper James,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,ADUs,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Hipster Culture,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Shelby Bottoms Greenway,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Pro-Tips for Booking,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,STRs. Legitimate,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Metro Nashville,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Family-Friendly Hotel Instead,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Dolly Parton-themed,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Homewood Suites,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Any,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Forest Hills,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Centennial Park and Parthenon,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Entire,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Downtown/The Gulch,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Quiet and Comfy East Nashville 2BR/1BA Home,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Corner Cottage in Green Hills,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Quiet and Comfy East Nashville,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Booking.com,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,The Nations / Sylvan Park,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Hillsboro Village / West End,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Search terms,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,The East Nashville Treehouse Loft,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Charming 1920s Bungalow in 12 South,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,The Nations Modern Luxury Duplex,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,"Beware the ""Bachelorette"" Hotspots",gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Ask About Baby Gear,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Phase,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Near Vanderbilt University,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Premier Hosts,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Kids,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Shelby Park,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,South Townhome,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,West End Condo,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Five Points,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Avoid Lower Broadway,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Nashville Zoo,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Grand Ole Opry,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Vanderbilt University,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Family Rental,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Vanderbilt,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Franklin,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Donelson,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Mount Juliet,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Private Balcony,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Nashville. The,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Browse Nashville,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Kitchen,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Kid-friendly amenities,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Verify Parking,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,In-Unit Laundry,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Pool Access,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,In East Nashville,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Historic Renovated Cottages.,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,In The Gulch,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Luxury High-Rise Condos with Pool Access.,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,In 12 South,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Modern Farmhouse Duplexes.,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Mint House at The Gulch,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Sonder (Various Locations),gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,The Hayes Street Hotel orsimilar family suites,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,"Beware of ""Bachelorette Party"" Hotspots",gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Phase,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Music City,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Local Vibe,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Joyland and Mas Tacos,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Families,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,MidTown,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Modern Amenities,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Vanderbilt University and Centennial Park,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,One of Nashville,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Ice Creams. Very,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Centennial Park and Vanderbilt. It,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Gulch Airbnbs,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Superhosts,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Historic Renovated Cottages,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Luxury High-Rise Condos,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Mint House,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Sonder,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Modern Farmhouse Duplexes,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Alternative Recommendation,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Boutique Aparthotel,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Various Locations,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Metro Short-Term Rental Property,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Bachelorette Party,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Vanderbilt University,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Hillsboro Village / West End,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Nash 2BR 2BA—Private Balcony—Free Parking—Pool.,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,SoBro,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Private Balcony,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,entered,Browse Nashville,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Full kitchen,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Reviews mentioning families,anthropic
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,The Icon,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Twelve Midtown,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Beware of Bachelorette Party Hotspots,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Parking Fees,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,The Graduate Nashville,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Homewood Suites in The Gulch,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,South and East Nashville,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Uber,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Lower Broadway,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Young Kids,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Local Neighborhood Vibe,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Reese Witherspoon,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Draper James,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,ADUs,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Hipster Culture,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Greenway,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Pro-Tips for Booking,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,STRs. Legitimate,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Metro Nashville,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Family-Friendly Hotel Instead,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Dolly Parton-themed,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Homewood Suites,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Any,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Forest Hills,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Centennial Park and Parthenon,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Entire,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,X and Y,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Downtown/The Gulch,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Quiet and Comfy East Nashville 2BR/1BA Home,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,The Corner Cottage in Green Hills,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini,dropped,Quiet and Comfy East Nashville,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Full kitchen,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,The East Nashville Historic Craftsman,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,The Gulch Luxury Condo with Pool Access,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Check the Noise Ordinance,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Verify the Licensing,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,"Entire home,",gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Lower Broadway,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Sevier Park,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Ice Creams. You,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Shelby Bottoms Greenway and Nature Park,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Country Music Hall of Fame,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Ryman Auditorium,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Top-Rated Property Types,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,South Carriage House,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Typical,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Five Daughters Bakery,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Pro-Tips for Booking,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Airbnbs. To,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Shelby Bottoms Greenway,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Forest Hills,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,CMA Fest,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,The Koselig Korner | Scandinavian 2BR retreat.,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Lockeland Springs,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,Shelby Park,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,BR Treetop Bungalow,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,entered,The Koselig Korner,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Kitchen,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,In-Unit Laundry,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,In East Nashville,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Historic Renovated Cottages.,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,In The Gulch,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Luxury High-Rise Condos with Pool Access.,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,In 12 South,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Modern Farmhouse Duplexes.,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Mint House at The Gulch,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Sonder (Various Locations),gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,The Hayes Street Hotel orsimilar family suites,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Check the Permit Number,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,"Beware of ""Bachelorette Party"" Hotspots",gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Phase,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Music City,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Local Vibe,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Joyland and Mas Tacos,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Families,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Modern Amenities,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Vanderbilt University and Centennial Park,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,One of Nashville,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Ice Creams. Very,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Centennial Park and Vanderbilt. It,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Free Parking,gemini perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Superhosts,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Historic Renovated Cottages,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Luxury High-Rise Condos,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Mint House,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Sonder,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Modern Farmhouse Duplexes,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Alternative Recommendation,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Boutique Aparthotel,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Various Locations,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Metro Short-Term Rental Property,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Bachelorette Party,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Vanderbilt University,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Hillsboro Village / West End,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Superhost,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Nash 2BR 2BA—Private Balcony—Free Parking—Pool.,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Private Balcony,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini,dropped,Browse Nashville,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Kitchen,anthropic gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Property type to look for,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Hillsboro Village / West End,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,The Nations / Sylvan Park,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,"Beware of the ""Bachelorette Party"" Zones",gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Check the Parking Situation,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Verify the Layout,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Look for Outdoor Space,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Filters,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Superhost status,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Frothy Monkey and Jeni,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Ice Creams,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Property,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Vanderbilt University and Centennial Park,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Modern Nashville,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Detached Guest House,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,South and East Nashville,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Option B,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Option C,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Bachelorette Party,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Free Parking,gemini openai perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Premier Hosts,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Superhost,gemini openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Outdoor space,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Washer/Dryer,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Vanderbilt University,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Property Type,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Crucial Tips for Booking,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Entire,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Washer,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Air Conditioning,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,The Treetop Bungalow in 12 South,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Private Balcony,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Browse SoBro,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Full kitchen,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Parking included,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Kid-friendly amenities,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Filter by,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Verify Parking,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,The East Nashville Historic Craftsman,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,The Gulch Luxury Condo with Pool Access,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Check the Noise Ordinance,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Verify the Licensing,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,"Entire home,",gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Ice Creams. You,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Country Music Hall of Fame,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Ryman Auditorium,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,South Carriage House,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Typical,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Five Daughters Bakery,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Pool Access,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Pro-Tips for Booking,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Airbnbs. To,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Gulch Airbnbs,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Forest Hills,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Midtown,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,The Koselig Korner | Scandinavian 2BR retreat.,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Lockeland Springs,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Shelby Park,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,BR Treetop Bungalow,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,The Koselig Korner,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Full kitchen,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Parking included,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Booking.com,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Filter by,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,The Gulch / MidTown,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Search terms to use,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Check the Permit Number,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Parking Situation,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Noise Levels,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Superhosts / Premier Hosts Only,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Twelve Twelve,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Airbnbs,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Shelby Bottoms Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Charming East Nashville,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,South Modern Townhome,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,TVs,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Nashville. You,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Sevier Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Look for When Booking,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Vrbo for Nashville,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Metro Nashville,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Premier Hosts Only,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Alternative Recommendation,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Boutique Aparthotel,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Placemakr The Gulch,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Stay Alfred,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Country Music Hall of Fame,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,East End,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Five Points,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Belmont University,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,"Nashville, Tennessee",perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,The Koselig Korner,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Guest Favorite,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Browse East Nashville,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Kitchen,anthropic gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Property type to look for,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Hillsboro Village / West End,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,The Nations / Sylvan Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,"Beware of the ""Bachelorette Party"" Zones",gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Check the Parking Situation,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Verify the Layout,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Look for Outdoor Space,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Filters,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Superhost status,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Frothy Monkey and Jeni,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Ice Creams,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Property,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Greenway and Nature Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,West End,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Vanderbilt University and Centennial Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Modern Nashville,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Detached Guest House,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,South and East Nashville,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Option B,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Option C,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Bachelorette Party,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Free Parking,gemini openai perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Centennial Park,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Greenway,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Tips for Booking,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Washer/Dryer,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Vanderbilt University,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Parthenon,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Property Type,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Crucial Tips for Booking,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Top-Rated Property Types,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Washer,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Air Conditioning,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,The Treetop Bungalow in 12 South,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Private Balcony,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Browse SoBro,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Amenities for families,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Vacation rental sites,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Hotels with suites,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Alternative Options,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Message hosts,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Nashville Regulations,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,VRBOs,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Vanderbilt,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Centennial Park,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Berry Hill,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Midtown,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Family-friendly amenities,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Music Row,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,BA-Downtown,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Sylvan Park,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Outdoor space,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,The Gulch / MidTown,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Search terms to use,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Check the Permit Number,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Parking Situation,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Noise Levels,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Superhosts / Premier Hosts Only,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Twelve Twelve,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Airbnbs,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Park,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Charming East Nashville,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,South Modern Townhome,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,TVs,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Nashville. You,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Look for When Booking,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Vrbo for Nashville,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Metro Nashville,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Premier Hosts Only,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Alternative Recommendation,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Boutique Aparthotel,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Placemakr The Gulch,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Stay Alfred,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Country Music Hall of Fame,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Lower Broadway,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Premier Hosts,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,East End,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Five Points,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Belmont University,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Entire,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,"Nashville, Tennessee",perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,The Koselig Korner,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Browse East Nashville,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Sylvan Park,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Kitchen,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Proximity,anthropic gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Vibe,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Broadway. Close,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Shelby Bottoms Greenway,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,West End,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Opry,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Free Parking,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Donelson,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Air Conditioning,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Parthenon,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Hillsboro Village / West End,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Midtown 2-bedroom condo,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Downtown 2-bedroom condo,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Treetop Bungalow,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Amenities for families,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Vacation rental sites,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Hotels with suites,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Alternative Options,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Booking.com,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Parking included,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Full kitchen,anthropic openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Message hosts,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Nashville Regulations,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,VRBOs,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,MidTown,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,SoBro,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,The Gulch,gemini openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Vanderbilt,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Berry Hill,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,CMA Fest,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Family-friendly amenities,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Music Row,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Guest Favorite,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,BA-Downtown,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Kid-friendly amenities,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Verify Parking,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Search keywords,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Property Type,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Neighborhoods (if using the map),gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Airbnb. However,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Frothy Monkey and Bartaco,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Five Points,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,McFerrin Park,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Vanderbilt University,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,SoBro,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Broadway. Great,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,A. The Stylish Modern Townhome,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,South Townhome,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,B. The Historic Bungalow,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Charming East Nashville,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,C. The Amenity-Heavy Condo,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Avoid Lower Broadway,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Gulch Airbnbs,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,The Gulch,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Lower Broadway,gemini openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Washer/Dryer,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Entire,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Nashville West End,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,CMA Fest,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Full kitchen,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Lockeland Springs,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,The Koselig Korner,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Proximity,anthropic gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Vibe,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Broadway. Close,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Greenway,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Opry,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Midtown,openai perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Donelson,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Midtown 2-bedroom condo,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Downtown 2-bedroom condo,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Treetop Bungalow,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Downtown/The Gulch,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Parking included,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Reviews mentioning families,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Proximity,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Proximity to attractions,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Superhosts/Premier Hosts,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,The 12 South Luxury Townhome,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,East Nashville Designer Bungalow,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Pool Access,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Airbnbs and VRPs,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Vacation Rental Permits,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Metro Nashville,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Family Attractions,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Country Music Hall of Fame,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Schermerhorn Symphony Center,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Nissan Stadium,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Neighborhood Vibe,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Local Dining,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Jeni's Ice Creams and Taco Lu,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Sevier Park,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Quirky Charm,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Shelby Bottoms Greenlaw,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Top-Rated Property Types,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Premier Hosts,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Gulch High-Rise Condo,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Families,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,South Luxury Townhome,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Tips for Booking,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Family Trip,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Honky Tonk Highway,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Grand Ole Opry,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Cheekwood Estate,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Ice Creams,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Belle Meade,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Suburban,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Donelson,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Opry Mills,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Dolly’s Den of Many Colors,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,My quick pick,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Midtown,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Music Row,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Lower Broadway. One,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,See Midtown,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Den of Many Colors,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,West Nashville,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,See West Nashville,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Midtown family-friendly rentals,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Downtown/Gulch,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Kitchen,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Kid-friendly amenities,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Verify Parking,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Hillsboro Village / West End,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Search keywords,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Property Type,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Neighborhoods (if using the map),gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Airbnb. However,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Frothy Monkey and Bartaco,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Five Points,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,McFerrin Park,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,West End,gemini openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Vanderbilt University,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Centennial Park,gemini openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Broadway. Great,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,A. The Stylish Modern Townhome,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,South Townhome,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,B. The Historic Bungalow,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Charming East Nashville,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,C. The Amenity-Heavy Condo,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Gulch Airbnbs,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Free Parking,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Washer/Dryer,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Parthenon,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Entire,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Nashville West End,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,CMA Fest,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Air Conditioning,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Lockeland Springs,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,The Koselig Korner,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Downtown/Gulch,anthropic openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Kitchen,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Hillsboro Village / West End,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,The Nations / Sylvan Park,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Vibe,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Search Keywords,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Option B: The Historic East Nashville Craftsman,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Option C: The Gulch Luxury High-Rise Condo,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,The Storybook Cottage in 12 South,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,East Nashville Modern Oasis,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Check the Permit Status,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Superhosts,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Noise Ordinances,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Kasa,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Placemakr,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,WhyHotel,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Frothy Monkey and Jeni's Ice Creams,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Shelby Park,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,West End,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Vanderbilt University,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Centennial Park,gemini openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Family of Four,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,South Carriage House,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,South. They,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Modern,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Option B,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Historic East Nashville Craftsman,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Option C,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Union Station,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Five Points,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,STRPs,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,PM. If,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Family-Friendly Hotel Alternative,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Parthenon,gemini openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Hotel Alternative,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Vanderbilt and Centennial Park,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Entire,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Quiet,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,CMA Fest,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Outdoor space,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Nashville. One,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,BR Treetop Bungalow,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Downtown Nashville,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Full kitchen,anthropic openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Parking included,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Reviews mentioning families,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Filter by,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Proximity,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Proximity to attractions,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Superhosts/Premier Hosts,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,The 12 South Luxury Townhome,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,East Nashville Designer Bungalow,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Pool Access,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Airbnbs and VRPs,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Vacation Rental Permits,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Family Attractions,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Country Music Hall of Fame,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Schermerhorn Symphony Center,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Nissan Stadium,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Neighborhood Vibe,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Local Dining,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Jeni's Ice Creams and Taco Lu,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Sevier Park,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Quirky Charm,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Shelby Bottoms Greenlaw,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Top-Rated Property Types,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Premier Hosts,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Gulch High-Rise Condo,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Families,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,South Luxury Townhome,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Family Trip,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Honky Tonk Highway,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Grand Ole Opry,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Cheekwood Estate,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Belle Meade,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Donelson,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Opry Mills,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Dolly’s Den of Many Colors,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,My quick pick,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Lower Broadway. One,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,See Midtown,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Den of Many Colors,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,West Nashville,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,See West Nashville,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Midtown family-friendly rentals,perplexity

@@ -181,3 +181,940 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Eagle Moving & Storage,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,FairPrice Movers,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Research methods,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Red flags to avoid,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,California Public Utilities Commission,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Bay Area,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,dropped,Allied Van Lines,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,dropped,College HUNKS Hauling Junk,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,dropped,Eagle Moving & Storage,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Valley,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,East Bay,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Yelp,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Bay Area. I,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,USDOT,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,COVID,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Eagle Moving & Storage,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,California Public Utilities Commission,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Google and Yelp,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,FairPrice Movers,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Yelp and Angi,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,College Hunks Hauling Junk,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,All Star Movers & Storage,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,A+ BBB rating,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Valley,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,East Bay,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Yelp,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Bay Area. I,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,COVID,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Ontrack Moving,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Eagle Moving & Storage,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Popular options to consider,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,East Bay,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,North American,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Ontrack Moving,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Red flags to avoid,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Yelp and Angi,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,College Hunks Hauling Junk,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,A+ BBB rating,perplexity
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Google Maps/Reviews,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Yelp,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Better Business Bureau (BBB),anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Nextdoor/Local Facebook groups,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Get multiple quotes,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Red flags to avoid,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,California,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Household Goods Carrier,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Tri,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,entered,Valley,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,Popular options to consider,anthropic
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,East Bay,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,North American,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity,dropped,All Star Movers & Storage,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,East Bay,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Valley Movers,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,CA Public Utilities Commission,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,Magic Moving & Storage,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,entered,CPUC T license,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Google Maps/Reviews,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Yelp,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Better Business Bureau (BBB),anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Nextdoor/Local Facebook groups,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Get multiple quotes,anthropic
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,California,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,Household Goods Carrier,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity,dropped,USDOT,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Popular options to consider,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,USDOT,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Two Men,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,OnTrack Moving,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Eagle Moving & Storage,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Cal-T,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,OnTrack,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Tri-Valley. Those,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Eagle Moving,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,entered,Best California Movers,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Research methods,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Red flags to avoid,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Bay Area,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Tri,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Valley,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,East Bay,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Valley Movers,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Google and Yelp,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,CA Public Utilities Commission,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Ontrack Moving,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,Magic Moving & Storage,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity,dropped,CPUC T license,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Get quotes from several companies,anthropic
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Ontrack Moving,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,All Star Movers & Storage,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,entered,Cal-T permit,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Popular options to consider,anthropic
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,USDOT,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Two Men,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,OnTrack Moving,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Eagle Moving & Storage,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Cal-T,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,OnTrack,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Tri-Valley. Those,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Eagle Moving,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity,dropped,Best California Movers,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,Get quotes from,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,California Public Utilities Commission,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,BBB. Look,openai
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,Chipman Relocation & Logistics,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,A+ BBB rating,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,CAL-T permit,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,Chipman Relocation,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,entered,CAL-T,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,dropped,Get quotes from several companies,anthropic
+2026-10-16,2026-10-15,1,openai anthropic perplexity,dropped,All Star Movers & Storage,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity,dropped,Cal-T permit,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Ask About Extra Fees,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,entered,Dependable Movers,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Get quotes from,anthropic
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,California Public Utilities Commission,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,BBB. Look,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Chipman Relocation & Logistics,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,A+ BBB rating,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,CAL-T permit,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,Chipman Relocation,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity,dropped,CAL-T,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,CA Department of Consumer Affairs,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,TVs,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,All Star Movers & Storage,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Ask About Extra Fees,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Dependable Movers,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,CA Public Utilities Commission,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Two Men,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Truck,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,North American,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Best California Movers,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,CA Department of Consumer Affairs,anthropic
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,TVs,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,California Public Utilities Commission,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,USDOT,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,College Hunks Hauling Junk,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,College HUNKS,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,All Star Movers & Storage,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,Ontrack,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,All Star,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,entered,California CPUC,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,CA Public Utilities Commission,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Truck,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,North American,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity,dropped,Best California Movers,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Household Goods Carrier Permit,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Allied Van Lines,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,North American,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,Got2Move,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,A+ BBB rating,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,entered,California moving permit/license,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,College Hunks Hauling Junk,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,All Star Movers & Storage,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,Ontrack,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,All Star,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity,dropped,California CPUC,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Vibe,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Lile Relocation Services,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Kingdom Moving,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Read Recent Reviews,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Understand the Binding vs. Non-Binding Estimate,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Regional Movers,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Highly,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,NorthAmerican Van Lines,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,App-Based Option,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,In California,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,CAL P.U.C. T-number,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Understand the Binding,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Tri,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,Valley,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,All Star Movers & Storage,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,entered,FairPrice Movers,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Silicon Valley Express Movers,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Lugg / TaskRabbit,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Check Current Reviews,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Regional Favorites,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Highly Recommended,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,San Ramon,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Transparent Booking,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,CAL PUC,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Household Goods Carrier Permit,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,USDOT,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,North American,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,College HUNKS,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,Got2Move,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,A+ BBB rating,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini,dropped,California moving permit/license,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Friendly Movers,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Got Moov,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Lile Moving & Storage,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Yelp,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Brothers Moving & Storage,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Check the PUC License,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Confirm Insurance,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Highly Rated Local Movers,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,East Bay. Customers,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Lile Moving,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Storage,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Northern California,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Nilson Van,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Local Independent Crews,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,White-Glove Care,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Brothers Moving,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,San Francisco Bay Area,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,General Liability and Workers' Compensation,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Workers' Comp,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Got2Move,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Vibe,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Got Mooves,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Lile Relocation Services,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Kingdom Moving,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Understand the Binding vs. Non-Binding Estimate,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Regional Movers,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Highly,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,App-Based Option,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Understand the Binding,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Tri,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Valley,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Two Men,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,All Star Movers & Storage,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,FairPrice Movers,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Better Business Bureau (BBB),anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Nextdoor/Local Facebook groups,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Ask Pleasanton,anthropic
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Nice Guy Movers,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Meathead Movers,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,California Public Utilities Commission (CPUC),gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,"CAL ""T"" number",gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Look for Recent Local Reviews,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Two Men and a Truck,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Tri-Valley Specialists,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Strong Local Pleasanton Franchises,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Two Men,gemini openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Truck,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,HOAs,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Full Value Protection,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,USDOT,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Alameda County,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,North American,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,entered,Best California Movers,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Friendly Movers,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Got Moov,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Lile Moving & Storage,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,TaskRabbit,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Brothers Moving & Storage,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Check the PUC License,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,CAL P.U.C. T-number,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Confirm Insurance,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Read Recent Reviews,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Highly Rated Local Movers,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,East Bay. Customers,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Lile Moving,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Storage,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,NorthAmerican Van Lines,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Nilson Van,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Local Independent Crews,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,White-Glove Care,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Brothers Moving,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,San Francisco Bay Area,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Virtual Estimates,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,General Liability and Workers' Compensation,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Workers' Comp,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini google_serp,dropped,Got2Move,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Popular options to consider,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Get quotes from,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,"Pleasanton, CA",gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Got Mooves,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Check Recent Reviews,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Ask about Pleasanton specifics,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Highly Rated,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,East Bay. They,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,San Ramon,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Local Pleasanton Operations,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,CAL PUC,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Eagle Moving & Storage,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Eagle Moving,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,A+ BBB rating,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Yelp,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Better Business Bureau (BBB),anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Nextdoor/Local Facebook groups,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Ask Pleasanton,anthropic
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Meathead Movers,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,California Public Utilities Commission (CPUC),gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,"CAL ""T"" number",gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Look for Recent Local Reviews,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Two Men and a Truck,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Tri-Valley Specialists,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Strong Local Pleasanton Franchises,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,HOAs,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Full Value Protection,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,In California,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Best California Movers,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,CA Department of Consumer Affairs,anthropic
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Nor-Cal Moving Services,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Move Central,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,CAL PUC (TCP) number,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Ask About Travel Fees,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Highly Rated Locals,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Tri-Valley,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Transparent Hourly Rates,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Premium Experience,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,In California,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Virtual Estimates,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,California Public Utilities Commission (CPUC),gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Also worth getting a quote from,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,All Reasons Moving & Storage,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,All Reasons Moving,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,NOR-CAL Moving Services,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Check Recent Reviews,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Ask about Pleasanton specifics,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Highly Rated,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,East Bay. They,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Northern California,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,San Ramon,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Local Pleasanton Operations,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Two Men,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Choose the Right One for You,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Truck,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Eagle Moving & Storage,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Eagle Moving,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,A+ BBB rating,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,NOR-CAL Moving Services,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Gryphon Moving & Storage,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Silicon Valley Express Moving (SV Movers),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Lile Moving & Storage,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Friendly Neighborhood Movers / Local Independent Crews,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Verify the License (Crucial in California),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,CAL T-number,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Check HOA/Apartment Rules,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Top-Tier Local Favorites,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Bay Area. They,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Gryphon Moving,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Storage,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,White-Glove Service,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Silicon Valley Express Moving,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,SV Movers,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,San Ramon,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Great Value,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Community Trust,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Lile Moving,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Northern California,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Friendly Neighborhood Movers,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Local Independent Crews,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Verify the License,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services,gemini perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,CPUC. Always,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Get In-Home,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Video Estimates,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Check HOA,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Apartment Rules,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Certificate of Insurance,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services (BHGS),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Certificate of Insurance (COI),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Best California Movers,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,CA Department of Consumer Affairs,anthropic
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,"Pleasanton, CA",gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Nor-Cal Moving Services,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Nice Guy Movers,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Got Mooves,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Move Central,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,CAL PUC (TCP) number,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Ask About Travel Fees,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Highly Rated Locals,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Transparent Hourly Rates,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Premium Experience,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,California Public Utilities Commission,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Virtual Estimates,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,California Public Utilities Commission (CPUC),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Also worth getting a quote from,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,All Reasons Moving & Storage,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,All Reasons Moving,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,CA Department of Consumer Affairs,anthropic
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Wiretap Moving (or similar highly-rated local independents),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,AMS Bekins,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Read Recent Reviews,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Community Reputation,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Wiretap Moving,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Strong Local Branches,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Two Men,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Serving the Bay Area,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Choose the Right One,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,California Public Utilities Commission,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Virtual Estimates,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Ruby Hill,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Kottinger Ranch,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Chipman Relocation & Logistics,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,All Star Movers & Storage,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Careful Movers,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Chipman Relocation,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Gryphon Moving & Storage,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Silicon Valley Express Moving (SV Movers),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Lile Moving & Storage,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Friendly Neighborhood Movers / Local Independent Crews,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Verify the License (Crucial in California),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,CAL T-number,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Check HOA/Apartment Rules,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Top-Tier Local Favorites,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Bay Area. They,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Gryphon Moving,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Storage,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,White-Glove Service,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Silicon Valley Express Moving,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,SV Movers,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,San Ramon,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Great Value,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Community Trust,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Lile Moving,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Northern California,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Friendly Neighborhood Movers,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Local Independent Crews,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Verify the License,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,In California,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,CPUC. Always,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Video Estimates,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Check HOA,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Apartment Rules,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Certificate of Insurance,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services (BHGS),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Certificate of Insurance (COI),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Ontrack Moving,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Best California Movers,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Home Depot,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Golden Gate Movers,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Friendly Neighborhood Movers,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,NOR-CAL Moving Services (Allied Van Lines agent),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Check Licensing (Crucial in California),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Ask About the Crew,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Check Peak Times,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Regional Movers,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Got Movers,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Full-Service Movers,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Choose the Right One for You,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,PUC. You,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,CAL T-number,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services (BHGS),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,In California,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Ontrack Moving,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Pleasanton. That,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,CA Department of Consumer Affairs,anthropic
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Wiretap Moving (or similar highly-rated local independents),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,AMS Bekins,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Read Recent Reviews,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Community Reputation,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Wiretap Moving,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Strong Local Branches,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Two Men,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Serving the Bay Area,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Choose the Right One,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,CAL PUC,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,California Public Utilities Commission,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Get In-Home,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Ruby Hill,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Kottinger Ranch,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Careful Movers,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Silicon Valley Moving & Storage,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Friendly Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Check the License (Crucial in California),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Book in Advance,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Highly Rated,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Bay Area. They,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Silicon Valley Moving,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Independent Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Great Personal Touch,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Got Moov,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Two Men,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,California Public Utilities Commission,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,CAL PUC,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Truck,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,California Public Utilities Commission (CPUC),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Eagle Moving & Storage,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Eagle Moving,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Best California Movers,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Popular options to consider,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Home Depot,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Get quotes from,anthropic
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Golden Gate Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Friendly Neighborhood Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,NOR-CAL Moving Services (Allied Van Lines agent),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Check Licensing (Crucial in California),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Ask About the Crew,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Check Peak Times,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Regional Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Got Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Full-Service Movers,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,PUC. You,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services (BHGS),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Chipman Relocation & Logistics,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,All Star Movers & Storage,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Pleasanton. That,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Chipman Relocation,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Popular options to consider,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Get quotes from,anthropic
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Got Mooves,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,CAL-T number,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Get 3 In-Home (or Virtual) Estimates,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Read Recent Reviews,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Two Men and a Truck,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Highly Rated for Pleasanton,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Ruby Hill,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Vintage Hills,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,San Ramon,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Local Presence,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,CAL-T,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,BBB. Look,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,College HUNKS,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Bureau of Household Goods and Services,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Silicon Valley Moving & Storage,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,CAL T-number,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Book in Advance,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Silicon Valley Moving,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Independent Movers,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Great Personal Touch,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Got Moov,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right One for You,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Virtual Estimates,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,CAL PUC,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Better Business Bureau. Read,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Ontrack Moving,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Lile Moving & Storage,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Got Moov,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Magic Moving & Storage,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Apex Moving & Storage,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,CAL PUC (TCP) number,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Book in Advance,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Check HOA Rules,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Regional Favorites,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Highly Rated for Tri-Valley,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Northern California. They,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Shadow Cliffs,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Lile Moving,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Storage,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Northern California,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,North American Van Lines,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,East Bay. Customers,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Budget-Friendly Movers,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Magic Moving,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Apex Moving,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Tips for Hiring,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Local Mover,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,CAL PUC,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Get In-Home,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Virtual Estimates,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,HOAs,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,North American,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Household Goods Carrier,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Got Mooves,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Check the License (Crucial in California),gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,CAL-T number,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Get 3 In-Home (or Virtual) Estimates,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Read Recent Reviews,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Two Men and a Truck,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Highly Rated for Pleasanton,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Bay Area. They,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Vintage Hills,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,San Ramon,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Local Presence,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Two Men,gemini openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Truck,gemini openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,CAL-T,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,USDOT,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,BBB. Look,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,College HUNKS,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Bureau of Household Goods and Services,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,CA Public Utilities Commission,anthropic
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Silicon Valley Moving & Storage,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Friendly Neighborhood Movers,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Liffey Moving,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,CAL-T number,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Ask about the crew,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Read recent reviews,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Silicon Valley Moving,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,NOR-CAL,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,San Francisco Bay Area,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,CAL-T,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Kottinger Ranch,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Certificate of Insurance,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton HOAs,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Bay Area. They,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,College HUNKS,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Alameda County,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,U-Haul U-Box,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Moving Help,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Two Men,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Two Men and a Truck,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Chipman Relocation & Logistics,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,All Star Movers & Storage,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Chipman Relocation,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Lile Moving & Storage,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Got Moov,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Friendly Movers,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Magic Moving & Storage,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Apex Moving & Storage,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,CAL PUC (TCP) number,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Book in Advance,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Check HOA Rules,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Regional Favorites,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Highly Rated for Tri-Valley,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Northern California. They,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Shadow Cliffs,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Lile Moving,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Storage,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Northern California,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,North American Van Lines,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,East Bay. Customers,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Budget-Friendly Movers,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Magic Moving,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Apex Moving,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Tips for Hiring,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Local Mover,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,CAL PUC,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Get In-Home,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Virtual Estimates,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,HOAs,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,North American,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Eagle Moving & Storage,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Best California Movers,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Eagle Moving,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,NC Moving & Storage,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Got Move? Inc,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Friendly Movers,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Nor-Cal Moving Services (Allied Van Lines agent),gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Confirm Insurance,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Book Early,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Highly Rated Local Movers,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,NC Moving,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Storage,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Got Move,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,San Ramon,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Dublin. They,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Lile Moving,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,North American Van Lines,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Northern California. Great,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,White-Glove Movers,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Nor-Cal Moving Services,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Pleasanton Ridge. They,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Choose the Right One for You,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Virtual Estimates,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,CAL PUC,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,General Liability and Workers' Compensation,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,North American,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Truck,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Northern California,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Lile Moving & Storage,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Tri,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Valley,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Bay,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,USDOT,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services (BHGS),openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,College Hunks Hauling Junk,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,entered,Ontrack Moving,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,CA Public Utilities Commission,anthropic
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Silicon Valley Moving & Storage,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Friendly Neighborhood Movers,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,NOR-CAL Moving Services,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Liffey Moving,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,California Public Utilities Commission (CPUC),gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,CAL-T number,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Ask about the crew,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Read recent reviews,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Silicon Valley Moving,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,NOR-CAL,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,San Francisco Bay Area,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,In California,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,CAL-T,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Kottinger Ranch,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Certificate of Insurance,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Pleasanton HOAs,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Bay Area. They,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Alameda County,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,U-Haul U-Box,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Moving Help,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Household Goods Carrier,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Chipman Relocation & Logistics,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,All Star Movers & Storage,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini,dropped,Chipman Relocation,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,CA. However,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,NOR-CAL Moving Services,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Silicon Valley Moving & Storage,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Got2Move,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Nice Guy Movers,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,California Public Utilities Commission (CPUC),gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,CAL P.U.C. T-number,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Read Recent Local Reviews,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Highly Rated Locals,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,NOR-CAL,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Silicon Valley Moving,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Hourly Movers,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Pleasanton and the Tri-Valley area,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Eagle Moving & Storage,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Best California Movers,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,entered,Eagle Moving,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Popular options to consider,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Get quotes from,anthropic
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,NC Moving & Storage,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Got Move? Inc,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Friendly Movers,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Nor-Cal Moving Services (Allied Van Lines agent),gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Book Early,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Highly Rated Local Movers,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,NC Moving,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Got Move,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,San Ramon,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Dublin. They,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Northern California. Great,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Two Men,gemini openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,White-Glove Movers,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Nor-Cal Moving Services,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Ruby Hill,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Pleasanton Ridge. They,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,CAL PUC,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,General Liability and Workers' Compensation,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Truck,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Two Men and a Truck,gemini openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Tri,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Valley,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Bay,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Bureau of Household Goods and Services,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,Bureau of Household Goods and Services (BHGS),openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,College HUNKS,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini,dropped,College Hunks Hauling Junk,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Bellhop. They,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Two Men,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Truck,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Two Men and a Truck,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Bureau of Household Goods and Services,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,CA. However,anthropic
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,NOR-CAL Moving Services,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Silicon Valley Moving & Storage,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Lile Moving & Storage,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Got2Move,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,California Public Utilities Commission (CPUC),gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,CAL P.U.C. T-number,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Read Recent Local Reviews,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Confirm Insurance,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Highly Rated Locals,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,East Bay,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,NOR-CAL,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Allied Van Lines,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Silicon Valley Moving,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Storage,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Lile Moving,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Northern California,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,North American Van Lines,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Hourly Movers,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Choose the Right One for You,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Virtual Estimates,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,California Public Utilities Commission,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,North American,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Pleasanton and the Tri-Valley area,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Highly Rated,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,USDOT,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Eagle Moving & Storage,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Ontrack Moving,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Eagle Moving,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Popular options to consider,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Get quotes from,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Tier One Movers,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Silicon Valley Express Movers / NorCal Crews,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Friendly Neighborhood Movers,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,U-Pack / Allied Van Lines (Affiliates),gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Check the PUC License,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,CAL PUC license number,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Ask About HOA Rules,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Pleasanton and Tri-Valley,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Highly Rated Locals,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,East Bay,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Silicon Valley Express Movers,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,NorCal Crews,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Highly,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Local Pleasanton Franchises,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Two Men and A Truck,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,U-Pack,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Allied Van Lines,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,TaskRabbit,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,In California,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,California Public Utilities Commission,gemini openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,CAL PUC,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Get In-Home,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Virtual Estimates,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Ruby Hill,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Pleasanton HOA,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,California Public Utilities Commission (CPUC),gemini openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Highly Rated,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Tri,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Valley,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,North American Van Lines,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,North American,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Chipman Relocation & Logistics,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,All Star Movers & Storage,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Chipman Relocation,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Nice Guy Movers,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Bellhop. They,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Truck,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Best California Movers,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Bureau of Household Goods and Services,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Yelp,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Better Business Bureau (BBB),anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Nextdoor/Local Facebook groups,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Filter for Pleasanton-area,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Ask Pleasanton,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,NOR-CAL Moving Services,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Friendly Movers,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Local Movers Inc,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Lile Relocation Services,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Verify Licensing & Insurance,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Ask About the Crew,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Check the Peak Times,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Highly Rated Locally,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Got Movers,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,East Bay. Customers,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,San Ramon,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Northern California,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Hourly Options,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Premium Experience,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,NorthAmerican Van Lines,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,USDOT,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Truck,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Ontrack Moving,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Eagle Moving & Storage,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Eagle Moving,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Popular options to consider,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Get quotes from,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Tier One Movers,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Silicon Valley Express Movers / NorCal Crews,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,U-Pack / Allied Van Lines (Affiliates),gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Check the PUC License,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,CAL PUC license number,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Ask About HOA Rules,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Pleasanton and Tri-Valley,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Highly Rated Locals,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Silicon Valley Express Movers,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,NorCal Crews,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Highly,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Local Pleasanton Franchises,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Two Men and A Truck,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,U-Pack,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,TaskRabbit,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Get In-Home,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Ruby Hill,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Pleasanton HOA,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,California Public Utilities Commission (CPUC),gemini openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,North American Van Lines,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,North American,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,All Star Movers & Storage,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Popular options to consider,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Get quotes from,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Nice Guy Movers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Dublin Pleasanton Moving & Storage,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Got2Move,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Kingdom Movers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Check the Fine Print,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Dublin Pleasanton Moving,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Customer Service,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,High-End Moves,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Nor-Cal Moving Services,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Agent for Allied Van Lines,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Choose the Right One for You,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,CAL T-,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,North American,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Household Goods Carrier,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,California Public Utilities Commission (CPUC),openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,All Star Movers & Storage,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,West Coast Moving Systems,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Yelp,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Better Business Bureau (BBB),anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Nextdoor/Local Facebook groups,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Filter for Pleasanton-area,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Ask Pleasanton,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,NOR-CAL Moving Services,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Friendly Movers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Friendly Neighborhood Movers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Local Movers Inc,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Lile Relocation Services,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Verify Licensing & Insurance,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Ask About the Crew,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Check the Peak Times,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Highly Rated Locally,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Got Movers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,East Bay. Customers,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Northern California,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Hourly Options,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Premium Experience,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,NorthAmerican Van Lines,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Tri,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Valley,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,In California,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Truck,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Ontrack Moving,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Eagle Moving & Storage,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Eagle Moving,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,CAL PUC license (MCP number),gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Read Recent Reviews,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Pleasanton,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Local Favorites,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,NOR-CAL Moving Services,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Ace Moving,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Agent for NorthAmerican Van Lines,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Northern California. They,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Pleasanton and Tri-Valley,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Pleasanton and Bay Area,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Independent Local Agents,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,XL Movers,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Got Pro Movers,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,TaskRabbit,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,In California,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Northern California,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,NorthAmerican Van Lines,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Truck,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,College HUNKS,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,College Hunks Hauling Junk,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,A+ BBB rating,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,MTR 0191302,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Magic Moving & Storage,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Storage,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Magic Moving,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Nice Guy Movers,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Dublin Pleasanton Moving & Storage,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Got2Move,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Kingdom Movers,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Check the Fine Print,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Dublin Pleasanton Moving,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Customer Service,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,High-End Moves,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Nor-Cal Moving Services,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,CAL T-,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Highly Rated,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,North American,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Household Goods Carrier,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,USDOT,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Chipman Relocation & Logistics,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,West Coast Moving Systems,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Chipman Relocation,perplexity

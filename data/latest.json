@@ -1,0 +1,203 @@
+{
+  "generated_utc": "2026-11-10T05:54:01Z",
+  "latest_run_day": "2026-11-09",
+  "window_first": "2026-08-05",
+  "window_end": "2026-11-09",
+  "markets": {
+    "atlanta-hvac": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 394
+    },
+    "atlanta-personal-injury": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 368
+    },
+    "branson-short-term-rental": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 382
+    },
+    "charlotte-tanning-salons": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 323
+    },
+    "chicago-personal-injury": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 379
+    },
+    "columbus-tanning-salons": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 327
+    },
+    "dallas-personal-injury": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 375
+    },
+    "dallas-roofing": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 358
+    },
+    "denver-roofing": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 362
+    },
+    "houston-hvac": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 393
+    },
+    "houston-personal-injury": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 373
+    },
+    "kansas-city-health-insurance": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-10-07",
+      "run_days": 59,
+      "rows_total": 300,
+      "ok_rows": 234
+    },
+    "miami-roofing": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 360
+    },
+    "nashville-short-term-rental": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 382
+    },
+    "phoenix-hvac": {
+      "window_first": "2026-08-09",
+      "window_last": "2026-11-09",
+      "run_days": 92,
+      "rows_total": 465,
+      "ok_rows": 393
+    },
+    "pleasanton-dentists": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 294
+    },
+    "pleasanton-home-care": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 298
+    },
+    "pleasanton-moving-companies": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 307
+    },
+    "pleasanton-oil-change": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 294
+    },
+    "pleasanton-real-estate-agents": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 296
+    },
+    "pleasanton-tanning-salons": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 323
+    },
+    "pleasanton-tire-shops": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 295
+    },
+    "santa-cruz-short-term-rental": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 382
+    },
+    "tyler-tanning-salons": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-09",
+      "run_days": 75,
+      "rows_total": 376,
+      "ok_rows": 325
+    },
+    "us-short-term-rental-booking-platforms": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 396
+    },
+    "us-short-term-rental-business-model": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 380
+    },
+    "us-short-term-rental-software": {
+      "window_first": "2026-08-05",
+      "window_last": "2026-11-09",
+      "run_days": 96,
+      "rows_total": 499,
+      "ok_rows": 389
+    }
+  },
+  "totals": {
+    "rows": 11704,
+    "ok_rows": 9382,
+    "markets": 27,
+    "engines": 5
+  }
+}
