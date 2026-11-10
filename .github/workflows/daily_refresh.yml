@@ -1,0 +1,100 @@
+name: Daily Refresh
+
+on:
+  schedule:
+    - cron: '40 6 * * *'  # 06:40 UTC daily
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily_refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Clone public corpus
+        run: |
+          git clone --depth 1 https://github.com/mrcrtr1979-droid/namebeam-visibility-index.git /tmp/nvi
+
+      - name: Run daily refresh
+        id: refresh
+        run: |
+          python3 -I -B tools/daily_refresh.py /tmp/nvi
+
+      - name: Scope guard
+        run: |
+          # Check that only allowed files changed
+          CHANGED=$(git diff --name-only)
+
+          ALLOWED_PATTERNS=(
+            "^record/.+\\.csv$"
+            "^record/.+\\.html$"
+            "^record/.+/index\\.html$"
+            "^record/.+/\\d{4}-\\d{2}-\\d{2}/index\\.html$"
+            "^data/latest\\.json$"
+            "^index\\.html$"
+            "^record/index\\.html$"
+            "^buy/index\\.html$"
+            "^agency/index\\.html$"
+            "^check/index\\.html$"
+            "^sitemap\\.xml$"
+          )
+
+          UNEXPECTED=""
+          while IFS= read -r file; do
+            MATCHED=false
+            for pattern in "${ALLOWED_PATTERNS[@]}"; do
+              if echo "$file" | grep -qE "$pattern"; then
+                MATCHED=true
+                break
+              fi
+            done
+
+            if [ "$MATCHED" = false ]; then
+              UNEXPECTED="$UNEXPECTED\n$file"
+            fi
+          done <<< "$CHANGED"
+
+          if [ -n "$UNEXPECTED" ]; then
+            echo "ERROR: Unexpected files changed:$UNEXPECTED"
+            exit 1
+          fi
+
+          echo "Scope guard passed: all changed files are allowed"
+
+      - name: Configure git
+        run: |
+          git config user.name "carter-brain-actions"
+          git config user.email "actions@namebeam.ai"
+
+      - name: Commit and push changes
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          git add -A
+          git commit -m "daily refresh $DATE (tools/daily_refresh.py, zero model calls)" || exit 0
+          git pull --rebase
+          git push origin main
+
+      - name: Generate job summary
+        if: always()
+        run: |
+          echo "## Daily Refresh Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date -u +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "See commit history for details." >> $GITHUB_STEP_SUMMARY

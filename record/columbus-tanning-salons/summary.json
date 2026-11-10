@@ -4,34 +4,34 @@
   "niche": "tanning salons",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-10-07",
-  "run_days": 42,
-  "rows_total": 210,
+  "window_last": "2026-11-09",
+  "run_days": 75,
+  "rows_total": 376,
   "by_engine": {
+    "openai": {
+      "rows": 75,
+      "ok": 70,
+      "days_with_ok": 70
+    },
     "anthropic": {
-      "rows": 42,
-      "ok": 42,
-      "days_with_ok": 42
+      "rows": 76,
+      "ok": 75,
+      "days_with_ok": 75
     },
     "perplexity": {
-      "rows": 42,
-      "ok": 39,
-      "days_with_ok": 39
-    },
-    "google_serp": {
-      "rows": 42,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 75,
+      "ok": 72,
+      "days_with_ok": 72
     },
     "gemini": {
-      "rows": 42,
-      "ok": 22,
-      "days_with_ok": 22
+      "rows": 75,
+      "ok": 41,
+      "days_with_ok": 41
     },
-    "openai": {
-      "rows": 42,
-      "ok": 42,
-      "days_with_ok": 42
+    "google_serp": {
+      "rows": 75,
+      "ok": 69,
+      "days_with_ok": 69
     }
   },
   "by_date": [
@@ -513,14 +513,387 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "rows": 6,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/columbus-tanning-salons/all.csv",
-      "sha256": "ff09ae3a3914d00cee8de7b6b8525067e98aa2e965fc9903cfd686b2668d4c1d"
+      "sha256": "71596c0171beb15977250a0401d9d7bf98353a5e5f89dc68579fef32c9d0ecb1"
     },
-    "day_csv_count": 42,
+    "day_csv_count": 75,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/columbus-tanning-salons/changes.csv",
@@ -553,7 +926,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-09 21:50:25 UTC",
+  "generated_utc": "2026-11-10 05:16:04 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
