@@ -1,0 +1,755 @@
+{
+  "slug": "branson-short-term-rental",
+  "market": "Branson MO",
+  "niche": "short-term rental / Airbnb",
+  "shape": "day_pages",
+  "window_first": "2026-08-05",
+  "window_last": "2026-10-07",
+  "run_days": 63,
+  "rows_total": 334,
+  "by_engine": {
+    "anthropic": {
+      "rows": 65,
+      "ok": 65,
+      "days_with_ok": 63
+    },
+    "perplexity": {
+      "rows": 68,
+      "ok": 65,
+      "days_with_ok": 60
+    },
+    "google_serp": {
+      "rows": 68,
+      "ok": 40,
+      "days_with_ok": 37
+    },
+    "gemini": {
+      "rows": 68,
+      "ok": 16,
+      "days_with_ok": 15
+    },
+    "openai": {
+      "rows": 65,
+      "ok": 60,
+      "days_with_ok": 59
+    }
+  },
+  "by_date": [
+    {
+      "date": "2026-08-05",
+      "rows": 19,
+      "ok": 12,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-09",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "rows": 10,
+      "ok": 8,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "rows": 5,
+      "ok": 2,
+      "engines_ok": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    }
+  ],
+  "files": {
+    "all_csv": {
+      "path": "/record/branson-short-term-rental/all.csv",
+      "sha256": "712ff300a17aaac971340825e39430b22a8e3848513dca8b364a3faab4e331af"
+    },
+    "day_csv_count": 63,
+    "manifest": "/record/manifest.sha256",
+    "changes_csv": {
+      "path": "/record/branson-short-term-rental/changes.csv",
+      "sha256": "70548eb85ac68b9a42799a8a353d0de9b84a18117f9fd82b33ec53c4a3dc3365"
+    }
+  },
+  "engine_behavior": {
+    "n": 218,
+    "any_pair_shares_name_pct": 100.0,
+    "day_over_day_set_changed_pct": 100.0,
+    "engines": [
+      "openai",
+      "gemini",
+      "anthropic"
+    ],
+    "method": "tools/findings_1109.py rules, Perplexity excluded, no business named",
+    "per_engine_stability": {
+      "openai": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.277
+      },
+      "gemini": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.28
+      },
+      "anthropic": {
+        "changed_pct": 100.0,
+        "mean_jaccard": 0.528
+      }
+    }
+  },
+  "engine_behavior_reason": null,
+  "generated_utc": "2026-11-09 21:50:12 UTC",
+  "source": "public CSVs on markets.namebeam.ai and the public corpus",
+  "no_business_names": true
+}

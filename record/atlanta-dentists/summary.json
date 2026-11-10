@@ -1,0 +1,220 @@
+{
+  "slug": "atlanta-dentists",
+  "market": "Atlanta GA",
+  "niche": "dentists",
+  "shape": "rows_only",
+  "window_first": "2026-10-08",
+  "window_last": "2026-10-24",
+  "run_days": 17,
+  "rows_total": 68,
+  "by_engine": {
+    "gemini": {
+      "rows": 17,
+      "ok": 4,
+      "days_with_ok": 4
+    },
+    "openai": {
+      "rows": 17,
+      "ok": 17,
+      "days_with_ok": 17
+    },
+    "perplexity": {
+      "rows": 17,
+      "ok": 17,
+      "days_with_ok": 17
+    },
+    "anthropic": {
+      "rows": 17,
+      "ok": 16,
+      "days_with_ok": 16
+    }
+  },
+  "by_date": [
+    {
+      "date": "2026-10-08",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "rows": 4,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "rows": 4,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "rows": 4,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "rows": 4,
+      "ok": 3,
+      "engines_ok": [
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    }
+  ],
+  "files": {
+    "rows_csv": {
+      "path": "/record/atlanta-dentists/rows.csv",
+      "sha256": "b8e8d6e0fe564abd2fcdc1edad12bab0d334bbc187ba69a3d3776abc26f12576"
+    },
+    "day_csv_count": 0,
+    "manifest": "/record/manifest.sha256"
+  },
+  "engine_behavior": null,
+  "engine_behavior_reason": "n below 100",
+  "generated_utc": "2026-11-09 21:49:58 UTC",
+  "source": "public CSVs on markets.namebeam.ai and the public corpus",
+  "no_business_names": true
+}
