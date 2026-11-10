@@ -1,0 +1,772 @@
+date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_gemini_openai,all_three,in_stable_model_set
+2026-10-24,dentists|Atlanta GA,gemini,openai,,,1,,1
+2026-10-24,dentists|Dallas TX,gemini,openai,,,1,,1
+2026-10-24,dentists|Phoenix AZ,gemini,openai,,,0,,1
+2026-10-24,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-10-24,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-10-24,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-10-24,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,moving companies|Pleasanton CA,gemini,openai,,,1,,1
+2026-10-24,oil change shops|Pleasanton CA,gemini,openai,,,1,,1
+2026-10-24,orthodontists|Atlanta GA,gemini,openai,,,1,,1
+2026-10-24,orthodontists|Dallas TX,gemini,openai,,,1,,1
+2026-10-24,orthodontists|Phoenix AZ,gemini,openai,,,1,,1
+2026-10-24,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-24,real estate agents|Pleasanton CA,gemini,openai,,,1,,1
+2026-10-24,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-10-24,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,0,1,1,0,1
+2026-10-24,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-24,tanning salons|Charlotte NC,gemini,openai,,,1,,1
+2026-10-24,tanning salons|Columbus OH,gemini,openai,,,1,,1
+2026-10-24,tanning salons|Pleasanton CA,gemini,openai,,,0,,1
+2026-10-24,tanning salons|Tyler TX,gemini,openai,,,1,,1
+2026-10-24,tire shops|Pleasanton CA,gemini,openai,,,1,,1
+2026-10-25,dentists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-25,dentists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-25,dentists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-25,hvac repair and replacement|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-25,moving companies|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-25,oil change shops|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-25,orthodontists|Atlanta GA,anthropic,gemini,1,,,,1
+2026-10-25,orthodontists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-25,orthodontists|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-25,personal injury attorneys|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-25,personal injury attorneys|Chicago IL,anthropic,gemini,1,,,,1
+2026-10-25,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-25,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-25,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-25,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-25,residential roofing|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-25,residential roofing|Denver CO,anthropic,gemini,1,,,,1
+2026-10-25,residential roofing|Miami FL,anthropic,gemini,1,,,,1
+2026-10-25,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-25,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,1,1
+2026-10-25,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-10-25,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-25,short-term rental software|US nationwide,anthropic,gemini,openai,0,1,1,0,1
+2026-10-25,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,0,1
+2026-10-25,tanning salons|Charlotte NC,anthropic,gemini,0,,,,1
+2026-10-25,tanning salons|Columbus OH,anthropic,gemini,0,,,,1
+2026-10-25,tanning salons|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-25,tanning salons|Tyler TX,anthropic,gemini,0,,,,1
+2026-10-25,tire shops|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-26,dentists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-26,dentists|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-26,dentists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-26,hvac repair and replacement|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-26,moving companies|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-26,oil change shops|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-26,orthodontists|Atlanta GA,anthropic,gemini,1,,,,1
+2026-10-26,orthodontists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-26,orthodontists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-26,personal injury attorneys|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-26,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
+2026-10-26,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-26,personal injury attorneys|Houston TX,anthropic,gemini,1,,,,1
+2026-10-26,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-26,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-26,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-26,residential roofing|Denver CO,anthropic,gemini,0,,,,1
+2026-10-26,residential roofing|Miami FL,anthropic,gemini,1,,,,1
+2026-10-26,short-term rental / Airbnb|Branson MO,anthropic,gemini,1,,,,1
+2026-10-26,short-term rental / Airbnb|Nashville TN,anthropic,gemini,0,,,,1
+2026-10-26,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,0,,,,1
+2026-10-26,short-term rental business model|US nationwide,anthropic,gemini,1,,,,1
+2026-10-26,short-term rental software|US nationwide,anthropic,gemini,1,,,,1
+2026-10-26,short-term rental|US nationwide,anthropic,gemini,0,,,,1
+2026-10-26,tanning salons|Charlotte NC,anthropic,gemini,1,,,,1
+2026-10-26,tanning salons|Columbus OH,anthropic,gemini,0,,,,1
+2026-10-26,tanning salons|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-26,tanning salons|Tyler TX,anthropic,gemini,0,,,,1
+2026-10-26,tire shops|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-27,dentists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-27,dentists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-27,dentists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-27,hvac repair and replacement|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-27,moving companies|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-27,oil change shops|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-27,orthodontists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-27,orthodontists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-27,orthodontists|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-27,personal injury attorneys|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-27,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
+2026-10-27,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-27,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-27,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-27,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-27,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-27,residential roofing|Denver CO,anthropic,gemini,0,,,,1
+2026-10-27,residential roofing|Miami FL,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental / Airbnb|Branson MO,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental / Airbnb|Nashville TN,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental business model|US nationwide,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental software|US nationwide,anthropic,gemini,1,,,,1
+2026-10-27,short-term rental|US nationwide,anthropic,gemini,1,,,,1
+2026-10-27,tanning salons|Charlotte NC,anthropic,gemini,0,,,,1
+2026-10-27,tanning salons|Columbus OH,anthropic,gemini,0,,,,1
+2026-10-27,tanning salons|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-27,tanning salons|Tyler TX,anthropic,gemini,0,,,,1
+2026-10-27,tire shops|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,dentists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-28,dentists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-28,dentists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-28,hvac repair and replacement|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-28,moving companies|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,oil change shops|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-28,orthodontists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-28,orthodontists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-28,orthodontists|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-28,personal injury attorneys|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-28,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
+2026-10-28,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-28,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-28,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,residential roofing|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-28,residential roofing|Denver CO,anthropic,gemini,0,,,,1
+2026-10-28,residential roofing|Miami FL,anthropic,gemini,0,,,,1
+2026-10-28,short-term rental / Airbnb|Branson MO,anthropic,gemini,1,,,,1
+2026-10-28,short-term rental / Airbnb|Nashville TN,anthropic,gemini,1,,,,1
+2026-10-28,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,1,,,,1
+2026-10-28,short-term rental business model|US nationwide,anthropic,gemini,1,,,,1
+2026-10-28,short-term rental software|US nationwide,anthropic,gemini,1,,,,1
+2026-10-28,short-term rental|US nationwide,anthropic,gemini,1,,,,1
+2026-10-28,tanning salons|Charlotte NC,anthropic,gemini,1,,,,1
+2026-10-28,tanning salons|Columbus OH,anthropic,gemini,0,,,,1
+2026-10-28,tanning salons|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,tanning salons|Tyler TX,anthropic,gemini,0,,,,1
+2026-10-28,tire shops|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-29,dentists|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-29,dentists|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-29,dentists|Phoenix AZ,anthropic,gemini,0,,,,1
+2026-10-29,hvac repair and replacement|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-29,moving companies|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-29,oil change shops|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-29,orthodontists|Atlanta GA,anthropic,gemini,1,,,,1
+2026-10-29,orthodontists|Dallas TX,anthropic,gemini,1,,,,1
+2026-10-29,orthodontists|Phoenix AZ,anthropic,gemini,1,,,,1
+2026-10-29,personal injury attorneys|Atlanta GA,anthropic,gemini,0,,,,1
+2026-10-29,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
+2026-10-29,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-29,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-29,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-29,real estate agents|Pleasanton CA,anthropic,gemini,1,,,,1
+2026-10-29,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
+2026-10-29,residential roofing|Denver CO,anthropic,gemini,1,,,,1
+2026-10-29,residential roofing|Miami FL,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental / Airbnb|Branson MO,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental / Airbnb|Nashville TN,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental business model|US nationwide,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental software|US nationwide,anthropic,gemini,1,,,,1
+2026-10-29,short-term rental|US nationwide,anthropic,gemini,1,,,,1
+2026-10-29,tanning salons|Charlotte NC,anthropic,gemini,1,,,,1
+2026-10-29,tanning salons|Columbus OH,anthropic,gemini,0,,,,1
+2026-10-29,tanning salons|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-29,tanning salons|Tyler TX,anthropic,gemini,0,,,,1
+2026-10-29,tire shops|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-30,dentists|Atlanta GA,anthropic,gemini,openai,0,1,1,0,1
+2026-10-30,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,dentists|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-10-30,dentists|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,dentists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,dentists|Houston TX,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,dentists|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-10-30,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-10-30,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-10-30,hvac repair and replacement|Atlanta GA,anthropic,openai,,1,,,1
+2026-10-30,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-10-30,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Atlanta GA,anthropic,gemini,openai,1,0,1,0,1
+2026-10-30,orthodontists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Houston TX,anthropic,gemini,openai,0,1,1,0,1
+2026-10-30,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,orthodontists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,orthodontists|Phoenix AZ,anthropic,gemini,openai,0,1,1,0,1
+2026-10-30,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
+2026-10-30,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,residential roofing|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-30,short-term rental|US nationwide,anthropic,gemini,openai,1,0,0,0,1
+2026-10-30,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,0,0,1
+2026-10-30,tire shops|Pleasanton CA,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Columbus OH,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,dentists|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Denver CO,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-10-31,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-10-31,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-10-31,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-10-31,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-10-31,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,oil change shops|Pleasanton CA,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,orthodontists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Houston TX,anthropic,gemini,openai,1,0,1,0,1
+2026-10-31,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,orthodontists|Phoenix AZ,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,personal injury attorneys|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-10-31,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,personal injury attorneys|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,1,1,0,1
+2026-10-31,personal injury attorneys|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,0,1
+2026-10-31,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,tanning salons|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-10-31,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-10-31,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,dentists|Chicago IL,anthropic,gemini,openai,0,1,1,0,1
+2026-11-01,dentists|Columbus OH,anthropic,gemini,openai,1,0,0,0,1
+2026-11-01,dentists|Dallas TX,anthropic,gemini,openai,0,1,0,0,1
+2026-11-01,dentists|Denver CO,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,dentists|Miami FL,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-01,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-01,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-01,hvac repair and replacement|Atlanta GA,anthropic,openai,,1,,,1
+2026-11-01,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-01,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,orthodontists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
+2026-11-01,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,residential roofing|Miami FL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-01,short-term rental|US nationwide,anthropic,gemini,openai,1,0,1,0,1
+2026-11-01,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-01,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-02,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-02,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-02,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-02,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-02,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-02,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,orthodontists|Chicago IL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,orthodontists|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,orthodontists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,orthodontists|Houston TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,orthodontists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,1,1,0,1
+2026-11-02,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,personal injury attorneys|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-02,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,0,1,0,1
+2026-11-02,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,tanning salons|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-02,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-02,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Chicago IL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-03,dentists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,dentists|Dallas TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,dentists|Phoenix AZ,anthropic,gemini,openai,1,0,1,0,1
+2026-11-03,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-03,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-03,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-03,hvac repair and replacement|Atlanta GA,anthropic,openai,,1,,,1
+2026-11-03,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-03,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Atlanta GA,anthropic,gemini,openai,1,0,1,0,1
+2026-11-03,orthodontists|Charlotte NC,anthropic,gemini,openai,1,0,1,0,1
+2026-11-03,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-03,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,orthodontists|Miami FL,anthropic,gemini,openai,0,1,1,0,1
+2026-11-03,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,1,1,0,1
+2026-11-03,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-03,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,residential roofing|Denver CO,anthropic,gemini,openai,0,1,1,0,1
+2026-11-03,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,0,0,0,1
+2026-11-03,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-03,tanning salons|Charlotte NC,anthropic,gemini,openai,1,0,0,0,1
+2026-11-03,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Charlotte NC,anthropic,gemini,openai,0,1,1,0,1
+2026-11-04,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,dentists|Phoenix AZ,anthropic,gemini,openai,1,0,1,0,1
+2026-11-04,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-04,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-04,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-04,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-04,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-04,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,1,0,0,0,1
+2026-11-04,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-04,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-11-04,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,orthodontists|Miami FL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-04,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-04,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,0,1
+2026-11-04,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-04,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,0,0,1
+2026-11-04,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-04,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-04,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Chicago IL,anthropic,gemini,openai,0,1,0,0,1
+2026-11-05,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Denver CO,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,dentists|Houston TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-05,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-05,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-05,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-05,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-05,hvac repair and replacement|Phoenix AZ,anthropic,openai,,1,,,1
+2026-11-05,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,orthodontists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,orthodontists|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-11-05,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,orthodontists|Denver CO,anthropic,openai,,1,,,1
+2026-11-05,orthodontists|Houston TX,anthropic,gemini,openai,0,1,0,0,1
+2026-11-05,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,orthodontists|Miami FL,anthropic,gemini,openai,1,1,0,0,1
+2026-11-05,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,personal injury attorneys|Houston TX,anthropic,openai,,0,,,1
+2026-11-05,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,personal injury attorneys|Miami FL,anthropic,openai,,0,,,1
+2026-11-05,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
+2026-11-05,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,residential roofing|Denver CO,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,residential roofing|Miami FL,anthropic,gemini,openai,0,1,0,0,1
+2026-11-05,short-term rental / Airbnb|Branson MO,anthropic,openai,,1,,,1
+2026-11-05,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,0,1,0,0,1
+2026-11-05,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-05,tanning salons|Charlotte NC,anthropic,openai,,0,,,1
+2026-11-05,tanning salons|Columbus OH,anthropic,openai,,0,,,1
+2026-11-05,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-05,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,dentists|Charlotte NC,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,dentists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,dentists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-06,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,dentists|Houston TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,dentists|Miami FL,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-06,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-06,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-06,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-06,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-06,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Columbus OH,anthropic,gemini,openai,1,0,1,0,1
+2026-11-06,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Houston TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-06,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,orthodontists|Miami FL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-06,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
+2026-11-06,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,0,1,0,1
+2026-11-06,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,tanning salons|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-06,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-06,tire shops|Pleasanton CA,anthropic,gemini,openai,0,1,1,0,1
+2026-11-07,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-07,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-07,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-07,home care agencies|Pleasanton CA,anthropic,openai,,1,,,1
+2026-11-07,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-07,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-07,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,1,1,0,1
+2026-11-07,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Chicago IL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-07,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,orthodontists|Miami FL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-07,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
+2026-11-07,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
+2026-11-07,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,residential roofing|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,0,1,0,1
+2026-11-07,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,0,1
+2026-11-07,short-term rental business model|US nationwide,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,tanning salons|Charlotte NC,anthropic,gemini,openai,1,1,1,1,1
+2026-11-07,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,dentists|Denver CO,anthropic,gemini,openai,1,0,1,0,1
+2026-11-08,dentists|Houston TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-08,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,dentists|Miami FL,anthropic,gemini,openai,1,0,0,0,1
+2026-11-08,dentists|Phoenix AZ,anthropic,gemini,openai,1,0,1,0,1
+2026-11-08,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-08,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-08,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-08,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-08,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-08,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,orthodontists|Charlotte NC,anthropic,gemini,openai,0,1,1,0,1
+2026-11-08,orthodontists|Chicago IL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-08,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,orthodontists|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,0,0,1
+2026-11-08,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,personal injury law|Pleasanton CA,anthropic,gemini,openai,1,0,1,0,1
+2026-11-08,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,1,0,1
+2026-11-08,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,residential roofing|Denver CO,anthropic,gemini,openai,1,0,0,0,1
+2026-11-08,residential roofing|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,0,0,1
+2026-11-08,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,0,0,1
+2026-11-08,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-08,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-08,tire shops|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Dallas TX,anthropic,gemini,openai,1,0,1,0,1
+2026-11-09,dentists|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,dentists|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,dentists|Phoenix AZ,anthropic,gemini,openai,1,0,1,0,1
+2026-11-09,dentists|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-09,health insurance brokers|Kansas City MO,anthropic,openai,,1,,,1
+2026-11-09,home care agencies|Pleasanton CA,anthropic,openai,,0,,,1
+2026-11-09,hvac repair and replacement|Atlanta GA,anthropic,openai,,0,,,1
+2026-11-09,hvac repair and replacement|Houston TX,anthropic,openai,,0,,,1
+2026-11-09,hvac repair and replacement|Phoenix AZ,anthropic,gemini,openai,1,0,0,0,1
+2026-11-09,moving companies|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-09,oil change shops|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Atlanta GA,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Charlotte NC,anthropic,gemini,openai,0,1,1,0,1
+2026-11-09,orthodontists|Chicago IL,anthropic,gemini,openai,1,0,1,0,1
+2026-11-09,orthodontists|Columbus OH,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Denver CO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Houston TX,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,orthodontists|Miami FL,anthropic,gemini,openai,0,1,1,0,1
+2026-11-09,orthodontists|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,personal injury attorneys|Atlanta GA,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Chicago IL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Denver CO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-09,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-09,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,residential roofing|Denver CO,anthropic,gemini,openai,0,0,0,0,1
+2026-11-09,residential roofing|Miami FL,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,short-term rental / Airbnb|Branson MO,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,short-term rental / Airbnb|Nashville TN,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,short-term rental / Airbnb|Santa Cruz County CA,anthropic,gemini,openai,1,1,1,0,1
+2026-11-09,short-term rental business model|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,short-term rental software|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,short-term rental|US nationwide,anthropic,gemini,openai,1,1,1,1,1
+2026-11-09,tanning salons|Charlotte NC,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,tanning salons|Columbus OH,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,tanning salons|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-09,tanning salons|Tyler TX,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,tire shops|Pleasanton CA,anthropic,gemini,openai,1,0,1,0,1

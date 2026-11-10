@@ -1,0 +1,2252 @@
+date,question_slug,engine,served_model,status,names_count
+2026-10-24,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-24,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-24,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-24,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-24,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-24,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,19
+2026-10-24,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-24,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-24,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,41
+2026-10-24,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-24,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,29
+2026-10-24,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-24,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,22
+2026-10-24,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-24,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-24,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,24
+2026-10-24,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-24,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-24,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-24,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-24,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-24,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-24,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-10-24,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-24,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-24,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-24,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-24,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-24,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-24,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-24,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-24,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-24,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-24,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-24,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-24,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,6
+2026-10-24,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-24,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,0
+2026-10-24,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-24,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-24,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-24,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-24,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-24,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-24,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-24,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-24,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-24,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,14
+2026-10-24,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-10-24,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-24,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,15
+2026-10-24,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-10-24,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-24,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-24,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-24,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-24,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,22
+2026-10-24,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,10
+2026-10-24,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,43
+2026-10-24,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,25
+2026-10-24,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-24,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-24,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-24,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-24,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-24,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-24,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-24,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-24,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-24,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-24,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-24,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-10-24,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-24,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-24,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-24,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-25,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-25,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-25,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-25,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-25,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,17
+2026-10-25,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-25,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,29
+2026-10-25,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,38
+2026-10-25,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,24
+2026-10-25,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,20
+2026-10-25,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-25,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-25,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,12
+2026-10-25,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-25,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-10-25,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-25,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-25,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-25,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-25,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-10-25,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-25,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-25,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-25,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-25,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-25,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,12
+2026-10-25,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-25,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-25,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-25,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-25,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-25,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,11
+2026-10-25,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,32
+2026-10-25,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,21
+2026-10-25,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-25,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,32
+2026-10-25,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,10
+2026-10-25,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-25,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-25,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,18
+2026-10-25,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-25,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,39
+2026-10-25,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,24
+2026-10-25,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-25,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,9
+2026-10-25,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-25,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-25,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-25,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-25,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-25,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-25,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-25,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-25,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-25,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-26,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-26,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-26,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-26,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-26,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,14
+2026-10-26,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-26,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,43
+2026-10-26,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-26,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,28
+2026-10-26,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,25
+2026-10-26,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,32
+2026-10-26,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-26,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-26,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-26,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-26,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-26,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-26,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,31
+2026-10-26,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-26,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-26,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-26,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-26,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-10-26,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-26,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-26,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-26,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-26,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-26,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-26,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-26,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-26,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-26,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-26,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-26,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-26,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-26,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-10-26,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,33
+2026-10-26,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-26,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-26,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-26,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,28
+2026-10-26,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-26,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,35
+2026-10-26,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-26,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-26,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-26,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-26,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-26,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-26,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-26,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-26,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-26,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-26,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-27,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-27,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-27,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-27,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-27,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,17
+2026-10-27,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-27,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,37
+2026-10-27,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-27,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,21
+2026-10-27,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-27,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,19
+2026-10-27,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,25
+2026-10-27,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-27,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-27,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-27,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-27,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-27,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-27,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-27,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-27,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-27,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-10-27,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-27,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-27,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-27,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-27,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-27,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-27,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-27,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-27,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-27,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-27,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-27,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-27,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,10
+2026-10-27,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-27,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-27,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-27,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-27,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,44
+2026-10-27,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-27,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-27,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-27,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-27,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-27,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-27,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-27,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-27,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-27,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,6
+2026-10-27,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-27,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-28,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-28,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-28,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-28,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-28,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,12
+2026-10-28,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,33
+2026-10-28,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-28,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,35
+2026-10-28,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-28,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,12
+2026-10-28,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,27
+2026-10-28,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-28,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-28,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-28,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-28,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-28,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-28,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-28,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-28,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,32
+2026-10-28,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-28,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-28,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-28,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-28,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-28,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-28,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-28,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-28,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-28,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-28,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-28,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,11
+2026-10-28,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-28,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-28,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-28,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-28,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,35
+2026-10-28,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,11
+2026-10-28,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,36
+2026-10-28,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-28,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-28,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-28,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-28,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-28,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-28,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,6
+2026-10-28,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-28,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-28,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-28,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-29,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-29,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-29,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-29,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,16
+2026-10-29,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,47
+2026-10-29,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-29,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,29
+2026-10-29,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,20
+2026-10-29,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,22
+2026-10-29,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-29,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-29,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-29,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-29,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,41
+2026-10-29,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-29,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-29,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-29,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-29,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-29,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-10-29,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-29,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-29,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-29,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-29,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-29,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-29,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-29,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-29,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-10-29,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-29,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-10-29,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-29,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-29,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-29,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-29,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-29,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-10-29,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,32
+2026-10-29,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-10-29,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-29,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-29,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-29,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-29,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-29,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,5
+2026-10-29,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-29,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-29,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-30,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-30,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,12
+2026-10-30,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-30,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,11
+2026-10-30,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-30,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-30,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-30,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-30,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-30,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-30,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-30,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-30,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,21
+2026-10-30,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-30,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,2
+2026-10-30,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-30,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-30,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,25
+2026-10-30,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-30,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,21
+2026-10-30,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,26
+2026-10-30,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-30,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-30,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-30,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-30,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-30,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-30,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-30,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-30,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-30,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-30,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-30,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-30,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-30,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-30,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,33
+2026-10-30,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-30,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-30,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-30,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-30,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-30,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-30,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-30,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-30,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-30,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-30,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-30,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-30,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-30,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-30,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-30,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-30,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-30,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-30,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-30,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-30,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-30,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,0
+2026-10-30,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-30,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-30,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-30,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-30,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-30,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-30,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-10-30,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-30,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,14
+2026-10-30,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-30,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-30,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,9
+2026-10-30,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-30,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,38
+2026-10-30,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,20
+2026-10-30,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-10-30,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,34
+2026-10-30,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,24
+2026-10-30,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-30,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-30,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,11
+2026-10-30,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-30,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-30,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,9
+2026-10-30,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-30,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-30,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-30,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-10-30,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-30,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-30,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-30,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-30,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-30,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-31,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,11
+2026-10-31,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,27
+2026-10-31,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,30
+2026-10-31,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-31,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-31,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-31,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-31,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-31,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-31,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,9
+2026-10-31,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-31,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-31,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-31,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-10-31,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-31,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,18
+2026-10-31,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,40
+2026-10-31,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,27
+2026-10-31,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,21
+2026-10-31,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,18
+2026-10-31,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-31,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-31,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-31,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-31,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-31,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-31,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-10-31,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,36
+2026-10-31,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-31,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,31
+2026-10-31,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-31,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-31,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-10-31,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-31,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-31,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-10-31,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,17
+2026-10-31,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,7
+2026-10-31,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,9
+2026-10-31,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,19
+2026-10-31,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-31,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-31,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-31,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-31,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-31,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-10-31,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-31,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-31,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-10-31,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-31,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-31,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-31,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-31,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-31,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,18
+2026-10-31,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,4
+2026-10-31,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-31,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-31,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-10-31,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-10-31,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,16
+2026-10-31,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,26
+2026-10-31,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,13
+2026-10-31,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,10
+2026-10-31,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,34
+2026-10-31,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,19
+2026-10-31,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-10-31,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,24
+2026-10-31,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,11
+2026-10-31,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-10-31,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,41
+2026-10-31,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,16
+2026-10-31,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-31,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,25
+2026-10-31,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,21
+2026-10-31,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-10-31,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-31,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,8
+2026-10-31,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,13
+2026-10-31,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,6
+2026-10-31,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-10-31,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-31,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-10-31,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-10-31,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,8
+2026-10-31,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-10-31,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-10-31,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-10-31,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-10-31,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-10-31,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,22
+2026-10-31,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-01,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-01,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-01,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-01,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-01,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-01,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-01,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-01,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-01,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-01,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-01,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-01,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-01,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,22
+2026-11-01,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-01,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,40
+2026-11-01,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-01,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-01,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,18
+2026-11-01,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,19
+2026-11-01,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-01,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,41
+2026-11-01,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-01,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-01,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-01,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-01,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-01,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-01,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-01,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-01,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-01,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,33
+2026-11-01,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-01,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-01,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,37
+2026-11-01,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-01,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-01,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,4
+2026-11-01,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-01,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-01,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-01,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-01,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-01,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-01,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-01,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-01,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-01,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-01,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-01,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-01,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-01,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-01,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-01,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-01,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-01,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-01,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-01,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-01,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-01,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-01,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-01,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-01,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-01,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-01,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,10
+2026-11-01,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-11-01,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,23
+2026-11-01,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-01,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,35
+2026-11-01,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-01,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-01,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,21
+2026-11-01,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-01,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-01,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,33
+2026-11-01,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-01,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-01,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-01,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-01,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-01,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-01,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-01,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-01,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-01,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-01,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-01,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-01,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-01,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-01,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-01,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-01,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-02,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-02,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-02,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-02,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-02,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-02,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-02,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-02,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-02,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-02,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-02,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-02,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-02,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-02,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-02,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-02,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,14
+2026-11-02,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-02,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,43
+2026-11-02,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-02,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-02,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,25
+2026-11-02,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,18
+2026-11-02,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-02,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,26
+2026-11-02,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-02,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-02,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-02,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-02,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-02,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-02,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-02,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-02,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-02,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-02,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-02,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-02,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-02,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-02,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-02,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-02,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-02,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-02,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-02,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-02,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-02,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-02,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-02,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-02,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-02,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-02,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-02,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-02,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-02,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-02,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-02,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-02,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-02,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-02,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-02,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-02,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-02,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-02,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-02,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-02,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-02,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-02,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-02,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-02,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-02,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-02,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,17
+2026-11-02,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-02,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,38
+2026-11-02,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,21
+2026-11-02,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-02,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-02,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-02,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-02,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-02,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-02,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-02,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-02,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-02,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-02,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-02,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,7
+2026-11-02,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-02,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-02,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-02,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-03,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-03,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-03,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-03,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-03,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-03,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-03,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-03,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-03,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-03,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,30
+2026-11-03,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-03,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-03,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,45
+2026-11-03,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-03,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,27
+2026-11-03,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-03,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,19
+2026-11-03,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,20
+2026-11-03,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-03,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-03,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-03,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-03,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-03,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-03,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-03,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-03,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-03,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-03,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-03,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-03,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-03,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-03,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-03,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-03,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-03,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-03,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-03,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-03,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-03,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-03,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-03,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-03,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-03,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-03,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-03,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-03,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-03,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-03,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-03,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-03,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-03,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-03,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-03,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-03,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-03,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-03,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-03,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-03,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-11-03,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,15
+2026-11-03,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-03,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-03,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-03,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-03,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-03,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,12
+2026-11-03,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-03,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,39
+2026-11-03,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,31
+2026-11-03,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-03,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-03,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-03,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-03,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-03,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-03,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-03,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-03,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-03,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-03,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-03,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-03,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-03,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,7
+2026-11-03,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-03,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-03,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-03,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-04,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-04,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-04,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-04,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-04,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-04,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-04,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-04,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-04,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-04,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-04,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-04,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-04,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-04,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-04,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-04,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,20
+2026-11-04,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-04,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,52
+2026-11-04,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-04,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,25
+2026-11-04,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-04,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,21
+2026-11-04,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,20
+2026-11-04,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-04,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-04,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-04,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-04,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-04,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-04,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-04,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-04,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-04,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-04,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-04,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-04,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-04,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-04,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-04,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-04,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-04,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-04,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-04,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-04,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-04,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-04,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-04,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-04,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-04,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-04,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-04,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-04,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-04,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-04,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-04,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-04,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-04,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-04,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-04,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-04,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-04,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-04,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-04,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-04,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-04,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-04,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-04,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-04,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-04,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-04,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,13
+2026-11-04,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-04,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-04,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-04,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-04,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-04,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,20
+2026-11-04,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-11-04,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-04,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,21
+2026-11-04,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-04,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-04,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-04,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-04,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-04,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-04,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-04,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-04,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-04,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-04,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-04,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-04,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-04,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-04,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-04,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-04,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-05,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-05,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-05,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-05,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-05,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,4
+2026-11-05,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-05,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-05,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-05,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-05,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,16
+2026-11-05,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-05,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-05,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,31
+2026-11-05,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,29
+2026-11-05,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,24
+2026-11-05,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-05,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,34
+2026-11-05,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-05,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,1
+2026-11-05,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-05,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-05,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-05,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-05,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-05,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-05,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-05,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-05,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-05,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-05,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-05,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,1
+2026-11-05,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-05,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-05,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-05,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-05,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-05,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-05,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-05,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-05,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-05,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-05,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-05,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-05,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-05,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-05,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-05,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-05,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-05,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-05,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,16
+2026-11-05,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-05,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,5
+2026-11-05,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-05,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-05,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,38
+2026-11-05,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,22
+2026-11-05,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-05,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,37
+2026-11-05,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,15
+2026-11-05,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-05,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,2
+2026-11-05,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,12
+2026-11-05,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-05,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-05,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-05,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-05,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,2
+2026-11-05,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-05,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-05,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,4
+2026-11-05,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-05,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-05,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-05,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-06,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-06,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-06,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-06,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-06,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-06,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-06,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-06,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-06,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-06,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-06,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-06,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-06,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-06,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,33
+2026-11-06,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,15
+2026-11-06,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,45
+2026-11-06,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-06,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-06,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,33
+2026-11-06,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,18
+2026-11-06,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-06,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,22
+2026-11-06,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-06,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-06,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-06,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-06,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-06,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-06,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-06,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-06,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-06,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-06,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-06,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-06,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-06,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-06,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-06,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-06,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-06,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-06,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-06,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-06,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-06,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-06,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-06,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-06,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-06,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-06,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-06,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-06,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-06,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-06,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-06,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-06,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-06,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-06,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-06,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-06,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-06,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-06,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-06,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-06,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,14
+2026-11-06,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-06,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,13
+2026-11-06,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-06,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,4
+2026-11-06,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-06,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-06,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,30
+2026-11-06,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-06,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,38
+2026-11-06,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,32
+2026-11-06,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-06,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-06,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-06,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-06,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-06,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-06,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-06,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-06,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,2
+2026-11-06,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-06,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-06,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,7
+2026-11-06,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-06,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-06,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-06,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-07,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-07,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-07,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-07,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-07,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-07,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-07,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,19
+2026-11-07,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-07,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-07,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,36
+2026-11-07,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-07,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,25
+2026-11-07,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,20
+2026-11-07,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-07,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,28
+2026-11-07,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-07,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-07,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-07,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-07,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-07,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-07,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-07,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-07,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-07,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-07,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-07,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-07,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-07,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-07,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-07,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-07,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-07,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-07,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-07,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-07,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-07,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-07,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-07,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-07,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-07,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-07,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-07,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-07,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-07,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-07,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-07,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-07,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-11-07,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-07,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-07,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-07,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-07,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-07,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-07,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,19
+2026-11-07,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-07,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,41
+2026-11-07,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,42
+2026-11-07,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,8
+2026-11-07,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-07,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,13
+2026-11-07,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-07,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-07,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-07,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-07,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-07,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-07,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,10
+2026-11-07,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-07,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-07,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-07,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-07,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-07,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-08,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-08,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-08,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-08,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-08,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-08,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,25
+2026-11-08,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,9
+2026-11-08,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-08,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-08,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-08,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-08,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-08,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,8
+2026-11-08,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-08,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,32
+2026-11-08,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-08,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-08,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,37
+2026-11-08,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,13
+2026-11-08,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,29
+2026-11-08,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,25
+2026-11-08,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-08,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-08,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-08,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-08,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-08,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,21
+2026-11-08,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-08,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-08,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-08,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,28
+2026-11-08,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-08,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-08,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-08,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-08,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-08,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-08,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-08,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-08,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-08,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-08,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-08,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-08,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-08,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-08,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-08,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-08,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-08,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,7
+2026-11-08,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-08,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-08,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-08,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-08,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-08,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-08,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-08,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,29
+2026-11-08,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,20
+2026-11-08,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-08,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,32
+2026-11-08,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-08,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-08,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,30
+2026-11-08,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,24
+2026-11-08,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,7
+2026-11-08,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-08,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,29
+2026-11-08,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-08,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-08,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-08,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-08,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-08,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-08,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-08,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-08,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-08,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-08,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-08,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-08,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-08,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-08,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-08,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-08,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-08,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-09,Atlanta GA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Atlanta GA|dentists,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-09,Atlanta GA|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Charlotte NC|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Charlotte NC|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-09,Charlotte NC|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Chicago IL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Chicago IL|dentists,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-09,Chicago IL|dentists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Columbus OH|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Columbus OH|dentists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-09,Columbus OH|dentists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Dallas TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Dallas TX|dentists,gemini,gemini-3.5-flash-lite,OK,23
+2026-11-09,Dallas TX|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Denver CO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Denver CO|dentists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-09,Denver CO|dentists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-09,Houston TX|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Houston TX|dentists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-09,Houston TX|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-09,Kansas City MO|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Kansas City MO|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Kansas City MO|dentists,openai,gpt-5-mini-2025-08-07,OK,8
+2026-11-09,Miami FL|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Miami FL|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Miami FL|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Phoenix AZ|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Phoenix AZ|dentists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Phoenix AZ|dentists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Pleasanton CA|dentists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Pleasanton CA|dentists,gemini,gemini-3.6-flash,OK,15
+2026-11-09,Pleasanton CA|dentists,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Kansas City MO|health insurance brokers,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Kansas City MO|health insurance brokers,gemini,gemini-3.6-flash,OK,34
+2026-11-09,Kansas City MO|health insurance brokers,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Pleasanton CA|home care agencies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-09,Pleasanton CA|home care agencies,gemini,gemini-3.6-flash,OK,22
+2026-11-09,Pleasanton CA|home care agencies,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Atlanta GA|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Atlanta GA|hvac repair and replacement,gemini,gemini-3.6-flash,OK,26
+2026-11-09,Atlanta GA|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Houston TX|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Houston TX|hvac repair and replacement,gemini,gemini-3.6-flash,OK,22
+2026-11-09,Houston TX|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Phoenix AZ|hvac repair and replacement,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Phoenix AZ|hvac repair and replacement,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-09,Phoenix AZ|hvac repair and replacement,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Pleasanton CA|moving companies,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Pleasanton CA|moving companies,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-09,Pleasanton CA|moving companies,openai,gpt-5-mini-2025-08-07,OK,0
+2026-11-09,Pleasanton CA|oil change shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Pleasanton CA|oil change shops,gemini,gemini-3.5-flash-lite,OK,19
+2026-11-09,Pleasanton CA|oil change shops,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Atlanta GA|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Atlanta GA|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-09,Atlanta GA|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-09,Charlotte NC|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Charlotte NC|orthodontists,gemini,gemini-3.5-flash-lite,OK,20
+2026-11-09,Charlotte NC|orthodontists,openai,gpt-5-mini-2025-08-07,OK,7
+2026-11-09,Chicago IL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Chicago IL|orthodontists,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-09,Chicago IL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Columbus OH|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,3
+2026-11-09,Columbus OH|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-09,Columbus OH|orthodontists,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Dallas TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Dallas TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-09,Dallas TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-09,Denver CO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Denver CO|orthodontists,gemini,gemini-3.5-flash-lite,OK,33
+2026-11-09,Denver CO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Houston TX|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-09,Houston TX|orthodontists,gemini,gemini-3.5-flash-lite,OK,18
+2026-11-09,Houston TX|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Kansas City MO|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-09,Kansas City MO|orthodontists,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Kansas City MO|orthodontists,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Miami FL|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Miami FL|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-09,Miami FL|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Phoenix AZ|orthodontists,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Phoenix AZ|orthodontists,gemini,gemini-3.5-flash-lite,OK,22
+2026-11-09,Phoenix AZ|orthodontists,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Atlanta GA|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Atlanta GA|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-09,Atlanta GA|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-09,Charlotte NC|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Charlotte NC|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-09,Charlotte NC|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Chicago IL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Chicago IL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-09,Chicago IL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Columbus OH|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,2
+2026-11-09,Columbus OH|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-09,Columbus OH|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Dallas TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Dallas TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,17
+2026-11-09,Dallas TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-09,Denver CO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Denver CO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-09,Denver CO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Houston TX|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Houston TX|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,12
+2026-11-09,Houston TX|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Kansas City MO|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Kansas City MO|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,13
+2026-11-09,Kansas City MO|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Miami FL|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Miami FL|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-09,Miami FL|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Phoenix AZ|personal injury attorneys,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Phoenix AZ|personal injury attorneys,gemini,gemini-3.5-flash-lite,OK,8
+2026-11-09,Phoenix AZ|personal injury attorneys,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Pleasanton CA|personal injury law,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-09,Pleasanton CA|personal injury law,gemini,gemini-3.5-flash-lite,OK,11
+2026-11-09,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Pleasanton CA|personal injury law,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Pleasanton CA|real estate agents,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Pleasanton CA|real estate agents,gemini,gemini-3.5-flash-lite,OK,0
+2026-11-09,Pleasanton CA|real estate agents,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Dallas TX|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Dallas TX|residential roofing,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-09,Dallas TX|residential roofing,openai,gpt-5-mini-2025-08-07,OK,4
+2026-11-09,Denver CO|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,0
+2026-11-09,Denver CO|residential roofing,gemini,gemini-3.5-flash-lite,OK,15
+2026-11-09,Denver CO|residential roofing,openai,gpt-5-mini-2025-08-07,OK,6
+2026-11-09,Miami FL|residential roofing,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-09,Miami FL|residential roofing,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Miami FL|residential roofing,openai,gpt-5-mini-2025-08-07,OK,11
+2026-11-09,Branson MO|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,9
+2026-11-09,Branson MO|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,26
+2026-11-09,Branson MO|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,16
+2026-11-09,Nashville TN|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,4
+2026-11-09,Nashville TN|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,31
+2026-11-09,Nashville TN|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-09,Santa Cruz County CA|short-term rental / Airbnb,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-09,Santa Cruz County CA|short-term rental / Airbnb,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Santa Cruz County CA|short-term rental / Airbnb,openai,gpt-5-mini-2025-08-07,OK,21
+2026-11-09,US nationwide|short-term rental business model,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-09,US nationwide|short-term rental business model,gemini,gemini-3.5-flash-lite,OK,27
+2026-11-09,US nationwide|short-term rental business model,openai,gpt-5-mini-2025-08-07,OK,51
+2026-11-09,US nationwide|short-term rental software,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,6
+2026-11-09,US nationwide|short-term rental software,gemini,gemini-3.5-flash-lite,OK,14
+2026-11-09,US nationwide|short-term rental software,openai,gpt-5-mini-2025-08-07,OK,10
+2026-11-09,US nationwide|short-term rental,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,US nationwide|short-term rental,gemini,gemini-3.5-flash-lite,OK,9
+2026-11-09,US nationwide|short-term rental,openai,gpt-5-mini-2025-08-07,OK,5
+2026-11-09,Charlotte NC|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Charlotte NC|tanning salons,gemini,gemini-3.5-flash-lite,OK,24
+2026-11-09,Charlotte NC|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Columbus OH|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Columbus OH|tanning salons,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-09,Columbus OH|tanning salons,openai,gpt-5-mini-2025-08-07,OK,3
+2026-11-09,Pleasanton CA|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Pleasanton CA|tanning salons,gemini,gemini-3.5-flash-lite,OK,5
+2026-11-09,Pleasanton CA|tanning salons,openai,gpt-5-mini-2025-08-07,OK,1
+2026-11-09,Tyler TX|tanning salons,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,1
+2026-11-09,Tyler TX|tanning salons,gemini,gemini-3.5-flash-lite,OK,6
+2026-11-09,Tyler TX|tanning salons,openai,gpt-5-mini-2025-08-07,OK,2
+2026-11-09,Pleasanton CA|tire shops,anthropic,anthropic.claude-haiku-4-5-20251001-v1:0,OK,5
+2026-11-09,Pleasanton CA|tire shops,gemini,gemini-3.5-flash-lite,OK,16
+2026-11-09,Pleasanton CA|tire shops,openai,gpt-5-mini-2025-08-07,OK,3

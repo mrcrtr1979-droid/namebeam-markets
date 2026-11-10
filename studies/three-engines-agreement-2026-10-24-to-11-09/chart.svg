@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+.title { font-size: 16px; font-weight: 600; }
+.axis-label { font-size: 13px; }
+.bar-label { font-size: 12px; }
+.source { font-size: 11px; fill: #666; }
+</style>
+<text x="400.0" y="30" class="title" text-anchor="middle">
+Three-engine agreement: share naming the same business
+</text>
+<line x1="150" y1="60" x2="150" y2="340" stroke="#333" stroke-width="1"/>
+<line x1="150" y1="340" x2="760" y2="340" stroke="#333" stroke-width="1"/>
+<text x="60" y="230" class="axis-label" text-anchor="middle" transform="rotate(-90 60 230)">Percent</text>
+<line x1="145" y1="340.0" x2="150" y2="340.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="344.0" class="axis-label" text-anchor="end">0</text>
+<line x1="145" y1="284.0" x2="150" y2="284.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="288.0" class="axis-label" text-anchor="end">20</text>
+<line x1="145" y1="228.0" x2="150" y2="228.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="232.0" class="axis-label" text-anchor="end">40</text>
+<line x1="145" y1="172.0" x2="150" y2="172.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="176.0" class="axis-label" text-anchor="end">60</text>
+<line x1="145" y1="116.0" x2="150" y2="116.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="120.0" class="axis-label" text-anchor="end">80</text>
+<line x1="145" y1="60.0" x2="150" y2="60.0" stroke="#333" stroke-width="1"/>
+<text x="140" y="64.0" class="axis-label" text-anchor="end">100</text>
+<rect x="172.875" y="210.92485549132948" width="106.75" height="129.07514450867052" fill="#4A90E2"/>
+<text x="226.25" y="205.92485549132948" class="bar-label" text-anchor="middle">46.1%</text>
+<text x="226.25" y="360" class="axis-label" text-anchor="middle">Claude+Gemini</text>
+<rect x="325.375" y="223.5598705501618" width="106.75" height="116.44012944983818" fill="#4A90E2"/>
+<text x="378.75" y="218.5598705501618" class="bar-label" text-anchor="middle">41.6%</text>
+<text x="378.75" y="360" class="axis-label" text-anchor="middle">Claude+ChatGPT</text>
+<rect x="477.875" y="98.02469135802471" width="106.75" height="241.9753086419753" fill="#4A90E2"/>
+<text x="531.25" y="93.02469135802471" class="bar-label" text-anchor="middle">86.4%</text>
+<text x="531.25" y="360" class="axis-label" text-anchor="middle">Gemini+ChatGPT</text>
+<rect x="630.375" y="239.24050632911394" width="106.75" height="100.75949367088606" fill="#4A90E2"/>
+<text x="683.75" y="234.24050632911394" class="bar-label" text-anchor="middle">36.0%</text>
+<text x="683.75" y="360" class="axis-label" text-anchor="middle">all 3</text>
+<text x="400.0" y="410" class="source" text-anchor="middle">Source: namebeam-visibility-index corpus/e1, stable models 2026-10-24 onward</text>
+</svg>
