@@ -190,5 +190,46 @@ class TestLB27RecordPages(unittest.TestCase):
                                    f"{slug} hub: lastmod should be YYYY-MM-DD format")
 
 
+    def test_one_tile_set_per_record_page(self):
+        """LB-29 (2026-11-10): every record page holds exactly one pv-tiles container, inside the markers,
+        and no stale tile fragment sits between the rec-tiles close marker and the next section."""
+        for slug in self.latest["markets"].keys():
+            page = self.record_dir / slug / "index.html"
+            if not page.exists():
+                continue
+            html = page.read_text(encoding="utf-8")
+            self.assertEqual(html.count('<div class="pv-tiles">'), 1, f"{slug}: one tile container")
+            self.assertIn('<!--/nb:rec-tiles-->', html, f"{slug}: rec-tiles marker present")
+            tail = html.split('<!--/nb:rec-tiles-->', 1)[1][:60]
+            self.assertFalse(tail.startswith('<div class="l">'), f"{slug}: stray tile fragment after marker")
+
+    def test_remove_stray_tiles_helper(self):
+        """The repair drops exactly the LB-27 fragment (both page shapes) and leaves a clean page unchanged."""
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("refresh_pages", Path(__file__).parent / "refresh_pages.py")
+        rp = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(rp)
+        tile = '<div class="pv-tile"><div class="v">5</div><div class="l">Gemini answer days</div><div class="d">OK answers, 2026-10-02 to 2026-10-24</div></div>'
+        clean = '<!--nb:rec-tiles--><div class="pv-tiles">' + tile + '</div><!--/nb:rec-tiles-->\n<!-- receipt:start x -->'
+        stray = '<div class="l">Perplexity answer days</div><div class="d">OK answers, 2026-10-02 to 2026-10-24</div></div>' + tile + tile + '</div>'
+        dirty = clean.replace('<!--/nb:rec-tiles-->', '<!--/nb:rec-tiles-->' + stray)
+        out, removed = rp.remove_stray_tiles(dirty)
+        self.assertEqual(out, clean)
+        self.assertEqual(removed, stray)
+        # day-pages shape: tiles on their own lines
+        stray2 = ('<div class="l">rows logged</div><div class="d">window 2026-08-09 to 2026-10-07</div></div>\n'
+                  '<div class="pv-tile"><div class="v">59 of 60</div><div class="l">calendar days with rows</div><div class="d">last row 2026-10-07</div></div>\n'
+                  '<div class="pv-tile"><div class="v">19</div><div class="l">FAILED</div><div class="d">rows, same window</div></div>\n</div>')
+        dirty2 = clean.replace('<!--/nb:rec-tiles-->', '<!--/nb:rec-tiles-->' + stray2)
+        out2, removed2 = rp.remove_stray_tiles(dirty2)
+        self.assertEqual(out2, clean)
+        self.assertEqual(removed2, stray2)
+        out3, removed3 = rp.remove_stray_tiles(clean)
+        self.assertEqual((out3, removed3), (clean, ''))
+        # The marker-insertion pattern takes the whole container, not the first inner div.
+        m = re.search(rp.PV_TILES_CONTAINER, '<p>x</p><div class="pv-tiles">' + tile + tile + '</div><p>y</p>')
+        self.assertEqual(m.group(1), '<div class="pv-tiles">' + tile + tile + '</div>')
+
+
 if __name__ == '__main__':
     unittest.main()
