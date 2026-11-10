@@ -117,6 +117,62 @@ def extract_question_from_html(index_html_path):
     return None
 
 
+CSV_FIELDS = ["date", "question_slug", "market", "niche", "engine", "run",
+              "status", "names_count", "businesses_named", "check_id",
+              "raw_file", "raw_file_sha256"]
+
+# The schema the first lane-built record pages (2026-10-08 to 2026-10-24: dallas, atlanta and phoenix
+# dentists and orthodontists) wrote. answer_text held only the literal placeholder "public" and
+# answer_sha256 and answer_chars were empty in every row (read 2026-11-10, 6 markets, 408 rows).
+LEGACY_FIELDS = ["date", "engine", "run_status", "answer_sha256", "answer_chars", "answer_text",
+                 "tracked_businesses_named_in_text", "source_file"]
+
+# R82 and CAP (2026-11-08): the public record carries counts, dates, status and the public names list.
+# No column of the record may hold answer text, and a Perplexity file never contributes text to any
+# column. Any header word that names text is refused at import time, so the schema cannot drift back.
+TEXT_COLUMN_WORDS = ("answer_text", "text", "answer", "sources", "citations")
+
+
+def assert_no_text_columns(fields=None):
+    fields = CSV_FIELDS if fields is None else fields
+    bad = [f for f in fields if any(w in f.lower() for w in TEXT_COLUMN_WORDS)]
+    if bad:
+        raise ValueError("record schema may not carry a text column: %s" % ", ".join(bad))
+    return True
+
+
+assert_no_text_columns()
+
+
+def is_legacy_header(fieldnames):
+    """True when a market CSV header is not the current CSV_FIELDS (order and names)."""
+    return list(fieldnames or []) != CSV_FIELDS
+
+
+def migrate_legacy_rows(existing_rows, slug, nvi_path):
+    """Rebuild legacy-schema rows in the current schema from the SAME public corpus files.
+
+    Every legacy row names its corpus file in source_file. Each one is re-read through
+    parse_corpus_file, so the rebuilt row carries the same date, engine and status the corpus
+    holds and the current public count columns. Nothing is invented: a legacy row whose corpus
+    file is missing stops the migration with a ValueError and nothing is written.
+    """
+    rebuilt = []
+    for old in existing_rows:
+        src = old.get("source_file", "")
+        corpus_file = Path(nvi_path) / src
+        if not src or not corpus_file.exists():
+            raise ValueError("legacy row for %s names a corpus file that does not exist: %r"
+                             % (slug, src))
+        row = parse_corpus_file(corpus_file)
+        if row["date"] != old["date"] or row["engine"] != old["engine"]:
+            raise ValueError("legacy row for %s disagrees with its corpus file %s on date or engine"
+                             % (slug, src))
+        row["question_slug"] = slug
+        rebuilt.append(row)
+    return rebuilt
+
+
 def write_csv(path, rows, fieldnames):
     """Write CSV file."""
     with open(path, "w", encoding="utf-8", newline="") as f:
@@ -192,6 +248,10 @@ def main():
     parser = argparse.ArgumentParser(description="Daily refresh")
     parser.add_argument("nvi_path", help="Path to nvi checkout")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--migrate-legacy", action="store_true",
+                        help="Rebuild a market whose CSV header is the legacy schema in the current "
+                             "schema from its own corpus files (one-time, with a CORRECTIONS line). "
+                             "Without it a legacy market is reported and left untouched.")
     args = parser.parse_args()
 
     work_dir = Path.cwd()
@@ -202,10 +262,7 @@ def main():
 
     summary_table = []
     all_markets_data = {}
-
-    CSV_FIELDS = ["date", "question_slug", "market", "niche", "engine", "run",
-                  "status", "names_count", "businesses_named", "check_id",
-                  "raw_file", "raw_file_sha256"]
+    legacy_left = []
 
     # Process each market
     for market_dir in sorted(record_dir.iterdir()):
@@ -228,9 +285,35 @@ def main():
         with open(market_dir / csv_file, "r", encoding="utf-8", newline="") as f:
             reader = csv.DictReader(f)
             existing_rows = list(reader)
+            header = list(reader.fieldnames or [])
 
         if not existing_rows:
             continue
+
+        if is_legacy_header(header):
+            if args.migrate_legacy and slug in roster:
+                # Rebuilt from the same corpus files in the current schema (CORRECTIONS.md 2026-11-10).
+                existing_rows = migrate_legacy_rows(existing_rows, slug, args.nvi_path)
+                print(f"MIGRATED {slug}: {len(existing_rows)} legacy rows rebuilt from their corpus files")
+                if not args.dry_run:
+                    # Written now so the migration lands even when no newer corpus day exists.
+                    write_csv(market_dir / csv_file, existing_rows, CSV_FIELDS)
+                    update_summary_json(market_dir, existing_rows, shape)
+            else:
+                # One legacy market must never stop the refresh of every other market (PR #77 failed
+                # that way on 2026-11-10). Report it, keep its page in latest.json, touch nothing.
+                legacy_left.append(slug)
+                print(f"LEGACY SCHEMA {slug}: header is not CSV_FIELDS; left untouched "
+                      f"(run with --migrate-legacy to rebuild it from the corpus)")
+                summary_table.append({
+                    "market": slug,
+                    "old_last_day": max(row["date"] for row in existing_rows),
+                    "new_last_day": max(row["date"] for row in existing_rows),
+                    "rows_added": 0
+                })
+                with open(market_dir / "summary.json", "r", encoding="utf-8") as f:
+                    all_markets_data[slug] = json.load(f)
+                continue
 
         last_date = max(row["date"] for row in existing_rows)
         new_dates = [d for d in corpus_dates if d > last_date]
@@ -449,6 +532,8 @@ def main():
 
     total_added = sum(r["rows_added"] for r in summary_table)
     print(f"\nTotal: {total_added} rows added")
+    if legacy_left:
+        print(f"LEGACY SCHEMA left untouched ({len(legacy_left)}): {', '.join(legacy_left)}")
 
     return 0
 

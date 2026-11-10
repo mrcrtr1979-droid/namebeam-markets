@@ -102,6 +102,31 @@ def compute_sha256(file_path):
     return sha.hexdigest()
 
 
+# One complete pv-tiles container: the wrapper, one or more tiles, each tile made of v, l and d divs.
+PV_TILE = r'\s*<div class="pv-tile">(?:\s*<div class="[vld]">[^<]*</div>)+\s*</div>'
+PV_TILES_CONTAINER = r'(<div class="pv-tiles">(?:' + PV_TILE + r')+\s*</div>)'
+
+# The fragment LB-27 left after the rec-tiles close marker: the tail of the first tile (its l and d
+# divs and the tile's own close), zero or more whole tiles, then the container's close. Every text
+# slot is [^<]* so the match can never run into the next section. Whitespace between tiles is
+# allowed because the day-pages markets put each tile on its own line.
+STRAY_TILES_AFTER_MARKER = re.compile(
+    r'<!--/nb:rec-tiles-->('
+    r'<div class="l">[^<]*</div><div class="d">[^<]*</div></div>'
+    r'(?:' + PV_TILE + r')*'
+    r'\s*</div>)'
+)
+
+
+def remove_stray_tiles(html):
+    """Return (html, removed_fragment). Drops the stale tile fragment that sat outside the rec-tiles
+    markers on every record page after LB-27 (2026-11-10); a page without the fragment is unchanged."""
+    m = STRAY_TILES_AFTER_MARKER.search(html)
+    if not m:
+        return html, ''
+    return html[:m.start(1)] + html[m.end(1):], m.group(1)
+
+
 def sanitize_text(text):
     """Sanitize text to ASCII-only, replacing curly quotes and other common chars"""
     # Replace curly quotes with straight quotes
@@ -512,16 +537,25 @@ class PageRefresher:
 
             tiles_html += '</div>'
 
-            # Add marker if not present
+            # Add marker if not present. The pattern must take the WHOLE tile container: the LB-27 version
+            # used a lazy ".*?</div>" that closed after the first tile's value div and left the rest of the
+            # original tiles outside the markers on all 33 record pages (found 2026-11-10, LB-29).
             if '<!--nb:rec-tiles-->' not in html:
                 html = re.sub(
-                    r'(<div class="pv-tiles">.*?</div>)',
+                    PV_TILES_CONTAINER,
                     r'<!--nb:rec-tiles-->\1<!--/nb:rec-tiles-->',
                     html,
-                    flags=re.DOTALL
+                    count=1
                 )
 
             html = self.replace_marker(page_name, html, 'rec-tiles', tiles_html)
+
+            # LB-29 (2026-11-10): drop the stale tile fragment the LB-27 marker insertion left after the
+            # close marker, so the page carries one tile set and nothing dated sits outside a marker.
+            html, stray = remove_stray_tiles(html)
+            if stray:
+                self.changes.append({'marker': 'rec-tiles-stray-removed', 'page': page_name,
+                                     'old': stray, 'new': ''})
 
             # c. Agency block (NEW)
             agency_html = ''
