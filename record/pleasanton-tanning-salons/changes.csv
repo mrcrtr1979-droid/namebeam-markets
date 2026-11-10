@@ -154,3 +154,438 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-03,2026-10-02,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Google Maps/Search,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Yelp,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Ask locals,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Call ahead,anthropic
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Pleasanton BART,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-08,2026-10-07,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,Things to look for,anthropic
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,VersaSpa,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,SunFX,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,entered,CA and I,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Pleasanton BART,openai
+2026-10-09,2026-10-08,1,openai anthropic perplexity google_serp,dropped,Google and Yelp,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,COVID,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,entered,Secretly Sunless,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,VersaSpa,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,SunFX,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,CA and I,openai
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-10-10,2026-10-09,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,entered,Sienna X,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Things to look for,anthropic
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,Google and Yelp,openai
+2026-10-11,2026-10-10,1,openai anthropic perplexity google_serp,dropped,COVID,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Google and Yelp,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,DHA-based,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,entered,Pleasanton and I,openai
+2026-10-12,2026-10-11,1,openai anthropic perplexity google_serp,dropped,Sienna X,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,UV-free,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,Yelp and Facebook,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Google and Yelp,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,DHA-based,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Pleasanton and I,openai
+2026-10-13,2026-10-12,1,openai anthropic perplexity google_serp,dropped,Secretly Sunless,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Pleasanton. It,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,Tan Salon,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,entered,S.H.E.O,perplexity
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Google Maps/Search,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Ask locals,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Call ahead,anthropic
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,UV-free,openai
+2026-10-14,2026-10-13,1,openai anthropic perplexity google_serp,dropped,Yelp and Facebook,openai
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,UV tanning beds,openai perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-10-15,2026-10-14,1,openai anthropic perplexity google_serp,dropped,Pleasanton. It,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,entered,The Golden Girl,perplexity
+2026-10-16,2026-10-15,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,entered,VersaSpa,openai
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
+2026-10-17,2026-10-16,1,openai anthropic perplexity google_serp,dropped,UV tanning beds,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Things to consider,anthropic
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,entered,Pleasanton. It,perplexity
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,VersaSpa,openai
+2026-10-18,2026-10-17,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Highest Rated,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,DHA-free,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,UV tanning beds,openai
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,Secretly Sunless,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,entered,The Golden Girl,perplexity
+2026-10-19,2026-10-18,1,openai anthropic perplexity google_serp,dropped,East Bay Tanning,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,entered,COVID,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,entered,Glow House Studio,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,entered,East Bay Tanning,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,Things to consider,anthropic
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,Highest Rated,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,DHA-free,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,UV tanning beds,openai
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,The Golden Girl,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,Pleasanton. It,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,Tan Salon,perplexity
+2026-10-20,2026-10-19,1,openai anthropic perplexity google_serp,dropped,S.H.E.O,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,entered,Mystic,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,entered,VersaSpa,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,entered,UV tanning beds,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,entered,MapQuest,perplexity
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,dropped,COVID,openai
+2026-10-21,2026-10-20,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Sunsational Tanning,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Call Ahead for Specials,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Ask About Bulb Changes,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Near the Stoneridge Mall,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Serving the Tri-Valley,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,San Ramon,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Sunsational. They,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Local Spas,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Custom Airbrush Spray Tans,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Know Your Skin Type,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton. It,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,entered,Diablo Magazine,perplexity
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Aloha Tans,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Ask about the bulbs,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Check for UV-free options,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Call ahead for specials,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,UV-free,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Golden Glow Spray Tanning,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,National Chains,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Sun Capsule,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Check for UV-free,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,DHA-free,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton and Dublin,gemini
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,Mystic,openai
+2026-10-22,2026-10-21,1,openai anthropic perplexity gemini google_serp,dropped,MapQuest,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,UV-free,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Beauty,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Glow Up,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Choose Palm Beach Tan,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Pleasanton and I,openai
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Glow House Studio,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,entered,Village Parkway,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Sunsational Tanning,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Call Ahead for Specials,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Ask About Bulb Changes,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,VersaSpa,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Near the Stoneridge Mall,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Serving the Tri-Valley,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Dublin,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Sunsational. They,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Local Spas,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Custom Airbrush Spray Tans,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Tips for Choosing the Right Salon,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Know Your Skin Type,gemini
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Secretly Sunless,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Pleasanton. It,perplexity
+2026-10-23,2026-10-22,1,openai anthropic perplexity gemini,dropped,Diablo Magazine,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Solaris Sun Spa,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Call ahead for specials,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Check bulb maintenance,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Book for events,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Dublin,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Mystic Tan,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,VersaSpa,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Local Boutiques,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Spray Tanning,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Pleasanton ZIP,openai
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,entered,Glow House,perplexity
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,UV-free,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Beauty,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Glow Up,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,San Ramon,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Choose Palm Beach Tan,gemini
+2026-10-24,2026-10-23,1,openai anthropic perplexity gemini,dropped,Pleasanton and I,openai
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Blush Salon,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,"For a quick, golden glow without UV",gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,VersaSpa Pro,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,UV-free,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Local Day Spas,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Spray Tans,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Secretly Sunless,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,entered,Tanning Island,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Call ahead for specials,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Check bulb maintenance,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Book for events,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Dublin,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Local Boutiques,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Spray Tanning,gemini
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Village Parkway,perplexity
+2026-10-25,2026-10-24,1,anthropic perplexity gemini google_serp,dropped,Glow House,perplexity
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Golden State Tanning & Boutique,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Alternative: High-End Spas & Salons,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Stoneridge Shopping Center,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Golden State Tanning,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,entered,Spray Tan,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Solaris Sun Spa,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Blush Salon,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,"For a quick, golden glow without UV",gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,VersaSpa Pro,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,UV-free,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Local Day Spas,gemini
+2026-10-26,2026-10-25,1,anthropic perplexity gemini google_serp,dropped,Spray Tans,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Golden State Tanning & Sunless,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Local Day Spas & Salons (Alternative Option),gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Near the Stoneridge Mall,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Local Day Spas,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Alternative Option,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,entered,Vita Liberata,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Golden State Tanning & Boutique,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Alternative: High-End Spas & Salons,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Stoneridge Shopping Center,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,VersaSpa,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Spray Tan,gemini
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,East Bay Tanning,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,Secretly Sunless,perplexity
+2026-10-27,2026-10-26,1,anthropic perplexity gemini google_serp,dropped,UV tanning beds,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,California Sun Express,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Go to Palm Beach Tan,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Look for an independent airbrush artist,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Rose Pavilion,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,VersaSpa,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Local Boutiques,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,UV tanning beds,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,entered,East Bay Tanning,perplexity
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Golden State Tanning & Sunless,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Local Day Spas & Salons (Alternative Option),gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Near the Stoneridge Mall,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Golden State Tanning,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Local Day Spas,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Alternative Option,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Vita Liberata,gemini
+2026-10-28,2026-10-27,1,anthropic perplexity gemini google_serp,dropped,Tanning Island,perplexity
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Golden State Tanning Co,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,High-End Salons & Spas (For Airbrush/Spray Tans),gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Near Stoneridge,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Tri-Valley,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,High-End Salons,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Spray Tans,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,San Ramon,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,entered,Golden State Tanning,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,California Sun Express,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Go to Palm Beach Tan,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Look for an independent airbrush artist,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Rose Pavilion,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,VersaSpa,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Local Boutiques,gemini
+2026-10-29,2026-10-28,1,anthropic perplexity gemini google_serp,dropped,Bella Bronze Mobile Airbrush Tanning,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,California Sun Express,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Local Boutiques & Spas (For Spray Tans),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Mobile Spray Tanners & Estheticians,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Check for New Customer Specials,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Call Ahead for Bulb Schedules,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Read Recent Reviews,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,VersaSpa,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Dublin,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,High-powered UV,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Local Boutiques,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Mobile Spray Tanners,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Tips Before You Choose,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,entered,Pleasanton. Its,perplexity
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Golden State Tanning Co,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,High-End Salons & Spas (For Airbrush/Spray Tans),gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Near Stoneridge,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Tri-Valley,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,High-End Salons,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Spray Tans,gemini
+2026-10-30,2026-10-29,1,anthropic perplexity gemini google_serp,dropped,Golden State Tanning,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Golden Glow Spray Tanning,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Sun Lounge,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Stoneridge Pleasanton,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Tri-Valley,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Tips for Choosing the Right Salon,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,UV Tanning,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Spray Tan,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,COVID,openai
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,The Golden Girl,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton. Reviews,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,California Sun Express,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Local Boutiques & Spas (For Spray Tans),gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Mobile Spray Tanners & Estheticians,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Check for New Customer Specials,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Call Ahead for Bulb Schedules,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Read Recent Reviews,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Dublin,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,High-powered UV,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Local Boutiques,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Mobile Spray Tanners,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Tips Before You Choose,gemini
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Glow House Studio,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton. Its,perplexity
+2026-10-31,2026-10-30,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Ask about bulb changes,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,For Spray Tans,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Beauty Bar,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Golden Glow,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Hollywood Tans,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Dublin,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,entered,Secretly Sunless,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Golden Glow Spray Tanning,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,The Sun Lounge,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Stoneridge Pleasanton,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,San Ramon,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,UV Tanning,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tan,gemini
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,COVID,openai
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,The Golden Girl,perplexity
+2026-11-01,2026-10-31,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton. Reviews,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Solaris Sun Spa,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Bronzed Bunny,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Livermore,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Multi-level UV,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan and VersaSpa,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Spray Tan Focus,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Palm Beach,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Saint Tropez,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Mineral Air,openai
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,Spray Soleil Airbrush Tanning,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,BGBG Skin & Body,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,entered,BGBG Skin,perplexity
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Ask about bulb changes,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,For Spray Tans,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Beauty Bar,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Golden Glow,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Tri-Valley,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Hollywood Tans,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Tips for Choosing the Right Salon,gemini
+2026-11-02,2026-11-01,1,openai anthropic perplexity gemini google_serp,dropped,Secretly Sunless,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,The Sunroom Tanning Salon (Nearby Alternatives),gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Ask about new customer specials,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Check current hours,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,UV-free,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Hacienda Crossings,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,UV-free Mystic Tan and VersaSpa,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Golden Glow Spray Tanning,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Nearby Alternatives,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,entered,Secretly Sunless,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Solaris Sun Spa,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Bronzed Bunny,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Multi-level UV,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan and VersaSpa,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tan Focus,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Palm Beach,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,gemini
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Saint Tropez,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Mineral Air,openai
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,Spray Soleil Airbrush Tanning,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,BGBG Skin & Body,perplexity
+2026-11-03,2026-11-02,1,openai anthropic perplexity gemini google_serp,dropped,BGBG Skin,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Solaris Body Contouring & Sunless Tanning,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Call ahead for specials,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Solaris Body Contouring,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Sunless Tanning,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,UV-only,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,gemini openai perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,East Bay,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Remember UV,openai
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Glow House Studio,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,entered,Spray Soleil Airbrush Tanning,perplexity
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,The Sunroom Tanning Salon (Nearby Alternatives),gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Dublin,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Ask about new customer specials,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Check current hours,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,UV-free,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Hacienda Crossings,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,UV-free Mystic Tan and VersaSpa,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Golden Glow Spray Tanning,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Nearby Alternatives,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini
+2026-11-04,2026-11-03,1,openai anthropic perplexity gemini google_serp,dropped,East Bay Tanning,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Solaris Sun Spa,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,Near Pleasanton,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,entered,East Bay Tanning,perplexity
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Palm Beach Tan,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Solaris Body Contouring & Sunless Tanning,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Call ahead for specials,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,VersaSpa,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Solaris Body Contouring,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Sunless Tanning,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,UV-only,gemini
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Remember UV,openai
+2026-11-05,2026-11-04,1,openai anthropic perplexity gemini,dropped,Glow House Studio,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Things to consider when choosing,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Things to consider,anthropic
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Palm Beach Tan,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,VersaSpa,gemini openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Mystic,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,St. Tropez,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,Bondi Sands,openai
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,BGBG Skin & Body,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,entered,BGBG Skin,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Solaris Sun Spa,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,Near Pleasanton,gemini
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,East Bay Tanning,perplexity
+2026-11-06,2026-11-05,1,openai anthropic perplexity gemini,dropped,East Bay,perplexity
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Visit in person,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Aloha Tans,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,High-End Spas & Salons (For Spray Tans),gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,UV-free,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Mystic Tan,gemini openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Near Stoneridge Shopping Center,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Dublin,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,San Ramon,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,Aloha Tans. They,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,High-End Spas,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,entered,For Spray Tans,gemini
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Things to consider when choosing,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Things to consider,anthropic
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Mystic,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,St. Tropez,openai
+2026-11-07,2026-11-06,1,openai anthropic perplexity gemini,dropped,Bondi Sands,openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Things to consider when choosing,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Things to consider,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Sunsation Tanning,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Local Mobile Spray Tanners,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,For regular UV tanning,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,For a quick spray tan,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Downtown Pleasanton,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Mission Plaza,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Serves the Pleasanton,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Livermore,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,Spray Tans,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,East Bay Tanning,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,UV tanning bed,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,entered,East Bay,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Visit in person,anthropic
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Aloha Tans,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,High-End Spas & Salons (For Spray Tans),gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,UV-free,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Mystic Tan,gemini openai
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Near Stoneridge Shopping Center,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Dublin,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,San Ramon,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,Aloha Tans. They,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,High-End Spas,gemini
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,BGBG Skin & Body,perplexity
+2026-11-08,2026-11-07,1,openai anthropic perplexity gemini,dropped,BGBG Skin,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,The Vibe,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Specialized Salons,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Stoneridge Shopping Center,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Spray Tan Artists,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,entered,Nextdoor. Use,openai
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Things to consider when choosing,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Things to consider,anthropic
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Sunsation Tanning,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Local Mobile Spray Tanners,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,For regular UV tanning,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,For a quick spray tan,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Downtown Pleasanton,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Mission Plaza,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,VersaSpa,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Serves the Pleasanton,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Livermore,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,For Spray Tans,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Spray Tans,gemini
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,East Bay Tanning,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,UV tanning bed,perplexity
+2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,East Bay,perplexity

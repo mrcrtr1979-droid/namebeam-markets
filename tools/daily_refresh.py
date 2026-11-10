@@ -316,7 +316,7 @@ def main():
         total_ok = sum(m["ok_rows"] for m in markets_summary.values())
 
         latest = {
-            "generated_utc": datetime.now(timezone.utc).isoformat() + "Z",
+            "generated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
             "latest_run_day": latest_run_day,
             "window_first": window_first,
             "window_end": latest_run_day,
