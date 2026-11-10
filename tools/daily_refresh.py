@@ -30,7 +30,7 @@ def sha256_file(path):
 
 
 def load_roster(nvi_path):
-    """Load segment_pages.json to map slugs to market/niche."""
+    """Load segment_pages.json to map slugs to market/niche/question."""
     roster_path = Path(nvi_path) / "roster" / "segment_pages.json"
     with open(roster_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -42,7 +42,8 @@ def load_roster(nvi_path):
             q = page["questions"][0]
             slug_to_info[slug] = {
                 "market": q["market"],
-                "niche": q["niche"]
+                "niche": q["niche"],
+                "question": q.get("niche_question", "")
             }
     return slug_to_info
 
@@ -101,6 +102,19 @@ def find_corpus_dates(nvi_path):
         if m:
             dates.add(m.group(1))
     return sorted(dates)
+
+
+def extract_question_from_html(index_html_path):
+    """Extract question text from market index.html page."""
+    try:
+        with open(index_html_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        match = re.search(r'<div class="pv-q">(.*?)</div>', content, re.DOTALL)
+        if match:
+            return match.group(1).strip()
+    except Exception:
+        pass
+    return None
 
 
 def write_csv(path, rows, fieldnames):
@@ -221,6 +235,20 @@ def main():
         last_date = max(row["date"] for row in existing_rows)
         new_dates = [d for d in corpus_dates if d > last_date]
 
+        # BUG 1 FIX: Check if slug is in roster BEFORE computing new_dates
+        # For off-roster markets, skip new data collection but still include in latest.json
+        if slug not in roster:
+            # Off-roster market: include in latest.json with rows_added 0
+            summary_table.append({
+                "market": slug,
+                "old_last_day": last_date,
+                "new_last_day": last_date,
+                "rows_added": 0
+            })
+            with open(market_dir / "summary.json", "r", encoding="utf-8") as f:
+                all_markets_data[slug] = json.load(f)
+            continue
+
         if not new_dates:
             summary_table.append({
                 "market": slug,
@@ -231,9 +259,6 @@ def main():
 
             with open(market_dir / "summary.json", "r", encoding="utf-8") as f:
                 all_markets_data[slug] = json.load(f)
-            continue
-
-        if slug not in roster:
             continue
 
         expected_market = roster[slug]["market"]
@@ -304,12 +329,93 @@ def main():
         markets_summary = {}
         for slug, m in all_markets_data.items():
             ok_rows = sum(e.get("ok", 0) for e in m.get("by_engine", {}).values())
+
+            # Get market, niche, question
+            market = m.get("market", "")
+            niche = m.get("niche", "")
+            question = None
+
+            # Try roster first
+            if slug in roster:
+                market = roster[slug].get("market", market)
+                niche = roster[slug].get("niche", niche)
+                question = roster[slug].get("question")
+
+            # Fall back to extracting from index.html if question not found
+            if not question:
+                index_html_path = record_dir / slug / "index.html"
+                if index_html_path.exists():
+                    question = extract_question_from_html(index_html_path)
+
+            # Store question in summary.json for off-roster markets
+            if not question:
+                question = ""
+
+            if slug not in roster and question:
+                m["question"] = question
+                summary_path = record_dir / slug / "summary.json"
+                with open(summary_path, "w", encoding="utf-8") as f:
+                    json.dump(m, f, indent=2)
+
+            # Get latest day data with engine results and names
+            window_last = m.get("window_last")
+            latest_day_engines = {}
+
+            if window_last:
+                # Read CSV to get names for latest day
+                market_dir = record_dir / slug
+                if m.get("shape") == "day_pages":
+                    csv_path = market_dir / "all.csv"
+                else:
+                    csv_path = market_dir / "rows.csv"
+
+                if csv_path.exists():
+                    try:
+                        with open(csv_path, "r", encoding="utf-8", newline="") as f:
+                            reader = csv.DictReader(f)
+                            for row in reader:
+                                if row.get("date") == window_last:
+                                    engine = row.get("engine")
+                                    # Handle both CSV formats
+                                    status = row.get("status") or row.get("run_status", "UNKNOWN")
+                                    names_str = row.get("businesses_named") or row.get("tracked_businesses_named_in_text", "")
+                                    names_count = len([n.strip() for n in names_str.split("; ") if n.strip()]) if names_str else 0
+                                    if engine:
+                                        latest_day_engines[engine] = {
+                                            "status": status,
+                                            "names_count": names_count
+                                        }
+                    except Exception as e:
+                        print(f"Warning: Could not read CSV for {slug}: {e}")
+
+            # Collection active if window_last within 2 days of latest_run_day
+            collection_active = False
+            if window_last:
+                from datetime import datetime as dt
+                try:
+                    last_dt = dt.strptime(window_last, "%Y-%m-%d")
+                    latest_dt = dt.strptime(latest_run_day, "%Y-%m-%d")
+                    days_diff = (latest_dt - last_dt).days
+                    collection_active = days_diff <= 2
+                except:
+                    pass
+
             markets_summary[slug] = {
                 "window_first": m.get("window_first"),
-                "window_last": m.get("window_last"),
+                "window_last": window_last,
                 "run_days": m.get("run_days", 0),
                 "rows_total": m.get("rows_total", 0),
-                "ok_rows": ok_rows
+                "ok_rows": ok_rows,
+                "market": market,
+                "niche": niche,
+                "question": question,
+                "shape": m.get("shape", "rows_only"),
+                "collection_active": collection_active,
+                "by_engine": m.get("by_engine", {}),
+                "latest_day": {
+                    "date": window_last,
+                    "engines": latest_day_engines
+                }
             }
 
         total_rows = sum(m["rows_total"] for m in markets_summary.values())

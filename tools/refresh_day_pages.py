@@ -12,6 +12,7 @@ ASCII-only enforced. Idempotent. Zero network, zero model calls.
 import argparse
 import csv
 import hashlib
+import json
 import os
 import re
 import sys
@@ -465,28 +466,45 @@ def update_market_index(index_path, new_dates_data, first_date, latest_date, tod
     return html
 
 
-def update_sitemap(sitemap_path, new_entries):
-    """Add new day page entries to sitemap.xml."""
+def update_sitemap(sitemap_path, new_entries, today, hub_lastmods=None):
+    """Add new day page entries to sitemap.xml with lastmod, and update hub lastmods.
+
+    Args:
+        sitemap_path: Path to sitemap.xml
+        new_entries: Set of URLs to add (day pages)
+        today: YYYY-MM-DD string for lastmod on new entries
+        hub_lastmods: Dict of {hub_url: lastmod_date} to update existing hub entries
+    """
     with open(sitemap_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Parse existing URLs
-    existing_urls = set(re.findall(r'<loc>(.*?)</loc>', content))
+    # Parse existing entries (full url blocks)
+    url_block_pattern = r'<url>\s*<loc>(.*?)</loc>(?:\s*<lastmod>(.*?)</lastmod>)?\s*</url>'
+    matches = list(re.finditer(url_block_pattern, content, re.DOTALL))
 
-    # Build new entries
+    existing_urls = {m.group(1): (m.group(2) or None) for m in matches}
+
+    # Build new entries for day pages (not already in sitemap)
     new_entries_xml = []
     for url in sorted(new_entries):
         if url not in existing_urls:
-            entry = f'  <url>\n    <loc>{url}</loc>\n  </url>'
+            entry = f'  <url>\n    <loc>{url}</loc>\n    <lastmod>{today}</lastmod>\n  </url>'
             new_entries_xml.append(entry)
 
-    if not new_entries_xml:
-        return content
+    # Update hub lastmods if provided
+    if hub_lastmods:
+        for url, lastmod in hub_lastmods.items():
+            if url in existing_urls:
+                # Find and replace the url block
+                old_block_pattern = r'<url>\s*<loc>' + re.escape(url) + r'</loc>(?:\s*<lastmod>.*?</lastmod>)?\s*</url>'
+                new_block = f'<url>\n    <loc>{url}</loc>\n    <lastmod>{lastmod}</lastmod>\n  </url>'
+                content = re.sub(old_block_pattern, new_block, content, count=1, flags=re.DOTALL)
 
-    # Insert before </urlset>
-    new_content = content.replace('</urlset>', '\n'.join(new_entries_xml) + '\n</urlset>')
+    # Insert new entries before </urlset>
+    if new_entries_xml:
+        content = content.replace('</urlset>', '\n'.join(new_entries_xml) + '\n</urlset>')
 
-    return new_content
+    return content
 
 
 def process_market(market_slug, root_dir, today, stats):
@@ -860,7 +878,8 @@ def main():
     stats = {
         'days_written': {},
         'changes_rows': {},
-        'sitemap_entries': set()
+        'sitemap_entries': set(),
+        'hub_lastmods': {}  # {hub_url: lastmod_date}
     }
 
     # Process each market
@@ -886,10 +905,19 @@ def main():
             repaired += repair_links(market_dir, market_slug)
     print(f"day page links repaired: {repaired}")
 
+    # Collect hub lastmods from summary.json for markets that had pages updated
+    for market_slug in stats['days_written'].keys():
+        summary_path = root_dir / 'record' / market_slug / 'summary.json'
+        if summary_path.exists():
+            with open(summary_path, 'r', encoding='utf-8') as f:
+                summary = json.load(f)
+            hub_url = f'https://markets.namebeam.ai/record/{market_slug}/'
+            stats['hub_lastmods'][hub_url] = summary['window_last']
+
     # Update sitemap
     sitemap_path = root_dir / 'sitemap.xml'
-    if sitemap_path.exists() and stats['sitemap_entries']:
-        updated_sitemap = update_sitemap(sitemap_path, stats['sitemap_entries'])
+    if sitemap_path.exists():
+        updated_sitemap = update_sitemap(sitemap_path, stats['sitemap_entries'], today, stats['hub_lastmods'])
         with open(sitemap_path, 'w', encoding='utf-8') as f:
             f.write(updated_sitemap)
 

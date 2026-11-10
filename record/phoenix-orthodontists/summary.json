@@ -217,5 +217,6 @@
   "engine_behavior_reason": "n below 100",
   "generated_utc": "2026-11-09 21:51:16 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
-  "no_business_names": true
+  "no_business_names": true,
+  "question": "Who is the best orthodontist in Phoenix for braces or Invisalign?"
 }
