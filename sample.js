@@ -29,7 +29,7 @@
     return e;
   }
   function build(p, slug) {
-    var form = el("form", { "class": "nb-sample", "action": EDGE + "/api/sample", "method": "post", "novalidate": "novalidate" });
+    var form = el("form", { "id": "nb-sample", "class": "nb-sample", "action": EDGE + "/api/sample", "method": "post", "novalidate": "novalidate" });
     form.appendChild(el("h3", {}, "Get the free sample for this market by email"));
     form.appendChild(el("p", { "class": "pv-note" }, "The public rows for this market as a CSV with its hash, a one-page summary of counts by engine and date, and the scope of the $49 Market Record. For agencies. A count, not a ranking."));
     var row = el("div", { "class": "nb-sample-row" });

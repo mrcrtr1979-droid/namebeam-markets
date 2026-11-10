@@ -13,6 +13,7 @@ import json
 import re
 import sys
 import tempfile
+import hashlib
 from datetime import datetime
 from pathlib import Path
 from urllib.request import urlopen, Request
@@ -71,6 +72,7 @@ def main():
     changes.extend(refresher.refresh_buy())
     changes.extend(refresher.refresh_agency())
     changes.extend(refresher.refresh_check())
+    changes.extend(refresher.refresh_record_pages())
 
     # Print change table
     print("\nChanges made:")
@@ -91,13 +93,22 @@ def load_json(path):
         return json.load(f)
 
 
+def compute_sha256(file_path):
+    """Compute SHA-256 hash of a file"""
+    sha = hashlib.sha256()
+    with open(file_path, 'rb') as f:
+        while chunk := f.read(8192):
+            sha.update(chunk)
+    return sha.hexdigest()
+
+
 def sanitize_text(text):
     """Sanitize text to ASCII-only, replacing curly quotes and other common chars"""
     # Replace curly quotes with straight quotes
-    text = text.replace('‘', "'")  # Left single quote
-    text = text.replace('’', "'")  # Right single quote
-    text = text.replace('“', '"')  # Left double quote
-    text = text.replace('”', '"')  # Right double quote
+    text = text.replace(''', "'")  # Left single quote
+    text = text.replace(''', "'")  # Right single quote
+    text = text.replace('"', '"')  # Left double quote
+    text = text.replace('"', '"')  # Right double quote
     # Replace em and en dashes
     text = text.replace('–', '-')  # En dash
     text = text.replace('—', '--')  # Em dash
@@ -438,6 +449,209 @@ class PageRefresher:
                     print(f"check/index.html H1: Found '{actual_h1}' - not changing")
 
         self.write_page(page_name, html)
+        return self.changes[changes_before:]
+
+    def refresh_record_pages(self):
+        """Refresh all record/<slug>/index.html pages"""
+        changes_before = len(self.changes)
+
+        for slug, market_data in self.latest['markets'].items():
+            page_path = self.root / 'record' / slug / 'index.html'
+            if not page_path.exists():
+                continue
+
+            page_name = f'record/{slug}/index.html'
+            html = self.read_page(page_path.relative_to(self.root).as_posix())
+
+            # Get data for this market
+            summary = self.markets_data.get(slug, {})
+            window_first = market_data.get('window_first')
+            window_last = market_data.get('window_last')
+            question = market_data.get('question', '')
+            market_name = market_data.get('market', '')
+            niche = market_data.get('niche', '')
+            shape = market_data.get('shape', 'rows_only')
+            collection_active = market_data.get('collection_active', False)
+            by_engine = market_data.get('by_engine', {})
+            latest_day = market_data.get('latest_day', {})
+            run_days = market_data.get('run_days', 0)
+            ok_rows = market_data.get('ok_rows', 0)
+            rows_total = market_data.get('rows_total', 0)
+
+            # a. Meta description
+            meta_desc = f'Asked word for word: {question} The names each AI engine returned, counted by day, {window_first} to {window_last}, free CSV. A count, not a ranking.'
+            if not collection_active and window_last:
+                meta_desc += f' Collection ended {window_last}.'
+
+            # Add marker if not present
+            if '<!--nb:rec-meta-->' not in html:
+                html = re.sub(
+                    r'(<meta name="description" content="[^"]*">)',
+                    r'<!--nb:rec-meta-->\1<!--/nb:rec-meta-->',
+                    html
+                )
+
+            html = self.replace_marker(page_name, html, 'rec-meta',
+                                      f'<meta name="description" content="{sanitize_text(meta_desc)}">')
+
+            # b. Tiles (pv-tiles)
+            engine_order = ['perplexity', 'openai', 'gemini', 'anthropic']
+            engine_labels = {
+                'perplexity': 'Perplexity',
+                'openai': 'ChatGPT (OpenAI)',
+                'gemini': 'Gemini',
+                'anthropic': 'Claude (Anthropic)'
+            }
+
+            tiles_html = '<div class="pv-tiles">'
+            for eng in engine_order:
+                if eng in by_engine:
+                    days_with_ok = by_engine[eng].get('days_with_ok', 0)
+                    label = engine_labels[eng]
+                    tiles_html += f'<div class="pv-tile"><div class="v">{days_with_ok}</div><div class="l">{label} answer days</div><div class="d">OK answers, {window_first} to {window_last}</div></div>'
+
+            tiles_html += '</div>'
+
+            # Add marker if not present
+            if '<!--nb:rec-tiles-->' not in html:
+                html = re.sub(
+                    r'(<div class="pv-tiles">.*?</div>)',
+                    r'<!--nb:rec-tiles-->\1<!--/nb:rec-tiles-->',
+                    html,
+                    flags=re.DOTALL
+                )
+
+            html = self.replace_marker(page_name, html, 'rec-tiles', tiles_html)
+
+            # c. Agency block (NEW)
+            agency_html = ''
+
+            # P1: Latest day receipts
+            latest_date = latest_day.get('date')
+            engines_data = latest_day.get('engines', {})
+
+            if latest_date:
+                p1_start = f'On {latest_date}, asked this question word for word: '
+                p1_parts = []
+
+                for eng in ['openai', 'gemini', 'anthropic', 'perplexity']:
+                    eng_label = {'openai': 'ChatGPT', 'gemini': 'Gemini', 'anthropic': 'Claude', 'perplexity': 'Perplexity'}[eng]
+
+                    if eng in engines_data and engines_data[eng]['status'] == 'OK':
+                        names = engines_data[eng]['names']
+                        names = [sanitize_text(n) for n in names]  # Sanitize names
+                        if names:
+                            if len(names) <= 5:
+                                names_str = ', '.join(names)
+                            else:
+                                names_str = ', '.join(names[:5]) + f', and {len(names) - 5} more'
+                            p1_parts.append(f'{eng_label} named {names_str}')
+                        else:
+                            p1_parts.append(f'{eng_label} named no public names recorded')
+                    else:
+                        p1_parts.append(f'{eng_label}: no OK answer that day')
+
+                p1 = '<p class="pv-note">' + sanitize_text(p1_start + '; '.join(p1_parts)) + '.</p>'
+            else:
+                p1 = '<p class="pv-note">No latest day data available.</p>'
+
+            # P2: Window summary
+            if collection_active:
+                p2 = f'<p>Dated window {window_first} to {window_last}, {run_days} run days, {ok_rows} OK answers of {rows_total} rows. <a class="btn" href="#nb-sample">Get the free sample for this market</a></p>'
+            else:
+                p2 = f'<p>Collection for this market ended {window_last}; the record stands as published, {run_days} run days, {ok_rows} OK answers of {rows_total} rows.</p>'
+
+            agency_html = p1 + p2
+
+            # Add marker if not present (insert after pv-q div, before nb-offer)
+            if '<!--nb:rec-agency-->' not in html:
+                html = re.sub(
+                    r'(<div class="pv-q">.*?</div>)\s*(<p class="nb-offer">)',
+                    r'\1\n<!--nb:rec-agency--><!--/nb:rec-agency-->\n\2',
+                    html,
+                    flags=re.DOTALL
+                )
+
+            html = self.replace_marker(page_name, html, 'rec-agency', agency_html)
+
+            # d. Downloads
+            if shape == 'day_pages':
+                csv_file = 'all.csv'
+            else:
+                csv_file = 'rows.csv'
+
+            csv_path = self.root / 'record' / slug / csv_file
+            csv_sha = compute_sha256(csv_path)
+
+            # Count rows in CSV
+            with open(csv_path, 'r', encoding='utf-8') as f:
+                csv_rows = sum(1 for _ in f) - 1  # subtract header
+
+            downloads_html = f'<a href="/record/{slug}/{csv_file}">{csv_file}</a>, one row per engine per day, {window_first} to {window_last}: status, answer SHA-256, characters, whether the answer text is public, and the tracked businesses named in the text. {csv_rows} rows. SHA-256 {csv_sha}'
+
+            # Add marker if not present
+            if '<!--nb:rec-downloads-->' not in html:
+                html = re.sub(
+                    r'(<h2>Downloads \(ungated\)</h2><ul><li>)([^<]*)(</li></ul>)',
+                    r'\1<!--nb:rec-downloads-->\2<!--/nb:rec-downloads-->\3',
+                    html,
+                    flags=re.DOTALL
+                )
+
+            html = self.replace_marker(page_name, html, 'rec-downloads', downloads_html)
+
+            # e. JSON-LD
+            dataset_json = {
+                "@context": "https://schema.org",
+                "@type": "Dataset",
+                "name": f"{market_name} {niche}: dated AI answer record",
+                "description": sanitize_text(meta_desc),
+                "url": f"https://markets.namebeam.ai/record/{slug}/",
+                "sameAs": "https://github.com/mrcrtr1979-droid/namebeam-visibility-index",
+                "temporalCoverage": f"{window_first}/{window_last}",
+                "dateModified": self.today,
+                "license": "https://creativecommons.org/licenses/by/4.0/",
+                "isAccessibleForFree": True,
+                "creator": {
+                    "@type": "Organization",
+                    "name": "Carter Enterprise LLC",
+                    "url": "https://namebeam.ai/"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Namebeam",
+                    "url": "https://namebeam.ai/"
+                },
+                "keywords": [market_name, niche, "AI visibility", "business names", "AI answer engines"],
+                "variableMeasured": "business names returned by AI answer engines, counted by day",
+                "distribution": [
+                    {
+                        "@type": "DataDownload",
+                        "encodingFormat": "text/csv",
+                        "contentUrl": f"https://markets.namebeam.ai/record/{slug}/{csv_file}"
+                    }
+                ]
+            }
+
+            jsonld_str = json.dumps(dataset_json, ensure_ascii=True, indent=None)
+            # Escape </ for script tag
+            jsonld_str = jsonld_str.replace('</', '<\\/')
+
+            jsonld_html = f'<script type="application/ld+json">{jsonld_str}</script>'
+
+            # Add marker if not present (in head, after other meta tags)
+            if '<!--nb:rec-jsonld-->' not in html:
+                html = re.sub(
+                    r'(</head>)',
+                    r'<!--nb:rec-jsonld--><!--/nb:rec-jsonld-->\n\1',
+                    html
+                )
+
+            html = self.replace_marker(page_name, html, 'rec-jsonld', jsonld_html)
+
+            # Write back
+            self.write_page(page_path.relative_to(self.root).as_posix(), html)
+
         return self.changes[changes_before:]
 
 
