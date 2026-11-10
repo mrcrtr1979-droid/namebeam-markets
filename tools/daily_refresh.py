@@ -379,11 +379,11 @@ def main():
                                     # Handle both CSV formats
                                     status = row.get("status") or row.get("run_status", "UNKNOWN")
                                     names_str = row.get("businesses_named") or row.get("tracked_businesses_named_in_text", "")
-                                    names = [n.strip() for n in names_str.split("; ") if n.strip()] if names_str else []
+                                    names_count = len([n.strip() for n in names_str.split("; ") if n.strip()]) if names_str else 0
                                     if engine:
                                         latest_day_engines[engine] = {
                                             "status": status,
-                                            "names": names
+                                            "names_count": names_count
                                         }
                     except Exception as e:
                         print(f"Warning: Could not read CSV for {slug}: {e}")

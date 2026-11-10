@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T09:48:10Z",
+  "generated_utc": "2026-11-10T09:56:55Z",
   "latest_run_day": "2026-11-09",
   "window_first": "2026-08-05",
   "window_end": "2026-11-09",
@@ -42,21 +42,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "atlantadentalspa.com"
-            ]
+            "names_count": 1
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -104,76 +102,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Reliable Heating & Air",
-              "Coolray Heating & Air",
-              "Estes Services",
-              "TE Certified Electrical, Heating & Cooling",
-              "The Installation Matters More Than the Brand",
-              "Demand a \"Manual J\" Load Calculation",
-              "Get 3 Written Estimates",
-              "Ask About the Labor Warranty",
-              "Check Georgia Licensing",
-              "Conditioned Air Contractor",
-              "Atlanta for AC",
-              "Technical Expertise",
-              "PV Heating",
-              "Air Conditioning",
-              "PV HVAC",
-              "Atlanta. They",
-              "Homeowners",
-              "Established Brands",
-              "Fast Availability",
-              "Reliable Heating",
-              "Air",
-              "South. They",
-              "Coolray Heating",
-              "Carrier",
-              "TE Certified Electrical",
-              "AC Unit",
-              "Load Calculation",
-              "Written Estimates",
-              "State of Georgia",
-              "Coolray",
-              "AC replacement",
-              "Trane",
-              "TE Certified",
-              "PV Heating, Ventilation & Air Conditioning"
-            ]
+            "names_count": 34
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "One Hour Heating",
-              "Air Conditioning",
-              "Coolray",
-              "NATE",
-              "NATE-certified",
-              "Manual J Load Calculation",
-              "One Hour",
-              "Service Experts"
-            ]
+            "names_count": 8
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "PV Heating, Cooling & Plumbing",
-              "Manual J sizing guarantee",
-              "Estes Services",
-              "The Air Company",
-              "PV Heating",
-              "AC replacement",
-              "NATE",
-              "NATE-certified"
-            ]
+            "names_count": 8
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -216,23 +161,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "buckheadorthodontics.com"
-            ]
+            "names_count": 1
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "buckheadorthodontics.com"
-            ]
+            "names_count": 1
           }
         }
       }
@@ -280,57 +221,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Georgia Trial Lawyers Association",
-              "Experience with car accident cases",
-              "Initial Consultation"
-            ]
+            "names_count": 3
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Butler Prather LLP",
-              "The Roth Firm",
-              "Harris Lowry Manton LLP",
-              "Tobin Injury Law",
-              "Communication and Transparency",
-              "Peer and Client Reviews",
-              "Martindale-Hubbell",
-              "Avvo",
-              "Consult Multiple Attorneys",
-              "State Bar of Georgia",
-              "Prominent Atlanta Personal Injury Firms",
-              "Spaulding Injury Law",
-              "Atlanta Car Accident Lawyer",
-              "Butler Prather",
-              "The Millar Law Firm",
-              "Monge & Associates"
-            ]
+            "names_count": 16
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Atlanta Bar Association",
-              "Georgia Trial Lawyers Association",
-              "State Bar of Georgia",
-              "Martindale AV"
-            ]
+            "names_count": 4
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Peter A. Law of Law & Moran",
-              "David Van Sant of Van Sant Law",
-              "Peter A. Law of Law",
-              "State Bar of Georgia",
-              "Atlanta Bar Association",
-              "Van Sant Law",
-              "Peter A. Law"
-            ]
+            "names_count": 7
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -378,125 +285,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Chateau on the Lake",
-              "Branson Landing hotels",
-              "Kimpton Hotel",
-              "Airbnb areas to target",
-              "Table Rock Lake area",
-              "Downtown Branson",
-              "Hollister",
-              "Peak season",
-              "Location matters",
-              "Read reviews carefully",
-              "Check cancellation policies",
-              "Branson Accommodation Guide",
-              "Practical Tips",
-              "Table Rock",
-              "Landing",
-              "Lake",
-              "Book",
-              "Book early"
-            ]
+            "names_count": 18
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "The Best Hotels in Branson",
-              "The Best Airbnb / Vacation Rental Options",
-              "Chateau on the Lake",
-              "Grand Country",
-              "Highway",
-              "StoneBridge",
-              "Ozark",
-              "Water Park Lovers",
-              "Lake Resort Spa",
-              "Vibe",
-              "Located",
-              "Perfect",
-              "Historic Vibe",
-              "Vacation Rental Options",
-              "StoneBridge Village",
-              "Reeds Spring",
-              "Branson West",
-              "Lifting Bridge",
-              "Kimberling City Condos",
-              "Branson Strip",
-              "Thousand Hills",
-              "Dolly Parton",
-              "Going",
-              "Table Rock",
-              "Airbnbs",
-              "Lake Resort",
-              "The Strip",
-              "Lake",
-              "Chateau on the Lake Resort Spa",
-              "Book",
-              "Near Table Rock Lake",
-              "Kimberling City",
-              "Grand Country Waterpark Resort",
-              "Keeter Center",
-              "Overlooking Table Rock Lake"
-            ]
+            "names_count": 35
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Highway",
-              "Lake Resort Spa",
-              "Convention Center",
-              "Strip and Landing",
-              "Grand Country Inn",
-              "Suites and Stone Castle Hotel",
-              "Conference Center",
-              "VRBO. Look",
-              "Branson West",
-              "Branson Landing. If",
-              "Chateau on the Lake",
-              "Table Rock",
-              "Indian Point",
-              "Airbnbs",
-              "Landing",
-              "Hollister",
-              "Lake Resort",
-              "The Strip",
-              "Hilton Promenade at Branson Landing",
-              "Short answer",
-              "Hilton Promenade",
-              "Chateau on the Lake Resort Spa",
-              "Book",
-              "Silver Dollar City area",
-              "The Landing",
-              "Book early",
-              "Practical Tips",
-              "Grand Country",
-              "Keeter Center",
-              "Table Rock Lake cabin"
-            ]
+            "names_count": 30
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Highway 76 Strip",
-              "Lodge of the Ozarks",
-              "Chateau on the Lake",
-              "Highway",
-              "Theater District",
-              "Lake",
-              "Timber Ridge",
-              "Table Rock",
-              "Landing",
-              "The Strip",
-              "Hilton Promenade at Branson Landing",
-              "Hilton Promenade",
-              "Book",
-              "The Landing",
-              "Near Table Rock Lake"
-            ]
+            "names_count": 15
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -544,62 +349,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Yelp"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Palmetto Tan",
-              "Standout features",
-              "Bronze Vanity Spray Tanning",
-              "Golden slumber / Gloout Custom Spray Tanning",
-              "Planet Fitness",
-              "Luxury Beds",
-              "SouthPark",
-              "Steele Creek",
-              "Carolinas. Their",
-              "Standout",
-              "VersaSpa",
-              "Smart Tan",
-              "South End",
-              "Charlotte. It",
-              "Boutique Vibe",
-              "Gloout Custom Spray Tanning",
-              "NoDa and Plaza Midwood",
-              "Black Card Membership",
-              "Planet Fitness Black Card",
-              "HydroMassage",
-              "Choose Palmetto Tan",
-              "Bronze Vanity",
-              "Choose Planet Fitness",
-              "UV tanning beds",
-              "Plaza Midwood",
-              "NoDa"
-            ]
+            "names_count": 26
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Gorgeous GLO Beauty Bar",
-              "UV tanning beds",
-              "Palm Beach Tan at the Arboretum",
-              "Midtown and SouthPark",
-              "Palm Beach Tan",
-              "SouthPark",
-              "Gorgeous Glo",
-              "The Arboretum",
-              "Midtown"
-            ]
+            "names_count": 9
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -647,63 +413,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "AVVO",
-              "Martindale-Hubbell",
-              "Yelp",
-              "Illinois State Bar Association",
-              "Local Chicago presence"
-            ]
+            "names_count": 5
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Trial Experience vs. Quick Settlements",
-              "Contingency Fee Structure",
-              "Initial Consultation",
-              "Robert A. Clifford",
-              "Pritchard P.C",
-              "Chicago and Libertyville",
-              "TBIs",
-              "Salvi, Schostok & Pritchard",
-              "Salvi, Schostok & Pritchard P.C",
-              "Clifford Law Offices",
-              "Corboy & Demetrio",
-              "Corboy & Demetrio, P.C",
-              "Staver Accident Injury Lawyers, P.C",
-              "Staver Accident Injury Lawyers",
-              "Choose the Right Attorney"
-            ]
+            "names_count": 15
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Illinois Attorney Registration",
-              "Disciplinary Commission",
-              "Salvi, Schostok & Pritchard",
-              "Clifford Law Offices",
-              "Corboy & Demetrio"
-            ]
+            "names_count": 5
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Daniel J. McDevitt of McDevitt & Cobb",
-              "Salvi, Schostok & Pritchard",
-              "Daniel J. McDevitt of McDevitt",
-              "Paul A. Greenberg of Briskman Briskman",
-              "Illinois Attorney Registration and Disciplinary Commission",
-              "Disciplinary Commission",
-              "Illinois Attorney Registration",
-              "Briskman Briskman & Greenberg",
-              "McDevitt & Cobb",
-              "Daniel J. McDevitt",
-              "Briskman Briskman"
-            ]
+            "names_count": 11
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -751,54 +477,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Yelp"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Sun Tan City",
-              "Vibe",
-              "Global Tans",
-              "The Tanning Studio",
-              "Posh Aesthetix / Local Boutiques",
-              "Check the Bulbs",
-              "Look for New Client Specials",
-              "UV-free",
-              "Mystic Tan",
-              "VersaSpa",
-              "High-pressure UV",
-              "Select Suburbs",
-              "Posh Aesthetix",
-              "Local Boutiques",
-              "VersaSpa Pro",
-              "UV tanning",
-              "UV tanning beds"
-            ]
+            "names_count": 17
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "DHA-based",
-              "VersaSpa",
-              "Mystic Tan",
-              "UV tanning"
-            ]
+            "names_count": 4
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Sun Studio Tan",
-              "Palm Beach Tan at Georgesville",
-              "Short North",
-              "Palm Beach Tan",
-              "UV tanning"
-            ]
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -841,19 +536,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -896,21 +591,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "fusionorthodontics.com;guptasmilestudio.com"
-            ]
+            "names_count": 1
           }
         }
       }
@@ -958,60 +651,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Trucking Litigation Experience",
-              "Contingency Fee Structure",
-              "Trial Readiness",
-              "Trucking",
-              "Dallas-Fort Worth",
-              "Led",
-              "Amy Witherite",
-              "Michael Grossman",
-              "Jeff Rasansky",
-              "Dallas. Rasansky",
-              "TBIs",
-              "Fort Worth",
-              "North Texas",
-              "Look for When Choosing",
-              "Truck Accident Lawyer",
-              "Recommended Next Step",
-              "Grossman Law Offices",
-              "Rasansky Law Firm",
-              "In Texas"
-            ]
+            "names_count": 19
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Lawyer Referral Service",
-              "AV Preeminent",
-              "TopVerdict",
-              "Fort Worth",
-              "Dallas County",
-              "Board Certification",
-              "Board Certified in Personal Injury Trial Law",
-              "Texas Board of Legal Specialization"
-            ]
+            "names_count": 8
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Miller Weisbrod Olesky",
-              "Crain Brogdon",
-              "Aaron A. Herbert",
-              "Dallas Bar Association Lawyer Referral Service",
-              "Clay Miller",
-              "Personal Injury Trial Law. Verify",
-              "Board Certification in Personal Injury Trial Law"
-            ]
+            "names_count": 7
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1059,64 +715,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Getting started",
-              "BBB.org"
-            ]
+            "names_count": 2
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Peak Roofing & Construction",
-              "Kingdom Roofing",
-              "Highlander Roofing & Construction",
-              "Alpha Roofing & Restoration",
-              "Classic Roofing & Construction",
-              "Physical Local Address",
-              "Proper Licensing & Insurance",
-              "Manufacturer Certifications",
-              "GAF Master Elite",
-              "Owens Corning Platinum Preferred",
-              "No Upfront Payment for Storm Damage",
-              "Check Recent Reviews",
-              "Peak Roofing",
-              "Dallas-Fort Worth",
-              "DFW Metroplex",
-              "Highlander Roofing",
-              "Greater Dallas",
-              "Alpha Roofing",
-              "Fort Worth",
-              "Classic Roofing",
-              "P.O. Box",
-              "Proper Licensing",
-              "Owens Corning",
-              "Platinum Preferred",
-              "Owens Corning Platinum",
-              "Choose the Right Dallas Roofer"
-            ]
+            "names_count": 26
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "City of Dallas",
-              "CertainTeed Select ShingleMaster. These",
-              "Owens Corning",
-              "CertainTeed",
-              "CertainTeed SELECT",
-              "CertainTeed Select ShingleMaster",
-              "Look for Manufacturer Certifications"
-            ]
+            "names_count": 7
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Arrington Roofing",
-              "StazOn Roofing"
-            ]
+            "names_count": 2
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1164,54 +779,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "In Colorado"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "JK Roofing",
-              "CUSP Roofing",
-              "CR3 American Exteriors",
-              "Mutiny Roofing",
-              "Ethos General Contractors",
-              "Colorado Licensure",
-              "General Liability & Workers' Comp",
-              "Better Business Bureau (BBB)",
-              "Never sign a blank contract",
-              "Beware of Insurance Fraud",
-              "Highly Rated Roofing Companies",
-              "Crucial Steps for Choosing",
-              "Denver Hail Damage Roofer",
-              "General Liability",
-              "Workers' Comp",
-              "Certificate of Insurance",
-              "Verify Local Licensing and Insurance"
-            ]
+            "names_count": 17
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Denver ZIP",
-              "GAF",
-              "CertainTeed",
-              "Owens Corning",
-              "Manufacturer certifications"
-            ]
+            "names_count": 5
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Woodberg Roofing & Restoration",
-              "Murray Roofing",
-              "Woodberg Roofing",
-              "BBB-accredited"
-            ]
+            "names_count": 4
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1259,83 +843,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Popular Houston HVAC companies",
-              "Popular Houston HVAC",
-              "AC repair",
-              "Air Conditioning",
-              "Houston HVAC",
-              "Comfort Systems USA",
-              "Popular Houston"
-            ]
+            "names_count": 7
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Check the TDLR License",
-              "Texas Department of Licensing and Regulation (TDLR)",
-              "Diagnostic Fee Policy",
-              "Get a Second Opinion for Major Repairs",
-              "Check NATE Certification",
-              "NATE-certified",
-              "Greater Houston",
-              "Top-Rated HVAC Companies",
-              "Honest Diagnostics",
-              "Central Houston",
-              "River Oaks",
-              "Katy",
-              "Emergency Repairs",
-              "Air Conditioning",
-              "Inner Loop",
-              "West Houston",
-              "Sugar Land",
-              "Carrier Factory Authorized Dealer",
-              "Choose the Right AC Repair Company",
-              "In Texas",
-              "TACLA",
-              "TACLB",
-              "Abacus Plumbing, Air Conditioning & Electrical",
-              "AC repair",
-              "John Moore Services",
-              "Abacus",
-              "John Moore",
-              "NATE",
-              "Richmond\u2019s Air",
-              "Abacus Plumbing",
-              "Mission Air Conditioning",
-              "NATE Certification",
-              "Custom Comfort Air",
-              "Major Repairs",
-              "Mission Air Conditioning & Heating",
-              "TDLR License"
-            ]
+            "names_count": 36
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Rescue Rooter",
-              "Commercial Services",
-              "Texas HVAC",
-              "Houston ZIP",
-              "John Moore Services",
-              "John Moore",
-              "NATE",
-              "In Texas"
-            ]
+            "names_count": 8
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Got Flow: Plumbing & AC Services",
-              "Got Flow",
-              "AC Services",
-              "Star Repair Services Inc",
-              "Star Repair Services"
-            ]
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1383,61 +907,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "State bar referral",
-              "Board Certification"
-            ]
+            "names_count": 2
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Look for Board Certification",
-              "Ask About Resources",
-              "Arnold",
-              "Itkin LLP",
-              "Harris County",
-              "Tony Buzbee",
-              "Serving Houston",
-              "In Texas",
-              "Personal Injury Trial Law. Only",
-              "Consultations Are Free",
-              "Sutliff & Stout",
-              "Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",
-              "Arnold & Itkin LLP",
-              "Lone Star Injury Attorneys",
-              "Simmons and Fletcher, P.C",
-              "Texas Board of Legal Specialization",
-              "Simmons and Fletcher",
-              "The Buzbee Law Firm"
-            ]
+            "names_count": 18
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "AV Preeminent",
-              "Harris County"
-            ]
+            "names_count": 2
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Paul H. Cannon of Simmons & Fletcher",
-              "Brian White",
-              "Houston Lawyer Referral Service",
-              "Paul H. Cannon of Simmons",
-              "Texas Board Certified",
-              "Personal Injury Trial Law. That",
-              "Template.cfm",
-              "CustomSource",
-              "MemberDirectory",
-              "Board Certified in Personal Injury Trial Law",
-              "Personal Injury Trial",
-              "Paul H. Cannon"
-            ]
+            "names_count": 12
           },
           "google_serp": {
             "status": "EXTRACTION_FAILED",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1485,26 +971,23 @@
         "engines": {
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "anthropic": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "AIS Health Insurance Advisors",
-              "BBS Insurance"
-            ]
+            "names_count": 2
           },
           "gemini": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1552,94 +1035,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Owens Corning Platinum",
-              "Miami-Dade",
-              "Owens Corning"
-            ]
+            "names_count": 3
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "A-1 Property Services",
-              "Allied Roofing & Sheet Metal",
-              "Pioneer Roofing",
-              "Miami-Dade County Product Approval (NOA)",
-              "Secondary Water Resistance (SWR)",
-              "Wind Mitigation Documentation",
-              "Wind Mitigation Inspection Form (OIR-B1-1802)",
-              "Licensing and General Liability Insurance",
-              "Roofer's Guild",
-              "Local Elite Contractors",
-              "Miami-Dade NOAs",
-              "Notice of Acceptance",
-              "Miami-Dade NOA",
-              "CertainTeed ShingleMaster",
-              "South Florida",
-              "Miami-Dade",
-              "Allied Roofing",
-              "Sheet Metal",
-              "Allied",
-              "Miami. Metal",
-              "Miami Hurricane-Rated Roofer",
-              "Miami-Dade County Product Approval",
-              "Florida Product Approval",
-              "Secondary Water Resistance",
-              "Wind Mitigation Inspection Form",
-              "Dade NOA",
-              "CertainTeed",
-              "Professional Regulation",
-              "Department of Business",
-              "NOAs",
-              "Wind Mitigation Inspection",
-              "Product Approval",
-              "Dade County Product Approval",
-              "Dade NOAs"
-            ]
+            "names_count": 34
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Dade",
-              "Dade County NOA",
-              "Notice of Acceptance",
-              "Florida Product Approval",
-              "Florida Dept. of Business",
-              "Professional Regulation",
-              "CertainTeed SELECT",
-              "Dade NOA",
-              "Dade County Product Control",
-              "Owens Corning",
-              "CertainTeed",
-              "Manufacturer certifications",
-              "Product Approval",
-              "Miami ZIP",
-              "Florida Roofing Contractor"
-            ]
+            "names_count": 15
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "T&S Roofing Systems",
-              "CCC1326032",
-              "Art\u2019s Roofing & Construction",
-              "CCC1333598 / CGC1541858",
-              "AGK Construction & Roofing",
-              "CCC1335099",
-              "AGK Construction",
-              "Miami-Dade HVHZ",
-              "Miami-Dade Notice of Acceptance",
-              "Miami-Dade",
-              "Notice of Acceptance",
-              "Notice of Acceptance (NOA)",
-              "Dade Notice of Acceptance",
-              "Miami-Dade Notice of Acceptance (NOA)",
-              "Dade HVHZ"
-            ]
+            "names_count": 15
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1687,101 +1099,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "East Nashville",
-              "Germantown",
-              "Green Hills",
-              "Sylvan Park",
-              "Downtown/Gulch",
-              "Kitchen",
-              "Washer/dryer",
-              "Gulch"
-            ]
+            "names_count": 8
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "East Nashville",
-              "Hillsboro Village / West End",
-              "The Nations / Sylvan Park",
-              "Vibe",
-              "Search Keywords",
-              "Option B: The Historic East Nashville Craftsman",
-              "Option C: The Gulch Luxury High-Rise Condo",
-              "The Gulch",
-              "Midtown",
-              "The Storybook Cottage in 12 South",
-              "East Nashville Modern Oasis",
-              "Check the Permit Status",
-              "Superhosts",
-              "Noise Ordinances",
-              "Kasa",
-              "Placemakr",
-              "WhyHotel",
-              "Frothy Monkey and Jeni's Ice Creams",
-              "Shelby Park",
-              "Hillsboro Village",
-              "West End",
-              "Vanderbilt University",
-              "Centennial Park",
-              "Sylvan Park",
-              "Family of Four",
-              "South Carriage House",
-              "South. They",
-              "Modern",
-              "Option B",
-              "Historic East Nashville Craftsman",
-              "Option C",
-              "Union Station",
-              "Five Points",
-              "STRPs",
-              "Metro Nashville",
-              "PM. If",
-              "Music Row",
-              "Family-Friendly Hotel Alternative",
-              "Gulch",
-              "Lower Broadway",
-              "Tips for Booking",
-              "Downtown/The Gulch",
-              "Parthenon",
-              "Avoid Lower Broadway",
-              "Hotel Alternative",
-              "Ice Creams"
-            ]
+            "names_count": 46
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Germantown",
-              "Sylvan Park",
-              "Hillsboro Village",
-              "Vanderbilt and Centennial Park",
-              "Entire",
-              "Quiet",
-              "Centennial Park",
-              "Suburban",
-              "CMA Fest",
-              "Green Hills",
-              "Downtown/Gulch",
-              "The Gulch",
-              "Gulch",
-              "Superhost",
-              "Outdoor space",
-              "Parthenon"
-            ]
+            "names_count": 16
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Nashville. One",
-              "BR Treetop Bungalow",
-              "SoBro",
-              "Downtown Nashville"
-            ]
+            "names_count": 4
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1824,19 +1158,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1884,67 +1218,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "In Phoenix",
-              "AC repair"
-            ]
+            "names_count": 2
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Precision Air & Plumbing",
-              "Magic Touch Mechanical",
-              "Cool Blew Inc",
-              "Dunbar Air Conditioning, Heating & Packing",
-              "Upfront Pricing",
-              "NATE Certification",
-              "Popular Choices",
-              "Precision Air",
-              "East Valley",
-              "West Valley",
-              "Dunbar Air Conditioning",
-              "Night Air Conditioning",
-              "Choose the Right One",
-              "Registrar of Contractors",
-              "Arizona Registrar of Contractors (ROC)",
-              "Air Conditioning",
-              "Arizona Registrar of Contractors",
-              "Day & Night",
-              "Day & Night Air",
-              "Magic Touch",
-              "Cool Blew",
-              "Night Air",
-              "Check the Arizona Registrar of Contractors (ROC)"
-            ]
+            "names_count": 23
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Phoenix ZIP",
-              "EPA Section",
-              "During Phoenix",
-              "Tucson Electric Power",
-              "Registrar of Contractors",
-              "Arizona Registrar of Contractors (ROC)",
-              "In Phoenix",
-              "Arizona Registrar of Contractors"
-            ]
+            "names_count": 8
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "American Home Water & Air",
-              "Air Conditioning of Arizona",
-              "American Home Water",
-              "Arizona ROC",
-              "Registrar of Contractors",
-              "Air Conditioning",
-              "Arizona Registrar of Contractors"
-            ]
+            "names_count": 7
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -1987,21 +1277,19 @@
         "engines": {
           "anthropic": {
             "status": "FAILED",
-            "names": []
+            "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "dunn-orthodontics.com"
-            ]
+            "names_count": 1
           },
           "openai": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2049,55 +1337,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "New Patient Specials"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Mona Gokani, DDS (Pleasanton Smile Design)",
-              "Bora Mirza, DDS (Esthetic Smiles)",
-              "Insurance In-Network Status",
-              "Hygienist Quality",
-              "Technology",
-              "Patient Reviews",
-              "Top-Rated Practices",
-              "Mona Gokani",
-              "Pleasanton Smile Design",
-              "Bora Mirza",
-              "Esthetic Smiles",
-              "Pacific Dental Services",
-              "Local Family Practices",
-              "Pleasanton Valley Dental",
-              "Dr. Richard Wong",
-              "Dr. Patrick Yu",
-              "Choose the Right One for You",
-              "Delta Dental",
-              "MetLife",
-              "X-rays"
-            ]
+            "names_count": 20
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Healthgrades and Zocdoc"
-            ]
+            "names_count": 1
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Pleasanton Dental Care (Dr. Eunice Jong)",
-              "Yerondopoulos Dental",
-              "Jonathan C. Wang, DDS",
-              "Pleasanton Dental Care",
-              "Dr. Eunice Jong",
-              "Jonathan C. Wang"
-            ]
+            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2145,109 +1401,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Contact local resources",
-              "Caring.com",
-              "California's Department of Social Services",
-              "Alameda County Area Agency",
-              "Popular Options",
-              "Area Agency",
-              "Alameda County Area Agency on Aging",
-              "Home",
-              "Pleasanton Senior Center",
-              "Department of Social Services",
-              "Home Care"
-            ]
+            "names_count": 11
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Home Instead (Pleasanton / Tri-Valley)",
-              "BrightStar Care (Dublin / Pleasanton area)",
-              "Synergy HomeCare (Pleasanton / Tri-Valley)",
-              "Visiting Angels (Tri-Valley / Livermore Valley)",
-              "Right at Home (East Bay / Tri-Valley)",
-              "Licensing & Bonding",
-              "Employment Status",
-              "Background Checks & Training",
-              "Caregiver Continuity",
-              "Minimum Hours & Pricing",
-              "Assessment",
-              "Tri-Valley",
-              "Top-Rated Home Care Agencies",
-              "Home Instead",
-              "Non-medical",
-              "BrightStar Care",
-              "Registered Nurse",
-              "Synergy HomeCare",
-              "Visiting Angels",
-              "Livermore Valley",
-              "Companion",
-              "Select Your Caregiver",
-              "East Bay",
-              "Stanford Health Care Tri-Valley",
-              "John Muir",
-              "Ask When Interviewing Agencies",
-              "California Department of Social Services",
-              "Home Care Services Bureau",
-              "Background Checks",
-              "Minimum Hours",
-              "Verification Resource",
-              "Services Bureau",
-              "Right at Home",
-              "Alzheimer",
-              "Home Care Services",
-              "California Department of Social Services (CDSS)",
-              "Department of Social Services",
-              "Stanford Health Care",
-              "Dublin",
-              "Tri-Valley Area",
-              "Pleasanton Area",
-              "Home Care Services Bureau (HCSB)",
-              "Specialized Alzheimer"
-            ]
+            "names_count": 43
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Tri-Valley",
-              "East Bay",
-              "RNs",
-              "Pleasanton ZIP",
-              "Home Instead",
-              "Right at Home",
-              "Visiting Angels",
-              "Comfort Keepers",
-              "Medicare",
-              "BrightStar Care",
-              "VA Aid",
-              "Tri-Valley Area",
-              "Home Instead (Tri-Valley)",
-              "Pleasanton / Tri-Valley area",
-              "Veterans Benefits"
-            ]
+            "names_count": 15
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Aging in Place Home Care",
-              "Right at Home",
-              "Amada Senior Care",
-              "Senior Helpers",
-              "Aging",
-              "Place Home Care",
-              "Right",
-              "Home",
-              "City of Pleasanton",
-              "Senior Services",
-              "City of Pleasanton Senior Services",
-              "Pleasanton Senior Services",
-              "Senior Helpers of Pleasanton"
-            ]
+            "names_count": 13
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2295,70 +1465,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Popular options to consider",
-              "Get quotes from"
-            ]
+            "names_count": 2
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "California Public Utilities Commission (CPUC)",
-              "CAL PUC license (MCP number)",
-              "Read Recent Reviews",
-              "Pleasanton",
-              "Local Favorites",
-              "NOR-CAL Moving Services",
-              "Agent for Allied Van Lines",
-              "Ace Moving",
-              "Agent for NorthAmerican Van Lines",
-              "Northern California. They",
-              "Pleasanton and Tri-Valley",
-              "Pleasanton and Bay Area",
-              "Allied Van Lines",
-              "Independent Local Agents",
-              "XL Movers",
-              "Got Pro Movers",
-              "East Bay",
-              "San Ramon",
-              "California Public Utilities Commission",
-              "Two Men",
-              "TaskRabbit",
-              "Choose the Right One for You",
-              "CAL PUC",
-              "Virtual Estimates",
-              "Tri-Valley",
-              "In California",
-              "Two Men and a Truck",
-              "Northern California",
-              "NorthAmerican Van Lines"
-            ]
+            "names_count": 29
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Two Men",
-              "Allied Van Lines",
-              "Truck",
-              "Two Men and a Truck",
-              "College HUNKS",
-              "College Hunks Hauling Junk"
-            ]
+            "names_count": 6
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "All Star Movers & Storage",
-              "A+ BBB rating",
-              "MTR 0191302",
-              "Magic Moving & Storage",
-              "Storage",
-              "Magic Moving"
-            ]
+            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2406,59 +1529,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Google Maps/Yelp",
-              "Chain options",
-              "Independent mechanics",
-              "Jiffy Lube"
-            ]
+            "names_count": 4
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Pleasanton Automotive",
-              "Main Street Mechanic",
-              "CK Auto Exclusive",
-              "Valvoline Instant Oil Change",
-              "Jiffy Lube Service Center",
-              "Courtesy Chevrolet",
-              "Mercedes-Benz of Pleasanton",
-              "Check for Coupons",
-              "Full-Service Auto Repair",
-              "Local Favorites",
-              "Drive-Thru Style",
-              "Local Dealerships",
-              "Original Equipment Manufacturer",
-              "Pro-Tips for Pleasanton Drivers",
-              "Jiffy Lube",
-              "Know Your Oil Type",
-              "Full Synthetic",
-              "Tips for Pleasanton Drivers",
-              "Auto Repair"
-            ]
+            "names_count": 19
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Jiffy Lube",
-              "Valvoline Instant Oil Change"
-            ]
+            "names_count": 2
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "SpeeDee Oil Change & Auto Service",
-              "Big Brand Tire & Service",
-              "SpeeDee Oil Change",
-              "Auto Service",
-              "CARFAX",
-              "Big Brand Tire",
-              "SpeeDee"
-            ]
+            "names_count": 7
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2506,43 +1593,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "In Pleasanton",
-              "Marketing Strategy",
-              "Local MLS"
-            ]
+            "names_count": 3
           },
           "gemini": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Bay East MLS",
-              "Keller Williams",
-              "Coldwell Banker",
-              "Berkshire Hathaway",
-              "Compass",
-              "In Pleasanton",
-              "Bay East",
-              "Pricing Strategy"
-            ]
+            "names_count": 8
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Doug Buenz of Compass",
-              "Gina Piper",
-              "Julia Murtagh",
-              "Doug Buenz",
-              "Compass",
-              "Interview at Least Three Agents"
-            ]
+            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2590,37 +1657,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Yelp"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "The Vibe",
-              "Palm Beach Tan",
-              "Specialized Salons",
-              "Stoneridge Shopping Center",
-              "Spray Tan Artists",
-              "UV tanning beds"
-            ]
+            "names_count": 6
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Nextdoor. Use"
-            ]
+            "names_count": 1
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Secretly Sunless",
-              "Spray Soleil Airbrush Tanning"
-            ]
+            "names_count": 2
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2668,82 +1721,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "National Chains",
-              "Local Shops",
-              "Compare prices",
-              "Costco",
-              "ASE-certified",
-              "Discount Tire",
-              "Tire Rack",
-              "Firestone Complete Auto Care",
-              "Les Schwab",
-              "Firestone"
-            ]
+            "names_count": 10
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Installation perks",
-              "The Catch",
-              "Big O Tires",
-              "Firestone Complete Auto Care",
-              "Costco",
-              "Michelin",
-              "Bridgestone",
-              "BFGoodrich",
-              "Installation",
-              "Discount Tire",
-              "Near the Safeway",
-              "Pleasanton. They",
-              "Pleasanton Wheel Alignment",
-              "Auto Repair",
-              "America's Tire",
-              "Choose America's Tire",
-              "Choose Costco",
-              "America\u2019s Tire",
-              "America",
-              "Costco Wholesale",
-              "America\u2019s Tire (Discount Tire)",
-              "Firestone",
-              "Michelin, Bridgestone, and BFGoodrich",
-              "Stoneridge Mall",
-              "Choose America"
-            ]
+            "names_count": 25
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Costco Tire Center",
-              "Discount Tire",
-              "Dublin",
-              "Firestone Complete Auto Care",
-              "Costco",
-              "Livermore",
-              "Firestone"
-            ]
+            "names_count": 7
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "America\u2019s Tire",
-              "Big O Tires",
-              "Costco Tire Center",
-              "Seever",
-              "Son",
-              "Tire",
-              "America",
-              "Tire Rack",
-              "Costco",
-              "Dublin",
-              "My pick",
-              "Seever & Son\u2019s Tire",
-              "My pick for installation"
-            ]
+            "names_count": 13
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2791,136 +1785,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Airbnb",
-              "VRBO",
-              "Booking.com",
-              "Local sites",
-              "Santa Cruz Beach Boardwalk",
-              "Capitola",
-              "Aptos/Seacliff",
-              "Boulder Creek/Mountains",
-              "Boulder Creek",
-              "Aptos",
-              "Boardwalk",
-              "Seacliff",
-              "Beach Boardwalk",
-              "Santa Cruz Beach",
-              "Beach Access"
-            ]
+            "names_count": 15
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "The Vibe",
-              "Beach areas",
-              "A/C vs. No A/C",
-              "Outdoor Space",
-              "Catalog / Beach House Rentals",
-              "Vacasa",
-              "Monterey Bay Property Management",
-              "Pro-Tip for Booking",
-              "Pleasure Point",
-              "Santa Cruz Mountains",
-              "Capitola",
-              "Monterey Bay",
-              "Steamer Lane",
-              "Santa Cruz Beach Boardwalk",
-              "Live Oak",
-              "Foodie Vibe",
-              "Sante Adairius",
-              "Romantic Getaways",
-              "Venetian Court",
-              "Upscale Beach Luxury",
-              "Scotts Valley",
-              "Ben Lomond",
-              "Pick the Right Vacation Rental",
-              "Crucial for Summer",
-              "June Gloom",
-              "West Cliff and Pleasure Point",
-              "Beach House Rentals",
-              "Aptos",
-              "West Cliff",
-              "Beach Boardwalk",
-              "Santa Cruz Beach",
-              "West Cliff Drive",
-              "Downtown Santa Cruz",
-              "Soquel",
-              "Nisene Marks",
-              "Seascape",
-              "For families",
-              "Pleasure Point / Live Oak",
-              "Forest of Nisene Marks State Park",
-              "Forest of Nisene Marks"
-            ]
+            "names_count": 40
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Vacasa",
-              "Boardwalk",
-              "East Cliff",
-              "West Cliff",
-              "Lighthouse Field",
-              "Capitola Village",
-              "Aptos",
-              "Rio Del Mar",
-              "Seacliff Pier",
-              "Davenport",
-              "Felton",
-              "Boulder Creek",
-              "Henry Cowell",
-              "Big Basin",
-              "Scotts Valley",
-              "Pajaro Valley",
-              "Pleasure Point",
-              "Monterey Bay Vacation Rentals",
-              "Seascape Vacations",
-              "Capitola",
-              "Seacliff",
-              "Watsonville",
-              "Book early",
-              "Soquel",
-              "Monterey Bay",
-              "Seascape",
-              "Aptos / Rio del Mar",
-              "Santa Cruz Vacation Rentals",
-              "Types of Rentals"
-            ]
+            "names_count": 29
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Santa Cruz",
-              "Capitola",
-              "Aptos / Rio del Mar / Seacliff",
-              "Felton and the redwoods",
-              "Davenport / north coast",
-              "Pajaro Dunes",
-              "Capitola-by-the-Sea units",
-              "Compare the full price",
-              "Read recent reviews closely",
-              "Understand the cancellation terms",
-              "Felton",
-              "Westside for Natural Bridges",
-              "Aptos",
-              "Santa Cruz Harbor",
-              "Natural Bridges",
-              "Scotts Valley",
-              "Watsonville. County",
-              "Boardwalk",
-              "Seacliff",
-              "Davenport",
-              "Watsonville",
-              "Rio Del Mar",
-              "Westside",
-              "Seascape",
-              "Aptos / Rio del Mar"
-            ]
+            "names_count": 25
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -2968,39 +1849,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Yelp"
-            ]
+            "names_count": 1
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Palm Beach Tan",
-              "Bronze Coast Tanning",
-              "The Tanning Lounge",
-              "UV-free",
-              "VersaSpa",
-              "Bronze Coast"
-            ]
+            "names_count": 6
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "UV tanning beds"
-            ]
+            "names_count": 1
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "The Tanning Zone",
-              "Palm Beach Tan",
-              "Times Square Shopping Center. If",
-              "Times Square Shopping Center"
-            ]
+            "names_count": 4
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -3048,62 +1913,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Airbnb",
-              "VRBO",
-              "Booking.com",
-              "Finding a good host",
-              "Read recent reviews carefully",
-              "Message before booking"
-            ]
+            "names_count": 6
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "Airbnb",
-              "Booking.com",
-              "Vrbo",
-              "Airbnb Superhost / Vrbo Premier Host",
-              "Don't just look at the star rating",
-              "Look for mentions of communication",
-              "Zero reviews",
-              "Off-platform payment requests",
-              "Superhosts",
-              "Premier Hosts",
-              "Vacation Rentals",
-              "New York",
-              "Use",
-              "Vrbo Premier Host",
-              "House Rules",
-              "Superhost",
-              "Premier Host",
-              "Check response rate and time",
-              "Off-Platform Payment"
-            ]
+            "names_count": 19
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "Booking.com",
-              "Superhost",
-              "Street View",
-              "Cancellation Policy"
-            ]
+            "names_count": 4
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Airbnb",
-              "Vrbo",
-              "Booking.com",
-              "Quick rule",
-              "Booking.com. Then",
-              "Read the listing carefully"
-            ]
+            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -3151,187 +1977,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Market analysis",
-              "Apartments.com",
-              "QuickBooks",
-              "Major Risks",
-              "Market",
-              "AirDNA",
-              "Mashvisor",
-              "Guesty",
-              "Hostaway",
-              "Start",
-              "Lease violations",
-              "Accounting",
-              "Craigslist",
-              "Target",
-              "Lease",
-              "Get explicit written landlord approval",
-              "Property management software",
-              "Average nightly rate",
-              "Market saturation"
-            ]
+            "names_count": 19
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "ADR (Average Daily Rate)",
-              "Occupancy Rate",
-              "RevPAR (Revenue Per Available Room)",
-              "Operating Expenses",
-              "Profit Margin",
-              "AirDNA",
-              "Mashvisor",
-              "Rabbu",
-              "Apartment Buildings vs. Single-Family Homes",
-              "Form an LLC",
-              "The Pitch Deck",
-              "Guarantees",
-              "The \"Corporate Lease\" Angle",
-              "Instagrammable spots",
-              "Smart Lock",
-              "Noise Monitor",
-              "Smart Thermostat",
-              "High-Speed Wi-Fi",
-              "PriceLabs",
-              "Wheelhouse",
-              "Beyond Pricing",
-              "Property Management Software (PMS)",
-              "Hospitable",
-              "Hostaway",
-              "Guesty",
-              "Cleaners",
-              "Turno (formerly TurnoverBnB)",
-              "Handyman/Maintenance",
-              "Research local regulations",
-              "Use AirDNA",
-              "Draft a professional pitch deck",
-              "Furnish the property",
-              "Set up dynamic pricing (PriceLabs)",
-              "Phase",
-              "Data Analysis",
-              "Occupancy Rate. This",
-              "Gross Revenue",
-              "Apartment Buildings",
-              "Create",
-              "Corporate Lease",
-              "Schlage Encode",
-              "NoiseAware",
-              "Non-negotiable. Mention",
-              "Operations Software",
-              "Property Management Software",
-              "TurnoverBnB",
-              "Get Started Today",
-              "Market Research",
-              "Minut",
-              "Furnish",
-              "HOA Rules",
-              "Yale",
-              "Turno",
-              "Beyond",
-              "Offer",
-              "Dynamic pricing tools",
-              "Furnishing",
-              "Crucial Step",
-              "Pricing tools",
-              "The Pitch",
-              "Management",
-              "Data Tools",
-              "Hire",
-              "Pitching Landlords",
-              "Channel Management"
-            ]
+            "names_count": 65
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "AirDNA",
-              "MarketMinder",
-              "InsideAirbnb",
-              "Mashvisor",
-              "Rentometer",
-              "Redfin",
-              "Local STR",
-              "Net Operating Income",
-              "HOAs",
-              "Master Lease",
-              "STR-specific",
-              "Host Protection Insurance",
-              "STRs. Search",
-              "Furnish",
-              "Schlage Encode",
-              "Yale",
-              "Nest",
-              "PriceLabs",
-              "Beyond Pricing",
-              "Wheelhouse",
-              "Channel",
-              "Hostaway",
-              "Lodgify",
-              "Rentals United",
-              "Smartbnb",
-              "Your Porter",
-              "Host Tools",
-              "Cleaning",
-              "TurnoverBnB",
-              "Properly",
-              "Breezeway",
-              "QuickBooks",
-              "Xero",
-              "Use Stripe",
-              "Wix",
-              "Host Guarantee",
-              "Market",
-              "BeyondPricing",
-              "PMS",
-              "Guesty",
-              "Direct",
-              "Revenue",
-              "Gross",
-              "Rent",
-              "Market Research",
-              "Hospitable",
-              "ADR (Average Daily Rate)",
-              "Stripe/PayPal",
-              "Smart Locks",
-              "Accounting",
-              "Beyond",
-              "Track KPIs",
-              "Canva",
-              "Financial model",
-              "Build",
-              "Host Protection",
-              "Common Pitfalls",
-              "Hire"
-            ]
+            "names_count": 58
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "Get explicit written permission from the owner",
-              "Underwrite the unit conservatively",
-              "Set up the operation before accepting bookings",
-              "Launch, measure, and adjust",
-              "Local government sources",
-              "Comparable-listing research",
-              "Market analytics",
-              "A spreadsheet",
-              "Operating tools",
-              "Key rule",
-              "Don",
-              "AirDNA",
-              "RevPAR. Its",
-              "Average Daily Rate (ADR)",
-              "Launch",
-              "Get explicit written permission",
-              "Tools and data to use",
-              "Build"
-            ]
+            "names_count": 18
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }
@@ -3379,67 +2041,23 @@
         "engines": {
           "anthropic": {
             "status": "OK",
-            "names": [
-              "Airbnb's built-in tools",
-              "Specialized platforms",
-              "AirDNA",
-              "Wheelhouse",
-              "PriceLabs",
-              "Mashvisor",
-              "Market Analysis",
-              "Airbnb's free tools"
-            ]
+            "names_count": 8
           },
           "gemini": {
             "status": "OK",
-            "names": [
-              "AirDNA",
-              "Key Features for Buyers",
-              "Rentalizer",
-              "Market Minder",
-              "Revenue Grader",
-              "PriceLabs vs. Wheelhouse",
-              "PriceLabs",
-              "Market Dashboards",
-              "Wheelhouse",
-              "After Buying",
-              "Once You Own It",
-              "AirDNA-lite",
-              "Option B",
-              "For Market Analysis",
-              "For Market Analysis (Before Buying)"
-            ]
+            "names_count": 15
           },
           "openai": {
             "status": "OK",
-            "names": [
-              "AirDNA MarketMinder",
-              "Mashvisor",
-              "PriceLabs",
-              "Wheelhouse",
-              "Beyond Pricing",
-              "AirDNA",
-              "MarketMinder",
-              "AllTheRooms",
-              "Beyond",
-              "Use AirDNA",
-              "Smart Pricing",
-              "For Market Research",
-              "Use PriceLabs",
-              "Start with AirDNA"
-            ]
+            "names_count": 14
           },
           "perplexity": {
             "status": "OK",
-            "names": [
-              "PriceLabs",
-              "Wheelhouse",
-              "AirDNA"
-            ]
+            "names_count": 3
           },
           "google_serp": {
             "status": "OK",
-            "names": []
+            "names_count": 0
           }
         }
       }

@@ -538,20 +538,23 @@ class PageRefresher:
                     eng_label = {'openai': 'ChatGPT', 'gemini': 'Gemini', 'anthropic': 'Claude', 'perplexity': 'Perplexity'}[eng]
 
                     if eng in engines_data and engines_data[eng]['status'] == 'OK':
-                        names = engines_data[eng]['names']
-                        names = [sanitize_text(n) for n in names]  # Sanitize names
-                        if names:
-                            if len(names) <= 5:
-                                names_str = ', '.join(names)
-                            else:
-                                names_str = ', '.join(names[:5]) + f', and {len(names) - 5} more'
-                            p1_parts.append(f'{eng_label} named {names_str}')
-                        else:
-                            p1_parts.append(f'{eng_label} named no public names recorded')
+                        names_count = engines_data[eng].get('names_count', 0)
+                        if shape == 'day_pages':
+                            if p1_parts:  # Not the first engine
+                                p1_parts.append(f'{eng_label} {names_count}')
+                            else:  # First engine, full format
+                                p1_parts.append(f'{eng_label} answered with {names_count} names')
+                        else:  # rows_only
+                            p1_parts.append(f'{eng_label} answered, {names_count} tracked names')
                     else:
                         p1_parts.append(f'{eng_label}: no OK answer that day')
 
-                p1 = '<p class="pv-note">' + sanitize_text(p1_start + '; '.join(p1_parts)) + '.</p>'
+                if shape == 'day_pages':
+                    p1_text = p1_start + ', '.join(p1_parts) + '. The table below counts, by day, which tracked businesses each engine named.'
+                else:  # rows_only
+                    p1_text = p1_start + '; '.join(p1_parts) + '. The table below counts, by day, which tracked businesses each engine named.'
+
+                p1 = '<p class="pv-note">' + sanitize_text(p1_text) + '</p>'
             else:
                 p1 = '<p class="pv-note">No latest day data available.</p>'
 
