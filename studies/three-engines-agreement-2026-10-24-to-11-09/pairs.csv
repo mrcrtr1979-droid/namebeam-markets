@@ -16,6 +16,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-24,personal injury attorneys|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
 2026-10-24,personal injury attorneys|Houston TX,anthropic,gemini,openai,0,0,1,0,1
 2026-10-24,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-10-24,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-10-24,real estate agents|Pleasanton CA,gemini,openai,,,1,,1
 2026-10-24,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
 2026-10-24,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
@@ -44,6 +45,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-25,personal injury attorneys|Chicago IL,anthropic,gemini,1,,,,1
 2026-10-25,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-25,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-25,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-25,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-25,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-25,residential roofing|Dallas TX,anthropic,gemini,1,,,,1
@@ -74,6 +76,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-26,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-26,personal injury attorneys|Houston TX,anthropic,gemini,1,,,,1
 2026-10-26,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-26,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-26,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-26,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-26,residential roofing|Denver CO,anthropic,gemini,0,,,,1
@@ -102,6 +105,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-27,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
 2026-10-27,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-27,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-27,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-27,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-27,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-27,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
@@ -132,6 +136,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-28,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-28,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
 2026-10-28,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
+2026-10-28,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-28,real estate agents|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-28,residential roofing|Dallas TX,anthropic,gemini,1,,,,1
 2026-10-28,residential roofing|Denver CO,anthropic,gemini,0,,,,1
@@ -160,6 +165,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-29,personal injury attorneys|Chicago IL,anthropic,gemini,0,,,,1
 2026-10-29,personal injury attorneys|Dallas TX,anthropic,gemini,0,,,,1
 2026-10-29,personal injury attorneys|Houston TX,anthropic,gemini,0,,,,1
+2026-10-29,personal injury law|Pleasanton CA,anthropic,gemini,1,,,,1
 2026-10-29,personal injury law|Pleasanton CA,anthropic,gemini,0,,,,1
 2026-10-29,real estate agents|Pleasanton CA,anthropic,gemini,1,,,,1
 2026-10-29,residential roofing|Dallas TX,anthropic,gemini,0,,,,1
@@ -214,6 +220,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-30,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
 2026-10-30,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-10-30,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-10-30,personal injury law|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
 2026-10-30,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-10-30,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
 2026-10-30,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
@@ -268,6 +275,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-10-31,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,1,1,0,1
 2026-10-31,personal injury attorneys|Miami FL,anthropic,gemini,openai,1,1,1,1,1
 2026-10-31,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-10-31,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,1,0,1
 2026-10-31,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-10-31,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
 2026-10-31,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
@@ -323,6 +331,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-01,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-01,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
 2026-11-01,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-01,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-01,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
 2026-11-01,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
 2026-11-01,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
@@ -376,6 +385,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-02,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
 2026-11-02,personal injury attorneys|Miami FL,anthropic,gemini,openai,1,1,1,1,1
 2026-11-02,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-02,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-02,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-02,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
 2026-11-02,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
@@ -431,6 +441,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-03,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-03,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
 2026-11-03,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-03,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-03,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
 2026-11-03,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
 2026-11-03,residential roofing|Denver CO,anthropic,gemini,openai,0,1,1,0,1
@@ -485,6 +496,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-04,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-04,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
 2026-11-04,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-04,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-04,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,1,1,1,1
 2026-11-04,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
 2026-11-04,residential roofing|Denver CO,anthropic,gemini,openai,0,0,1,0,1
@@ -538,6 +550,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-05,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
 2026-11-05,personal injury attorneys|Miami FL,anthropic,openai,,0,,,1
 2026-11-05,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,0,0,1
+2026-11-05,personal injury law|Pleasanton CA,anthropic,openai,,0,,,1
 2026-11-05,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-05,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
 2026-11-05,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
@@ -593,6 +606,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-06,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-06,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
 2026-11-06,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
+2026-11-06,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-06,real estate agents|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
 2026-11-06,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
 2026-11-06,residential roofing|Denver CO,anthropic,gemini,openai,1,1,1,1,1
@@ -646,6 +660,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-07,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
 2026-11-07,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-07,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-07,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-07,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
 2026-11-07,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,0,0,1
 2026-11-07,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
@@ -700,6 +715,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-08,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,1,1,1,1,1
 2026-11-08,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-08,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,1,1,1,1,1
+2026-11-08,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-08,personal injury law|Pleasanton CA,anthropic,gemini,openai,1,0,1,0,1
 2026-11-08,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,1,1,0,1
 2026-11-08,residential roofing|Dallas TX,anthropic,gemini,openai,1,1,1,1,1
@@ -754,6 +770,7 @@ date,question_slug,engines_ok,pair_anthropic_gemini,pair_anthropic_openai,pair_g
 2026-11-09,personal injury attorneys|Kansas City MO,anthropic,gemini,openai,0,0,1,0,1
 2026-11-09,personal injury attorneys|Miami FL,anthropic,gemini,openai,0,0,1,0,1
 2026-11-09,personal injury attorneys|Phoenix AZ,anthropic,gemini,openai,0,0,1,0,1
+2026-11-09,personal injury law|Pleasanton CA,anthropic,gemini,openai,1,0,0,0,1
 2026-11-09,personal injury law|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-09,real estate agents|Pleasanton CA,anthropic,gemini,openai,0,0,0,0,1
 2026-11-09,residential roofing|Dallas TX,anthropic,gemini,openai,0,0,1,0,1
