@@ -20,6 +20,10 @@ from urllib.request import urlopen, Request
 from urllib.error import URLError
 import csv
 
+# LB-101: the check link block shared with the build test; -I drops the script directory from sys.path, so add it.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import lb101_check_links  # noqa: E402
+
 
 class RefreshError(Exception):
     """Raised when refresh fails"""
@@ -487,6 +491,13 @@ class PageRefresher:
 
             page_name = f'record/{slug}/index.html'
             html = self.read_page(page_path.relative_to(self.root).as_posix())
+
+            # LB-101 (2026-11-12): every record page carries the one-line free check link right under the h1
+            # (tools/lb101_check_links.py holds the block and grades it); a page that already has it is unchanged.
+            html_with_cta = lb101_check_links.insert_block('record', html)
+            if html_with_cta != html:
+                self.changes.append({'marker': 'lb101-cta-added', 'page': page_name, 'old': '', 'new': lb101_check_links.cta_block('record')})
+                html = html_with_cta
 
             # Get data for this market
             summary = self.markets_data.get(slug, {})
