@@ -7,10 +7,20 @@ first to its last row date. The older generator (carter-brain gen_market_pages.p
 Kept as written: page head, style, heading, disclosure, footer, brand line. Replaced: the numbers blocks (meta, engine coverage,
 businesses table, niche list) and the two footer lines that named the old file and generator.
 Pages whose market is not in the data file are left unchanged and listed. Zero model calls, stdlib only.
-Usage (repo root): python3 -I -B scripts/rebuild_market_pages.py [data/explorer_data_2026-10-22.json]"""
-import json, re, sys, html
-DATA = sys.argv[1] if len(sys.argv) > 1 else 'data/explorer_data_2026-10-22.json'
-BUILT = '2026-10-22'
+2026-11-11 (LB40): the build date is an argument, default today in UTC; the data-source footer line names the file passed in and
+its window end, so a later copy of explorer_data.json rebuilds the pages with a current stamp and footer.
+Usage (repo root): python3 -I -B scripts/rebuild_market_pages.py [DATA_FILE] [BUILT | --built YYYY-MM-DD]
+  DATA_FILE default data/explorer_data_2026-10-22.json; BUILT default today (UTC)."""
+import json, re, sys, html, datetime, argparse
+_ap = argparse.ArgumentParser()
+_ap.add_argument('data', nargs='?', default='data/explorer_data_2026-10-22.json')
+_ap.add_argument('built_pos', nargs='?', default=None, metavar='BUILT')
+_ap.add_argument('--built', default=None, help='YYYY-MM-DD stamp for "Page built"; default today in UTC')
+_a = _ap.parse_args()
+DATA = _a.data
+BUILT = _a.built or _a.built_pos or datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
+if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', BUILT):
+    sys.exit('BUILT must be YYYY-MM-DD, got %r' % BUILT)
 PAGES = {'Atlanta GA': 'market_atlanta.html', 'Charlotte NC': 'market_charlotte.html', 'Chicago IL': 'market_chicago.html',
          'Dallas TX': 'market_dallas.html', 'Denver CO': 'market_denver.html', 'Houston TX': 'market_houston.html',
          'Kansas City MO': 'market_kansas-city.html', 'Miami FL': 'market_miami.html', 'Phoenix AZ': 'market_phoenix.html',
@@ -26,7 +36,10 @@ RULE = ('Counts read "answers naming it / answers that returned text", per engin
 DQ5 = ('Until 2026-10-21 this page counted from the extracted business lists, which under-counted plain-text mentions by different amounts per '
        'engine (DQ-5). Details: <a href="https://markets.namebeam.ai/method/#dq-5">Method, DQ-5</a>.')
 OLD_F1 = 'Data source: NameBeam AI Visibility Index corpus (citation_corpus.csv), collection rows read for this run.'
-NEW_F1 = 'Data source: Namebeam public record, data/explorer_data_2026-10-22.json (window ends 2026-10-21), saved answer text per engine and day.'
+F1_FMT = 'Data source: Namebeam public record, %s (window ends %s), saved answer text per engine and day.'
+# a page already rebuilt by this script carries the F1 line for an earlier data file; it is replaced the same way
+F1_RX = re.compile(r'Data source: Namebeam public record, data/explorer_data_\d{4}-\d{2}-\d{2}\.json \(window ends \d{4}-\d{2}-\d{2}\), saved answer text per engine and day\.')
+NEW_F1 = None   # set after the data file is read (names the file and its window end)
 OLD_F2 = re.compile(r'Counts above are computed at generation time from the corpus file read for this run and can be reproduced by running gen_market_pages\.py again against the same file\.')
 NEW_F2 = 'Counts above are computed from the data file named above and can be reproduced by running scripts/rebuild_market_pages.py against the same file.'
 
@@ -55,7 +68,7 @@ def build(t, city, pairs):
     h = t[:t.index('<div class="meta">')]
     disc = re.search(r'<div class="disclosure">.*?</div>', t, re.S).group(0)
     foot = t[t.index('<div class="footer">'):]
-    foot = foot.replace(OLD_F1, NEW_F1); foot = OLD_F2.sub(NEW_F2, foot)
+    foot = foot.replace(OLD_F1, NEW_F1); foot = F1_RX.sub(NEW_F1, foot); foot = OLD_F2.sub(NEW_F2, foot)
     ws = min(p['window_start'] for p in pairs); we = max(p['window_end'] for p in pairs)
     meta = ('<div class="meta">\n<p>As of %s. Page built %s.</p>\n<p>%d niche%s for this market, 4 engines asked per niche.</p>\n'
             '<p>Windows run from each niche\'s earliest to its latest row date, within %s to %s.</p>\n</div>\n') % (
@@ -66,7 +79,8 @@ def build(t, city, pairs):
     body += '<h2>Markets and query segments covered</h2>\n' + P13 + 'Niches rolled into this market page: ' + ', '.join(E(p['niche']) for p in pairs) + '.</p>\n'
     return h + meta + disc + '\n' + body + foot
 
-d = json.load(open(DATA))
+d = json.load(open(DATA, encoding='utf-8'))
+NEW_F1 = F1_FMT % (DATA.replace('\\', '/'), d['window_end'])
 changed, left = [], []
 for mk, f in PAGES.items():
     pairs = sorted([p for p in d['pairs'] if p['market'] == mk], key=lambda p: p['niche'])
