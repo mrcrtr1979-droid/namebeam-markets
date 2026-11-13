@@ -4,34 +4,34 @@
   "niche": "home care agencies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 69,
-      "days_with_ok": 69
-    },
-    "anthropic": {
-      "rows": 76,
-      "ok": 75,
-      "days_with_ok": 75
-    },
-    "perplexity": {
-      "rows": 75,
+      "rows": 78,
       "ok": 72,
       "days_with_ok": 72
     },
+    "anthropic": {
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
+    },
+    "perplexity": {
+      "rows": 78,
+      "ok": 75,
+      "days_with_ok": 75
+    },
     "gemini": {
-      "rows": 75,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 78,
+      "ok": 44,
+      "days_with_ok": 44
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 78,
+      "ok": 43,
+      "days_with_ok": 43
     }
   },
   "by_date": [
@@ -857,18 +857,53 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-home-care/all.csv",
-      "sha256": "b387f78adcbdd5d1400e84b286e2d1ec92707094f5123ce19246e1ca77649cdb"
+      "sha256": "18efcb0b40dd5ac22e6d9f9de49a4edad44c467105f91799e515d8cd291c5375"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-home-care/changes.csv",
-      "sha256": "847051f14027433c07faeca32df1f98114a04473b3790fd4683dc3b01afd4ab8"
+      "sha256": "511bc427bde8470276db8e259bad464f060ec2d8d1967f38c3b721fff7dd20cf"
     }
   },
   "engine_behavior": {
@@ -897,7 +932,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:21:06 UTC",
+  "generated_utc": "2026-11-13 08:27:01 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

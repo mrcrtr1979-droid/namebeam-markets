@@ -58,6 +58,10 @@ def sanitize_ascii(text):
     text = text.replace('\u2026', '...')  # ellipsis
     text = text.replace('\u00b7', '-')  # middle dot
     text = text.replace('\u00d7', 'x')  # multiplication sign
+    text = text.replace('\u2192', '->')  # right arrow (seen in corpus names 2026-11-10; the daily job died on it 11-11 and 11-12)
+    text = text.replace('\u00a0', ' ')  # no-break space
+    # Anything else above 127 becomes a numeric character reference: the file stays ASCII and the text stays true.
+    text = ''.join(c if ord(c) < 128 else '&#%d;' % ord(c) for c in text)
     return text
 
 

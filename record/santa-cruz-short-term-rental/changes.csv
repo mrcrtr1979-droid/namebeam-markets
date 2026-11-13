@@ -2685,3 +2685,351 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,DiscretionaryPermits,perplexity
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Short-TermRentals.aspx,perplexity
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Ocean View,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Beach,anthropic openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz / Westside,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Seabright / Pleasure Point / Live Oak,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Aptos / Rio del Mar / Seascape,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Felton / Ben Lomond / Boulder Creek,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Watsonville / Pajaro Dunes area,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Beach and restaurants,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Surf,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Redwoods/hiking,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Quiet beach walks,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Boardwalk/nightlife,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Summer weekends,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,"July 4, Memorial Day, Labor Day",openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Capitola Village and oceanfront homes,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Winter redwood stays,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Vrbo,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Local vacation-rental managers,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Weekend without a car,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Surf trip,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Family beach week,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Redwoods and hiking,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Large group on a budget,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Romantic coastal trip,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,"Quiet, upscale coastal stay",openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Near Natural Bridges,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Seabright,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Strong,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Colorful Capitola Village,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Rio,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Mar,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Capitola and Santa Cruz,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Redwoods,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Roaring Camp,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Big Basin-area,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Westside Santa Cruz,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Seabright Beach,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,East Cliff Drive,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Quiet,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,UC Santa Cruz,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Memorial Day,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Labor Day,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz Westside,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,"Ben Lomond, Boulder Creek",openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Beach Gear,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz proper,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Winter,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Aptos/Rio del Mar,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Dedicated Parking,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Aptos / Seacliff,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Davenport and the north coast,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Confirm the practical details,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,"Capitola, Santa Cruz, Aptos, and Davenport",perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Boulder Creek/Mountains,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Beach areas,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,A/C vs. No A/C,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Outdoor Space,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Catalog / Beach House Rentals,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Vacasa,gemini openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Monterey Bay Property Management,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pro-Tip for Booking,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Santa Cruz Mountains,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Foodie Vibe,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Sante Adairius,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Romantic Getaways,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Venetian Court,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Upscale Beach Luxury,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pick the Right Vacation Rental,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Crucial for Summer,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,June Gloom,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,West Cliff and Pleasure Point,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Beach House Rentals,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Santa Cruz,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Nisene Marks,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,For families,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Forest of Nisene Marks State Park,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Forest of Nisene Marks,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Seacliff Pier,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pajaro Valley,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Monterey Bay Vacation Rentals,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Seascape Vacations,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Santa Cruz Vacation Rentals,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Types of Rentals,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Aptos / Rio del Mar / Seacliff,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Felton and the redwoods,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Davenport / north coast,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Capitola-by-the-Sea units,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Understand the cancellation terms,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Westside for Natural Bridges,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Santa Cruz Harbor,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Watsonville. County,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Popular areas to consider,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Ben Lomond/Mountains,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Cancellation policy,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Popular Areas,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Aptos & Seacliff,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Decide this first,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"Summer ""May Gray"" and ""June Gloom",gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,The Solution,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Rule of thumb,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Summer,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Winter/Spring,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Families,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Coastal,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Capitola Wharf and Soquel Creek,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Nature,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Seacliff State Beach,gemini openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Sanderling Island,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Pick the Right Vacation Rental,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Decide,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz Mountains,gemini openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,May Gray,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,June Gloom,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Your Season,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Booking Tip,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Monterey Bay Property Management,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,VRBO Premier Hosts,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"May Gray"" and ""June Gloom",gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"Aptos, Seacliff, Rio del Mar",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Davenport / North Coast,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"Felton, Ben Lomond, Boulder Creek",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Watsonville / Pajaro Valley,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Felton/Ben Lomond/Boulder Creek,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Walkability to the actual beach,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Guaranteed off-street parking,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Ocean view from the main living area,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"A professionally managed, well-reviewed property",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Outdoor space,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Washer/dryer and beach equipment,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Flexible cancellation,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Great value with decent weather,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"Storm watching, redwoods, lower prices",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Book early for,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Aptos/Seacliff/Rio del Mar,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Felton/Ben Lomond,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,North Coast,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Ocean,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Pajaro Valley,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Washer,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Eastside Santa Cruz,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,San Lorenzo Valley,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Wi-Fi,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,June and September,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Downtown Santa Cruz,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Air Conditioning,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Beach Gear Included,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Aptos and Seacliff,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,La Selva Beach and Pajaro Dunes,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Pick the right base,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Check the essentials,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Read the cancellation and house rules,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Visit Santa Cruz County,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Seascape Beach Resort,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Visit Santa Cruz County Places,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,DiscretionaryPermitsZoning,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,DiscretionaryPermits,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Short-TermRentals.aspx,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,La Selva Beach,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Kendall & Potter,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Places to Stay,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Beach Access,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Seabright / Pleasure Point / Live Oak,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Aptos / Rio del Mar / Seascape,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Felton / Ben Lomond / Boulder Creek,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Watsonville / Pajaro Dunes area,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Beach and restaurants,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Surf,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Redwoods/hiking,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Quiet beach walks,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Boardwalk/nightlife,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Summer weekends,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,"July 4, Memorial Day, Labor Day",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Capitola Village and oceanfront homes,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Winter redwood stays,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Vrbo,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Local vacation-rental managers,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Weekend without a car,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Surf trip,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Family beach week,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Redwoods and hiking,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Large group on a budget,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Romantic coastal trip,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,"Quiet, upscale coastal stay",openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Near Natural Bridges,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Lighthouse Field,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Steamer Lane,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Seabright,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Strong,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Colorful Capitola Village,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Capitola and Santa Cruz,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Redwoods,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Henry Cowell,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Roaring Camp,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Big Basin-area,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Seabright Beach,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,East Cliff Drive,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Quiet,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,UC Santa Cruz,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Memorial Day,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Labor Day,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Aptos / Rio del Mar,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Big Basin,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,East Cliff,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pleasure Point / Live Oak,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Aptos/Rio del Mar,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Dedicated Parking,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Aptos / Seacliff,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Davenport and the north coast,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Read recent reviews closely,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Confirm the practical details,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,"Capitola, Santa Cruz, Aptos, and Davenport",perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Watsonville/Scotts Valley,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Beach Access,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Vibe,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Highlight,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,"Seacliff, Aptos & La Selva Beach",gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,The Beachfront Condo,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,The Historic Capitola Village Rental,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,The Redwood A-Frame,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,The Large Family Compound,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Surfing/Boardwalk,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Dining & Shopping,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Relaxation & Nature,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Mountains,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Capitola and Santa Cruz,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Stay,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Their Vibe,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Natural Bridges State Beach,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Eastside,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Capitola Beach,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Henry Cowell Redwoods State Park,gemini openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Examples of What,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,East Cliff Drive,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Aptos and La Selva,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Pick the Right Rental for You,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Crucial Detail,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Cove and Lazy Lagoon,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Pets Allowed,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Pro-Tip for Booking,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Henry Cowell,gemini openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,East Cliff,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Pick the Right Rental,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Capitola Venetian,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Colorful Mediterranean-style,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Henry Cowell Redwoods,gemini openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz / Seabright / Westside,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Aptos / Seacliff / Rio del Mar,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Davenport / Bonny Doon,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Felton / Ben Lomond / Boulder Creek,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Pleasure Point / Eastside Santa Cruz,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Aptos / Rio del Mar,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Walkable,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Private,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Air conditioning,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Heat/fireplace,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Reliable Wi‑Fi,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Beach equipment,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,EV charging,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,September–October,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Spring,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Seabright,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Bonny Doon,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Roaring Camp,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz Eastside,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Steamer Lane,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Reliable Wi,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Outdoor,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Aptos / Seacliff,openai perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Big Basin,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,For families,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Parking and access,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz / Seabright,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Capitola cottages near the village,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz homes near the beach,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Read recent reviews closely,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Confirm the practical details in writing,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Check local compliance,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Capitola for a walkable seaside feel,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Santa Cruz for attractions and dining,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Aptos for a quieter beach-focused stay,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Confirm the practical details,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Popular areas to consider,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Ben Lomond/Mountains,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Popular Areas,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Aptos & Seacliff,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Decide this first,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Summer ""May Gray"" and ""June Gloom",gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The Solution,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Rule of thumb,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Winter/Spring,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Families,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Coastal,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,West Cliff Drive,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Capitola Wharf and Soquel Creek,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Seacliff State Beach,gemini openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Sanderling Island,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Pick the Right Vacation Rental,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Decide,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,May Gray,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,June Gloom,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Your Season,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Booking Tip,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,VRBO Premier Hosts,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,West Cliff,gemini openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"May Gray"" and ""June Gloom",gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Aptos, Seacliff, Rio del Mar",openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Davenport / North Coast,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Felton, Ben Lomond, Boulder Creek",openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Watsonville / Pajaro Valley,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Felton/Ben Lomond/Boulder Creek,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Walkability to the actual beach,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Guaranteed off-street parking,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Ocean view from the main living area,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"A professionally managed, well-reviewed property",openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Washer/dryer and beach equipment,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Flexible cancellation,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Great value with decent weather,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Storm watching, redwoods, lower prices",openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Book early for,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Aptos/Seacliff/Rio del Mar,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Felton/Ben Lomond,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Live Oak,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,North Coast,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Ocean,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Pajaro Valley,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Pajaro Dunes,openai perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Washer,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,San Lorenzo Valley,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Wi-Fi,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,June and September,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Book early,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Ben Lomond, Boulder Creek",openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Air Conditioning,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Beach Gear Included,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Santa Cruz,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,La Selva Beach and Pajaro Dunes,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Pick the right base,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Check the essentials,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Read the cancellation and house rules,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Visit Santa Cruz County,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Seascape Beach Resort,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Visit Santa Cruz County Places,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,DiscretionaryPermitsZoning,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,DiscretionaryPermits,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Short-TermRentals.aspx,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Places to Stay,perplexity

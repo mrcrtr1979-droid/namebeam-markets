@@ -4,34 +4,34 @@
   "niche": "residential roofing",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 38,
-      "days_with_ok": 38
+      "rows": 96,
+      "ok": 40,
+      "days_with_ok": 40
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 49,
-      "days_with_ok": 48
+      "rows": 96,
+      "ok": 52,
+      "days_with_ok": 51
     }
   },
   "by_date": [
@@ -1036,14 +1036,49 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/dallas-roofing/all.csv",
-      "sha256": "c0a0817f21ab8599c0569dd9af2dfbe153334ee092d65c0ab7ff1a2605c6382f"
+      "sha256": "185ca269eaecf73534028b905379a7b235b2d11e3c7f56b70db9799edda42b14"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/dallas-roofing/changes.csv",
@@ -1076,7 +1111,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:16:31 UTC",
+  "generated_utc": "2026-11-13 08:26:45 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -629,13 +629,25 @@ class PageRefresher:
             # Add marker if not present
             if '<!--nb:rec-downloads-->' not in html:
                 html = re.sub(
-                    r'(<h2>Downloads \(ungated\)</h2><ul><li>)([^<]*)(</li></ul>)',
+                    r'(<h2>Downloads \(ungated\)</h2><ul><li>)(.*?)(</li></ul>)',
                     r'\1<!--nb:rec-downloads-->\2<!--/nb:rec-downloads-->\3',
                     html,
                     flags=re.DOTALL
                 )
 
             html = self.replace_marker(page_name, html, 'rec-downloads', downloads_html)
+
+            # d2. The build note at the foot of a lane-built page carries a frozen window and a stale build date;
+            # rewrite it from latest.json so the footer agrees with the summary at the top (one window per page).
+            note_re = re.compile(r'<p class="pv-note">Compiled by Terry J Carter, Carter Enterprise LLC\. Page (?:built|refreshed) [^<]*</p>')
+            m = note_re.search(html)
+            if m:
+                gen_day = str(self.latest.get('generated_utc', ''))[:10]
+                new_note = (f'<p class="pv-note">Compiled by Terry J Carter, Carter Enterprise LLC. Page refreshed {gen_day} '
+                            f'from the public record (data/latest.json) by tools/refresh_pages.py; window {window_first} to {window_last}.</p>')
+                if m.group(0) != new_note:
+                    self.changes.append({'marker': 'rec-built', 'page': page_name, 'old': m.group(0), 'new': new_note})
+                    html = html[:m.start()] + new_note + html[m.end():]
 
             # e. JSON-LD
             dataset_json = {

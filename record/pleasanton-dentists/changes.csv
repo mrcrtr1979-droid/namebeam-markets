@@ -1054,3 +1054,89 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Main Street Dental,gemini
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,Tips for Choosing the Right Dentist,gemini
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,My Favorite Dentist,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Gateway Dental Care (Dr. Vimal Patel),gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Smiles (Dr. Richard Hopper),gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Gokani Dental Care (Dr. Mona Gokani),gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pacific Dental Aesthetics (Dr. Rick J. Wong),gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Gateway Dental Care,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Dr. Vimal Patel,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Patients,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Smiles,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Dr. Richard Hopper,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Gokani Dental Care,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Dr. Mona Gokani,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pacific Dental Aesthetics,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Dr. Rick J. Wong,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Valley,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,ADA Find-a-Dentist,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,California Dental Board license lookup,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,California Dental Board,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Smile Dental,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,New Patient Specials,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,"Mona Gokani, DDS (Pleasanton Smile Design)",gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,"Bora Mirza, DDS (Esthetic Smiles)",gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Insurance In-Network Status,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Hygienist Quality,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Technology,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Patient Reviews,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Practices,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Mona Gokani,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Smile Design,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Bora Mirza,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Esthetic Smiles,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pacific Dental Services,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Local Family Practices,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Valley Dental,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Richard Wong,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Patrick Yu,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right One for You,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Delta Dental,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,MetLife,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Healthgrades and Zocdoc,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dental Care (Dr. Eunice Jong),perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,"Jonathan C. Wang, DDS",perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dental Care,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Eunice Jong,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Jonathan C. Wang,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Quick tip,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Focus on Hygienist Reviews,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Ask About X-Rays,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Near Downtown Pleasanton,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Near Hacienda Business Park,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Dr. David Wong,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Dr. Mohammad Khandaqji,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Dr. Richard Gaffney,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Check Your Insurance Network,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Hygienist Reviews,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Downtown Pleasanton,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Smile Design,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Hacienda Business Park,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Mona Lisa Smile Dental,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Insurance Network,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Tips for Choosing the Right Dentist,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Dental Care,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Gateway Dental Care (Dr. Vimal Patel),gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Smiles (Dr. Richard Hopper),gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Gokani Dental Care (Dr. Mona Gokani),gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pacific Dental Aesthetics (Dr. Rick J. Wong),gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Gateway Dental Care,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Vimal Patel,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Smiles,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Richard Hopper,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Gokani Dental Care,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pacific Dental Aesthetics,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Rick J. Wong,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Valley,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,ADA Find-a-Dentist,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,California Dental Board license lookup,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,California Dental Board,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Yerondopoulos Dental,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Smile Dental,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,Quick tips,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,New Patient Specials,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,ADA Find-a-Dentist directory,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,ADA Find-a-Dentist,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,Zocdoc. Look,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,My Favorite Dentist,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,entered,Gibraltar Drive,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,Quick tip,anthropic

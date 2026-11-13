@@ -4,34 +4,34 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 97,
-      "days_with_ok": 92
+      "rows": 104,
+      "ok": 100,
+      "days_with_ok": 95
     },
     "gemini": {
-      "rows": 101,
-      "ok": 38,
-      "days_with_ok": 37
+      "rows": 104,
+      "ok": 41,
+      "days_with_ok": 40
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 60,
-      "days_with_ok": 57
+      "rows": 104,
+      "ok": 63,
+      "days_with_ok": 60
     }
   },
   "by_date": [
@@ -1088,18 +1088,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/nashville-short-term-rental/all.csv",
-      "sha256": "b179af5787bba31782ade4f97b4b13fe939b6208eb41e5d0d4d8535a439f0f21"
+      "sha256": "628d35953fbb8f516f6c5081b56d9b9dba457419a7e8f7fdc7c3687b7581e3b1"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/nashville-short-term-rental/changes.csv",
-      "sha256": "79de1e999dad9595190cee7aeb3a6de4dea0773449cd4f9817e6ec22ab1b2993"
+      "sha256": "ec65984f9b446304e983e8686248d6711cc032bd4534a37d1f26307f58c2b6cc"
     }
   },
   "engine_behavior": {
@@ -1128,7 +1164,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:20:25 UTC",
+  "generated_utc": "2026-11-13 08:26:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

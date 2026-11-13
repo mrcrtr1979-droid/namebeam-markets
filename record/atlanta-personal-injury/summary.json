@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 96,
+      "ok": 48,
+      "days_with_ok": 48
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 52,
-      "days_with_ok": 52
+      "rows": 96,
+      "ok": 55,
+      "days_with_ok": 55
     }
   },
   "by_date": [
@@ -1046,14 +1046,50 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/atlanta-personal-injury/all.csv",
-      "sha256": "e491c01676d99c2a97aa2a4dff3f636d1c4ae4e24c0201f62548529d8f240030"
+      "sha256": "2ca435f151ed97be2dee242ad43269e3a7b94e65b36029a8e8f7f7003c4f3822"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/atlanta-personal-injury/changes.csv",
@@ -1086,7 +1122,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:15:09 UTC",
+  "generated_utc": "2026-11-13 08:26:34 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

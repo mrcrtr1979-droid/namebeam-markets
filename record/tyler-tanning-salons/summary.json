@@ -4,34 +4,34 @@
   "niche": "tanning salons",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 70,
-      "days_with_ok": 70
+      "rows": 78,
+      "ok": 73,
+      "days_with_ok": 73
     },
     "anthropic": {
-      "rows": 76,
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
+    },
+    "perplexity": {
+      "rows": 78,
       "ok": 75,
       "days_with_ok": 75
     },
-    "perplexity": {
-      "rows": 75,
-      "ok": 72,
-      "days_with_ok": 72
-    },
     "gemini": {
-      "rows": 75,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 78,
+      "ok": 44,
+      "days_with_ok": 44
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 67,
-      "days_with_ok": 67
+      "rows": 78,
+      "ok": 70,
+      "days_with_ok": 70
     }
   },
   "by_date": [
@@ -884,18 +884,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/tyler-tanning-salons/all.csv",
-      "sha256": "f87333fa351601a1eabe04c73fa833e6dbd58d9d8a4acbac7841890ffcdb4edf"
+      "sha256": "58d1d8780a36dd29f1df11317b0b99fdf2c3fe2b001e334c2dfeb887832eea56"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/tyler-tanning-salons/changes.csv",
-      "sha256": "7f76f3ff8c9bcaaf7fdcb84c788acdb215b31af7a9b17af591a26ec7637dc52e"
+      "sha256": "36ece1795255d167cc67bca97f5141f0be75218128cf3af47e9042ec7353f4b6"
     }
   },
   "engine_behavior": {
@@ -924,7 +960,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:22:31 UTC",
+  "generated_utc": "2026-11-13 08:27:11 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
