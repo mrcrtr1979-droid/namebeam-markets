@@ -3,7 +3,14 @@
 panels and /buy/ (LB-23 part 5, 2026-11-09). Self-canonicals untouched. Every string is ASCII, carries its date, names no
 competitor and makes no ranking or outcome promise. Run from the repo root: py -I tools/lb23_apply_titles.py [--check]
 """
-import re, sys, os
+import re, sys, os, json
+
+# F1 (CPEO-1113, Overseer item 7): the buy description's "as of" date is the record's latest_run_day, read from
+# data/latest.json, never typed here. (The live page keeps its own nb:buy-asof-meta marker; this keeps a re-apply
+# from retyping an older date over it.)
+_LATEST = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir, "data", "latest.json")
+with open(_LATEST, encoding="utf-8") as _f:
+    ASOF = json.load(_f)["latest_run_day"]
 
 PAGES = {
     "record/dallas-dentists/index.html": (
@@ -26,7 +33,7 @@ PAGES = {
         "Atlanta GA panel: which local businesses four AI answer engines named for fixed buyer questions, 2026-09-01 to 2026-09-30, counted from the dated daily record. For agencies. A count, not a ranking."),
     "buy/index.html": (
         "Buy the dated AI answer record, for agencies | Namebeam",
-        "Market Record, $49 a month per market as of 2026-11-09: the names AI answer engines returned, day by day, as a dated CSV and PDF. Fixed scope, what you keep, renewal terms. For agencies."),
+        "Market Record, $49 a month per market as of " + ASOF + ": the names AI answer engines returned, day by day, as a dated CSV and PDF. Fixed scope, what you keep, renewal terms. For agencies."),
 }
 BANNED = re.compile(r"\b(best|top|boost|guarantee|grow|leads|rank(?!ing\b))\w*", re.I)
 
