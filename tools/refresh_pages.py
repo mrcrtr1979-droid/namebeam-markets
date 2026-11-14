@@ -122,6 +122,17 @@ STRAY_TILES_AFTER_MARKER = re.compile(
 )
 
 
+OFFER_ASOF = re.compile(r'(<!-- lb19:offer -->[^\n]*?\bas of )\d{4}-\d{2}-\d{2}')
+
+
+def refresh_offer_asof(html, day):
+    """F1 (CPEO-1113, 2026-11-13): the one-line offer on a record page prints "as of <date>". The date must be
+    the record's own latest_run_day, so a buyer never sees an older date beside a fresher record. Only the
+    "as of" date inside the lb19:offer line is touched (single line, so it cannot reach another paragraph);
+    a page without the line is unchanged."""
+    return OFFER_ASOF.sub(lambda m: m.group(1) + day, html, count=1)
+
+
 def remove_stray_tiles(html):
     """Return (html, removed_fragment). Drops the stale tile fragment that sat outside the rec-tiles
     markers on every record page after LB-27 (2026-11-10); a page without the fragment is unchanged."""
@@ -618,6 +629,12 @@ class PageRefresher:
                 self.changes.append({'marker': 'lb101-cta-added', 'page': page_name, 'old': '', 'new': lb101_check_links.cta_block('record')})
                 html = html_with_cta
 
+            # F1 (CPEO-1113): the offer line's "as of" date follows latest_run_day, not the day the line was written.
+            html_asof = refresh_offer_asof(html, self.latest['latest_run_day'])
+            if html_asof != html:
+                self.changes.append({'marker': 'offer-asof-record', 'page': page_name, 'old': OFFER_ASOF.search(html).group(0)[-10:], 'new': self.latest['latest_run_day']})
+                html = html_asof
+
             # Get data for this market
             summary = self.markets_data.get(slug, {})
             window_first = market_data.get('window_first')
@@ -943,6 +960,18 @@ def run_selftest():
         is_ascii, error = check_ascii('valid ASCII text 123')
         assert is_ascii
         print("  PASS: ASCII guard allows valid text")
+
+
+        # Test 5 (F1): the record-page offer date follows latest_run_day, touches only the lb19:offer line, is idempotent
+        offer_page = ('<p>Prices as of 2025-01-01 elsewhere.</p>\n'
+                      '<p class="nb-offer"><!-- lb19:offer --> The Test Market Record is $49 a month as of 2026-11-09: one trade. <a href="/buy/">Buy</a>.</p>\n'
+                      '<p>Checked as of 2025-02-02 on another line.</p>\n')
+        moved = refresh_offer_asof(offer_page, '2026-11-12')
+        assert 'is $49 a month as of 2026-11-12:' in moved
+        assert 'Prices as of 2025-01-01' in moved and 'Checked as of 2025-02-02' in moved
+        assert refresh_offer_asof(moved, '2026-11-12') == moved
+        assert refresh_offer_asof('<p>no offer line, as of 2026-11-09</p>', '2026-11-12') == '<p>no offer line, as of 2026-11-09</p>'
+        print("  PASS: Record offer date follows latest_run_day")
 
         print("\nSelf-test PASSED")
         return 0
