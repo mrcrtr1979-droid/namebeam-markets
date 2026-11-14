@@ -49,7 +49,7 @@ jobs:
           set -euo pipefail
           git add -A
           CHANGED=$(git diff --cached --name-only)
-          OUTSIDE=$(printf '%s\n' "$CHANGED" | grep -v -E '^(record/[a-z0-9-]+/([0-9]{4}-[0-9]{2}-[0-9]{2}(\.csv|/index\.html)|all\.csv|rows\.csv|changes\.csv|summary\.json|index\.html)|data/latest\.json|index\.html|record/index\.html|buy/index\.html|agency/index\.html|check/index\.html|sitemap\.xml)$' || true)
+          OUTSIDE=$(printf '%s\n' "$CHANGED" | grep -v -E '^(record/[a-z0-9-]+/([0-9]{4}-[0-9]{2}-[0-9]{2}(\.csv|/index\.html)|all\.csv|rows\.csv|changes\.csv|summary\.json|index\.html)|data/latest\.json|index\.html|record/index\.html|buy/index\.html|agency/index\.html|check/index\.html|what-ai-visibility-checks-cost/index\.html|sitemap\.xml)$' || true)
           if [ -n "$OUTSIDE" ]; then echo "REFUSED, files outside scope:"; echo "$OUTSIDE"; exit 1; fi
           echo "changed files: $(printf '%s\n' "$CHANGED" | grep -c . || true)"
 
