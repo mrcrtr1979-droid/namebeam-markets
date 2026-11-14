@@ -561,9 +561,11 @@ class PageRefresher:
         html = self.read_page(page_name)
         changes_before = len(self.changes)
 
-        # Both as-of markers
-        html = self.replace_marker(page_name, html, 'buy-asof-meta', f'as of {self.today}')
-        html = self.replace_marker(page_name, html, 'buy-asof', f'Prices as of {self.today}')
+        # Both as-of markers. CPEO-1113 (live read 2026-11-14 12:45AM CT): the buy page printed the run day while
+        # the record pages print latest_run_day, so one price carried two dates. One rule, one source: latest_run_day.
+        latest_run_day = self.latest['latest_run_day']
+        html = self.replace_marker(page_name, html, 'buy-asof-meta', f'as of {latest_run_day}')
+        html = self.replace_marker(page_name, html, 'buy-asof', f'Prices as of {latest_run_day}')
 
         self.write_page(page_name, html)
         return self.changes[changes_before:]
