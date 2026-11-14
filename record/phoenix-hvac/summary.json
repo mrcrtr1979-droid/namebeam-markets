@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 35,
-      "days_with_ok": 35
+      "rows": 96,
+      "ok": 37,
+      "days_with_ok": 37
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 87,
-      "days_with_ok": 86
+      "rows": 96,
+      "ok": 90,
+      "days_with_ok": 89
     }
   },
   "by_date": [
@@ -1071,18 +1071,53 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/phoenix-hvac/all.csv",
-      "sha256": "e9bb7dc76b3714959a95241d2ee26654f0acbf46152495e714b6e7e1925fa5f7"
+      "sha256": "2abc2ede78ef6c5741de083d42be1d122889ed3600daaad38a650572b5c1de91"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/phoenix-hvac/changes.csv",
-      "sha256": "a5b4e5b95a02cb98484a3c242008e89b3bbea026b4000e90307fd36c54b66005"
+      "sha256": "91c6e52bf6234d21a70df7b8aa2036db25bd28d48e54cc61353cb116bcb8b3a1"
     }
   },
   "engine_behavior": {
@@ -1111,7 +1146,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:20:39 UTC",
+  "generated_utc": "2026-11-13 08:26:57 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

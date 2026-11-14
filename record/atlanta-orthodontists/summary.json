@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-09",
-  "run_days": 33,
-  "rows_total": 148,
+  "window_last": "2026-11-12",
+  "run_days": 36,
+  "rows_total": 163,
   "by_engine": {
     "anthropic": {
-      "rows": 33,
-      "ok": 32,
-      "days_with_ok": 32
+      "rows": 36,
+      "ok": 35,
+      "days_with_ok": 35
     },
     "gemini": {
-      "rows": 33,
-      "ok": 20,
-      "days_with_ok": 20
+      "rows": 36,
+      "ok": 23,
+      "days_with_ok": 23
     },
     "openai": {
-      "rows": 33,
-      "ok": 28,
-      "days_with_ok": 28
+      "rows": 36,
+      "ok": 31,
+      "days_with_ok": 31
     },
     "perplexity": {
-      "rows": 33,
-      "ok": 33,
-      "days_with_ok": 33
+      "rows": 36,
+      "ok": 36,
+      "days_with_ok": 36
     },
     "google_serp": {
-      "rows": 16,
-      "ok": 12,
-      "days_with_ok": 12
+      "rows": 19,
+      "ok": 14,
+      "days_with_ok": 14
     }
   },
   "by_date": [
@@ -390,19 +390,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/atlanta-orthodontists/rows.csv",
-      "sha256": "ec3316068fc8ad44248da92cea0481197b765a70ee76534bece4cc4062aeacc1"
+      "sha256": "01851bf4a59f63691fd5e594410e613e7d31c94466f4db2b2a1a2f5ea49577e5"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-10 14:57:11 UTC",
+  "generated_utc": "2026-11-13 08:26:33 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Atlanta for braces or Invisalign?"

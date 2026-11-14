@@ -153,3 +153,100 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
 2026-10-06,2026-10-04,2,openai anthropic perplexity google_serp,dropped,Palm Beach Tan at The Arboretum,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Palm Beach Tan,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,MetroTan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Bronze Studio,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Sugaring & Spray Tan Salons,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,SouthEnd,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,High-end UV,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Spray Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Modern UV Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Holistic Option,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Spray Tan Salons,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Choose MetroTan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Spray Tan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Luxury Experience,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Palm Beach Tan (SouthPark area),openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar,openai perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Bronze Bar,openai perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,No Shade Spray Tanning,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,UV beds as well as spray tans,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Palmetto Tan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Standout features,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Vanity Spray Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Golden slumber / Gloout Custom Spray Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Luxury Beds,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Steele Creek,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Carolinas. Their,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Standout,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Smart Tan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,South End,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Charlotte. It,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Boutique Vibe,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Gloout Custom Spray Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,NoDa and Plaza Midwood,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Black Card Membership,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Planet Fitness Black Card,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,HydroMassage,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Choose Palmetto Tan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Vanity,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Choose Planet Fitness,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Plaza Midwood,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,NoDa,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Gorgeous GLO Beauty Bar,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Midtown and SouthPark,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Gorgeous Glo,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Midtown,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,The Glow Up / Local Spas,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,South End,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,VersaSpa,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Spa Experience,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Dilworth,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Charlotte. They,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,UV-free,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Wellness Approach,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Local Spas,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Myers Park,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Choose Organic Bronzing Station,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,University City,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,UV beds and spray tanning,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Palm Beach Tan at The Arboretum,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Studio,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Sugaring & Spray Tan Salons,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,SouthEnd,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tanning,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Modern UV Tanning,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Holistic Option,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tan Salons,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tan,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Luxury Experience,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Palm Beach Tan (SouthPark area),openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,No Shade Spray Tanning,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Organic Bronze Bar in SouthPark,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,UV beds as well as spray tans,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Palm Beach Tan at the Arboretum,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Carolina Glow Tanning Co,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Multi-Level UV Tanning,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Variety of UV,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Charlotte. Their,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Spray Tans,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Carolina Glow,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,MetroTan,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The Glow Up / Local Spas,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Spa Experience,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Charlotte. They,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,UV-free,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Wellness Approach,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Local Spas,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Myers Park,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Choose Organic Bronzing Station,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Choose MetroTan,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,High-end UV,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,University City,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,UV beds and spray tanning,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Palm Beach Tan at The Arboretum,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The Arboretum,perplexity

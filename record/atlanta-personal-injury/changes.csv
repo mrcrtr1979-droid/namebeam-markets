@@ -363,3 +363,95 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-09-29,2026-09-28,1,openai anthropic perplexity google_serp,entered,Brandon Hornsby of Hornsby Law Group,perplexity
 2026-10-02,2026-10-01,1,openai anthropic perplexity google_serp,dropped,Brandon Hornsby of Hornsby Law Group,perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,entered,Ronnie Mabra,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,The Dover Law Firm,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Morgan & Morgan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,"Kenneth S. Nugent, P.C",gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Trial Experience vs. Settlement Focus,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Contingency Fee Structure,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Boutique Firms,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Nationally Recognized Firms,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Morgan,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,United States,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Kenneth S. Nugent,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Harris Lowry Manton,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right Lawyer,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,State Bar of Georgia’s Lawyer Referral Service,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Lawyer Referral Service,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,David M. Van Sant,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,The Roth Firm,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Communication and Transparency,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Peer and Client Reviews,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Martindale-Hubbell,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Avvo,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Consult Multiple Attorneys,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Prominent Atlanta Personal Injury Firms,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Spaulding Injury Law,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta Car Accident Lawyer,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Monge & Associates,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta Bar Association,openai perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Martindale AV,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Peter A. Law of Law & Moran,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,David Van Sant of Van Sant Law,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Peter A. Law of Law,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Van Sant Law,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Fried Goldberg LLC,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,The Mabra Firm,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Bader Scott Injury Lawyers,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,John Foy & Associates,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Associates,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,John Foy,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Gary Martin Hays & Associates,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Gary Martin Hays,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Law Offices of Gary Martin Hays,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Atlanta Bar Association,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Lawyer Referral and Information Service,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Georgia Bar,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,The Dover Law Firm,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Harris Lowry Manton LLP,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Tobin Injury Law,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Morgan & Morgan,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,"Kenneth S. Nugent, P.C",gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,The Millar Law Firm,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Trial Experience vs. Settlement Focus,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Contingency Fee Structure,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Boutique Firms,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Nationally Recognized Firms,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Morgan,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,United States,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Kenneth S. Nugent,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Harris Lowry Manton,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right Lawyer,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,State Bar of Georgia’s Lawyer Referral Service,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,State Bar of Georgia,openai perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Lawyer Referral Service,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Peter A. Law,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,David M. Van Sant,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Contingency Fee Structure,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Led,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,J. Ryan Fry,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Partners Jeff Harris and Steve Lowry,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Charles Scholle,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Bader Scott,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Scholle Law,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Harris Lowry Manton LLP,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right Lawyer,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,State Bar of Georgia Lawyer Referral Service,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Martindale-Hubbell,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Avvo,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,DeKalb,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Georgia State Bar,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Lawyer Referral Service,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Super Lawyers Atlanta,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,State Bar of Georgia. The Bar,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Initial Consultation,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Fried Goldberg LLC,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The Mabra Firm,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,John Foy & Associates,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Associates,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,John Foy,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Gary Martin Hays & Associates,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Gary Martin Hays,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Law Offices of Gary Martin Hays,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta Bar Association,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Lawyer Referral and Information Service,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Bar,perplexity

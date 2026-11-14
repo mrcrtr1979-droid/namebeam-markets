@@ -4,34 +4,34 @@
   "niche": "moving companies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 70,
-      "days_with_ok": 70
+      "rows": 78,
+      "ok": 73,
+      "days_with_ok": 73
     },
     "anthropic": {
-      "rows": 76,
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
+    },
+    "perplexity": {
+      "rows": 78,
       "ok": 75,
       "days_with_ok": 75
     },
-    "perplexity": {
-      "rows": 75,
-      "ok": 72,
-      "days_with_ok": 72
-    },
     "gemini": {
-      "rows": 75,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 78,
+      "ok": 43,
+      "days_with_ok": 43
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 50,
-      "days_with_ok": 50
+      "rows": 78,
+      "ok": 52,
+      "days_with_ok": 52
     }
   },
   "by_date": [
@@ -866,18 +866,53 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-moving-companies/all.csv",
-      "sha256": "729e02b7ae796ecfe567596905a5c7ea318e3480a42c5dbd79f3ad8677ee7f4c"
+      "sha256": "ae2bfefb9dc484c0d880557c6e0f93ec308ec8afe21212039426c12a3ce6434e"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-moving-companies/changes.csv",
-      "sha256": "b2f6373233fa04835016011a79c2c1c32b442d0965213c780e54f96307c35d1e"
+      "sha256": "3939b5c6eb8dd1b79fa80e26a399dbae0b1f6e86f8e38f917107ecadcb07ce96"
     }
   },
   "engine_behavior": {
@@ -906,7 +941,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:21:18 UTC",
+  "generated_utc": "2026-11-13 08:27:03 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

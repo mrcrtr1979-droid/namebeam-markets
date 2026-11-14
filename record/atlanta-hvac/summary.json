@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 37,
-      "days_with_ok": 36
+      "rows": 96,
+      "ok": 39,
+      "days_with_ok": 38
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 86,
-      "days_with_ok": 85
+      "rows": 96,
+      "ok": 89,
+      "days_with_ok": 88
     }
   },
   "by_date": [
@@ -1072,14 +1072,49 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/atlanta-hvac/all.csv",
-      "sha256": "31651ada62ff1b4a3d0a8c2ce68957adcbcce7d6c19d3865798be569264e9af0"
+      "sha256": "7bf9e926c4443e2ccf15e38d43938e7a5df0027d663e1a89c98cec47f42798e5"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/atlanta-hvac/changes.csv",
@@ -1112,7 +1147,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:14:55 UTC",
+  "generated_utc": "2026-11-13 08:26:33 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

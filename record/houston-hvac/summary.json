@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
-      "ok": 93,
-      "days_with_ok": 92
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
     },
     "perplexity": {
-      "rows": 93,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 96,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "gemini": {
-      "rows": 93,
-      "ok": 35,
-      "days_with_ok": 35
+      "rows": 96,
+      "ok": 38,
+      "days_with_ok": 38
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     }
   },
   "by_date": [
@@ -1071,14 +1071,50 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-hvac/all.csv",
-      "sha256": "c52772d03ea777a9c2946f508f72fda57f13515a150236e2ec32976a04b78ed0"
+      "sha256": "a4e758e21f2bb13302659780b7512e10d22d98df1e64f40c26d258431869fd73"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-hvac/changes.csv",
@@ -1111,7 +1147,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:16:59 UTC",
+  "generated_utc": "2026-11-13 08:26:48 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

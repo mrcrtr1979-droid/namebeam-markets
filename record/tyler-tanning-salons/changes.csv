@@ -461,3 +461,40 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,UT Tyler,openai
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,COVID,openai
 2026-11-09,2026-11-08,1,openai anthropic perplexity gemini,dropped,UV-free spray tan,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,For UV Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,For Spray Tanning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Tyler. Customers,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Times Square Plaza,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,The Tanning Lounge,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Times Square Shopping Center. If,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Times Square Shopping Center,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,VersaSpa PRO,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Call ahead for specials,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Local independent salons,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Glo Tanning,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Times Square Shopping Center,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,For UV Tanning,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,For Spray Tanning,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Tyler. Customers,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Times Square Plaza,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Local & Boutique Salons,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,For deals and packages,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Like Palm Beach,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Boutique Salons,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Spray tan / sunless,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Traditional UV beds,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Traditional UV,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Spray Tan,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Address,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Gypsy Glow Tanning,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Coast Tanning,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa PRO,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Call ahead for specials,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Coast,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Local independent salons,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Times Square Shopping Center,perplexity
