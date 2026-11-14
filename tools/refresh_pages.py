@@ -332,8 +332,9 @@ class PageRefresher:
                                        table_html)
 
             # Link
+            # The marker wraps the whole anchor: a comment inside an href is literal URL text and 404s (CPEO-1113).
             html = self.replace_marker(page_name, html, f'{marker_prefix}-link',
-                                       f'/record/{slug}/{window_last}/')
+                                       f'<a href="/record/{slug}/{window_last}/">Open this day</a>')
 
         # Citation tiles
         # The live file (citation_index_daily.yml in carter-brain, rebuilt every day) carries generated_utc at the top
