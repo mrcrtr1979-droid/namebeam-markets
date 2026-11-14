@@ -122,21 +122,6 @@ STRAY_TILES_AFTER_MARKER = re.compile(
 )
 
 
-CHECKOUT_REF_TAG = '<script src="/nb-checkout-ref.js" defer></script>'
-
-
-def ensure_checkout_ref_script(html):
-    """F5 (CPEO-1113, 2026-11-13): a record page must load /nb-checkout-ref.js, before posthog.js (LB-105 order law),
-    so its Stripe links carry <page>_<utm_source or direct> in client_reference_id. A page that already loads it is
-    unchanged; a page with no posthog.js gets the tag just before </head>."""
-    if '/nb-checkout-ref.js' in html:
-        return html
-    marker = '<script src="/posthog.js"'
-    if marker in html:
-        return html.replace(marker, CHECKOUT_REF_TAG + '\n' + marker, 1)
-    return html.replace('</head>', CHECKOUT_REF_TAG + '\n</head>', 1)
-
-
 def remove_stray_tiles(html):
     """Return (html, removed_fragment). Drops the stale tile fragment that sat outside the rec-tiles
     markers on every record page after LB-27 (2026-11-10); a page without the fragment is unchanged."""
@@ -192,6 +177,21 @@ RECEIPT_ENGINE_COLUMNS = (
 RECEIPT_CITATION_COLUMN = 'third-party pages carrying its name (days)'
 RECEIPT_TABLE_OPEN = '<div class="pv-scroll"><table>'
 DENOMINATOR_MARKER = 'rec-denominators'
+
+
+CHECKOUT_REF_TAG = '<script src="/nb-checkout-ref.js" defer></script>'
+
+
+def ensure_checkout_ref_script(html):
+    """F5 (CPEO-1113, 2026-11-13): a record page must load /nb-checkout-ref.js, before posthog.js (LB-105 order law),
+    so its Stripe links carry <page>_<utm_source or direct> in client_reference_id. A page that already loads it is
+    unchanged; a page with no posthog.js gets the tag just before </head>."""
+    if '/nb-checkout-ref.js' in html:
+        return html
+    marker = '<script src="/posthog.js"'
+    if marker in html:
+        return html.replace(marker, CHECKOUT_REF_TAG + '\n' + marker, 1)
+    return html.replace('</head>', CHECKOUT_REF_TAG + '\n</head>', 1)
 
 
 def read_receipt_table(html):
@@ -951,6 +951,14 @@ def run_selftest():
         # Should print warning but not crash
         print("  PASS: Missing marker handling")
 
+        # Test F5: the checkout-ref script is added before posthog.js once, never twice
+        ref_page = '<head>\n<script src="/posthog.js" defer></script>\n<script src="/sample.js" defer></script>\n</head>'
+        with_ref = ensure_checkout_ref_script(ref_page)
+        assert with_ref.index('/nb-checkout-ref.js') < with_ref.index('/posthog.js')
+        assert ensure_checkout_ref_script(with_ref) == with_ref and with_ref.count('/nb-checkout-ref.js') == 1
+        assert ensure_checkout_ref_script('<head></head>').count('/nb-checkout-ref.js') == 1
+        print("  PASS: Record page loads the checkout-ref script before posthog.js")
+
         # Test 3: ASCII guard with em dash
         try:
             is_ascii, error = check_ascii('text with em dash—here')
@@ -965,14 +973,6 @@ def run_selftest():
         assert is_ascii
         print("  PASS: ASCII guard allows valid text")
 
-
-        # Test 6 (F5): the checkout-ref script is added before posthog.js once, never twice
-        ref_page = '<head>\n<script src="/posthog.js" defer></script>\n<script src="/sample.js" defer></script>\n</head>'
-        with_ref = ensure_checkout_ref_script(ref_page)
-        assert with_ref.index('/nb-checkout-ref.js') < with_ref.index('/posthog.js')
-        assert ensure_checkout_ref_script(with_ref) == with_ref and with_ref.count('/nb-checkout-ref.js') == 1
-        assert ensure_checkout_ref_script('<head></head>').count('/nb-checkout-ref.js') == 1
-        print("  PASS: Record page loads the checkout-ref script before posthog.js")
 
         print("\nSelf-test PASSED")
         return 0
