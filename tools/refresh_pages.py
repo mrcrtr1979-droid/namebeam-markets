@@ -160,6 +160,124 @@ def check_ascii(text):
     return True, None
 
 
+
+# ---- LB-107 (2026-11-12): the denominator sentence directly above the receipt table -------------------------
+# The receipt table on 26 record pages reads "n of N" per engine. Its denominators were set by the 10-08 receipt
+# generator, which is not in this repo, so this block never types them: it recounts them from the raw run file
+# the page already publishes (all.csv or rows.csv) and writes the sentence only when every recount equals the
+# table's own N. Rule found on all 26 pages (LB-107): Perplexity and the third-party column count answered days
+# in the h2 window (the days the answer text is public); the other engines count days from the window start to
+# one later cut date, answered days or tracked days, whichever the table's N equals; the cut is derived, not typed.
+RECEIPT_ENGINE_COLUMNS = (
+    ('Perplexity named it (days)', 'perplexity', 'Perplexity'),
+    ('Gemini named it', 'gemini', 'Gemini'),
+    ('ChatGPT named it', 'openai', 'ChatGPT'),
+    ('Claude named it', 'anthropic', 'Claude'),
+)
+RECEIPT_CITATION_COLUMN = 'third-party pages carrying its name (days)'
+RECEIPT_TABLE_OPEN = '<div class="pv-scroll"><table>'
+DENOMINATOR_MARKER = 'rec-denominators'
+
+
+def read_receipt_table(html):
+    """Return the receipt section's window, its table's per-column denominators (from the "n of N" cells) and the
+    section's span in the page, or None when the page carries no receipt table."""
+    m = re.search(r'<!-- receipt:start.*?<!-- receipt:end', html, re.DOTALL)
+    if not m:
+        return None
+    rec = m.group(0)
+    win = re.search(r'(\d+) days from (\d{4}-\d{2}-\d{2}) through (\d{4}-\d{2}-\d{2})', rec)
+    if RECEIPT_TABLE_OPEN not in rec or not win:
+        return None
+    heads = [re.sub(r'<.*?>', '', c) for c in re.findall(r'<th>(.*?)</th>', rec)]
+    denominators = {}
+    for tr in re.findall(r'<tr>(.*?)</tr>', rec)[1:]:
+        for head, cell in zip(heads, re.findall(r'<td>(.*?)</td>', tr)):
+            cm = re.match(r'(\d+) of (\d+)$', cell)
+            if cm:
+                denominators.setdefault(head, set()).add(int(cm.group(2)))
+    return {'start': win.group(2), 'end': win.group(3), 'denominators': denominators,
+            'section_start': m.start(), 'section_end': m.end()}
+
+
+def engine_days(rows, engine, start, end):
+    """(tracked days, answered days) for one engine from start to end inclusive, counted from raw run rows."""
+    tracked = {r['date'] for r in rows if r['engine'] == engine and start <= r['date'] <= end}
+    answered = {r['date'] for r in rows if r['engine'] == engine and start <= r['date'] <= end and r['status'] == 'OK'}
+    return len(tracked), len(answered)
+
+
+def derive_denominators(rows, receipt):
+    """Recount every receipt denominator from the raw rows. Returns (result, None) when each table N is reproduced,
+    else (None, reason) and the caller writes nothing: a number that cannot be recounted is never printed."""
+    start, end, den = receipt['start'], receipt['end'], receipt['denominators']
+
+    def single(col):
+        vals = den.get(col)
+        if vals is None:
+            return None, None
+        if len(vals) != 1:
+            return None, '%s shows more than one denominator %s' % (col, sorted(vals))
+        return next(iter(vals)), None
+
+    col_p, eng_p, label_p = RECEIPT_ENGINE_COLUMNS[0]
+    want_p, err = single(col_p)
+    if err:
+        return None, err
+    if want_p is None:
+        return None, 'no %s column' % label_p
+    tracked_p, answered_p = engine_days(rows, eng_p, start, end)
+    if answered_p != want_p:
+        return None, '%s: the table says %d, answered days %s to %s in the raw rows are %d' % (label_p, want_p, start, end, answered_p)
+    want_c, err = single(RECEIPT_CITATION_COLUMN)
+    if err:
+        return None, err
+    if want_c is not None and want_c != want_p:
+        return None, 'third-party column says %d, %s column says %d' % (want_c, label_p, want_p)
+    wants = []
+    for col, eng, label in RECEIPT_ENGINE_COLUMNS[1:]:
+        want, err = single(col)
+        if err:
+            return None, err
+        if want is not None:
+            wants.append((eng, label, want))
+    cut, later = None, []
+    for day in sorted({r['date'] for r in rows if r['date'] >= start}, reverse=True):
+        clauses = []
+        for eng, label, want in wants:
+            tracked, answered = engine_days(rows, eng, start, day)
+            if answered == want:
+                clauses.append({'label': label, 'kind': 'answered', 'count': want, 'answered': answered, 'tracked': tracked})
+            elif tracked == want:
+                clauses.append({'label': label, 'kind': 'tracked', 'count': want, 'answered': answered, 'tracked': tracked})
+            else:
+                break
+        if len(clauses) == len(wants):
+            cut, later = day, clauses
+            break
+    if wants and cut is None:
+        return None, 'no cut date from %s reproduces %s' % (start, ', '.join('%s %d' % (l, w) for _, l, w in wants))
+    return {'public_label': label_p, 'public_count': answered_p, 'citation_column': want_c is not None,
+            'start': start, 'end': end, 'later': later, 'cut': cut}, None
+
+
+def denominator_sentence(d):
+    """One ASCII sentence from derive_denominators' result. Every number in it is a recount; none is typed here."""
+    who = d['public_label'] + (' and the third-party pages column' if d['citation_column'] else '')
+    parts = ['%s, %d days with public answer text, %s to %s' % (who, d['public_count'], d['start'], d['end'])]
+    if d['later']:
+        items = []
+        for c in d['later']:
+            item = '%s %d %s days' % (c['label'], c['count'], c['kind'])
+            if c['kind'] == 'tracked' and c['answered'] != c['tracked']:
+                item += ' (%d answered)' % c['answered']
+            items.append(item)
+        joined = items[0] if len(items) == 1 else ', '.join(items[:-1]) + ' and ' + items[-1]
+        parts.append('%s, %s to %s' % (joined, d['start'], d['cut']))
+    return ('Days behind each count differ by engine: ' + '; '.join(parts) +
+            "; a 0 means the business's name or web address was in none of that engine's answers on those days.")
+
+
 class PageRefresher:
     def __init__(self, root, latest, markets_data, today, fetch_citation):
         self.root = root
@@ -622,6 +740,29 @@ class PageRefresher:
                 )
 
             html = self.replace_marker(page_name, html, 'rec-agency', agency_html)
+
+            # f. LB-107 (2026-11-12): one sentence directly above the receipt table naming what each engine's
+            # denominator counts; every number is recounted from the raw run file the page already publishes and
+            # cross-checked against the table's own N. Not reproducible means the sentence is left empty and a
+            # WARNING is printed (tools/test_lb107_denominators.py REDs on an empty sentence).
+            receipt = read_receipt_table(html)
+            if receipt:
+                raw_name = 'all.csv' if shape == 'day_pages' else 'rows.csv'
+                with open(self.root / 'record' / slug / raw_name, 'r', encoding='utf-8', newline='') as f:
+                    raw_rows = list(csv.DictReader(f))
+                derived, reason = derive_denominators(raw_rows, receipt)
+                marker_open = f'<!--nb:{DENOMINATOR_MARKER}-->'
+                if marker_open not in html:
+                    section = html[receipt['section_start']:receipt['section_end']]
+                    section = section.replace(RECEIPT_TABLE_OPEN,
+                                              marker_open + f'<!--/nb:{DENOMINATOR_MARKER}-->\n' + RECEIPT_TABLE_OPEN, 1)
+                    html = html[:receipt['section_start']] + section + html[receipt['section_end']:]
+                if derived:
+                    sentence = '<p class="pv-note">' + denominator_sentence(derived) + '</p>'
+                else:
+                    print(f"WARNING: {page_name}: a receipt denominator is not reproducible from {raw_name} ({reason}); the sentence is left empty")
+                    sentence = ''
+                html = self.replace_marker(page_name, html, DENOMINATOR_MARKER, sentence)
 
             # d. Downloads
             if shape == 'day_pages':
