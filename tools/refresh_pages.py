@@ -76,6 +76,7 @@ def main():
     changes.extend(refresher.refresh_buy())
     changes.extend(refresher.refresh_agency())
     changes.extend(refresher.refresh_check())
+    changes.extend(refresher.refresh_pricing_page())
     changes.extend(refresher.refresh_record_pages())
 
     # Print change table
@@ -541,6 +542,40 @@ class PageRefresher:
         self.write_page(page_name, html)
         return self.changes[changes_before:]
 
+    def refresh_pricing_page(self):
+        """what-ai-visibility-checks-cost/index.html: window, size and JSON-LD coverage rewritten from data/latest.json.
+        LB-103 hold, node A 2026-11-13 10:26PM CT (CPEO-1113). The page's prices are dated reads and are not touched.
+        A missing marker or JSON-LD pattern is an error (exit 4), not a warning: a quiet miss is how the window went stale."""
+        page_name = 'what-ai-visibility-checks-cost/index.html'
+        if not (self.root / page_name).exists():
+            print(f"{page_name} not present on this branch; pricing refresh skipped")
+            return []
+        html = self.read_page(page_name)
+        before = len(self.changes)
+        t = self.latest['totals']
+        first, end = self.latest['window_first'], self.latest['window_end']
+        gen = self.latest['generated_utc'][:10]
+        sentence = (f"The public record covers {t['markets']} markets from {first} to {end} (data file generated {gen}): "
+                    f"{t['rows']:,} rows, {t['ok_rows']:,} of them with an answer logged.")
+        if '<!--nb:pw-window-->' not in html:
+            print(f"ERROR: marker pw-window missing in {page_name}")
+            sys.exit(4)
+        html = self.replace_marker(page_name, html, 'pw-window', sentence)
+        desc_pat = r'\d+ markets, 20\d\d-\d\d-\d\d to 20\d\d-\d\d-\d\d, [\d,]+ rows of which [\d,]+ logged an answer\.'
+        cov_pat = r'"temporalCoverage": "20\d\d-\d\d-\d\d/20\d\d-\d\d-\d\d"'
+        if len(re.findall(desc_pat, html)) != 1 or len(re.findall(cov_pat, html)) != 1:
+            print(f"ERROR: JSON-LD description or temporalCoverage pattern not found exactly once in {page_name}")
+            sys.exit(4)
+        new_desc = f"{t['markets']} markets, {first} to {end}, {t['rows']:,} rows of which {t['ok_rows']:,} logged an answer."
+        new_cov = f'"temporalCoverage": "{first}/{end}"'
+        for old_re, new in ((desc_pat, new_desc), (cov_pat, new_cov)):
+            old = re.search(old_re, html).group(0)
+            if old != new:
+                self.changes.append({'marker': 'pw-jsonld', 'page': page_name, 'old': old, 'new': new})
+            html = re.sub(old_re, lambda m, n=new: n, html)
+        self.write_page(page_name, html)
+        return self.changes[before:]
+
     def refresh_agency(self):
         """Refresh agency/index.html"""
         page_name = 'agency/index.html'
@@ -943,6 +978,22 @@ def run_selftest():
         is_ascii, error = check_ascii('valid ASCII text 123')
         assert is_ascii
         print("  PASS: ASCII guard allows valid text")
+
+        # Test 5: pricing page window and JSON-LD come from latest.json (LB-103 hold, CPEO-1113)
+        latest5 = {"window_first": "2026-08-05", "window_end": "2026-11-12", "generated_utc": "2026-11-13T08:27:17Z",
+                   "totals": {"markets": 33, "rows": 13252, "ok_rows": 10742}}
+        pdir = root / 'what-ai-visibility-checks-cost'
+        pdir.mkdir()
+        (pdir / 'index.html').write_text(
+            '<script type="application/ld+json">{"description": "33 markets, 2026-08-05 to 2026-11-09, 12,757 rows of which '
+            '10,267 logged an answer.", "temporalCoverage": "2026-08-05/2026-11-09"}</script>'
+            '<li><!--nb:pw-window-->old sentence<!--/nb:pw-window--></li>')
+        PageRefresher(root, latest5, {}, "2026-11-14", False).refresh_pricing_page()
+        out5 = (pdir / 'index.html').read_text()
+        assert 'from 2026-08-05 to 2026-11-12 (data file generated 2026-11-13): 13,252 rows, 10,742 of them' in out5
+        assert '"temporalCoverage": "2026-08-05/2026-11-12"' in out5 and '13,252 rows of which 10,742 logged' in out5
+        assert '2026-11-09' not in out5 and '12,757' not in out5
+        print("  PASS: Pricing page window from latest.json")
 
         print("\nSelf-test PASSED")
         return 0
