@@ -51,6 +51,25 @@ class Note(unittest.TestCase):
         self.assertEqual(extra, [])
 
 
+class DayNote(unittest.TestCase):
+    def test_8_day_note_single_idempotent_ascii(self):
+        h = '<html>\n<h1>X: 2026-11-10</h1>\n<p>t</p>\n'
+        once = aac.apply_day(h)
+        self.assertEqual(once.count('id="anthropic-correction-day"'), 1)
+        self.assertEqual(aac.apply_day(once), once)
+        self.assertTrue(all(ord(c) < 128 for c in aac.DAY_NOTE)); self.assertNotIn('nb:', aac.DAY_NOTE)
+        self.assertEqual(aac.apply_day('<p>no h1</p>'), '<p>no h1</p>')
+
+    def test_9_day_note_has_no_checker_window(self):
+        win = re.compile(r"(\d{4}-\d{2}-\d{2}) (?:to|through) (\d{4}-\d{2}-\d{2})")
+        self.assertEqual(win.findall(aac.DAY_NOTE), [])
+
+    def test_10_every_affected_day_page_carries_it_once(self):
+        bad = [(s, d) for s, d in aac.affected_days()
+               if (ROOT / 'record' / s / d / 'index.html').read_text(encoding='utf-8').count('id="anthropic-correction-day"') != 1]
+        self.assertEqual(bad, [])
+
+
 if __name__ == '__main__':
     res = unittest.main(exit=False, verbosity=1).result
     bad = len(res.failures) + len(res.errors)
