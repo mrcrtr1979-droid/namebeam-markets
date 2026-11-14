@@ -9,7 +9,10 @@ import vm from 'node:vm';
 const root = process.argv[2] || '.';
 const kind = process.argv[3] || (fs.existsSync(path.join(root, 'buy', 'index.html')) ? 'markets' : 'site');
 const host = kind === 'markets' ? 'markets.namebeam.ai' : 'namebeam.ai';
-const pages = kind === 'markets' ? ['index.html', 'buy/index.html'] : ['index.html'];
+const recordPages = kind === 'markets' && fs.existsSync(path.join(root, 'record'))
+  ? fs.readdirSync(path.join(root, 'record')).filter((d) => fs.existsSync(path.join(root, 'record', d, 'summary.json')) && fs.existsSync(path.join(root, 'record', d, 'index.html'))).sort().map((d) => 'record/' + d + '/index.html')
+  : [];
+const pages = kind === 'markets' ? ['index.html', 'buy/index.html'].concat(recordPages) : ['index.html'];
 const TAG = '<script src="/nb-checkout-ref.js" defer></script>';
 const ascii = (s) => /^[\x00-\x7F]*$/.test(s);
 
@@ -112,6 +115,16 @@ const cases = [
     run({ h: 'namebeam.ai', pathname: '/', search: '?utm_source=hn&utm_medium=social&utm_campaign=launch', anchors: [a] });
     const s = q(a.href);
     return s.get('utm_source') === 'hn' && s.get('utm_medium') === 'social' && s.get('utm_campaign') === 'launch' && s.get('utm_content') === 'hero';
+  }],
+  ['F5: the old record-page tag receipt_<market> is replaced by <page>_<source>; an affiliate id beside it still wins', () => {
+    const a = anchor('https://buy.stripe.com/7sY28rbNy58RbD25ledIA0V?client_reference_id=receipt_atlanta_hvac');
+    run({ h: 'markets.namebeam.ai', pathname: '/record/atlanta-hvac/', search: '?utm_source=juno', anchors: [a] });
+    const b = anchor('https://buy.stripe.com/28EaEX8Bm0SB5eE4hadIA0T?client_reference_id=receipt_atlanta_hvac');
+    run({ h: 'markets.namebeam.ai', pathname: '/record/atlanta-hvac/', anchors: [b], endorsely: 'aff-9' });
+    const c = anchor('https://buy.stripe.com/28EaEX8Bm0SB5eE4hadIA0T?client_reference_id=aff-9');
+    run({ h: 'markets.namebeam.ai', pathname: '/record/atlanta-hvac/', anchors: [c] });
+    return q(a.href).get('client_reference_id') === 'record-atlanta-hvac_juno' && (a.href.match(/client_reference_id/g) || []).length === 1
+      && q(b.href).get('client_reference_id') === 'receipt_atlanta_hvac' && q(c.href).get('client_reference_id') === 'aff-9';
   }],
   ['a link inserted after load is stamped at click time; stamping twice leaves one client_reference_id', () => {
     const r = run({ h: 'namebeam.ai', pathname: '/', search: '?utm_source=chat' });

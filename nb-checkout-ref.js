@@ -8,6 +8,8 @@
       Letters, digits, dash and underscore only, 200 characters at most, lower case. The link's own parameters stay.
    3. A link that already carries someone else's client_reference_id is left alone, and nothing is written while
       window.endorsely_referral is set: an affiliate referral (nb-endorsely.js) owns the field and wins.
+      The one exception is the old record-page tag receipt_<market> (F5, 2026-11-13): it is a page tag, not someone
+      else's id, so it is replaced by the <page>_<utm_source or direct> value like an untagged link.
    4. Links from one namebeam.ai host to another host's /buy/ page carry the landing UTM forward, because
       sessionStorage does not cross hosts; with no landing UTM they carry utm_source=namebeam and utm_medium=<page>,
       the same values the hand-written home links already use.
@@ -52,7 +54,7 @@
       if (u.hostname !== 'buy.stripe.com') { return false; }
       if (window.endorsely_referral) { return false; }
       cur = u.searchParams.get('client_reference_id');
-      if (cur && cur !== TAG && a.getAttribute('data-nb-ref') !== cur) { return false; }
+      if (cur && cur !== TAG && !/^receipt_/.test(cur) && a.getAttribute('data-nb-ref') !== cur) { return false; }
       if (cur === TAG) { return true; }
       u.searchParams.set('client_reference_id', TAG);
       a.href = u.toString();

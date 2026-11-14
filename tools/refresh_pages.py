@@ -190,6 +190,21 @@ RECEIPT_TABLE_OPEN = '<div class="pv-scroll"><table>'
 DENOMINATOR_MARKER = 'rec-denominators'
 
 
+CHECKOUT_REF_TAG = '<script src="/nb-checkout-ref.js" defer></script>'
+
+
+def ensure_checkout_ref_script(html):
+    """F5 (CPEO-1113, 2026-11-13): a record page must load /nb-checkout-ref.js, before posthog.js (LB-105 order law),
+    so its Stripe links carry <page>_<utm_source or direct> in client_reference_id. A page that already loads it is
+    unchanged; a page with no posthog.js gets the tag just before </head>."""
+    if '/nb-checkout-ref.js' in html:
+        return html
+    marker = '<script src="/posthog.js"'
+    if marker in html:
+        return html.replace(marker, CHECKOUT_REF_TAG + '\n' + marker, 1)
+    return html.replace('</head>', CHECKOUT_REF_TAG + '\n</head>', 1)
+
+
 def read_receipt_table(html):
     """Return the receipt section's window, its table's per-column denominators (from the "n of N" cells) and the
     section's span in the page, or None when the page carries no receipt table."""
@@ -622,6 +637,12 @@ class PageRefresher:
             page_name = f'record/{slug}/index.html'
             html = self.read_page(page_path.relative_to(self.root).as_posix())
 
+            # F5 (CPEO-1113): every record page loads nb-checkout-ref.js so its Stripe links are source-tagged.
+            html_ref = ensure_checkout_ref_script(html)
+            if html_ref != html:
+                self.changes.append({'marker': 'checkout-ref-script-added', 'page': page_name, 'old': '', 'new': CHECKOUT_REF_TAG})
+                html = html_ref
+
             # LB-101 (2026-11-12): every record page carries the one-line free check link right under the h1
             # (tools/lb101_check_links.py holds the block and grades it); a page that already has it is unchanged.
             html_with_cta = lb101_check_links.insert_block('record', html)
@@ -946,6 +967,14 @@ def run_selftest():
         html2 = refresher.replace_marker('test.html', html2, 'missing-marker', 'new content')
         # Should print warning but not crash
         print("  PASS: Missing marker handling")
+
+        # Test F5: the checkout-ref script is added before posthog.js once, never twice
+        ref_page = '<head>\n<script src="/posthog.js" defer></script>\n<script src="/sample.js" defer></script>\n</head>'
+        with_ref = ensure_checkout_ref_script(ref_page)
+        assert with_ref.index('/nb-checkout-ref.js') < with_ref.index('/posthog.js')
+        assert ensure_checkout_ref_script(with_ref) == with_ref and with_ref.count('/nb-checkout-ref.js') == 1
+        assert ensure_checkout_ref_script('<head></head>').count('/nb-checkout-ref.js') == 1
+        print("  PASS: Record page loads the checkout-ref script before posthog.js")
 
         # Test 3: ASCII guard with em dash
         try:
