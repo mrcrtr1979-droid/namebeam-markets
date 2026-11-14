@@ -38,6 +38,22 @@ class DateProducers(unittest.TestCase):
         m = load('refresh_day_pages')
         self.assertIn('offer_day', inspect.signature(m.generate_day_page).parameters)
 
+    def test_3b_buy_page_markers_follow_latest_run_day_not_the_run_day(self):
+        import tempfile
+        m = load('refresh_pages')
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            (root / 'buy').mkdir()
+            (root / 'buy' / 'index.html').write_text(
+                '<meta name="description" content="Market Record <!--nb:buy-asof-meta-->as of 2026-11-01<!--/nb:buy-asof-meta-->: x">\n'
+                '<p><!--nb:buy-asof-->Prices as of 2026-11-01<!--/nb:buy-asof--></p>\n', encoding='utf-8')
+            r = m.PageRefresher(root, {'latest_run_day': '2026-11-12'}, {}, '2026-11-15', False)
+            r.refresh_buy()
+            out = (root / 'buy' / 'index.html').read_text(encoding='utf-8')
+            self.assertIn('as of 2026-11-12', out)
+            self.assertIn('Prices as of 2026-11-12', out)
+            self.assertNotIn('2026-11-15', out)
+
     def test_4_record_pages_carry_latest_run_day(self):
         bad = []
         for slug in json.loads((ROOT / 'data' / 'latest.json').read_text(encoding='utf-8'))['markets']:
