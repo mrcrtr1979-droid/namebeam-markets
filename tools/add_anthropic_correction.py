@@ -10,11 +10,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 START, END = '2026-10-08', '2026-11-12'
 NOTE_ID = 'anthropic-correction'
-NOTE = ('<p class="pv-note" id="%s">Correction 2026-11-14: from %s to %s the Anthropic names on this page and its day pages '
+NOTE = ('<p class="pv-note" id="%s">Correction 2026-11-14: for the days between %s and %s the Anthropic names on this page and its day pages '
         'include section headings and advice lines that the extractor listed as names, so the Anthropic named-business counts '
         'for those days overstate. Those days are not restated. From 2026-11-14 new Anthropic rows keep only names that pass '
         'a strict business-name rule, which can leave out a real business.</p>\n') % (NOTE_ID, START, END)
 ANCHOR = '<h2>By engine</h2>'
+OLD = re.compile(r'<p class="pv-note" id="%s">.*?</p>\n' % NOTE_ID, re.S)
 
 
 def affected_slugs():
@@ -30,9 +31,11 @@ def affected_slugs():
 
 
 def apply(html):
-    """Pure: returns html with exactly one note before the By engine heading; unchanged when already present or no anchor."""
-    if 'id="%s"' % NOTE_ID in html or ANCHOR not in html:
+    """Pure: returns html with exactly one current note before the By engine heading (an older note is replaced in place); unchanged when no anchor."""
+    if ANCHOR not in html:
         return html
+    if 'id="%s"' % NOTE_ID in html:
+        return OLD.sub(lambda m: NOTE, html, count=1)
     return html.replace(ANCHOR, NOTE + ANCHOR, 1)
 
 

@@ -15,6 +15,19 @@ class Note(unittest.TestCase):
         self.assertEqual(once.count('id="anthropic-correction"'), 1)
         self.assertEqual(aac.apply(once), once)
 
+    def test_6_note_carries_no_date_window_the_checker_counts(self):
+        # tools/check_record_consistency.py WIN: 'YYYY-MM-DD to|through YYYY-MM-DD' counts as a data window
+        win = re.compile(r"(\d{4}-\d{2}-\d{2}) (?:to|through) (\d{4}-\d{2}-\d{2})")
+        self.assertEqual(win.findall(aac.NOTE), [])
+        self.assertIn(aac.START, aac.NOTE); self.assertIn(aac.END, aac.NOTE)
+
+    def test_7_older_note_is_replaced_not_stacked(self):
+        old = '<p class="pv-note" id="anthropic-correction">Correction 2026-11-14: from 2026-10-08 to 2026-11-12 old text.</p>\n'
+        out = aac.apply('<p>x</p>\n' + old + '<h2>By engine</h2>')
+        self.assertEqual(out.count('id="anthropic-correction"'), 1)
+        self.assertNotIn('old text', out)
+        self.assertEqual(aac.apply(out), out)
+
     def test_2_no_anchor_no_change(self):
         self.assertEqual(aac.apply('<p>none</p>'), '<p>none</p>')
 
