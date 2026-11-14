@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>What AI visibility checks cost and what each one records | Namebeam</title>
+<meta name="description" content="Prices as printed on each tool's own page on 2026-11-12, what each one tracks, and what the Namebeam dated record keeps: per city and trade, which AI engine named which business, with the prompts used.">
+<link rel="canonical" href="https://markets.namebeam.ai/what-ai-visibility-checks-cost/">
+<link rel="stylesheet" href="/site.css">
+<script src="/posthog.js" defer></script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://markets.namebeam.ai/what-ai-visibility-checks-cost/", "url": "https://markets.namebeam.ai/what-ai-visibility-checks-cost/", "name": "What AI visibility checks cost and what each one records", "description": "Prices as printed on each tool's own page on 2026-11-12, what each one tracks, and what the Namebeam dated record keeps.", "inLanguage": "en", "datePublished": "2026-11-12", "dateModified": "2026-11-12", "isPartOf": {"@type": "WebSite", "name": "Namebeam Markets", "url": "https://markets.namebeam.ai/"}, "publisher": {"@type": "Organization", "name": "Carter Enterprise LLC"}, "about": {"@id": "https://markets.namebeam.ai/record/#dataset"}}, {"@type": "Dataset", "@id": "https://markets.namebeam.ai/record/#dataset", "name": "Namebeam dated record: which businesses AI engines name for one buyer question per market", "description": "For each market (one US city and one trade) and each run day, the same buyer question is sent to OpenAI, Anthropic, Perplexity and Gemini by API and to Google search; the record keeps the status of every call, the business names found in each answer and the SHA-256 of each raw answer file. 33 markets, 2026-08-05 to 2026-11-12, 13,252 rows of which 10,742 logged an answer.", "url": "https://markets.namebeam.ai/record/", "creator": {"@type": "Organization", "name": "Carter Enterprise LLC"}, "temporalCoverage": "2026-08-05/2026-11-12", "spatialCoverage": "United States", "isAccessibleForFree": true, "license": "https://creativecommons.org/licenses/by/4.0/", "measurementTechnique": "One fixed buyer question per market sent on each run day to each source by API; names extracted from the answer text by a capital-letter check; refusals and failures logged with a status word; raw answer hashed with SHA-256.", "variableMeasured": ["run day", "source", "run status", "business names in the answer", "SHA-256 of the raw answer"], "dateModified": "2026-11-12"}]}</script>
+</head>
+<body>
+
+<header>
+  <a class="brand" href="/" style="text-decoration:none">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="name">Name<span>beam</span></div><div class="tag">The dated record of who AI names</div></div>
+  </a>
+  <nav>
+    <a href="/record/">The record</a><a href="/agencies/">Agencies</a><a href="/data/">Data and API</a><a href="https://namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">Namebeam</a><a class="btn" href="/check/" style="padding:8px 14px;margin-left:18px">Free check</a>
+  </nav>
+</header>
+
+<main>
+<div class="pv-wrap">
+<div class="pv-crumbs"><a href="/">Namebeam</a> / <span>What AI visibility checks cost</span></div>
+<h1>What AI visibility checks cost and what each one records</h1>
+
+<p class="pv-note">Last updated 2026-11-12. Every price on this page was read from the vendor's own public page on 2026-11-12 between 02:30AM and 02:33AM CT by a plain page fetch with no account, and is printed here as that page printed it. Prices change; the source link on each row is the page to confirm.</p>
+
+<p>An AI visibility check answers one question: when a buyer asks an AI engine for a business, a product or a brand, is yours named? The tools below sell that check in different units: tracked prompts, credits, engines, projects. This page lists what each one prints as its price and what it says it tracks, then describes what the Namebeam record keeps, because the two kinds of product are not the same thing.</p>
+
+<p class="nb-check" id="nb-check"><a class="btn" href="https://check.namebeam.ai/?utm_source=pricing&amp;utm_campaign=lb103">Run the free check for your city and trade</a></p>
+
+<h2>What the Namebeam record keeps</h2>
+<ul>
+<li><strong>Per city and trade.</strong> Each market is one US city and one trade, with one fixed buyer question written in plain words (for example a Kansas City health insurance market asks who can help pick a plan). The question is printed verbatim on each record page.</li>
+<li><strong>Which engine named which business, dated.</strong> On each run day the same question goes to OpenAI, Anthropic, Perplexity and Gemini by API and to Google search. The record keeps, per source and per day, the business names found in the answer, the status of the call (OK, QUOTA_BLOCKED, FAILED, EXTRACTION_FAILED) and the SHA-256 of the raw answer file. Refusals are logged, not dropped.</li>
+<li><strong>The prompts used.</strong> The user prompt is the market's question, word for word; there is no system prompt. Model ids, modes (web search on or off) and run times are stated on the pages that report them.</li>
+<li><strong>Window and size.</strong> <!--nb:pw-window-->The public record covers 33 markets from 2026-08-05 to 2026-11-12 (data file generated 2026-11-13): 13,252 rows, 10,742 of them with an answer logged.<!--/nb:pw-window--> Each record page carries a free CSV and links to the raw files in the public repository.</li>
+<li><strong>A sample, not a verdict.</strong> One answer on one day is a sample. The record pages compare each run day with the previous run day on the engines that answered both days, so a name that appears or drops is shown with its dates. Nothing on these pages ranks a business or explains why an engine answered as it did.</li>
+</ul>
+
+<p>Two dated readings from the record, with their denominators. Across 55 local buyer questions and 17 run days from 2026-10-24 to 2026-11-09, any two of three engines (ChatGPT gpt-5-mini, Claude haiku 4.5 on Bedrock, Gemini flash lite) shared at least one business name in 1,070 of 1,916 engine pairs, 55.8 percent (<a href="/studies/three-engines-agreement-2026-10-24-to-11-09/">the study</a>). On 2026-11-11 (UTC), five runs per market with web search off across 28 markets and 12 trades, gemini-3.5-flash-lite named at least one business in 134 of 140 runs; claude-haiku-4-5 named one in 8 of 140, and those 8 were national insurance carriers in one insurance market and three runs in one towing market (<a href="/trades/">trade pages</a>). API answers; consumer apps can differ.</p>
+
+<h2>Prices as printed, 2026-11-12</h2>
+<p class="pv-note">Each row: the tool, the price exactly as its page printed it, what the page says it tracks, the page read, and the CT time of the read. Where a page shows a monthly or annual toggle or more than one currency, the row says so. Nothing here says one tool is better than another; the pages were read, not used.</p>
+
+<div class="pv-scroll">
+<table class="nb-prices">
+<tr><th>Tool</th><th>Price as printed</th><th>What it tracks, per its page</th><th>Source page read</th><th>Read time</th></tr>
+<tr><td>Namebeam, free check</td><td>Free. "No signup, no card, no catch." A dated sample for one city and trade, mailed and shown on a page; the form closes when the day's budget is used.</td><td>The record for your market: every day, every engine, dated. A count, not a ranking.</td><td><a href="https://check.namebeam.ai/">https://check.namebeam.ai/</a></td><td>2026-11-12 02:30:40AM CT</td></tr>
+<tr><td>Namebeam, Market Record</td><td>"$49 per market, per month" (markets.namebeam.ai/buy/); "One market, $49 a month" (namebeam.ai); "49 USD a month" (check.namebeam.ai). Renews monthly until cancelled.</td><td>One trade in one city from the markets recorded: the businesses each engine named, by day, as one dated CSV and a one-page PDF each month.</td><td><a href="https://markets.namebeam.ai/buy/">https://markets.namebeam.ai/buy/</a></td><td>2026-11-12 02:33:07AM CT</td></tr>
+<tr><td>Namebeam, Edition 1 Commercial License</td><td>"$540 one license, paid once" (markets.namebeam.ai/buy/); "Edition 1 license $540 once" (namebeam.ai). The Edition 1 files themselves are free under CC BY 4.0.</td><td>The right to use and republish Edition 1 data without credit, including white-label use in client reports.</td><td><a href="https://markets.namebeam.ai/buy/">https://markets.namebeam.ai/buy/</a></td><td>2026-11-12 02:33:07AM CT</td></tr>
+<tr><td>Namebeam, Market Record feed</td><td>"$200 per month" founding partner (markets.namebeam.ai/buy/); "Founding feed $200/mo" (namebeam.ai). Renews monthly.</td><td>Cut files for named markets, delivered daily or weekly, with API access to the current daily rows.</td><td><a href="https://namebeam.ai/">https://namebeam.ai/</a></td><td>2026-11-12 02:30:37AM CT</td></tr>
+<tr><td>Peec AI</td><td>Starter "$ 95 /mo" (50 prompts, choose 3 models, 1 project); Pro "$ 245 /mo" (150 prompts, 2 projects); Advanced "$ 495 /mo" (350 prompts, 5 projects); Enterprise "Custom", annual. One additional model is listed at $30, $70 or $140 a month by plan on the annual toggle.</td><td>Tracked prompts across the AI models the page lists (ChatGPT and Perplexity in the comparison table; "Up to 26 LLM models tracked" on Enterprise), daily tracking frequency, agent analytics, shareable dashboards.</td><td><a href="https://peec.ai/pricing">https://peec.ai/pricing</a></td><td>2026-11-12 02:30:42AM CT</td></tr>
+<tr><td>Otterly.AI</td><td>Lite 29 a month (16 prompts, 4 of 7 AI engines, daily); Standard 189 a month (120 prompts); Premium 489 a month (403 prompts in the comparison table); Enterprise "Custom". The page's meta description prints these in US dollars with 15, 100 and 400 prompts; the price cards print the euro sign with the same numbers under a Monthly or Annually toggle and a "Save" tag, so the billing state behind the printed figure is not settled by a plain fetch.</td><td>Prompts checked on the engines it lists: ChatGPT, Google AI Overviews, Perplexity, Microsoft Copilot, Google AI Mode, Google Gemini, Claude. "One credit is one prompt checked once on one AI engine."</td><td><a href="https://otterly.ai/pricing">https://otterly.ai/pricing</a></td><td>2026-11-12 02:30:52AM CT</td></tr>
+<tr><td>Rankscale</td><td>Essentials "Starting at $ 20" a month, "$ 17 /mo" yearly (labeled "Yearly only"); Pro "$ 99 /mo", "$ 84" yearly (1,200 credits a month); Pro+ "$ 229 /mo", "$ 195" yearly (3,000 credits); Growth "$ 385 /mo", "$ 327" yearly (5,500 credits); Enterprise "$ 780 /mo", "$ 663" yearly (12,000 credits); Custom plan on request. Monthly or Yearly toggle, "Save 15%".</td><td>Credits "used to query AI engines" (the page lists 17+ engines), scheduling from hourly to monthly, page audits, visibility tracking, citations analysis, a credit calculator.</td><td><a href="https://rankscale.ai/pricing">https://rankscale.ai/pricing</a></td><td>2026-11-12 02:30:55AM CT</td></tr>
+<tr><td>AthenaHQ</td><td>Essential "Free" ("$25 free credit", 300 credits); Starter "$ 295 /month" (3,600 credits); Enterprise "Custom". Monthly or Annual toggle ("17% off"). API access and extra credits are paid add-ons on Starter; "Contact us for add-on pricing."</td><td>The platforms the page lists: ChatGPT, Perplexity, AI Overviews, AI Mode, Gemini, Copilot; credits per month; content recommendations and an AI agent.</td><td><a href="https://athenahq.ai/plans">https://athenahq.ai/plans</a></td><td>2026-11-12 02:30:57AM CT</td></tr>
+</table>
+</div>
+
+<h2>How to read the table</h2>
+<ul>
+<li><strong>Units differ.</strong> A prompt tracked daily on one engine is one unit at some tools and 31 credits a month at others (Otterly's own FAQ says so). Compare the unit before the price.</li>
+<li><strong>Engines differ.</strong> Each page names its own engine list and which plans include which engines. A check that leaves out the engine your buyers use is a check of something else.</li>
+<li><strong>A record is not a dashboard.</strong> The tools above show a dashboard of tracked prompts for your own brand. The Namebeam record is a public, dated file of what each engine answered for one buyer question per market, kept whether or not anyone is paying for that market, with every refusal logged. The free check reads that record for your city and trade and promises no result.</li>
+<li><strong>Read more than one day.</strong> Whichever tool you use, one answer on one day is a sample. The record pages show the day-to-day changes with dates so that a month can be compared, not a day.</li>
+</ul>
+
+<h2>Method and limits</h2>
+<p>Prices and engine lists were taken from the HTML each vendor page returned to a plain fetch on 2026-11-12 at the CT times shown, without signing in and without clicking any toggle; a browser may show a different billing state or currency. No tool other than Namebeam's own was used or tested, and nothing here rates one against another. Namebeam figures come from the public data file (data/latest.json, generated 2026-11-10, window 2026-08-05 to 2026-11-09), the study page and the trade pages linked above, each with its own method and limits. Corrections are logged at <a href="/corrections/">/corrections/</a>. Method for the record: <a href="/method/">/method/</a>. Scope of each Namebeam product, beside its price: <a href="/buy/">/buy/</a>.</p>
+
+<p>Cite as: Namebeam, "What AI visibility checks cost and what each one records", markets.namebeam.ai/what-ai-visibility-checks-cost/, read 2026-11-12, prices as printed by each vendor on that date.</p>
+
+<p class="nb-check"><a class="btn" href="https://check.namebeam.ai/?utm_source=pricing&amp;utm_campaign=lb103">Run the free check for your city and trade</a> <a href="/record/">Record pages, by market</a>.</p>
+</div>
+</main>
+
+<footer class="ce-foot">
+  <div class="ce-net">
+    <div class="ce-slogan">Every claim owes the future a receipt.</div>
+    <div class="ce-kick">Part of the Carter Enterprise Network</div>
+    <div class="ce-parent">CARTER ENTERPRISE LLC</div>
+    <nav class="ce-legs" data-xlinks="1021" aria-label="Carter Enterprise network">
+      <a href="https://trunkline.money/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://markets.namebeam.ai/">NAMEBEAM MARKETS</a>
+      <a href="https://check.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">FREE CHECK</a>
+      <a href="https://proof.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">PROOF RECORD</a>
+      <a href="https://thereceiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">RECEIPTS API</a>
+      <a href="https://shop.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">MAKER'S RECEIPT SHOP</a>
+      <a href="https://r.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">MAKER'S RECEIPT RECORDS</a>
+    </nav>
+    <nav class="ce-social">
+      <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
+      <a href="https://namebeam.ai/company">Company</a>
+      <a href="https://www.youtube.com/channel/UC63mV8l26O0pB6S-tDRVTtg" target="_blank" rel="noopener">YouTube</a>
+      <a href="mailto:hello@namebeam.ai">Contact</a>
+      <a href="/privacy/">Privacy</a>
+    </nav>
+    <nav class="ce-legs" id="receipts-links">
+      <a href="https://markets.namebeam.ai/report/october-2026/">October 2026 report</a>
+      <a href="https://markets.namebeam.ai/ai-picks/">AI Picks chart</a>
+      <a href="https://markets.namebeam.ai/sources/">Sources AI engines read</a>
+      <a href="https://markets.namebeam.ai/agency/">For agencies</a>
+      <a href="https://namebeam.ai/citation-ledger">Citation ledger</a>
+      <a href="https://proof.namebeam.ai/ai-visibility-factors" target="_blank" rel="noopener">AI visibility factors</a>
+      <a href="https://proof.namebeam.ai/" target="_blank" rel="noopener">Proof record</a>
+      <a href="https://api.receiptsindex.com/datasets/" target="_blank" rel="noopener">Public datasets</a>
+    </nav>
+    <div class="ce-legal">Carter Enterprise LLC &middot; 30 N Gould St, Ste 65270, Sheridan, WY 82801</div>
+    <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a guarantee of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+  </div>
+</footer>
+</body>
+</html>

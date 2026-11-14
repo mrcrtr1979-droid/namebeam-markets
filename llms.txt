@@ -71,3 +71,4 @@ MCP server
 Read-only MCP server for the Receipts Index API (free index, free sample, x402 prices; it never pays).
 Source: https://github.com/mrcrtr1979-droid/namebeam-visibility-index/tree/main/mcp
 Install: npx -y receipts-index-mcp
+- What AI visibility checks cost and what each one records (prices as printed on each vendor page on 2026-11-12, with read times, and what the Namebeam record keeps): https://markets.namebeam.ai/what-ai-visibility-checks-cost/
