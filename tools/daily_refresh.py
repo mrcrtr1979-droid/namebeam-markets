@@ -48,6 +48,39 @@ def load_roster(nvi_path):
     return slug_to_info
 
 
+_DATA_TRUTH = {}
+STATE_ABBR = {"ca", "tx", "ga", "il", "co", "fl", "az", "mo"}
+
+
+def _data_truth():
+    """Load tools/data-truth/namecount.py and regen_samples.py (the directory name has a hyphen, so by path)."""
+    if not _DATA_TRUTH:
+        import importlib.util
+        base = Path(__file__).resolve().parent / "data-truth"
+        sys.path.insert(0, str(base))
+        for name in ("namecount", "regen_samples"):
+            spec = importlib.util.spec_from_file_location(name, base / (name + ".py"))
+            mod = importlib.util.module_from_spec(spec)
+            sys.modules[name] = mod
+            spec.loader.exec_module(mod)
+            _DATA_TRUTH[name] = mod
+    return _DATA_TRUTH["namecount"], _DATA_TRUTH["regen_samples"]
+
+
+def filter_anthropic_names(names_list, market, niche):
+    """CPEO-1113 (2026-11-13, return 6): the Anthropic extractor list holds section headings and advice ("Red flags to
+    avoid", "Get multiple quotes"), and the unfiltered copy counted them as businesses on every Anthropic run from
+    2026-10-08. For engine anthropic only, keep an item when the data-truth name rules accept it as a business name
+    (namecount.is_business_like and regen_samples.shape_ok with the segment's city tokens and law flag). The rule is
+    strict on purpose: it can drop a real name that carries no trade or law word, and it cannot keep a heading.
+    Other engines are unchanged until a ruling sets their rule."""
+    nc, rs = _data_truth()
+    city_toks = set(nc.norm(market).split()) - STATE_ABBR
+    n = niche.lower()
+    law = "injury" in n or "attorney" in n or "law" in n
+    return [x for x in names_list if nc.is_business_like(x) and rs.shape_ok(x, set(), city_toks, law)]
+
+
 def parse_corpus_file(file_path):
     """Parse a corpus JSON file and extract row data."""
     with open(file_path, "r", encoding="utf-8") as f:
@@ -74,6 +107,9 @@ def parse_corpus_file(file_path):
     names_list = []
     if "competitors_mentioned" in data and data["competitors_mentioned"]:
         names_list = data["competitors_mentioned"]
+
+    if engine == "anthropic":
+        names_list = filter_anthropic_names(names_list, data["market"], data["niche"])
 
     names_count = len(names_list)
     businesses_named = "; ".join(names_list) if names_list else ""
