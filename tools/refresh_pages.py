@@ -959,6 +959,22 @@ def run_selftest():
         assert '<!--nb:offer-asof-->as of 2026-11-09<!--/nb:offer-asof-->' in html
         print("  PASS: Marker replacement")
 
+        # Test LB103: pricing page window and JSON-LD come from latest.json (LB-103 hold, CPEO-1113)
+        latest5 = {"window_first": "2026-08-05", "window_end": "2026-11-12", "generated_utc": "2026-11-13T08:27:17Z",
+                   "totals": {"markets": 33, "rows": 13252, "ok_rows": 10742}}
+        pdir = root / 'what-ai-visibility-checks-cost'
+        pdir.mkdir()
+        (pdir / 'index.html').write_text(
+            '<script type="application/ld+json">{"description": "33 markets, 2026-08-05 to 2026-11-09, 12,757 rows of which '
+            '10,267 logged an answer.", "temporalCoverage": "2026-08-05/2026-11-09"}</script>'
+            '<li><!--nb:pw-window-->old sentence<!--/nb:pw-window--></li>')
+        PageRefresher(root, latest5, {}, "2026-11-14", False).refresh_pricing_page()
+        out5 = (pdir / 'index.html').read_text()
+        assert 'from 2026-08-05 to 2026-11-12 (data file generated 2026-11-13): 13,252 rows, 10,742 of them' in out5
+        assert '"temporalCoverage": "2026-08-05/2026-11-12"' in out5 and '13,252 rows of which 10,742 logged' in out5
+        assert '2026-11-09' not in out5 and '12,757' not in out5
+        print("  PASS: Pricing page window from latest.json")
+
         # Test 2: Missing marker warning
         html2 = "<p>no markers here</p>"
         html2 = refresher.replace_marker('test.html', html2, 'missing-marker', 'new content')
@@ -978,22 +994,6 @@ def run_selftest():
         is_ascii, error = check_ascii('valid ASCII text 123')
         assert is_ascii
         print("  PASS: ASCII guard allows valid text")
-
-        # Test 5: pricing page window and JSON-LD come from latest.json (LB-103 hold, CPEO-1113)
-        latest5 = {"window_first": "2026-08-05", "window_end": "2026-11-12", "generated_utc": "2026-11-13T08:27:17Z",
-                   "totals": {"markets": 33, "rows": 13252, "ok_rows": 10742}}
-        pdir = root / 'what-ai-visibility-checks-cost'
-        pdir.mkdir()
-        (pdir / 'index.html').write_text(
-            '<script type="application/ld+json">{"description": "33 markets, 2026-08-05 to 2026-11-09, 12,757 rows of which '
-            '10,267 logged an answer.", "temporalCoverage": "2026-08-05/2026-11-09"}</script>'
-            '<li><!--nb:pw-window-->old sentence<!--/nb:pw-window--></li>')
-        PageRefresher(root, latest5, {}, "2026-11-14", False).refresh_pricing_page()
-        out5 = (pdir / 'index.html').read_text()
-        assert 'from 2026-08-05 to 2026-11-12 (data file generated 2026-11-13): 13,252 rows, 10,742 of them' in out5
-        assert '"temporalCoverage": "2026-08-05/2026-11-12"' in out5 and '13,252 rows of which 10,742 logged' in out5
-        assert '2026-11-09' not in out5 and '12,757' not in out5
-        print("  PASS: Pricing page window from latest.json")
 
         print("\nSelf-test PASSED")
         return 0
