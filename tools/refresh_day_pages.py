@@ -275,8 +275,9 @@ def format_name_list(names_dict):
 
 
 def generate_day_page(template_path, date, market, niche, question, day_rows,
-                     prev_date, prev_day_rows, day_csv_path, first_date, today):
-    """Generate a day page HTML from template."""
+                     prev_date, prev_day_rows, day_csv_path, first_date, today, offer_day=None):
+    """Generate a day page HTML from template. offer_day (F1, CPEO-1113) is the record's latest_run_day and is what
+    the offer line prints after "as of"; None keeps the old behavior (today)."""
     with open(template_path, 'r', encoding='utf-8') as f:
         html = f.read()
 
@@ -314,7 +315,7 @@ def generate_day_page(template_path, date, market, niche, question, day_rows,
     # Replace lb19:offer date
     html = re.sub(
         r'(<!-- lb19:offer -->.*?as of )\d{4}-\d{2}-\d{2}',
-        f'\\g<1>{today}',
+        f'\\g<1>{offer_day or today}',
         html,
         flags=re.DOTALL
     )
@@ -513,6 +514,12 @@ def update_sitemap(sitemap_path, new_entries, today, hub_lastmods=None):
 
 def process_market(market_slug, root_dir, today, stats):
     """Process one market: generate missing day pages."""
+    # F1 (CPEO-1113): the day pages' offer date is the record's latest_run_day (data/latest.json), not the run day.
+    offer_day = None
+    latest_json = root_dir / 'data' / 'latest.json'
+    if latest_json.exists():
+        with open(latest_json, 'r', encoding='utf-8') as lf:
+            offer_day = json.load(lf).get('latest_run_day')
     market_dir = root_dir / 'record' / market_slug
     all_csv = market_dir / 'all.csv'
     changes_csv = market_dir / 'changes.csv'
@@ -573,7 +580,7 @@ def process_market(market_slug, root_dir, today, stats):
         # Generate page
         day_html = generate_day_page(
             template_path, date, market, niche, question, day_rows,
-            prev_date, prev_day_rows, day_csv, first_date, today
+            prev_date, prev_day_rows, day_csv, first_date, today, offer_day=offer_day
         )
 
         # Sanitize to ASCII
@@ -807,10 +814,16 @@ def selftest():
             'sitemap_entries': set()
         }
 
+        # F1 (CPEO-1113): the offer date on a new day page is latest_run_day (2026-11-08 here, distinct from the
+        # template's 2026-11-09 and the run day 2026-11-10), not the run day.
+        (tmpdir / 'data').mkdir()
+        with open(tmpdir / 'data' / 'latest.json', 'w', encoding='utf-8') as f:
+            f.write('{"latest_run_day": "2026-11-08"}')
+
         process_market('test-market', tmpdir, '2026-11-10', stats)
 
         # Update sitemap
-        updated_sitemap = update_sitemap(sitemap_xml, stats['sitemap_entries'])
+        updated_sitemap = update_sitemap(sitemap_xml, stats['sitemap_entries'], '2026-11-10')
         with open(sitemap_xml, 'w', encoding='utf-8') as f:
             f.write(updated_sitemap)
 
@@ -822,6 +835,7 @@ def selftest():
         with open(day3_html, 'r', encoding='utf-8') as f:
             content = f.read()
             assert '2 of 2' in content, "Tiles: OK count wrong"
+            assert 'Market Record is $49 a month as of 2026-11-08:' in content, "Offer date is not latest_run_day"
             assert '1</div><div class="l">name entries logged</div>' in content, "Tiles: names count wrong"
 
         # Verify changes rows
