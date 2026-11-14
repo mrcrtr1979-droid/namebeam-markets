@@ -4,34 +4,34 @@
   "niche": "oil change shops",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 70,
-      "days_with_ok": 70
+      "rows": 78,
+      "ok": 73,
+      "days_with_ok": 73
     },
     "anthropic": {
-      "rows": 76,
-      "ok": 75,
-      "days_with_ok": 75
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
     },
     "perplexity": {
-      "rows": 75,
-      "ok": 71,
-      "days_with_ok": 71
+      "rows": 78,
+      "ok": 74,
+      "days_with_ok": 74
     },
     "gemini": {
-      "rows": 75,
-      "ok": 37,
-      "days_with_ok": 37
+      "rows": 78,
+      "ok": 40,
+      "days_with_ok": 40
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 78,
+      "ok": 44,
+      "days_with_ok": 44
     }
   },
   "by_date": [
@@ -853,18 +853,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-oil-change/all.csv",
-      "sha256": "c4ea0217e243ef5fb878f13ddc5b552a7130f39fbe3ba584251ca0ee142845a1"
+      "sha256": "f817710e6a14922fe3bbb94ef4e00fcd25cb658096aa1a38f1ba6126b4174eda"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-oil-change/changes.csv",
-      "sha256": "cefb594cfcf35385e0c16bc6549212f94b5bccb0ae388a137aa60abf4abcd7e3"
+      "sha256": "65ecf1ecbe49f56dd4a17556e570db9990d51ebcadf7cd07ab2f6a636de2a74d"
     }
   },
   "engine_behavior": {
@@ -893,7 +929,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:21:30 UTC",
+  "generated_utc": "2026-11-13 08:27:04 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

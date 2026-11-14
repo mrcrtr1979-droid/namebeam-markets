@@ -4,34 +4,34 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 97,
-      "days_with_ok": 92
+      "rows": 104,
+      "ok": 100,
+      "days_with_ok": 95
     },
     "gemini": {
-      "rows": 101,
-      "ok": 35,
-      "days_with_ok": 34
+      "rows": 104,
+      "ok": 38,
+      "days_with_ok": 37
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 63,
-      "days_with_ok": 60
+      "rows": 104,
+      "ok": 66,
+      "days_with_ok": 63
     }
   },
   "by_date": [
@@ -1088,14 +1088,50 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/branson-short-term-rental/all.csv",
-      "sha256": "cec3352a9bdcd32bbf21085b39b82661d5669a3d12d5dbd7f919e782b965d317"
+      "sha256": "c6667d1e1f7676c4502556f7e764bcdbee2da8da61a345398f068164fb2e0b3e"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/branson-short-term-rental/changes.csv",
@@ -1128,7 +1164,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:15:23 UTC",
+  "generated_utc": "2026-11-13 08:26:35 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

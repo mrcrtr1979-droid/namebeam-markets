@@ -4,34 +4,34 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 98,
-      "days_with_ok": 93
+      "rows": 104,
+      "ok": 101,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 101,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 104,
+      "ok": 43,
+      "days_with_ok": 43
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 57,
-      "days_with_ok": 54
+      "rows": 104,
+      "ok": 60,
+      "days_with_ok": 57
     }
   },
   "by_date": [
@@ -1088,18 +1088,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/santa-cruz-short-term-rental/all.csv",
-      "sha256": "67fc90d6a880739c4586a9e6b0da04977db91be0caca160c3972fe3927f93e6f"
+      "sha256": "410435395902ed94a55a78105e1d8fce71cd37d4f2c9547ddda1dec6aa616fb9"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/santa-cruz-short-term-rental/changes.csv",
-      "sha256": "59fad97eef954adb91cddaaaf906ffabae433200062d59b5a254e621e588dff0"
+      "sha256": "f1383133abc2248f761198ca1c6dc70f27bb571457fd17878acfe1360969d888"
     }
   },
   "engine_behavior": {
@@ -1128,7 +1164,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:22:16 UTC",
+  "generated_utc": "2026-11-13 08:27:10 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

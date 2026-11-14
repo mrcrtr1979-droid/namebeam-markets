@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-09",
-  "run_days": 33,
-  "rows_total": 148,
+  "window_last": "2026-11-12",
+  "run_days": 36,
+  "rows_total": 163,
   "by_engine": {
     "anthropic": {
-      "rows": 33,
-      "ok": 32,
-      "days_with_ok": 32
+      "rows": 36,
+      "ok": 35,
+      "days_with_ok": 35
     },
     "gemini": {
-      "rows": 33,
-      "ok": 20,
-      "days_with_ok": 20
+      "rows": 36,
+      "ok": 21,
+      "days_with_ok": 21
     },
     "openai": {
-      "rows": 33,
-      "ok": 28,
-      "days_with_ok": 28
+      "rows": 36,
+      "ok": 31,
+      "days_with_ok": 31
     },
     "perplexity": {
-      "rows": 33,
-      "ok": 33,
-      "days_with_ok": 33
+      "rows": 36,
+      "ok": 36,
+      "days_with_ok": 36
     },
     "google_serp": {
-      "rows": 16,
-      "ok": 10,
-      "days_with_ok": 10
+      "rows": 19,
+      "ok": 12,
+      "days_with_ok": 12
     }
   },
   "by_date": [
@@ -388,19 +388,52 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/atlanta-dentists/rows.csv",
-      "sha256": "8d8d2461defff6cf78c86d1f38c929bb4303abcdb20f3a95e91d7765ef9ada5b"
+      "sha256": "2832156791a4646c75b7e3992d6dfd3773046ebbca25f69fe7e9e609e4bc8064"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-10 14:57:06 UTC",
+  "generated_utc": "2026-11-13 08:26:32 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Atlanta for a dental implant?"

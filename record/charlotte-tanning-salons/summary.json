@@ -4,34 +4,34 @@
   "niche": "tanning salons",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 70,
-      "days_with_ok": 70
+      "rows": 78,
+      "ok": 73,
+      "days_with_ok": 73
     },
     "anthropic": {
-      "rows": 76,
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
+    },
+    "perplexity": {
+      "rows": 78,
       "ok": 75,
       "days_with_ok": 75
     },
-    "perplexity": {
-      "rows": 75,
-      "ok": 72,
-      "days_with_ok": 72
-    },
     "gemini": {
-      "rows": 75,
-      "ok": 38,
-      "days_with_ok": 38
+      "rows": 78,
+      "ok": 41,
+      "days_with_ok": 41
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 68,
-      "days_with_ok": 68
+      "rows": 78,
+      "ok": 71,
+      "days_with_ok": 71
     }
   },
   "by_date": [
@@ -882,14 +882,50 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/charlotte-tanning-salons/all.csv",
-      "sha256": "0285499e6724801dfc2ba90a7e6bfa79be99b96b7c13b05531f9c99551a42b7e"
+      "sha256": "8ec3b580c4cd0e67382dfebc29bfa83979fd003ad1d961b67cd933e6ebb8d84d"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/charlotte-tanning-salons/changes.csv",
@@ -922,7 +958,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:15:36 UTC",
+  "generated_utc": "2026-11-13 08:26:36 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

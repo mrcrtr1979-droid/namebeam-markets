@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 96,
+      "ok": 49,
+      "days_with_ok": 49
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 56,
-      "days_with_ok": 55
+      "rows": 96,
+      "ok": 57,
+      "days_with_ok": 56
     }
   },
   "by_date": [
@@ -1051,14 +1051,48 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-personal-injury/all.csv",
-      "sha256": "d80d500653280001b09a6ed0703dcb93b16595cbf8932c54d6a94b599527fc8b"
+      "sha256": "e9da7dfde3c58612fdd0b0fa88941016478297e7b4344017f9a5f03c248faf3c"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-personal-injury/changes.csv",
@@ -1091,7 +1125,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:17:13 UTC",
+  "generated_utc": "2026-11-13 08:26:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

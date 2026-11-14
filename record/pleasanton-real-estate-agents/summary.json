@@ -4,34 +4,34 @@
   "niche": "real estate agents",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-09",
-  "run_days": 75,
-  "rows_total": 376,
+  "window_last": "2026-11-12",
+  "run_days": 78,
+  "rows_total": 391,
   "by_engine": {
     "openai": {
-      "rows": 75,
-      "ok": 70,
-      "days_with_ok": 70
+      "rows": 78,
+      "ok": 73,
+      "days_with_ok": 73
     },
     "anthropic": {
-      "rows": 76,
+      "rows": 79,
+      "ok": 78,
+      "days_with_ok": 78
+    },
+    "perplexity": {
+      "rows": 78,
       "ok": 75,
       "days_with_ok": 75
     },
-    "perplexity": {
-      "rows": 75,
-      "ok": 72,
-      "days_with_ok": 72
-    },
     "gemini": {
-      "rows": 75,
-      "ok": 37,
-      "days_with_ok": 37
+      "rows": 78,
+      "ok": 40,
+      "days_with_ok": 40
     },
     "google_serp": {
-      "rows": 75,
-      "ok": 42,
-      "days_with_ok": 42
+      "rows": 78,
+      "ok": 45,
+      "days_with_ok": 45
     }
   },
   "by_date": [
@@ -855,18 +855,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-real-estate-agents/all.csv",
-      "sha256": "4356f3d6da6e3faa3ff94fe0325ada2c8c2222885c88cdf133bb93a914980bf6"
+      "sha256": "cb51719986ae5481d5434d4b5aad9d32899b2d05726541f6743bf5fb448c11fb"
     },
-    "day_csv_count": 75,
+    "day_csv_count": 78,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-real-estate-agents/changes.csv",
-      "sha256": "c1d133913d389311894884e0e085ff4cbd2b773749d0311934c806367f6e8115"
+      "sha256": "dd1d35d0f182b9a9ac1fed75afaa0bc3501952abe9f38bb0dacf2a930291c698"
     }
   },
   "engine_behavior": {
@@ -895,7 +931,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:21:40 UTC",
+  "generated_utc": "2026-11-13 08:27:06 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

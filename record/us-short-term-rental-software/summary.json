@@ -4,34 +4,34 @@
   "niche": "short-term rental software",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 98,
-      "days_with_ok": 93
+      "rows": 104,
+      "ok": 101,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 101,
-      "ok": 39,
-      "days_with_ok": 39
+      "rows": 104,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 65,
-      "days_with_ok": 60
+      "rows": 104,
+      "ok": 68,
+      "days_with_ok": 63
     }
   },
   "by_date": [
@@ -1095,18 +1095,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-software/all.csv",
-      "sha256": "3feb8cfe253e5ac131f3a40a8dd63081f005c2105e17d0bb38d941ca81fd2709"
+      "sha256": "ee58500ecf97d45111b17932a65379b4b465a43657bed06d869b468ea4bf6d78"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-software/changes.csv",
-      "sha256": "bbd89d6d09c6ef733a372a07720c6c0133f45498e9c9ff5dc680af8c016d7137"
+      "sha256": "b732061f6e4c045dc3188a4702557cc34109e9f4c0dde966f3422966d47b00b9"
     }
   },
   "engine_behavior": {
@@ -1135,7 +1171,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:24:14 UTC",
+  "generated_utc": "2026-11-13 08:27:16 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

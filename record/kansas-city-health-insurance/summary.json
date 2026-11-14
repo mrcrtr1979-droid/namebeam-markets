@@ -4,34 +4,34 @@
   "niche": "health insurance brokers",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-09",
-  "run_days": 92,
-  "rows_total": 465,
+  "window_last": "2026-11-12",
+  "run_days": 95,
+  "rows_total": 480,
   "by_engine": {
     "openai": {
-      "rows": 93,
-      "ok": 88,
-      "days_with_ok": 87
+      "rows": 96,
+      "ok": 91,
+      "days_with_ok": 90
     },
     "anthropic": {
-      "rows": 93,
+      "rows": 96,
+      "ok": 96,
+      "days_with_ok": 95
+    },
+    "perplexity": {
+      "rows": 96,
       "ok": 93,
       "days_with_ok": 92
     },
-    "perplexity": {
-      "rows": 93,
-      "ok": 90,
-      "days_with_ok": 89
-    },
     "gemini": {
-      "rows": 93,
-      "ok": 44,
-      "days_with_ok": 44
+      "rows": 96,
+      "ok": 47,
+      "days_with_ok": 47
     },
     "google_serp": {
-      "rows": 93,
-      "ok": 56,
-      "days_with_ok": 55
+      "rows": 96,
+      "ok": 58,
+      "days_with_ok": 57
     }
   },
   "by_date": [
@@ -1049,18 +1049,53 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/kansas-city-health-insurance/all.csv",
-      "sha256": "d209eaf383195dff672fb04a6f58bdef97b44c60c027b21deee5e161e689e249"
+      "sha256": "26cc84a4332f3cc2e4e2a9647b9e668d101a9cab4b0209e89363772f66997bcd"
     },
-    "day_csv_count": 92,
+    "day_csv_count": 95,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/kansas-city-health-insurance/changes.csv",
-      "sha256": "9c8fe6867d1c2e2007ec3741a62b732fd5c4d46d1ee8dbb0917abd30332b0e92"
+      "sha256": "fb6532ebdc0baf9b77e761a485692ac893223fc2f78b281a869234729f367a65"
     }
   },
   "engine_behavior": {
@@ -1089,7 +1124,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 14:57:34 UTC",
+  "generated_utc": "2026-11-13 08:26:51 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

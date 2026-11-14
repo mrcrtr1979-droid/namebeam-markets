@@ -241,3 +241,170 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,"Abacus Plumbing, Air Conditioning & Electrical",perplexity
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Horizon Services,openai
 2026-10-07,2026-10-06,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Ways to find options,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Mission AC & Heating,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Richmond Air,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Village Plumbing & Air,gemini openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Location Matters,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Get a Second Opinion on Major Repairs,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Mission AC,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Top-Rated Houston AC Repair Companies,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Houston. They,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Honest Pricing,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Older AC,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Village Plumbing,gemini openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Serving Houston,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Clear Lake. Look,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Clear Lake,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Diagnostic Fee,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Air Tech of Houston,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Texas Air Authorities,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Texas HVAC contractor license number,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,Inside the Loop,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,One Hour Air Conditioning & Heating,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,One Hour Air Conditioning,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,entered,One Hour,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Popular Houston HVAC companies,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Popular Houston HVAC,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Houston HVAC,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Comfort Systems USA,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Popular Houston,anthropic
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Check the TDLR License,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Diagnostic Fee Policy,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Get a Second Opinion for Major Repairs,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Check NATE Certification,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,NATE-certified,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated HVAC Companies,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Honest Diagnostics,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,River Oaks,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Katy,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Emergency Repairs,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Inner Loop,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,West Houston,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Carrier Factory Authorized Dealer,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right AC Repair Company,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,TACLA,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,TACLB,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,NATE,gemini openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Richmond’s Air,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Mission Air Conditioning,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,NATE Certification,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Custom Comfort Air,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Mission Air Conditioning & Heating,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,TDLR License,gemini
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Rescue Rooter,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Commercial Services,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Houston ZIP,openai
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Got Flow: Plumbing & AC Services,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Got Flow,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,AC Services,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Star Repair Services Inc,perplexity
+2026-11-10,2026-11-09,1,openai anthropic perplexity gemini google_serp,dropped,Star Repair Services,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Popular Houston HVAC companies,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Popular Houston HVAC,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Houston HVAC,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Comfort Systems USA,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Popular Houston,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Custom Air Systems,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Richmond Air Conditioning,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,TACLA,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Diagnostic Fees,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Emergency Fees,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Tips on troubleshooting common AC issues,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Top-Rated HVAC Companies,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,One of Houston,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,One Hour Heating,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Houston Branch,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Always On Time... Or You Don't,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Consider When Choosing,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Texas Air Conditioning and Refrigeration Contractor,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Inner Loop,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,The AC Guy of Houston,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Richmond’s Air,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Custom Comfort Air,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Texas HVAC contractor license,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Houston AC-repair,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Houston ZIP,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,"Comfort Star, Inc",perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,A+ BBB rating,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Comfort Star,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,entered,Star Repair Services,perplexity
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Ways to find options,anthropic
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Mission AC & Heating,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Village Plumbing & Air,gemini openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Location Matters,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Get a Second Opinion on Major Repairs,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Mission AC,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Houston AC Repair Companies,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Houston. They,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Honest Pricing,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Older AC,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Village Plumbing,gemini openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Serving Houston,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,In Texas,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Clear Lake. Look,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Major Repairs,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Clear Lake,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Diagnostic Fee,gemini
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Texas Air Authorities,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Texas HVAC contractor license number,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Central Houston,openai
+2026-11-11,2026-11-10,1,openai anthropic perplexity gemini google_serp,dropped,Inside the Loop,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Popular Houston companies,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Verify Texas Licensing,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,TACLB,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Get a Second Opinion on System Replacements,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Check Neighborhood Specifics,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Top-Rated AC Repair Companies,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Customer Favorite,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Heights,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,West U,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Katy,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Mission AC,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Fast Response,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Houston. They,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Central Houston,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Richmond,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Air,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,River Oaks,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Spring Branch,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,High Trust,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Universal Home Experts,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Large-Scale Projects,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Entire Houston Metro,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,System Replacements,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Mission Air Conditioning & Plumbing,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Mission Air Conditioning,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Inside the Loop,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Texas-licensed HVAC contractor,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Texas-licensed HVAC,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Texas ACR,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Texas Department of Licensing,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,entered,Expertise.com,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Popular Houston HVAC companies,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Popular Houston HVAC,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Houston HVAC,anthropic
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Custom Air Systems,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Richmond Air Conditioning,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,TACLA,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Diagnostic Fees,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Emergency Fees,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Tips on troubleshooting common AC issues,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,One of Houston,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,One Hour Heating,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Houston Branch,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Always On Time... Or You Don't,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Consider When Choosing,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Texas Air Conditioning and Refrigeration Contractor,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,One Hour,gemini perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Richmond Air,gemini
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,The AC Guy of Houston,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Custom Comfort Air,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Texas HVAC contractor license,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Houston AC-repair,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Houston ZIP,openai
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,"Comfort Star, Inc",perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,A+ BBB rating,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,One Hour Air Conditioning & Heating,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,Comfort Star,perplexity
+2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,One Hour Air Conditioning,perplexity

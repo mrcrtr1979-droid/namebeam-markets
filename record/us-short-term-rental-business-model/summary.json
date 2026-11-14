@@ -4,34 +4,34 @@
   "niche": "short-term rental business model",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 98,
-      "days_with_ok": 93
+      "rows": 104,
+      "ok": 101,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 101,
-      "ok": 39,
-      "days_with_ok": 38
+      "rows": 104,
+      "ok": 42,
+      "days_with_ok": 41
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 56,
-      "days_with_ok": 52
+      "rows": 104,
+      "ok": 59,
+      "days_with_ok": 55
     }
   },
   "by_date": [
@@ -1086,18 +1086,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-business-model/all.csv",
-      "sha256": "ab757d00ad69352381fe7c317c196d431d6b5fc82a6e0643b42781a802d28691"
+      "sha256": "0f348e54b169eec40bfaf429c33fcec85910eb3b034d53732fd566492550f244"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-business-model/changes.csv",
-      "sha256": "5fb775408f7223c2f53ba46075c8c3ec2d596b3e8fee9c9abe17d97ec1ef1ae7"
+      "sha256": "92fe2c77ee72d6f519bfd2c371cd476ed5e23684512c92bb001d67d2d50c25e0"
     }
   },
   "engine_behavior": {
@@ -1126,7 +1162,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:23:12 UTC",
+  "generated_utc": "2026-11-13 08:27:14 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -4,34 +4,34 @@
   "niche": "short-term rental",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-09",
-  "run_days": 96,
-  "rows_total": 499,
+  "window_last": "2026-11-12",
+  "run_days": 99,
+  "rows_total": 514,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 89,
-      "days_with_ok": 88
+      "rows": 101,
+      "ok": 92,
+      "days_with_ok": 91
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 101,
-      "ok": 98,
-      "days_with_ok": 93
+      "rows": 104,
+      "ok": 101,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 101,
-      "ok": 42,
-      "days_with_ok": 41
+      "rows": 104,
+      "ok": 45,
+      "days_with_ok": 44
     },
     "google_serp": {
-      "rows": 101,
-      "ok": 69,
-      "days_with_ok": 66
+      "rows": 104,
+      "ok": 72,
+      "days_with_ok": 69
     }
   },
   "by_date": [
@@ -1102,18 +1102,54 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-booking-platforms/all.csv",
-      "sha256": "a4082380bad82a1ea96bfb2e77f57cb17256674066883fb258d8730bdc416dc3"
+      "sha256": "93e7d65f5072c7285e7b16a0e30d3357b6ec41ad29f4f18904bfba1f939855b8"
     },
-    "day_csv_count": 96,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-booking-platforms/changes.csv",
-      "sha256": "b954d06b623b87e43f484853b35c3450edc79a8b4f84aa223848d72e36284c41"
+      "sha256": "ecc332882c544cec6c0b6a549db1b6b88fbcb4ae4674ff4cdb259af4df7e1ca0"
     }
   },
   "engine_behavior": {
@@ -1142,7 +1178,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-10 05:22:45 UTC",
+  "generated_utc": "2026-11-13 08:27:13 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
