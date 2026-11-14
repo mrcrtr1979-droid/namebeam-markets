@@ -82,7 +82,7 @@
           var u = new URL(a.href), q = new URLSearchParams(location.search), utm = {}, cr = u.searchParams.get('client_reference_id') || '';
           ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { if (q.get(k)) utm[k] = q.get(k).slice(0, 100); });
           window.posthog.capture('checkout_started', Object.assign({ product: a.dataset.market || null, plan: a.dataset.plan || null, price: a.dataset.price || null,
-            stripe_link: u.pathname.replace(/^\//, ''), referred: !!cr && !/^receipt_/.test(cr), path: location.pathname }, utm),
+            stripe_link: u.pathname.replace(/^\//, ''), referred: !!cr && !/^receipt_/.test(cr) && !(window.nbCheckoutRef && cr === window.nbCheckoutRef.value), checkout_ref: cr || null, path: location.pathname }, utm),
             { send_instantly: true, transport: 'sendBeacon' });
         }
       } catch (err) {}
