@@ -973,7 +973,6 @@ def run_selftest():
         assert is_ascii
         print("  PASS: ASCII guard allows valid text")
 
-
         print("\nSelf-test PASSED")
         return 0
 
