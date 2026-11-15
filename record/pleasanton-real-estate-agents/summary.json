@@ -4,34 +4,34 @@
   "niche": "real estate agents",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-12",
-  "run_days": 78,
-  "rows_total": 391,
+  "window_last": "2026-11-14",
+  "run_days": 80,
+  "rows_total": 401,
   "by_engine": {
     "openai": {
-      "rows": 78,
-      "ok": 73,
-      "days_with_ok": 73
-    },
-    "anthropic": {
-      "rows": 79,
-      "ok": 78,
-      "days_with_ok": 78
-    },
-    "perplexity": {
-      "rows": 78,
+      "rows": 80,
       "ok": 75,
       "days_with_ok": 75
     },
+    "anthropic": {
+      "rows": 81,
+      "ok": 80,
+      "days_with_ok": 80
+    },
+    "perplexity": {
+      "rows": 80,
+      "ok": 77,
+      "days_with_ok": 77
+    },
     "gemini": {
-      "rows": 78,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 80,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 78,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 80,
+      "ok": 47,
+      "days_with_ok": 47
     }
   },
   "by_date": [
@@ -891,18 +891,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-real-estate-agents/all.csv",
-      "sha256": "cb51719986ae5481d5434d4b5aad9d32899b2d05726541f6743bf5fb448c11fb"
+      "sha256": "2adecdca1f5bf2f60c98f6cc210e7c71d307997762ec692dd1b27d169f7bdf8a"
     },
-    "day_csv_count": 78,
+    "day_csv_count": 80,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-real-estate-agents/changes.csv",
-      "sha256": "dd1d35d0f182b9a9ac1fed75afaa0bc3501952abe9f38bb0dacf2a930291c698"
+      "sha256": "d7d186bf33d113b13c22c70375a449cf0a4d7596f82c3592d26766c1f3204011"
     }
   },
   "engine_behavior": {
@@ -931,7 +955,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:27:06 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

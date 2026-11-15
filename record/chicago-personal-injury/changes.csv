@@ -431,3 +431,40 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,E.g,openai
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,McCreadyLaw,perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,Illinois Attorney Registration and Disciplinary Commission,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,GWC Injury Lawyers,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Romanucci & Blandin,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Levin & Perconti,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Schedule Free Consultations,anthropic
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Corboy & Demetrio,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Ankin Law,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Illinois Attorney Registration,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Disciplinary Commission,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Illinois State Bar Association Lawyer Finder,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Illinois ARDC attorney search,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Super Lawyers,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Martindale-Hubbell,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Robert Clifford at Clifford Law Offices,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Illinois ARDC lawyer search,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Robert Clifford,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Contingency Fee Structure,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Schedule a Free Consultation,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Highly,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,John F. Leonard,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Free Consultation,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,"Corboy & Demetrio, P.C",gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Power Rogers,openai perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,GWC Injury Lawyers,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Romanucci & Blandin,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Levin & Perconti,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Contingency Fee Basis,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Trial Readiness,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Schedule a Consultation,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Demetrio P.C,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Howard Ankin,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,"Staver Accident Injury Lawyers, P.C",gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Staver Accident Injury Lawyers,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Ankin Law,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Relevant experience,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Ankin Law Office,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Chicago car accident,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Illinois ARDC Lawyer Search,perplexity

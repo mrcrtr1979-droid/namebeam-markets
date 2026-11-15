@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-12",
-  "run_days": 95,
-  "rows_total": 480,
+  "window_last": "2026-11-14",
+  "run_days": 97,
+  "rows_total": 490,
   "by_engine": {
     "openai": {
-      "rows": 96,
-      "ok": 91,
-      "days_with_ok": 90
-    },
-    "anthropic": {
-      "rows": 96,
-      "ok": 96,
-      "days_with_ok": 95
-    },
-    "perplexity": {
-      "rows": 96,
+      "rows": 98,
       "ok": 93,
       "days_with_ok": 92
     },
+    "anthropic": {
+      "rows": 98,
+      "ok": 98,
+      "days_with_ok": 97
+    },
+    "perplexity": {
+      "rows": 98,
+      "ok": 95,
+      "days_with_ok": 94
+    },
     "gemini": {
-      "rows": 96,
-      "ok": 49,
-      "days_with_ok": 49
+      "rows": 98,
+      "ok": 51,
+      "days_with_ok": 51
     },
     "google_serp": {
-      "rows": 96,
-      "ok": 57,
-      "days_with_ok": 56
+      "rows": 98,
+      "ok": 59,
+      "days_with_ok": 58
     }
   },
   "by_date": [
@@ -1085,18 +1085,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-personal-injury/all.csv",
-      "sha256": "e9da7dfde3c58612fdd0b0fa88941016478297e7b4344017f9a5f03c248faf3c"
+      "sha256": "a7035369e2346ccca63fc5102d32057013ea96da0ae30bd5ae4b8b2821666c7b"
     },
-    "day_csv_count": 95,
+    "day_csv_count": 97,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-personal-injury/changes.csv",
-      "sha256": "19ae13f27ddb5c73b86c605ba8d99522039c1ff1dc5c1a0ec36178bd7fddb545"
+      "sha256": "568e31bdf538a5ddfde9a632750ee8eff2be48488175d5428d7936cc88489ad5"
     }
   },
   "engine_behavior": {
@@ -1125,7 +1149,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:26:50 UTC",
+  "generated_utc": "2026-11-15 01:41:38 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

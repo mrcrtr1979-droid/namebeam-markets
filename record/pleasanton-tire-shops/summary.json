@@ -4,34 +4,34 @@
   "niche": "tire shops",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-12",
-  "run_days": 78,
-  "rows_total": 391,
+  "window_last": "2026-11-14",
+  "run_days": 80,
+  "rows_total": 401,
   "by_engine": {
     "openai": {
-      "rows": 78,
-      "ok": 73,
-      "days_with_ok": 73
-    },
-    "anthropic": {
-      "rows": 79,
-      "ok": 78,
-      "days_with_ok": 78
-    },
-    "perplexity": {
-      "rows": 78,
+      "rows": 80,
       "ok": 75,
       "days_with_ok": 75
     },
+    "anthropic": {
+      "rows": 81,
+      "ok": 80,
+      "days_with_ok": 80
+    },
+    "perplexity": {
+      "rows": 80,
+      "ok": 77,
+      "days_with_ok": 77
+    },
     "gemini": {
-      "rows": 78,
-      "ok": 39,
-      "days_with_ok": 39
+      "rows": 80,
+      "ok": 41,
+      "days_with_ok": 41
     },
     "google_serp": {
-      "rows": 78,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 80,
+      "ok": 47,
+      "days_with_ok": 47
     }
   },
   "by_date": [
@@ -890,18 +890,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-tire-shops/all.csv",
-      "sha256": "a16118c3120b0812a2a85f218f632507cf3318ccde6f3a3b0183566fada03a58"
+      "sha256": "dce406c015c9cbce42ed639a57b9f939be10825ae80191d5f5207a60a51c2dbf"
     },
-    "day_csv_count": 78,
+    "day_csv_count": 80,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-tire-shops/changes.csv",
-      "sha256": "3cf33fa5883b34126bc144e2ff24d0905eb25e070d15bdbc1a5cba6040e7a05a"
+      "sha256": "dd03ab4e6f84cf9bf7b5b27b94676e91a2a1f5794255cb78057965b059eafa92"
     }
   },
   "engine_behavior": {
@@ -930,7 +954,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:27:08 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

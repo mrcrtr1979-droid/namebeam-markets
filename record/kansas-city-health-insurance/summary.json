@@ -4,34 +4,34 @@
   "niche": "health insurance brokers",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-12",
-  "run_days": 95,
-  "rows_total": 480,
+  "window_last": "2026-11-14",
+  "run_days": 97,
+  "rows_total": 490,
   "by_engine": {
     "openai": {
-      "rows": 96,
-      "ok": 91,
-      "days_with_ok": 90
-    },
-    "anthropic": {
-      "rows": 96,
-      "ok": 96,
-      "days_with_ok": 95
-    },
-    "perplexity": {
-      "rows": 96,
+      "rows": 98,
       "ok": 93,
       "days_with_ok": 92
     },
+    "anthropic": {
+      "rows": 98,
+      "ok": 98,
+      "days_with_ok": 97
+    },
+    "perplexity": {
+      "rows": 98,
+      "ok": 95,
+      "days_with_ok": 94
+    },
     "gemini": {
-      "rows": 96,
-      "ok": 47,
-      "days_with_ok": 47
+      "rows": 98,
+      "ok": 49,
+      "days_with_ok": 49
     },
     "google_serp": {
-      "rows": 96,
-      "ok": 58,
-      "days_with_ok": 57
+      "rows": 98,
+      "ok": 60,
+      "days_with_ok": 59
     }
   },
   "by_date": [
@@ -1084,18 +1084,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/kansas-city-health-insurance/all.csv",
-      "sha256": "26cc84a4332f3cc2e4e2a9647b9e668d101a9cab4b0209e89363772f66997bcd"
+      "sha256": "c58ddf4a24cf3522ecd3bce3426da7dbead95125c77f3db64b7483c047053e11"
     },
-    "day_csv_count": 95,
+    "day_csv_count": 97,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/kansas-city-health-insurance/changes.csv",
-      "sha256": "fb6532ebdc0baf9b77e761a485692ac893223fc2f78b281a869234729f367a65"
+      "sha256": "9ab381018ba9a32486a4d2c80badb542f26ed3d6af8929dce2daf6cfac24f521"
     }
   },
   "engine_behavior": {
@@ -1124,7 +1148,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:26:51 UTC",
+  "generated_utc": "2026-11-15 01:41:38 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

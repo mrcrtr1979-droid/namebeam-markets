@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-12",
-  "run_days": 36,
-  "rows_total": 163,
+  "window_last": "2026-11-14",
+  "run_days": 38,
+  "rows_total": 173,
   "by_engine": {
     "anthropic": {
-      "rows": 36,
-      "ok": 35,
-      "days_with_ok": 35
+      "rows": 38,
+      "ok": 37,
+      "days_with_ok": 37
     },
     "gemini": {
-      "rows": 36,
-      "ok": 23,
-      "days_with_ok": 23
+      "rows": 38,
+      "ok": 25,
+      "days_with_ok": 25
     },
     "openai": {
-      "rows": 36,
-      "ok": 31,
-      "days_with_ok": 31
+      "rows": 38,
+      "ok": 33,
+      "days_with_ok": 33
     },
     "perplexity": {
-      "rows": 36,
-      "ok": 36,
-      "days_with_ok": 36
+      "rows": 38,
+      "ok": 38,
+      "days_with_ok": 38
     },
     "google_serp": {
-      "rows": 19,
-      "ok": 12,
-      "days_with_ok": 12
+      "rows": 21,
+      "ok": 14,
+      "days_with_ok": 14
     }
   },
   "by_date": [
@@ -423,19 +423,43 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/phoenix-orthodontists/rows.csv",
-      "sha256": "cb46941210bb372723d10a370913990c46a766d2b8a5079f5378c9d2f3bcc3f0"
+      "sha256": "611c85a611bfcecbd1ccd1850b8717dbbf3fe3bdc71740ca2495237c27d6bb38"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-13 08:26:58 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Phoenix for braces or Invisalign?"

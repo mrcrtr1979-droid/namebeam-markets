@@ -1318,3 +1318,81 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,Arizona Registrar of Contractors,openai perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,A+ rating and accreditation,perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,Phoenix. Another,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Champion Air,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Parker & Sons,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,"Hays Cooling, Heating & Plumbing",openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Goettl Air Conditioning & Plumbing,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Arizona ROC license,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Written estimate,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,No-pressure second opinion,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Parts/labor warranty,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Hays Cooling,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Goettl Air Conditioning,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Registrar of Contractors,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Arizona Registrar of Contractors,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,In Phoenix,anthropic openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Hobaica Services,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,"Penguin Air, Plumbing & Electrical",openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Check the contractor’s Arizona ROC license,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Get a written estimate,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Valley,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Phoenix-area HVAC,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Penguin Air,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,My AC,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Desert Heroes HVAC,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Arizona Comfort Specialists,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,BBB-accredited,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Hobaica Services,openai perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,NATE-certified,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Phoenix-area HVAC,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Phoenix-area ZIP,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch Mechanical,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Plumbing & Electrical,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Precision Air & Plumbing,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Ask for Flat-Rate Pricing,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Get a Second Opinion on Major Repairs,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Magic Touch,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Valley. They,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Sun City Mechanical,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Plumbing,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Precision Air,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right One,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,In Arizona,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Too Good,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Be True,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Major Repairs,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Reliance Heating & Air Conditioning,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Reliance Heating,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Registrar of Contractors. For,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Check Yelp and Google Maps,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,The Better Business Bureau (BBB),gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,SRP and APS Contractor Networks,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Four Seasons Air Conditioning & Heating,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Scottsdale Air Heating & Cooling,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Pushing for immediate replacement,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Vague quotes,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Call 2–3 companies,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Ask for license numbers,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Find Top-Rated Local Companies,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Salt River Project,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Arizona Public Service,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,East Valley,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Valley-wide,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Four Seasons Air Conditioning,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Scottsdale Air Heating,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Northeast Phoenix,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Valley. Watch,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,In Phoenix,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Right Now,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AZ Perfect Comfort,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Champion Air,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,George Brazil Air Conditioning & Heating,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,"Hays Cooling, Heating & Plumbing",openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Arizona ROC license,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Written estimate,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,No-pressure second opinion,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Parts/labor warranty,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,George Brazil Air Conditioning,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Hays Cooling,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Arizona ROC,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AC repair,openai

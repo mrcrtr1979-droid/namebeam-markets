@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-12",
-  "run_days": 95,
-  "rows_total": 480,
+  "window_last": "2026-11-14",
+  "run_days": 97,
+  "rows_total": 490,
   "by_engine": {
     "openai": {
-      "rows": 96,
-      "ok": 91,
-      "days_with_ok": 90
+      "rows": 98,
+      "ok": 93,
+      "days_with_ok": 92
     },
     "anthropic": {
-      "rows": 96,
-      "ok": 96,
-      "days_with_ok": 95
+      "rows": 98,
+      "ok": 98,
+      "days_with_ok": 97
     },
     "perplexity": {
-      "rows": 96,
-      "ok": 92,
-      "days_with_ok": 91
+      "rows": 98,
+      "ok": 94,
+      "days_with_ok": 93
     },
     "gemini": {
-      "rows": 96,
-      "ok": 38,
-      "days_with_ok": 38
+      "rows": 98,
+      "ok": 40,
+      "days_with_ok": 40
     },
     "google_serp": {
-      "rows": 96,
-      "ok": 91,
-      "days_with_ok": 90
+      "rows": 98,
+      "ok": 93,
+      "days_with_ok": 92
     }
   },
   "by_date": [
@@ -1107,18 +1107,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-hvac/all.csv",
-      "sha256": "a4e758e21f2bb13302659780b7512e10d22d98df1e64f40c26d258431869fd73"
+      "sha256": "accbe4909dd0b39cf517950ca2894f29b9819253deb18f2bd53eae23410ad86d"
     },
-    "day_csv_count": 95,
+    "day_csv_count": 97,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-hvac/changes.csv",
-      "sha256": "9c8df442f3cdc63809b9aaa3d75dc8604e666b40324708db7b1f936f483cfbb5"
+      "sha256": "378ab8bf6ab133859621afe8ab1824e7b36f7e6dbb28b62cd1bad8fff6073761"
     }
   },
   "engine_behavior": {
@@ -1147,7 +1171,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:26:48 UTC",
+  "generated_utc": "2026-11-15 01:41:38 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

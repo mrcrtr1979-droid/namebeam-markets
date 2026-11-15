@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-12",
-  "run_days": 36,
-  "rows_total": 163,
+  "window_last": "2026-11-14",
+  "run_days": 38,
+  "rows_total": 173,
   "by_engine": {
     "anthropic": {
-      "rows": 36,
-      "ok": 35,
-      "days_with_ok": 35
+      "rows": 38,
+      "ok": 37,
+      "days_with_ok": 37
     },
     "gemini": {
-      "rows": 36,
-      "ok": 24,
-      "days_with_ok": 24
+      "rows": 38,
+      "ok": 26,
+      "days_with_ok": 26
     },
     "openai": {
-      "rows": 36,
-      "ok": 31,
-      "days_with_ok": 31
+      "rows": 38,
+      "ok": 33,
+      "days_with_ok": 33
     },
     "perplexity": {
-      "rows": 36,
-      "ok": 36,
-      "days_with_ok": 36
+      "rows": 38,
+      "ok": 38,
+      "days_with_ok": 38
     },
     "google_serp": {
-      "rows": 19,
-      "ok": 15,
-      "days_with_ok": 15
+      "rows": 21,
+      "ok": 17,
+      "days_with_ok": 17
     }
   },
   "by_date": [
@@ -427,19 +427,43 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/dallas-dentists/rows.csv",
-      "sha256": "19a2be1830f35419066344921ab1800ead6b70d30f01bacb18dbd73e7cfa6f3d"
+      "sha256": "cbf2bb04e8e154395f28457bc112a9795552a966dcbd32a60af9947f2317be8b"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-13 08:26:41 UTC",
+  "generated_utc": "2026-11-15 01:41:37 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Dallas for a dental implant?"

@@ -358,3 +358,64 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,NATE,perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,NATE-certified,perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity google_serp,dropped,The Air Company,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Coolray,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,AHRI-matched system,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Moncrief,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,AHRI-matched,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Carrier,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,Trane,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,The Air Company,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,NATE,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,entered,NATE-certified,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,AC Unit,anthropic
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,TE Certified,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Long-established Atlanta,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Georgia Power,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Manual J Calculation,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,Bell Mechanical,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity google_serp,dropped,BBB-accredited,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating & Air,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Equipment Brands,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Written Estimates,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Air,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Coolray Heating,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Fast Availability,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Highly Rated HVAC Companies,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Conditioned Air,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,R.S. Andrews,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Cunningham Associates,openai perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,North Atlanta,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,NATE-certified. Call,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Insulation",gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,"TE Certified Electrical, Plumbing, Heating & Cooling",gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Prioritize Dehumidification,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Require a Manual J Load Calculation,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Check for Utility Rebates,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power rebates,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Inflation Reduction Act (IRA) tax credits,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Labor Warranty,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Get 3 Estimates,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Compare Quotes Line-by-Line,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Conditioned Air Contractor license,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,TE Certified Electrical,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,TE Certified,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta. They,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Southeast. Because,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Take Care,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta AC Replacement,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Inflation Reduction Act,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Secretary of State,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Load Calculation,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AC Unit,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Inflation Reduction Act (IRA),gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Fast Turnaround,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Conditioned Air Systems,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating & Air Conditioning,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AHRI-matched system,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Air Conditioning,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AHRI-matched,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating & Air,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,The Air Company,perplexity

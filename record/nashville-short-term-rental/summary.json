@@ -4,34 +4,34 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-12",
-  "run_days": 99,
-  "rows_total": 514,
+  "window_last": "2026-11-14",
+  "run_days": 101,
+  "rows_total": 524,
   "by_engine": {
     "openai": {
-      "rows": 101,
-      "ok": 92,
-      "days_with_ok": 91
+      "rows": 103,
+      "ok": 94,
+      "days_with_ok": 93
     },
     "anthropic": {
-      "rows": 101,
-      "ok": 101,
-      "days_with_ok": 99
+      "rows": 103,
+      "ok": 103,
+      "days_with_ok": 101
     },
     "perplexity": {
-      "rows": 104,
-      "ok": 100,
-      "days_with_ok": 95
+      "rows": 106,
+      "ok": 102,
+      "days_with_ok": 97
     },
     "gemini": {
-      "rows": 104,
-      "ok": 41,
-      "days_with_ok": 40
+      "rows": 106,
+      "ok": 43,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 104,
-      "ok": 63,
-      "days_with_ok": 60
+      "rows": 106,
+      "ok": 65,
+      "days_with_ok": 62
     }
   },
   "by_date": [
@@ -1124,18 +1124,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/nashville-short-term-rental/all.csv",
-      "sha256": "628d35953fbb8f516f6c5081b56d9b9dba457419a7e8f7fdc7c3687b7581e3b1"
+      "sha256": "76e326de7457f19ad234f0b547104c0f5f6db307a7adc21f1f3626ff475f06e9"
     },
-    "day_csv_count": 99,
+    "day_csv_count": 101,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/nashville-short-term-rental/changes.csv",
-      "sha256": "ec65984f9b446304e983e8686248d6711cc032bd4534a37d1f26307f58c2b6cc"
+      "sha256": "3be5a43c693612206c7b113e97583e47624cae181c84cce4a42288d95e61f143"
     }
   },
   "engine_behavior": {
@@ -1164,7 +1188,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:26:54 UTC",
+  "generated_utc": "2026-11-15 01:41:38 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

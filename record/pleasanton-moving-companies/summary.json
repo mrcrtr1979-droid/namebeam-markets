@@ -4,34 +4,34 @@
   "niche": "moving companies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-12",
-  "run_days": 78,
-  "rows_total": 391,
+  "window_last": "2026-11-14",
+  "run_days": 80,
+  "rows_total": 401,
   "by_engine": {
     "openai": {
-      "rows": 78,
-      "ok": 73,
-      "days_with_ok": 73
-    },
-    "anthropic": {
-      "rows": 79,
-      "ok": 78,
-      "days_with_ok": 78
-    },
-    "perplexity": {
-      "rows": 78,
+      "rows": 80,
       "ok": 75,
       "days_with_ok": 75
     },
+    "anthropic": {
+      "rows": 81,
+      "ok": 80,
+      "days_with_ok": 80
+    },
+    "perplexity": {
+      "rows": 80,
+      "ok": 77,
+      "days_with_ok": 77
+    },
     "gemini": {
-      "rows": 78,
-      "ok": 43,
-      "days_with_ok": 43
+      "rows": 80,
+      "ok": 45,
+      "days_with_ok": 45
     },
     "google_serp": {
-      "rows": 78,
-      "ok": 52,
-      "days_with_ok": 52
+      "rows": 80,
+      "ok": 54,
+      "days_with_ok": 54
     }
   },
   "by_date": [
@@ -901,18 +901,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-moving-companies/all.csv",
-      "sha256": "ae2bfefb9dc484c0d880557c6e0f93ec308ec8afe21212039426c12a3ce6434e"
+      "sha256": "f70e9bccb99828a53eab225b3ce5a8337ea97db593890fd6316a43945e277b70"
     },
-    "day_csv_count": 78,
+    "day_csv_count": 80,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-moving-companies/changes.csv",
-      "sha256": "3939b5c6eb8dd1b79fa80e26a399dbae0b1f6e86f8e38f917107ecadcb07ce96"
+      "sha256": "3e06ea174990d97a4f5b2a3dfec5da3dc3edcb8abf1ec9543944a4c02c90fdc0"
     }
   },
   "engine_behavior": {
@@ -941,7 +965,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:27:03 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-12",
-  "run_days": 78,
-  "rows_total": 391,
+  "window_last": "2026-11-14",
+  "run_days": 80,
+  "rows_total": 401,
   "by_engine": {
     "openai": {
-      "rows": 78,
-      "ok": 73,
-      "days_with_ok": 73
-    },
-    "anthropic": {
-      "rows": 79,
-      "ok": 78,
-      "days_with_ok": 78
-    },
-    "perplexity": {
-      "rows": 78,
+      "rows": 80,
       "ok": 75,
       "days_with_ok": 75
     },
+    "anthropic": {
+      "rows": 81,
+      "ok": 80,
+      "days_with_ok": 80
+    },
+    "perplexity": {
+      "rows": 80,
+      "ok": 77,
+      "days_with_ok": 77
+    },
     "gemini": {
-      "rows": 78,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 80,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 78,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 80,
+      "ok": 43,
+      "days_with_ok": 43
     }
   },
   "by_date": [
@@ -888,18 +888,41 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-dentists/all.csv",
-      "sha256": "a77aef1bf8b95acb6ae664065872bd1503365722e39023cc4f8200029f79c729"
+      "sha256": "51ef2caab8da0bd3f7cd934b55644afce4f472129913feb28d48f478742872e8"
     },
-    "day_csv_count": 78,
+    "day_csv_count": 80,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-dentists/changes.csv",
-      "sha256": "c379088296e6b1205cdb4fc6a09c8952f3559155f573b7e168fe1db24218ee6a"
+      "sha256": "eae5f659a1104af8fefeef9b511cd5aace1613e2cd38e8515fc773ba6f849e31"
     }
   },
   "engine_behavior": {
@@ -928,7 +951,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:27:00 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

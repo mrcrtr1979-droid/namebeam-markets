@@ -1101,3 +1101,89 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,ASE-certified,openai
 2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,My pick: Superior Auto Werks,perplexity
 2026-11-12,2026-11-11,1,openai anthropic perplexity gemini google_serp,dropped,SpeeDee at 44 Mission Dr,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Big Brand Tire & Service,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Big Brand Tire,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Precision Auto Care,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,"Fast, basic oil change",openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,ASE-certified,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,OEM-quality,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Main Street Mechanics,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Courtesy Mazda / local domestic dealerships,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Synthetic vs. Conventional,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Independent Shops,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Your Car,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Address,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Specific Brands,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Audi Pleasanton,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,BMW of Pleasanton,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Mercedes-Benz of Pleasanton,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Courtesy Mazda,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Pro-Tips for Pleasanton Drivers,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Shop Name,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,entered,Tips for Pleasanton Drivers,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Google Maps/Yelp,anthropic
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,National chains,anthropic
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Independent mechanics,anthropic
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Jiffy Lube Service Center,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Autobahn Motors,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Boghosian Brothers Auto Repair,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Courtesy Chevrolet,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Book Ahead,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Quick Lubes,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Tips for Getting Your Oil Changed,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Valvoline and Jiffy Lube,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Know Your Oil Type,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Tips for Getting,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Auto Repair,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Know Your Oil,gemini
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Dublin Car Tek (near Pleasanton in Dublin),openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,A marque specialist,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Dublin Car Tek,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Dublin,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,EV-adjacent,openai
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,SpeeDee Oil Change & Auto Service,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Superior Auto Werks,perplexity
+2026-11-13,2026-11-12,1,openai anthropic perplexity gemini google_serp,dropped,Auto Service,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Auto Repair,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Foreign Affair Auto Care,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Al's Auto Repair,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Ford / Pleasanton GM,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Check Yelp/Google Reviews,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Quick Lube,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Independent Mechanics,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,European,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Ford,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Tips for Getting Your Oil Changed,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Tips for Getting,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Auto Repair,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Jiffy Lube / Oil Changers nearby,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,A well-reviewed independent repair shop in Pleasanton,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,EV-related,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Oil Changers,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,SpeeDee Oil Change & Auto Service,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Walmart Auto Care Center,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Auto Service,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,entered,Walmart Auto Care,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand Tire,perplexity
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Precision Auto Care,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,"Fast, basic oil change",openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,ASE-certified,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,OEM-quality,openai
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Automotive,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,The Vibe,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Main Street Mechanics,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Courtesy Mazda / local domestic dealerships,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Synthetic vs. Conventional,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Independent Shops,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Your Car,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Address,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Specific Brands,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Audi Pleasanton,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,BMW of Pleasanton,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Mercedes-Benz of Pleasanton,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Courtesy Mazda,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Pro-Tips for Pleasanton Drivers,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Shop Name,gemini
+2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Tips for Pleasanton Drivers,gemini

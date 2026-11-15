@@ -4,34 +4,34 @@
   "niche": "residential roofing",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-12",
-  "run_days": 95,
-  "rows_total": 480,
+  "window_last": "2026-11-14",
+  "run_days": 97,
+  "rows_total": 490,
   "by_engine": {
     "openai": {
-      "rows": 96,
-      "ok": 91,
-      "days_with_ok": 90
-    },
-    "anthropic": {
-      "rows": 96,
-      "ok": 96,
-      "days_with_ok": 95
-    },
-    "perplexity": {
-      "rows": 96,
+      "rows": 98,
       "ok": 93,
       "days_with_ok": 92
     },
+    "anthropic": {
+      "rows": 98,
+      "ok": 98,
+      "days_with_ok": 97
+    },
+    "perplexity": {
+      "rows": 98,
+      "ok": 95,
+      "days_with_ok": 94
+    },
     "gemini": {
-      "rows": 96,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 98,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 96,
-      "ok": 52,
-      "days_with_ok": 51
+      "rows": 98,
+      "ok": 54,
+      "days_with_ok": 53
     }
   },
   "by_date": [
@@ -1071,18 +1071,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/dallas-roofing/all.csv",
-      "sha256": "185ca269eaecf73534028b905379a7b235b2d11e3c7f56b70db9799edda42b14"
+      "sha256": "664a10079c9b79dc63c377d05dd0db5362b825bdecfe30f296926ab2e5b79c6a"
     },
-    "day_csv_count": 95,
+    "day_csv_count": 97,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/dallas-roofing/changes.csv",
-      "sha256": "878a815d27163dc321d2170cab8f980f349e287162b8910193a6cebd8a5be416"
+      "sha256": "7c949993b0b6e8da43e3b6e88201f87cd790fb0a70230eb24ea4280ca78bad9e"
     }
   },
   "engine_behavior": {
@@ -1111,7 +1135,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:26:45 UTC",
+  "generated_utc": "2026-11-15 01:41:38 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

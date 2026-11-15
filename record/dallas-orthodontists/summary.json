@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-12",
-  "run_days": 36,
-  "rows_total": 163,
+  "window_last": "2026-11-14",
+  "run_days": 38,
+  "rows_total": 173,
   "by_engine": {
     "anthropic": {
-      "rows": 36,
-      "ok": 35,
-      "days_with_ok": 35
+      "rows": 38,
+      "ok": 37,
+      "days_with_ok": 37
     },
     "gemini": {
-      "rows": 36,
-      "ok": 23,
-      "days_with_ok": 23
+      "rows": 38,
+      "ok": 25,
+      "days_with_ok": 25
     },
     "openai": {
-      "rows": 36,
-      "ok": 31,
-      "days_with_ok": 31
+      "rows": 38,
+      "ok": 33,
+      "days_with_ok": 33
     },
     "perplexity": {
-      "rows": 36,
-      "ok": 36,
-      "days_with_ok": 36
+      "rows": 38,
+      "ok": 38,
+      "days_with_ok": 38
     },
     "google_serp": {
-      "rows": 19,
-      "ok": 15,
-      "days_with_ok": 15
+      "rows": 21,
+      "ok": 17,
+      "days_with_ok": 17
     }
   },
   "by_date": [
@@ -426,19 +426,43 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/dallas-orthodontists/rows.csv",
-      "sha256": "2c57cceb64df37e671bd48560d168726dcd496f95bcf275ae7b80a8648837bf9"
+      "sha256": "5bd2f8c3c42107c20d25a0a2fe83d67dae0fb472b87aacb4c9819c9769b33b79"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-13 08:26:42 UTC",
+  "generated_utc": "2026-11-15 01:41:37 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Dallas for braces or Invisalign?"

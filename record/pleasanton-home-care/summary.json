@@ -4,34 +4,34 @@
   "niche": "home care agencies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-12",
-  "run_days": 78,
-  "rows_total": 391,
+  "window_last": "2026-11-14",
+  "run_days": 80,
+  "rows_total": 401,
   "by_engine": {
     "openai": {
-      "rows": 78,
-      "ok": 72,
-      "days_with_ok": 72
+      "rows": 80,
+      "ok": 74,
+      "days_with_ok": 74
     },
     "anthropic": {
-      "rows": 79,
-      "ok": 78,
-      "days_with_ok": 78
+      "rows": 81,
+      "ok": 80,
+      "days_with_ok": 80
     },
     "perplexity": {
-      "rows": 78,
-      "ok": 75,
-      "days_with_ok": 75
+      "rows": 80,
+      "ok": 77,
+      "days_with_ok": 77
     },
     "gemini": {
-      "rows": 78,
-      "ok": 44,
-      "days_with_ok": 44
+      "rows": 80,
+      "ok": 46,
+      "days_with_ok": 46
     },
     "google_serp": {
-      "rows": 78,
-      "ok": 43,
-      "days_with_ok": 43
+      "rows": 80,
+      "ok": 45,
+      "days_with_ok": 45
     }
   },
   "by_date": [
@@ -892,18 +892,42 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-home-care/all.csv",
-      "sha256": "18efcb0b40dd5ac22e6d9f9de49a4edad44c467105f91799e515d8cd291c5375"
+      "sha256": "2b553170d2ef7231b09bb728eb97d77e2b1fb8a0825670b373993fa28435e7be"
     },
-    "day_csv_count": 78,
+    "day_csv_count": 80,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-home-care/changes.csv",
-      "sha256": "511bc427bde8470276db8e259bad464f060ec2d8d1967f38c3b721fff7dd20cf"
+      "sha256": "b71f64c1f5342f24ef6e0189210fb57d097f94116dbcadf31c2b2a70db78fa54"
     }
   },
   "engine_behavior": {
@@ -932,7 +956,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-13 08:27:01 UTC",
+  "generated_utc": "2026-11-15 01:41:39 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
