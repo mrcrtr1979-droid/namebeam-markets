@@ -97,6 +97,15 @@ class BuyGaps(unittest.TestCase):
         self.assertNotIn("alpha vault", low)
         self.assertNotIn("carter studio", low)
 
+    def test_every_email_is_outside_cloudflare_obfuscation(self):
+        # CPEO-1114 5:45PM CT: the served raw HTML showed 0 plain addresses (Cloudflare Email Address Obfuscation
+        # rewrote all of them), so a reader without JavaScript saw no address on the cancel and data lines.
+        raw = open(os.path.join(ROOT, "buy/index.html"), encoding="utf-8").read()
+        anchors = re.findall(r'<a [^>]*href="mailto:[^"]*"[^>]*>[^<]*</a>', raw)
+        self.assertEqual(len(anchors), 8)
+        for a in anchors:
+            self.assertIn("<!--email_off-->" + a + "<!--/email_off-->", raw)
+
     def test_asof_markers_kept(self):
         raw = open(os.path.join(ROOT, "buy/index.html"), encoding="utf-8").read()
         self.assertEqual(raw.count("<!--nb:buy-asof-->"), 1)
