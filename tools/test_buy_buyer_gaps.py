@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Tests for the /buy/ buyer-gap copy (CPEO-1114, 2026-11-14): cancel method, free versus paid, what is verified,
 day counts, buyer data. Stdlib only. Run: python3 -I tools/test_buy_buyer_gaps.py
-Gap 2 (refund terms) is a founder policy call and is deliberately NOT on the page: test_no_refund_line pins that."""
+Gap 2 (refund terms) and the order-record retention period are Terry's word of 6:24PM CT 2026-11-14 (TERRY_DID.md, desk item 38,
+refund option R-A, retention N = 7); test_refund_line_is_terrys_word pins the exact wording."""
 import html
 import os
 import re
@@ -53,7 +54,7 @@ class BuyGaps(unittest.TestCase):
         sents = [ln for ln in self.buy if ln.startswith("Renews monthly until you cancel.")]
         self.assertEqual(len(sents), 2)
         for s in sents:
-            self.assertIn("email terry@namebeam.ai from the address you used at checkout", s)
+            self.assertIn("email terry@namebeam.ai from that address and name the", s)
             self.assertIn("The next monthly charge stops.", s)
 
     def test_free_and_paid_one_line_each(self):
@@ -81,13 +82,29 @@ class BuyGaps(unittest.TestCase):
         for need in ("your name", "your email address", "payment status", "up to 30 days", "up to 90 days", "terry@namebeam.ai"):
             self.assertIn(need, d[0])
 
-    def test_no_refund_line(self):
-        # Gap 2 is Terry's policy call (status/inbox/TO_TEAM-OFA.md desk row). Nothing may invent a refund term.
-        self.assertIsNone(re.search(r"refund", self.text, re.I))
+    def test_refund_line_is_terrys_word(self):
+        # Terry 6:24PM CT 2026-11-14: refund option R-A exactly, retention N = 7. Nothing else may add a refund term.
+        r = [ln for ln in self.buy if ln.startswith("Refunds: ")]
+        self.assertEqual(r, ["Refunds: email terry@namebeam.ai within 14 days of payment and we refund the full amount "
+                             "if the files were late or not delivered."])
+        self.assertEqual(len(re.findall(r"refund", self.text, re.I)), 3)  # h4 "Refunds", "Refunds:" and "we refund"
+
+    def test_retention_line_is_terrys_word(self):
+        d = [ln for ln in self.buy if ln.startswith("Collected about a buyer:")][0]
+        self.assertIn("Order records (name, email, payment status and order details) are kept for 7 years "
+                      "for tax and accounting records, then deleted.", d)
+
+    def test_self_serve_cancel_link(self):
+        # Stripe billing portal login_page.enabled true in the live account, configuration updated 6:22PM CT 2026-11-14, read by API the same evening.
+        raw = open(os.path.join(ROOT, "buy/index.html"), encoding="utf-8").read()
+        link = 'href="https://billing.stripe.com/p/login/cNi9ATaJuatb0YocNGdIA00"'
+        self.assertEqual(raw.count(link), 2)
+        for ln in [ln for ln in self.buy if ln.startswith("Renews monthly until you cancel.")]:
+            self.assertIn("To cancel, sign in to Stripe billing with the email you used at checkout (Stripe billing page), or email terry@namebeam.ai", ln)
 
     def test_added_copy_ascii_and_no_dashes(self):
         added = [ln for ln in self.buy if ln.startswith(("Free: ", "Paid adds: ", "Every capture", "A record page counts",
-                                                         "Collected about a buyer", "Renews monthly until you cancel."))]
+                                                         "Collected about a buyer", "Refunds: ", "Renews monthly until you cancel."))]
         for ln in added:
             self.assertTrue(ln.isascii(), ln)
             self.assertIsNone(re.search(r" - | -- ", ln), ln)
@@ -102,7 +119,7 @@ class BuyGaps(unittest.TestCase):
         # rewrote all of them), so a reader without JavaScript saw no address on the cancel and data lines.
         raw = open(os.path.join(ROOT, "buy/index.html"), encoding="utf-8").read()
         anchors = re.findall(r'<a [^>]*href="mailto:[^"]*"[^>]*>[^<]*</a>', raw)
-        self.assertEqual(len(anchors), 8)
+        self.assertEqual(len(anchors), 9)
         for a in anchors:
             self.assertIn("<!--email_off-->" + a + "<!--/email_off-->", raw)
 
