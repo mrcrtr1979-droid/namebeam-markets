@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-14",
-  "run_days": 38,
-  "rows_total": 173,
+  "window_last": "2026-11-15",
+  "run_days": 39,
+  "rows_total": 178,
   "by_engine": {
     "anthropic": {
-      "rows": 38,
-      "ok": 37,
-      "days_with_ok": 37
-    },
-    "gemini": {
-      "rows": 38,
-      "ok": 26,
-      "days_with_ok": 26
-    },
-    "openai": {
-      "rows": 38,
-      "ok": 33,
-      "days_with_ok": 33
-    },
-    "perplexity": {
-      "rows": 38,
+      "rows": 39,
       "ok": 38,
       "days_with_ok": 38
     },
+    "gemini": {
+      "rows": 39,
+      "ok": 27,
+      "days_with_ok": 27
+    },
+    "openai": {
+      "rows": 39,
+      "ok": 34,
+      "days_with_ok": 34
+    },
+    "perplexity": {
+      "rows": 39,
+      "ok": 39,
+      "days_with_ok": 39
+    },
     "google_serp": {
-      "rows": 21,
-      "ok": 17,
-      "days_with_ok": 17
+      "rows": 22,
+      "ok": 18,
+      "days_with_ok": 18
     }
   },
   "by_date": [
@@ -451,19 +451,31 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/dallas-dentists/rows.csv",
-      "sha256": "cbf2bb04e8e154395f28457bc112a9795552a966dcbd32a60af9947f2317be8b"
+      "sha256": "eea559528c3f36200c6345bdffae84cb6ba33a2bbc2e8f99baeb5b007c0742ad"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-15 01:41:37 UTC",
+  "generated_utc": "2026-11-16 16:20:49 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Dallas for a dental implant?"

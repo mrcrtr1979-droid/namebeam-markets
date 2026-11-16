@@ -1656,3 +1656,64 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Search Booking.com,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Recent,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Booking.com. That,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Hotels directly / hotel comparison sites,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Search on at least two platforms,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Compare total price—not nightly price,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,"Read 10–20 recent reviews, including negative ones",openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check the host’s profile and other listings,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Message the host with 2–3 key questions,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,"On arrival, document serious issues immediately",openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,"Solo/couple city trip, unique apartment, longer stay",openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Less,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Wi-Fi,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Cleaning,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Entire homes,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Vague Location,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Read recent reviews,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check the host’s track record,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Read the whole listing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Ask specific questions before booking,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check the cancellation policy and total cost,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Save the listing and booking details,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb vs. Vrbo vs. Booking.com,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Use Airbnb,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Use Vrbo,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Use Booking.com,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb Superhost,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Quantity matters,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Look for recency,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Search reviews for keywords,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Good host,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Bad host,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Never,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Unique Stays,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Budget Travelers,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Customer,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Vacation Rentals,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Expedia Group,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Traditional Travelers,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Pro-Tip for Booking,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Always,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Read the house rules and cancellation policy,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Large Groups,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Location on a real map,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,The exact bed setup,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Essential amenities,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,House rules,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Local legality,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Many recent reviews,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Consistent comments,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Specific reviews,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Responsive pre-booking communication,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Clear listing details,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,A realistic cancellation policy,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Verified identity / established profile,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,"Airbnb, Vrbo, and Booking.com",openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Vrbo for a whole-house group vacation,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb for variety and longer/local-feeling stays,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Strong,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Large,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Quick rule,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Keep payment and communication on the platform,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Compare the final checkout total,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Save the listing and messages,perplexity

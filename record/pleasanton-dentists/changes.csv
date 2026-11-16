@@ -1157,3 +1157,11 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity google_serp,entered,Use the California Dental Board,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity google_serp,dropped,ADA Find-a-Dentist,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity google_serp,dropped,Pleasanton Dental Care,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,entered,Cedarwood Ln,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,entered,Zocdoc,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,entered,Dental Board of California,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Gibraltar Drive,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Look for recent—not just overall—reviews,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Call and ask four questions,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Use the California Dental Board,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,California Dental Board,openai

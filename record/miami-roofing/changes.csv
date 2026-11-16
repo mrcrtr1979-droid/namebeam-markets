@@ -490,3 +490,64 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini,dropped,Florida DBPR license lookup,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini,dropped,Miami-Dade permit records,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini,dropped,Miami-Dade Product Control / NOA database,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,CCC,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Miami-Dade NOA-approved,openai perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,High-Velocity Hurricane Zone,openai gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Velocity Hurricane Zone,openai gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Dade NOA-approved,openai perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,NOA-approved,openai perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Florida Roofing Contractor,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,General Liability and Workers,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Rooftop Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Eternity Roof Experts,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Pioneer Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,High-Velocity Hurricane Zone (HVHZ),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Miami-Dade NOA (Notice of Acceptance) Products,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Enhanced Underlayment (Secondary Water Resistance),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Proper Fastening,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Permitting,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Enhanced Underlayment,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Tips for Choosing the Right Contractor,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Perkins Roofing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,CCC1331944,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,CCC1332557,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,AGK Construction & Roofing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade HVHZ,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Coral Gables,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,AGK Construction,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Dade HVHZ,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,PRIME Construction & Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Rausa Roofing Miami,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Secondary Water Resistance (SWR),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Upgraded Fasteners,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Hip and Ridge Cap Mortar/Adhesive,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Demand Manufacturer Certifications,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,GAF (Master Elite),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning (Platinum Preferred),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Boral/Westile,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Permit History,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Roofer's Guild,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Local Elite Contractors,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,PRIME Construction,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,All-Area Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Hip and Ridge Cap Mortar,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Ensure,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Florida Certified Roofing Contractor,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Master Elite,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning,gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Platinum Preferred,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,GuildQuality,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer certifications,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Florida Certified Roofing Contractor (CCC),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Florida DBPR License Search,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade County Contractor License / Permit records,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade Product Control Search,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer contractor locator,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Permit,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade County Contractor License,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami ZIP,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Dade County Product Approval,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade County Product Approval,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,State Certified Roofing Contractor,openai

@@ -4,34 +4,34 @@
   "niche": "moving companies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-14",
-  "run_days": 80,
-  "rows_total": 401,
+  "window_last": "2026-11-15",
+  "run_days": 81,
+  "rows_total": 406,
   "by_engine": {
     "openai": {
-      "rows": 80,
-      "ok": 75,
-      "days_with_ok": 75
+      "rows": 81,
+      "ok": 76,
+      "days_with_ok": 76
     },
     "anthropic": {
-      "rows": 81,
-      "ok": 80,
-      "days_with_ok": 80
+      "rows": 82,
+      "ok": 81,
+      "days_with_ok": 81
     },
     "perplexity": {
-      "rows": 80,
-      "ok": 77,
-      "days_with_ok": 77
+      "rows": 81,
+      "ok": 78,
+      "days_with_ok": 78
     },
     "gemini": {
-      "rows": 80,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 81,
+      "ok": 46,
+      "days_with_ok": 46
     },
     "google_serp": {
-      "rows": 80,
-      "ok": 54,
-      "days_with_ok": 54
+      "rows": 81,
+      "ok": 55,
+      "days_with_ok": 55
     }
   },
   "by_date": [
@@ -925,18 +925,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-moving-companies/all.csv",
-      "sha256": "f70e9bccb99828a53eab225b3ce5a8337ea97db593890fd6316a43945e277b70"
+      "sha256": "bfafe3db82fe0e45ef2f24d2c487cfa4cb06b83aa1c7b67a132e83d170225b66"
     },
-    "day_csv_count": 80,
+    "day_csv_count": 81,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-moving-companies/changes.csv",
-      "sha256": "3e06ea174990d97a4f5b2a3dfec5da3dc3edcb8abf1ec9543944a4c02c90fdc0"
+      "sha256": "774ca9e4eda529c94a39387ac0c0dc9e63843720e6d99e8e1a8c2e564d2f1840"
     }
   },
   "engine_behavior": {
@@ -965,7 +977,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-15 01:41:39 UTC",
+  "generated_utc": "2026-11-16 16:20:51 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

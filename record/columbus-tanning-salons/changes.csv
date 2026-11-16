@@ -352,3 +352,32 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Spray Tanning,gemini
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,GLO Tanning,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Tan Pro USA,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Bronze Bijou,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Beach Bums Tanning,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,For UV Tanning,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,For Spray Tanning,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Custom Spray Tans,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Downtown Columbus,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Columbus. The,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Traditional Salon,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Beach Bums,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Sun Studio Tan,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Palm Beach Tan’s Georgesville location,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,UV-focused,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Bronze Perfected,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Check for New Customer Deals,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Sunless and Mystic,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Custom Airbrush,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Grandview Heights,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,High-End Equipment,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Instant,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Free Week,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Know What You Need,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Vagaro,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,The Tan Company,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Custom/spray tan,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Luxury/chain experience,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa-style,openai

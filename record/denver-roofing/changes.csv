@@ -485,3 +485,54 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Roofer for Your Denver Home,gemini
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Denver contractor/roofer license,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,County of Denver,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Ethos General Contractors,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,JK Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Mutiny Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Infinity Roofing & Siding,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Metro Storm Repair,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Look for Local Physical Addresses,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Manufacturer Certifications,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,GAF Master Elite,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Owens Corning Platinum Preferred,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Insurance Claim Expertise,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Check Independent Reviews,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Better Business Bureau (BBB),gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Highly Rated Contractors,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Infinity Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,GAF and Owens Corning,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Specific Job,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Owens Corning Platinum,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Colorado Secretary of State,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Denver-area BBB,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Denver-area ZIP,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Metro City Roofing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Woodberg Roofing & Restoration,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,entered,Woodberg Roofing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Formula Roofing & Remodeling,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,RoofTec Precision Exteriors,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,"Colorado Roofing, Inc",openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Holland’s Roofing,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Formula Roofing,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Colorado Roofing,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Areas served,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,"Beware of ""Storm Chasers",gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Get a Contingency Agreement Review,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Ask for Class 4 Shingles,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Class 4 impact-resistant shingles,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Denver. They,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Owens Corning Preferred Contractors,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Areas,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Entire Denver Metro Area,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Front Range. They,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Lakewood,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Denver Metro,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Class,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Denver Roofer After,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Storm Chasers,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Denver. Always,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Contingency Agreement Review,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Ask for Class,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Excel Roofing,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Gates Enterprises,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Horn Brothers Roofing,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini,dropped,Interstate Roofing,perplexity

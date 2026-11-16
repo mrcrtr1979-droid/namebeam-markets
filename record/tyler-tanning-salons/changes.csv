@@ -532,3 +532,14 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Times Square Shopping Center,perplexity
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning in Tyler,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Times Square Shopping Center,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Call ahead for specials,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Ask about bulb maintenance,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check for spray tan options,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,The Tanning Lounge,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Ask about bulb changes,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Check for first-time specials,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa PRO,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan and VersaSpa,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Mystic Tan,gemini

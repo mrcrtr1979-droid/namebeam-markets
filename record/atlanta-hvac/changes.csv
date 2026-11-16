@@ -419,3 +419,46 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,AHRI-matched,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,Moncrief Heating & Air,openai
 2026-11-14,2026-11-13,1,openai anthropic perplexity gemini google_serp,dropped,The Air Company,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air Conditioning,perplexity gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Bell Mechanical,perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating,perplexity gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Air Conditioning,perplexity gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air,perplexity gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Moncrief,perplexity gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,"PV Heating, Cooling & Insulation",gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,"TE Certified Electricians, Heating & Cooling",gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Prioritize the Installation over the Brand,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Get at Least 3 Quotes,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Ask for a Manual J Load Calculation,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check for Georgia Power & Manufacturer Rebates,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Verify Licensing & Insurance,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Conditioned Air Contractor License,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Highly Rated,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,TE Certified Electricians,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Long-Standing Reputation,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Older Atlanta,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Fastest Availability,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Big Warranties,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,One,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Georgia. If,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Prioritize the Installation,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Check for Georgia Power,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Manufacturer Rebates,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,State of Georgia,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,TE Certified,gemini openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Load Calculation,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,Georgia Power Rebates,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,entered,AC. Get,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,"Casteel Heating, Cooling, Plumbing & Electrical",gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Equipment Brands,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Written Estimates,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated HVAC Companies,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Casteel Heating,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,NATE,gemini perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,NATE-certified,gemini perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Fast Availability,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Highly Rated HVAC Companies,gemini
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,R.S. Andrews,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Cunningham Associates,openai perplexity
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,North Atlanta,openai
+2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,NATE-certified. Call,perplexity

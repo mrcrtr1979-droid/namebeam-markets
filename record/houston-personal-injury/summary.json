@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-14",
-  "run_days": 97,
-  "rows_total": 490,
+  "window_last": "2026-11-15",
+  "run_days": 98,
+  "rows_total": 495,
   "by_engine": {
     "openai": {
-      "rows": 98,
-      "ok": 93,
-      "days_with_ok": 92
+      "rows": 99,
+      "ok": 94,
+      "days_with_ok": 93
     },
     "anthropic": {
-      "rows": 98,
-      "ok": 98,
-      "days_with_ok": 97
+      "rows": 99,
+      "ok": 99,
+      "days_with_ok": 98
     },
     "perplexity": {
-      "rows": 98,
-      "ok": 95,
-      "days_with_ok": 94
+      "rows": 99,
+      "ok": 96,
+      "days_with_ok": 95
     },
     "gemini": {
-      "rows": 98,
-      "ok": 51,
-      "days_with_ok": 51
+      "rows": 99,
+      "ok": 52,
+      "days_with_ok": 52
     },
     "google_serp": {
-      "rows": 98,
-      "ok": 59,
-      "days_with_ok": 58
+      "rows": 99,
+      "ok": 60,
+      "days_with_ok": 59
     }
   },
   "by_date": [
@@ -1109,18 +1109,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-personal-injury/all.csv",
-      "sha256": "a7035369e2346ccca63fc5102d32057013ea96da0ae30bd5ae4b8b2821666c7b"
+      "sha256": "c8e980579f20d7780577842e3b94f4490e13c6751833d949ccaa69a92b0f17a2"
     },
-    "day_csv_count": 97,
+    "day_csv_count": 98,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-personal-injury/changes.csv",
-      "sha256": "568e31bdf538a5ddfde9a632750ee8eff2be48488175d5428d7936cc88489ad5"
+      "sha256": "e7c7a876984d99e599cc85dc7410ce1264ea26ec1d757f6abddf3930ce7ae2e5"
     }
   },
   "engine_behavior": {
@@ -1149,7 +1161,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-15 01:41:38 UTC",
+  "generated_utc": "2026-11-16 16:20:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

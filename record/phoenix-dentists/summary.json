@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-14",
-  "run_days": 38,
-  "rows_total": 173,
+  "window_last": "2026-11-15",
+  "run_days": 39,
+  "rows_total": 178,
   "by_engine": {
     "anthropic": {
-      "rows": 38,
-      "ok": 37,
-      "days_with_ok": 37
-    },
-    "gemini": {
-      "rows": 38,
-      "ok": 24,
-      "days_with_ok": 24
-    },
-    "openai": {
-      "rows": 38,
-      "ok": 33,
-      "days_with_ok": 33
-    },
-    "perplexity": {
-      "rows": 38,
+      "rows": 39,
       "ok": 38,
       "days_with_ok": 38
     },
+    "gemini": {
+      "rows": 39,
+      "ok": 25,
+      "days_with_ok": 25
+    },
+    "openai": {
+      "rows": 39,
+      "ok": 34,
+      "days_with_ok": 34
+    },
+    "perplexity": {
+      "rows": 39,
+      "ok": 39,
+      "days_with_ok": 39
+    },
     "google_serp": {
-      "rows": 21,
-      "ok": 16,
-      "days_with_ok": 16
+      "rows": 22,
+      "ok": 17,
+      "days_with_ok": 17
     }
   },
   "by_date": [
@@ -448,19 +448,31 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/phoenix-dentists/rows.csv",
-      "sha256": "45f8b8ac4846f4883e9f895f17c17dc9b82a79ea9ed28e3edbf5b88e3e8299a8"
+      "sha256": "7e9b893567413d79419cbedb284dc9bb19663612b230bcbcc5541e450cdd8f97"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-15 01:41:38 UTC",
+  "generated_utc": "2026-11-16 16:20:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Phoenix for a dental implant?"
