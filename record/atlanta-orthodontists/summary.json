@@ -4,32 +4,32 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-15",
-  "run_days": 39,
-  "rows_total": 178,
+  "window_last": "2026-11-16",
+  "run_days": 40,
+  "rows_total": 183,
   "by_engine": {
     "anthropic": {
-      "rows": 39,
-      "ok": 38,
-      "days_with_ok": 38
-    },
-    "gemini": {
-      "rows": 39,
-      "ok": 26,
-      "days_with_ok": 26
-    },
-    "openai": {
-      "rows": 39,
-      "ok": 34,
-      "days_with_ok": 34
-    },
-    "perplexity": {
-      "rows": 39,
+      "rows": 40,
       "ok": 39,
       "days_with_ok": 39
     },
+    "gemini": {
+      "rows": 40,
+      "ok": 27,
+      "days_with_ok": 27
+    },
+    "openai": {
+      "rows": 40,
+      "ok": 35,
+      "days_with_ok": 35
+    },
+    "perplexity": {
+      "rows": 40,
+      "ok": 40,
+      "days_with_ok": 40
+    },
     "google_serp": {
-      "rows": 22,
+      "rows": 23,
       "ok": 17,
       "days_with_ok": 17
     }
@@ -461,19 +461,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/atlanta-orthodontists/rows.csv",
-      "sha256": "980a161ffa5a7677b35de9b115a4c231a371788c82f3b2d100062c81dd261e8a"
+      "sha256": "8fe588f66adc6b1762457d1bd0ba452822dc9ff1bdae054555a00f5e40c09825"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-16 16:20:49 UTC",
+  "generated_utc": "2026-11-17 16:26:08 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Atlanta for braces or Invisalign?"

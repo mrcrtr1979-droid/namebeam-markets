@@ -1165,3 +1165,13 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Call and ask four questions,openai
 2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,Use the California Dental Board,openai
 2026-11-15,2026-11-14,1,openai anthropic perplexity google_serp,dropped,California Dental Board,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,entered,Pleasanton CA family dentist cleaning,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,entered,Dublin Corners Dental,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,entered,Stoneridge Drive,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,entered,Gibraltar Drive,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family Dentist,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,Cedarwood Ln,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,Zocdoc,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,Dental Board of California,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity google_serp,dropped,X-rays,openai

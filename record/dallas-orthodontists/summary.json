@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-15",
-  "run_days": 39,
-  "rows_total": 178,
+  "window_last": "2026-11-16",
+  "run_days": 40,
+  "rows_total": 183,
   "by_engine": {
     "anthropic": {
-      "rows": 39,
-      "ok": 38,
-      "days_with_ok": 38
-    },
-    "gemini": {
-      "rows": 39,
-      "ok": 26,
-      "days_with_ok": 26
-    },
-    "openai": {
-      "rows": 39,
-      "ok": 34,
-      "days_with_ok": 34
-    },
-    "perplexity": {
-      "rows": 39,
+      "rows": 40,
       "ok": 39,
       "days_with_ok": 39
     },
+    "gemini": {
+      "rows": 40,
+      "ok": 27,
+      "days_with_ok": 27
+    },
+    "openai": {
+      "rows": 40,
+      "ok": 35,
+      "days_with_ok": 35
+    },
+    "perplexity": {
+      "rows": 40,
+      "ok": 40,
+      "days_with_ok": 40
+    },
     "google_serp": {
-      "rows": 22,
-      "ok": 18,
-      "days_with_ok": 18
+      "rows": 23,
+      "ok": 19,
+      "days_with_ok": 19
     }
   },
   "by_date": [
@@ -462,19 +462,31 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/dallas-orthodontists/rows.csv",
-      "sha256": "931bd9758141e2bd00dacda4686d1ef27565db9819902ab5aab745e720b5f5a7"
+      "sha256": "8a7076523afd8b33ed88dd4c0bd786eddec8130d5203f6820b1c20dfbc7a9d8c"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-16 16:20:50 UTC",
+  "generated_utc": "2026-11-17 16:26:09 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Dallas for braces or Invisalign?"

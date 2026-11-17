@@ -1225,3 +1225,41 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Oil Changers,openai
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Walmart Auto Care Center,perplexity
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Walmart Auto Care,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Superior Auto Werks,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,A local independent ASE-certified repair shop,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Jiffy Lube / Valvoline-style quick-lube locations,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,EV-adjacent,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Main Street Garage,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,AutoNation Service Centers / Specialty Shops,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Courtesy Acura,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Dublin Toyota / Steven's Creek dealerships,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Downtown Pleasanton,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Specialty Shops,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Specific Brands,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Dublin Toyota,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Steven's Creek,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,San Jose,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Pro-Tips for Getting,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Shop Name,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Know Your Oil Type,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Independent mechanics,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Know Your Oil,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Superior Autowerks,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,CARFAX,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Quick-lube chain,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,European,openai gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,AutoNation Service Centers / Specialized Indies,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Integrity Automotive,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Crest Chevrolet,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Nearby Dealerships (Dublin/Livermore Auto Malls),gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Book Ahead for Shops,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Specialized Indies,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Honda,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Toyota,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Specific Warranties,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Nearby Dealerships,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Livermore Auto Malls,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Dublin Auto Mall,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Consider Synthetic,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Book Ahead,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Synthetic vs. Conventional,gemini

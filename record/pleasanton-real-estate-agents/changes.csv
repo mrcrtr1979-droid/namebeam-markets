@@ -1606,3 +1606,49 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Kottinger Ranch,openai
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Recent Pleasanton-specific,openai
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,References from recent sellers,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Recent local sales,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Comparable properties,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,List-to-sale price ratio,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Days on market,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Pricing analysis,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Contract terms and fees,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,MLS-derived,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Julia Murtagh,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Gina Piper,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Doug Buenz and The,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Zillow & Realtor.com,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Yelp,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Local Brokerages,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Local Expertise,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Strong Communication,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Emotional Intelligence,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Premier Agents,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Real Estate Agents Pleasanton CA,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Coldwell Banker Realty,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Least Three Agents,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Unified School District,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Coldwell Banker,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Interview at Least Three Agents,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Susan Schall (Compass),gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Phyllis Garcia (Dudum Real Estate Group),gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,The Hovsepian Team (Keller Williams Tri-Valley),gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Amy Romak (Compass),gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tri-Valley,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Top-Performing Agents,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Dudum Real Estate Group,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Susan Schall,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Highly,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton and Dublin,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Phyllis Garcia,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Amy Romak,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Rama Mehra,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tim McGuire of Compass,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Doug Buenz of The,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tim McGuire,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Recent Pleasanton sales,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Comparable-home performance,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Pricing strategy,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Negotiation record,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Commission and service,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Recent Pleasanton,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,California Department of Real Estate,openai

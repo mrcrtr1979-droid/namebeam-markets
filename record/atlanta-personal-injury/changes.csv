@@ -552,3 +552,20 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right Lawyer,gemini
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Bader Scott Injury Lawyers,gemini
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Charles Scholle,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Johnson & Ward,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,John Foy & Associates,perplexity openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,John Foy,perplexity openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Georgia jury-trial and catastrophic-injury experience,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Butler Kahn,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Finch McCranie,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Kaine Law,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,"Kenneth S. Nugent, P.C",openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,entered,Kenneth S. Nugent,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,State Bar of Georgia’s Member Directory,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Haug Barron Law Group,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Van Sant Law,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Gary Martin Hays,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Member Directory,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Gary Martin Hays & Associates,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Haug Barron,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity,dropped,Georgia Trial Lawyers Association,openai

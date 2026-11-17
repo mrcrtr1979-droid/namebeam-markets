@@ -1642,3 +1642,51 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Livermore Ford,gemini
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,"Michelin, Bridgestone, and BFGoodrich",gemini
 2026-11-15,2026-11-14,1,openai anthropic perplexity gemini google_serp,dropped,Stoneridge Mall,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,America’s Tire (Discount Tire),openai gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Tradeoffs,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Costco’s installed price,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Strong value,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Performance/luxury,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Strong,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,SUVs,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Michelin Defender,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,CrossClimate,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Continental TrueContact Tour,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Yokohama Avid Ascend,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Michelin Pilot Sport All Season,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Continental ExtremeContact DWS,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Ask for EV-rated,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Also worth considering,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,"Big O Tires, 3688 A Washington St",perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,"America’s Tire in Dublin, 6450 Dublin Blvd",perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,America’s Tire in Dublin,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,My pick: Big Brand Tire & Service,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Automotive,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,H&H Automotive,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Go to America’s Tire on Fallon Rd,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,entered,Fallon Sports Park,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Downside,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire Rack + an approved local installer,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Livermore,openai gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Livermore. Make,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Big O-type,openai
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,The Installation,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Requena’s Auto Care,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Main Street Garage,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Go to America’s Tire in Pleasanton,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Go to Tire Rack Mobile Installation,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,San Leandro,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,BFGoodrich,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Near Ridge Shopping Center,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Classic Cars,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Auto Care,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Lexus of Pleasanton,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,OEM-spec,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Mobile Installation,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Recommendation Summary,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire Rack Mobile Installation,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire Rack + Mobile Installation,gemini
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,The Tire Choice,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire and Big Brand,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire Choice,perplexity
+2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity

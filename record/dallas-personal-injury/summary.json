@@ -4,32 +4,32 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-15",
-  "run_days": 98,
-  "rows_total": 495,
+  "window_last": "2026-11-16",
+  "run_days": 99,
+  "rows_total": 500,
   "by_engine": {
     "openai": {
-      "rows": 99,
-      "ok": 94,
-      "days_with_ok": 93
+      "rows": 100,
+      "ok": 95,
+      "days_with_ok": 94
     },
     "anthropic": {
-      "rows": 99,
-      "ok": 99,
-      "days_with_ok": 98
+      "rows": 100,
+      "ok": 100,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 99,
-      "ok": 96,
-      "days_with_ok": 95
+      "rows": 100,
+      "ok": 97,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 99,
-      "ok": 52,
-      "days_with_ok": 52
+      "rows": 100,
+      "ok": 53,
+      "days_with_ok": 53
     },
     "google_serp": {
-      "rows": 99,
+      "rows": 100,
       "ok": 60,
       "days_with_ok": 59
     }
@@ -1121,18 +1121,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/dallas-personal-injury/all.csv",
-      "sha256": "6e092ff16391fbf3f7020c4073bc30fbe748c89f3bcfd8946c7d30565a3e9b28"
+      "sha256": "03a2fa636ff55219448705262f61434d050ac08c40c8b33a6753d5c35f5ec510"
     },
-    "day_csv_count": 98,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/dallas-personal-injury/changes.csv",
-      "sha256": "86e333aac41f2835268d8e4b07e5e06033733c5dda74c87335574e7e383ded55"
+      "sha256": "e30ae3e27c803082b3309d08372a689b964d197ae6f9363ee1a779422f86b360"
     }
   },
   "engine_behavior": {
@@ -1161,7 +1172,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-16 16:20:50 UTC",
+  "generated_utc": "2026-11-17 16:26:09 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -4,34 +4,34 @@
   "niche": "tire shops",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-15",
-  "run_days": 81,
-  "rows_total": 406,
+  "window_last": "2026-11-16",
+  "run_days": 82,
+  "rows_total": 411,
   "by_engine": {
     "openai": {
-      "rows": 81,
-      "ok": 76,
-      "days_with_ok": 76
+      "rows": 82,
+      "ok": 77,
+      "days_with_ok": 77
     },
     "anthropic": {
-      "rows": 82,
-      "ok": 81,
-      "days_with_ok": 81
+      "rows": 83,
+      "ok": 82,
+      "days_with_ok": 82
     },
     "perplexity": {
-      "rows": 81,
-      "ok": 78,
-      "days_with_ok": 78
+      "rows": 82,
+      "ok": 79,
+      "days_with_ok": 79
     },
     "gemini": {
-      "rows": 81,
-      "ok": 42,
-      "days_with_ok": 42
+      "rows": 82,
+      "ok": 43,
+      "days_with_ok": 43
     },
     "google_serp": {
-      "rows": 81,
-      "ok": 48,
-      "days_with_ok": 48
+      "rows": 82,
+      "ok": 49,
+      "days_with_ok": 49
     }
   },
   "by_date": [
@@ -926,18 +926,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-tire-shops/all.csv",
-      "sha256": "33e5b6fd86eff51b4643d35f34d217179fb27dee490676f8a9cddc548daada22"
+      "sha256": "5ae48af110044ee465dcc91a8346720806293dd61a1017d58a745056482a34ca"
     },
-    "day_csv_count": 81,
+    "day_csv_count": 82,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-tire-shops/changes.csv",
-      "sha256": "3dbb21cece89c67a0ac429458524cf62586bacc686fdff9ba2f49186ece93af3"
+      "sha256": "b4f3b11d5b25e423710fc80d8fadfe90d81de6b4a53b0bce9194a00ef7b6af55"
     }
   },
   "engine_behavior": {
@@ -966,7 +978,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-16 16:20:51 UTC",
+  "generated_utc": "2026-11-17 16:26:10 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

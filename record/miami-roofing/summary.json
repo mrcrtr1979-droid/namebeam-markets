@@ -4,32 +4,32 @@
   "niche": "residential roofing",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-15",
-  "run_days": 98,
-  "rows_total": 495,
+  "window_last": "2026-11-16",
+  "run_days": 99,
+  "rows_total": 500,
   "by_engine": {
     "openai": {
-      "rows": 99,
-      "ok": 94,
-      "days_with_ok": 93
+      "rows": 100,
+      "ok": 95,
+      "days_with_ok": 94
     },
     "anthropic": {
-      "rows": 99,
-      "ok": 99,
-      "days_with_ok": 98
+      "rows": 100,
+      "ok": 100,
+      "days_with_ok": 99
     },
     "perplexity": {
-      "rows": 99,
-      "ok": 96,
-      "days_with_ok": 95
+      "rows": 100,
+      "ok": 97,
+      "days_with_ok": 96
     },
     "gemini": {
-      "rows": 99,
+      "rows": 100,
       "ok": 42,
       "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 99,
+      "rows": 100,
       "ok": 58,
       "days_with_ok": 57
     }
@@ -1109,18 +1109,28 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/miami-roofing/all.csv",
-      "sha256": "4cf3fe291e3bab986f68d75825ab85cd735bcf3f9725b711a9273844bcbd9249"
+      "sha256": "b7d6b91f2b6f7a5bf4779c01210b0f168088490f75d139bb6606d42a82976a2d"
     },
-    "day_csv_count": 98,
+    "day_csv_count": 99,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/miami-roofing/changes.csv",
-      "sha256": "5207e82ec2f48d710ba32e8d11ae54515b0a07b77f435b06071f3fb7c2f2d695"
+      "sha256": "67c8c168fa7bd1694c2ea5f238083c85a066db43dbbd2e3950fe05604cc4e73c"
     }
   },
   "engine_behavior": {
@@ -1149,7 +1159,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-16 16:20:50 UTC",
+  "generated_utc": "2026-11-17 16:26:09 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
