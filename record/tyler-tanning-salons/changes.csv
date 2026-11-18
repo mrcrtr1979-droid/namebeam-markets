@@ -550,3 +550,14 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Ask about bulb maintenance,gemini
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Check for spray tan options,gemini
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,The Bronze Bar,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Ask about bulb changes,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Check for UV-free options,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right One for You,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Check for UV-free,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Glo Tanning on South Broadway,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,South Broadway,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Spray-tan options,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Check the bulb maintenance,gemini

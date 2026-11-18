@@ -2535,3 +2535,43 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Individual/Family,gemini
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,KC ZIP,gemini
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,KC Medicare,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Individual/family ACA coverage,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Medicare / Medicare Advantage / Medigap,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Small-business group coverage,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Missouri Department of Commerce & Insurance,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Kansas Insurance Department,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,ACA Marketplace plans,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Missouri and Kansas,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Marketplace. Use,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Missouri Department of Commerce,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Kansas SHIP,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Missouri Side,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Family ACA,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Kansas Residents,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,AIS Health Advisors,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Apollo Health Insurance,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,BBB A,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,Apollo,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,In Missouri,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,entered,BBB A+ accreditation,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Overland Park. Its,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Kansas and Missouri,perplexity openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Individual/ACA Marketplace coverage,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Small-business/group insurance,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Kansas,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Missouri,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Cover Missouri,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Medicare: use free SHIP counseling first,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,CLAIM,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,State Health Insurance Assistance Program,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,SHICK,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Senior Health Insurance Counseling for Kansas,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,KU Health System,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Saint Luke,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,AdventHealth,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,In Kansas,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Medicare Plan,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,KU Health,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Missouri Residents,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,SHICK (Senior Health Insurance Counseling for Kansas),openai

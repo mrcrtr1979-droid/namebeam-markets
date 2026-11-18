@@ -4,32 +4,32 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-16",
-  "run_days": 103,
-  "rows_total": 534,
+  "window_last": "2026-11-17",
+  "run_days": 104,
+  "rows_total": 539,
   "by_engine": {
     "openai": {
-      "rows": 105,
-      "ok": 96,
-      "days_with_ok": 95
+      "rows": 106,
+      "ok": 97,
+      "days_with_ok": 96
     },
     "anthropic": {
-      "rows": 105,
-      "ok": 105,
-      "days_with_ok": 103
+      "rows": 106,
+      "ok": 106,
+      "days_with_ok": 104
     },
     "perplexity": {
-      "rows": 108,
-      "ok": 104,
-      "days_with_ok": 99
+      "rows": 109,
+      "ok": 105,
+      "days_with_ok": 100
     },
     "gemini": {
-      "rows": 108,
-      "ok": 45,
-      "days_with_ok": 44
+      "rows": 109,
+      "ok": 46,
+      "days_with_ok": 45
     },
     "google_serp": {
-      "rows": 108,
+      "rows": 109,
       "ok": 66,
       "days_with_ok": 63
     }
@@ -1171,18 +1171,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/nashville-short-term-rental/all.csv",
-      "sha256": "4e4a899ff661b9a258e07befb221d264ca870ce12a3c207bcc9656593859167e"
+      "sha256": "61dedcbc89e29f725fbab4c4fc43f525e633663de90cbbc42fafd2d2a7ca77e9"
     },
-    "day_csv_count": 103,
+    "day_csv_count": 104,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/nashville-short-term-rental/changes.csv",
-      "sha256": "dae8cbe1e58096013afe1c4a142051968c37ec1698b75297d3bdf808a3b05401"
+      "sha256": "034de84f94e98e21ef05dc6dbb7f37685f0360f9ae57e4a848edbc09f06d70dd"
     }
   },
   "engine_behavior": {
@@ -1211,7 +1222,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-17 16:26:09 UTC",
+  "generated_utc": "2026-11-18 15:56:31 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

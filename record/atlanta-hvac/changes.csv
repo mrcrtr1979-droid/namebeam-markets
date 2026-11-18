@@ -520,3 +520,50 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power Rebates,gemini
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,"PV Heating, Cooling & Plumbing",openai
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,AC. Get,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Cunningham Associates,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,The Air Company,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,NATE,perplexity gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,NATE-certified,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,"PV Heating, Cooling & Plumbing",openai gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air Conditioning,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Bartlett Heating & Cooling,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Bartlett Heating,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,AC-only,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,PV Heating and Moncrief,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Moncrief Heating & Air,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Moncrief,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Require a Manual J Load Calculation,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Get at Least 3 Written Quotes,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Compare Warranties,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Verify NATE Certification,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Air,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Southeast. They,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Trane and Carrier,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right Contractor,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Written Quotes,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Georgia Secretary of State,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,NATE certification,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,PV Heating & Air,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,R.S. Andrews,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Indoor Experts Heating & Air Conditioning,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Indoor Experts Heating,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta ZIP,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Indoor Experts,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Coolray Heating & Air Conditioning,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Get a Manual J Load Calculation,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Compare 3 Quotes,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Ask About Rebates,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power energy rebates,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Verify Licensing and Insurance,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,North Georgia. Coolray,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta. They,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Ensure,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Georgia Power,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Inflation Reduction Act,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Georgia State Conditioned Air Contractor License,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,AC Unit,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Inflation Reduction Act (IRA),gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,North Georgia,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Fast Availability,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Highly Rated HVAC Companies,gemini

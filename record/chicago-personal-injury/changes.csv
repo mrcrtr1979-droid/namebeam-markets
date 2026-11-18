@@ -532,3 +532,35 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Chicago Bar Association Lawyer Referral Service,openai
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Illinois State Bar Association,openai
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Lawyer Referral Service,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Robert Clifford of Clifford Law Offices,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Michael McCready of McCreadyLaw,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Illinois State Bar Association’s Lawyer Finder,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Illinois State Bar Association,perplexity openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Lawyer Finder,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Illinois Lawyer Finder,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Robert Clifford,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Chicago Bar Association Lawyer Referral Service,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Lawyer Referral Service,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,Robert A. Clifford,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,entered,TBIs,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,"Power Rogers, LLP",gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Contingency Fee Structure,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Prominent Chicago Personal Injury Firms,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Krisiunas Law Firm,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Staver Accident Injury Lawyers,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Dinizulu Law Group,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Attorney for Your Case,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,"Staver Accident Injury Lawyers, P.C",gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Daniel J. McDevitt of McDevitt & Cobb,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Daniel J. McDevitt of McDevitt,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Illinois Super Lawyers,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Paul A. Greenberg of Briskman Briskman,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Illinois ARDC Lawyer Search,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Illinois ARDC,perplexity openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Briskman Briskman & Greenberg,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,McDevitt & Cobb,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Daniel J. McDevitt,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Briskman Briskman,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Strom Yen Injury Lawyers,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Illinois Attorney Registration,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Disciplinary Commission,openai

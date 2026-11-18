@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-16",
-  "run_days": 99,
-  "rows_total": 500,
+  "window_last": "2026-11-17",
+  "run_days": 100,
+  "rows_total": 505,
   "by_engine": {
     "openai": {
-      "rows": 100,
-      "ok": 95,
-      "days_with_ok": 94
+      "rows": 101,
+      "ok": 96,
+      "days_with_ok": 95
     },
     "anthropic": {
-      "rows": 100,
-      "ok": 100,
-      "days_with_ok": 99
+      "rows": 101,
+      "ok": 101,
+      "days_with_ok": 100
     },
     "perplexity": {
-      "rows": 100,
-      "ok": 97,
-      "days_with_ok": 96
+      "rows": 101,
+      "ok": 98,
+      "days_with_ok": 97
     },
     "gemini": {
-      "rows": 100,
-      "ok": 51,
-      "days_with_ok": 51
+      "rows": 101,
+      "ok": 52,
+      "days_with_ok": 52
     },
     "google_serp": {
-      "rows": 100,
-      "ok": 58,
-      "days_with_ok": 58
+      "rows": 101,
+      "ok": 59,
+      "days_with_ok": 59
     }
   },
   "by_date": [
@@ -1128,18 +1128,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/atlanta-personal-injury/all.csv",
-      "sha256": "d3e22d866b83a3d19e4e2d5ffd3a0c9dfb49f3e7a5ae190f8a73e040eafb9eac"
+      "sha256": "aef9eac45e97b31825099e7db0e9de81d2a35337b98bbc73869cf83ef4a8504b"
     },
-    "day_csv_count": 99,
+    "day_csv_count": 100,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/atlanta-personal-injury/changes.csv",
-      "sha256": "98747f7b92412304a3b56127a40b44f3a6dbf3e2f60f243d8771de29ab1f22f3"
+      "sha256": "5ab6a02a895b4821c15dc779a692bfa6e00188a9957f664ba23c3f020ff7b3e3"
     }
   },
   "engine_behavior": {
@@ -1168,7 +1180,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-17 16:26:08 UTC",
+  "generated_utc": "2026-11-18 15:56:30 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

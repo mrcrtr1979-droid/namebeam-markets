@@ -586,3 +586,47 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini,dropped,Denver-area ZIP,openai
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini,dropped,Woodberg Roofing & Restoration,perplexity
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini,dropped,Woodberg Roofing,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Xactimate,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Denver Roofer for Hail Damage,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Denver contractor license,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Ethos General Contractors,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Roof Deployment,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,JK Roofing,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Academy Roofing,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,General Liability Insurance,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Workers' Compensation,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,GAF Master Elite,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Owens Corning Platinum Preferred Contractors,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Better Business Bureau (BBB),gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Colorado. They,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Specific Job,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Storm Chasers,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Insurance Claims,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,"Beware of ""Storm Chasers",gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Look for Manufacturer Certifications,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Peak to Peak Roofing and Exteriors,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Hart Roofing,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Metro City Roofing,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Peak Roofing and Exteriors,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Formula Roofing & Remodeling,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,RoofTec Precision Exteriors,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Blue Spruce Construction Group,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Roof Brokers,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Colorado business registration and local permit requirements,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,General liability and workers’ comp insurance,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Recent Google/BBB reviews,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Denver-area,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Formula Roofing,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Front Range,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Insurance Expertise,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Physical Address,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Read Recent Local Reviews,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,HAAG-certified,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,High Point,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Denver. They,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Denver County,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Master Elite,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,P.O. Box. Make,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,BBB. Look,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Excel Roofing,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Roofer for Your Denver Home,gemini

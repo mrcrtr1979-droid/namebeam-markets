@@ -1690,3 +1690,57 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire and Big Brand,perplexity
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,Tire Choice,perplexity
 2026-11-16,2026-11-15,1,openai anthropic perplexity gemini google_serp,dropped,My pick for installation,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,The Installation Experience,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Custom Alignment Inc,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Granada Tire,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,St. Raymond Auto,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,A&A Tire Service,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Automall,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Main Street Shell,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Alternative Local Favorite,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Their Pleasanton,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Unit D,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Mountain View,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Correction for Pleasanton,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Custom Alignment,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,The Installation,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Road-force balancing,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Downside,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,America’s Tire/Discount Tire,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,EV-specific,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Choose America,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Choose Costco,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Costco Pleasanton,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Seever,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Sons Tire,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton. It,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,My pick for installation,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,entered,Seever & Sons Tire,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Tradeoffs,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Costco’s installed price,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Strong value,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Performance/luxury,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Strong,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,SUVs,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Michelin Defender,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,CrossClimate,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Continental TrueContact Tour,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Yokohama Avid Ascend,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Michelin Pilot Sport All Season,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Continental ExtremeContact DWS,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Ask for EV-rated,openai
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Also worth considering,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,"Big O Tires, 3688 A Washington St",perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,"America’s Tire in Dublin, 6450 Dublin Blvd",perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Dublin,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Big Brand Tire & Service,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,America’s Tire in Dublin,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,My pick: Big Brand Tire & Service,perplexity
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Costco Wholesale,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,The Catch,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Automotive,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,H&H Automotive,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Go to Costco,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Go to America’s Tire on Fallon Rd,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Fallon Sports Park,gemini
+2026-11-17,2026-11-16,1,openai anthropic perplexity gemini google_serp,dropped,Go to America’s Tire,gemini
