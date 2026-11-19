@@ -564,3 +564,30 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Strom Yen Injury Lawyers,openai
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Illinois Attorney Registration,openai
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Disciplinary Commission,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,"Power Rogers, LLP",openai gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Levin & Perconti,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,GWC Injury Lawyers,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Illinois Attorney Registration,openai perplexity gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Disciplinary Commission,openai perplexity gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Illinois Attorney Registration and Disciplinary Commission,perplexity gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,"Ankin Law Office, LLC",gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,"Staver Accident Injury Lawyers, P.C",gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Schedule Free Consultations,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Ask About Trial Experience,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Understand the Fee Structure,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Check Credentials and Reviews,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Ankin Law Office,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Howard Ankin,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Staver Accident Injury Lawyers,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Find the Right Attorney,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Robert Clifford of Clifford Law Offices,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Michael McCready of McCreadyLaw,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Illinois State Bar Association’s Lawyer Finder,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Illinois State Bar Association,perplexity openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Lawyer Finder,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Illinois Lawyer Finder,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Robert Clifford,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Chicago Bar Association Lawyer Referral Service,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Lawyer Referral Service,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Robert A. Clifford,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,TBIs,gemini

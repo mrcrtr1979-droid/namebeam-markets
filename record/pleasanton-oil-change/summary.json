@@ -4,34 +4,34 @@
   "niche": "oil change shops",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-17",
-  "run_days": 83,
-  "rows_total": 416,
+  "window_last": "2026-11-18",
+  "run_days": 84,
+  "rows_total": 421,
   "by_engine": {
     "openai": {
-      "rows": 83,
-      "ok": 78,
-      "days_with_ok": 78
-    },
-    "anthropic": {
       "rows": 84,
-      "ok": 83,
-      "days_with_ok": 83
-    },
-    "perplexity": {
-      "rows": 83,
       "ok": 79,
       "days_with_ok": 79
     },
+    "anthropic": {
+      "rows": 85,
+      "ok": 84,
+      "days_with_ok": 84
+    },
+    "perplexity": {
+      "rows": 84,
+      "ok": 80,
+      "days_with_ok": 80
+    },
     "gemini": {
-      "rows": 83,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 84,
+      "ok": 46,
+      "days_with_ok": 46
     },
     "google_serp": {
-      "rows": 83,
-      "ok": 49,
-      "days_with_ok": 49
+      "rows": 84,
+      "ok": 50,
+      "days_with_ok": 50
     }
   },
   "by_date": [
@@ -949,18 +949,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-oil-change/all.csv",
-      "sha256": "1f938221fcb9ae0bbe7830515e8c48490268417f439a47379c059c308bd78d55"
+      "sha256": "5ac4a6e8bee9173055f51cd46da234f4962d8ade2b77d1a784600c536338c886"
     },
-    "day_csv_count": 83,
+    "day_csv_count": 84,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-oil-change/changes.csv",
-      "sha256": "50b172cfaa6f76b15e2fea7804195cbb9758512b9ecba167985e79590e3fe68f"
+      "sha256": "6be3e4d5417f1b0d93cb45bda977fe2111af15d70cdc69dcfdb4a9a1c5e2d43c"
     }
   },
   "engine_behavior": {
@@ -989,7 +1001,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-18 15:56:31 UTC",
+  "generated_utc": "2026-11-19 16:00:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

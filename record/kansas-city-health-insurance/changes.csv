@@ -2575,3 +2575,29 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,KU Health,openai
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Missouri Residents,openai
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,SHICK (Senior Health Insurance Counseling for Kansas),openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Use HealthCare.gov’s Find Local Help tool,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Missouri CLAIM,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Kansas SHICK,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Use HealthCare.gov,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Part D,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,In Kansas,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,For Medicare,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,SHICK,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,CLAIM,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,ACA/Marketplace,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Missouri Residents,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Individual/family ACA coverage,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Medicare / Medicare Advantage / Medigap,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Small-business group coverage,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,HealthCare.gov Find Local Help,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Navigator,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,HealthCare.gov-certified,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Marketplace. Use,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Kansas SHIP,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,SHIP,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Family ACA,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,AIS Health Advisors,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,BBB A,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Apollo,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,In Missouri,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,BBB A+ accreditation,perplexity

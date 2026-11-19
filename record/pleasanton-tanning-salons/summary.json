@@ -4,34 +4,34 @@
   "niche": "tanning salons",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-17",
-  "run_days": 83,
-  "rows_total": 416,
+  "window_last": "2026-11-18",
+  "run_days": 84,
+  "rows_total": 421,
   "by_engine": {
     "openai": {
-      "rows": 83,
-      "ok": 77,
-      "days_with_ok": 77
+      "rows": 84,
+      "ok": 78,
+      "days_with_ok": 78
     },
     "anthropic": {
-      "rows": 84,
-      "ok": 83,
-      "days_with_ok": 83
+      "rows": 85,
+      "ok": 84,
+      "days_with_ok": 84
     },
     "perplexity": {
-      "rows": 83,
-      "ok": 80,
-      "days_with_ok": 80
+      "rows": 84,
+      "ok": 81,
+      "days_with_ok": 81
     },
     "gemini": {
-      "rows": 83,
-      "ok": 49,
-      "days_with_ok": 49
+      "rows": 84,
+      "ok": 50,
+      "days_with_ok": 50
     },
     "google_serp": {
-      "rows": 83,
-      "ok": 74,
-      "days_with_ok": 74
+      "rows": 84,
+      "ok": 75,
+      "days_with_ok": 75
     }
   },
   "by_date": [
@@ -978,18 +978,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-tanning-salons/all.csv",
-      "sha256": "96cf872f10da8d4309c6bbb5286bbffbfeb12b3392f380754bfe7dfe0ec91229"
+      "sha256": "5ebfc7124b5d349e2e9f5e89f0d5bbb7239c6668887ebd28e4c142496e260c4a"
     },
-    "day_csv_count": 83,
+    "day_csv_count": 84,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-tanning-salons/changes.csv",
-      "sha256": "18ae5ac39c11af2f8e1a79c7b3cef6055e8c5dbda45fe0e269f4961559cbfef7"
+      "sha256": "37d35795039f190410852d8eab51b72c72757201451167f58207c05fd7c5fa08"
     }
   },
   "engine_behavior": {
@@ -1018,7 +1030,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-18 15:56:32 UTC",
+  "generated_utc": "2026-11-19 16:00:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

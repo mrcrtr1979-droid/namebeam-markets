@@ -1183,3 +1183,10 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Pleasanton CA family dentist cleaning,openai
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Dublin Corners Dental,perplexity
 2026-11-17,2026-11-16,1,openai anthropic perplexity google_serp,dropped,Stoneridge Drive,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,Pleasanton Ridge Dental Group,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,entered,California Department of Consumer Affairs,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,My Favorite Dentist,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,Gibraltar Drive,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,California Dental Board license lookup,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,California Dental Board,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,X-rays,openai

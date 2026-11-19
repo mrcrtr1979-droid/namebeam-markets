@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-17",
-  "run_days": 83,
-  "rows_total": 416,
+  "window_last": "2026-11-18",
+  "run_days": 84,
+  "rows_total": 421,
   "by_engine": {
     "openai": {
-      "rows": 83,
-      "ok": 78,
-      "days_with_ok": 78
+      "rows": 84,
+      "ok": 79,
+      "days_with_ok": 79
     },
     "anthropic": {
-      "rows": 84,
-      "ok": 83,
-      "days_with_ok": 83
+      "rows": 85,
+      "ok": 84,
+      "days_with_ok": 84
     },
     "perplexity": {
-      "rows": 83,
-      "ok": 80,
-      "days_with_ok": 80
+      "rows": 84,
+      "ok": 81,
+      "days_with_ok": 81
     },
     "gemini": {
-      "rows": 83,
+      "rows": 84,
       "ok": 43,
       "days_with_ok": 43
     },
     "google_serp": {
-      "rows": 83,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 84,
+      "ok": 47,
+      "days_with_ok": 47
     }
   },
   "by_date": [
@@ -945,18 +945,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-dentists/all.csv",
-      "sha256": "b9052324ceb34f6ad58683d362facb0b16d153e70e58e6b42d6784ab6baf1393"
+      "sha256": "faa34c10520672f263ab0fe5d950af2729650b334b7da8b3bb8e0485bb25103c"
     },
-    "day_csv_count": 83,
+    "day_csv_count": 84,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-dentists/changes.csv",
-      "sha256": "5af75e18b3b11f10a8ee2b86aa8b2da33a4079e8e6e7ddc4076aff16d047631b"
+      "sha256": "1ab9e33cd8db9a1d2fe861b45a86b79c6082eaa70db11dca8c5107e2300f114e"
     }
   },
   "engine_behavior": {
@@ -985,7 +996,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-18 15:56:31 UTC",
+  "generated_utc": "2026-11-19 16:00:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

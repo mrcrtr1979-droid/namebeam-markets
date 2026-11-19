@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-17",
-  "run_days": 41,
-  "rows_total": 188,
+  "window_last": "2026-11-18",
+  "run_days": 42,
+  "rows_total": 193,
   "by_engine": {
     "anthropic": {
-      "rows": 41,
-      "ok": 40,
-      "days_with_ok": 40
+      "rows": 42,
+      "ok": 41,
+      "days_with_ok": 41
     },
     "gemini": {
-      "rows": 41,
+      "rows": 42,
       "ok": 28,
       "days_with_ok": 28
     },
     "openai": {
-      "rows": 41,
-      "ok": 36,
-      "days_with_ok": 36
+      "rows": 42,
+      "ok": 37,
+      "days_with_ok": 37
     },
     "perplexity": {
-      "rows": 41,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 42,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "google_serp": {
-      "rows": 24,
-      "ok": 17,
-      "days_with_ok": 17
+      "rows": 25,
+      "ok": 18,
+      "days_with_ok": 18
     }
   },
   "by_date": [
@@ -483,19 +483,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/phoenix-orthodontists/rows.csv",
-      "sha256": "29e38f288d835a21f8b6865cb6fd79d2a3cd6a55931ec0c6777f5551f89d8d17"
+      "sha256": "4607dec3542eeea7fef2d5361330723e38353486aebf82275a6c23cc86009cea"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-18 15:56:31 UTC",
+  "generated_utc": "2026-11-19 16:00:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Phoenix for braces or Invisalign?"

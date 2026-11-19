@@ -548,3 +548,35 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Fort Worth,gemini
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,Amy Witherite,gemini
 2026-11-17,2026-11-16,1,openai anthropic perplexity gemini,dropped,"Eberstein & Witherite, LLP",gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Truck,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Witherite,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Amy Witherite,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Michael Grossman,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Michael Lyons,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Jeff Rasansky,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Dallas-Fort Worth,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Tim O'Hare,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Spoliation Letter',gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Lyons & Simmons,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Fort Worth,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Rasansky Law Firm,gemini openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Spoliation Letter,gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,"Lyons & Simmons, LLP",gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,"Eberstein & Witherite, LLP",gemini
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Thompson Law,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,The Benton Law Firm,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,State Bar of Texas,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Texas Board Certification,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Board Certification,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Board Certification in Personal Injury Trial Law,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Clay Miller of Miller Weisbrod Olesky,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,entered,Dallas. Another,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Roberts & Roberts,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Roberts,perplexity
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,The Button Law Firm,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Witherite Law Group,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,FMCSA regulations,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Black-box/EDR data,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Texas Board Certified,openai
+2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Board Certified in Personal Injury Trial Law,openai
