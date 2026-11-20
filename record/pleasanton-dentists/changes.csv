@@ -1190,3 +1190,14 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,California Dental Board license lookup,openai
 2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,California Dental Board,openai
 2026-11-18,2026-11-17,1,openai anthropic perplexity google_serp,dropped,X-rays,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Dr. Varun Yadav at My Favorite Dentist,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,My Favorite Dentist,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Dublin Corners Dental,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Dr. Varun Yadav,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Gibraltar Drive,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Delta Dental,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,MetLife,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,Breeze Dental Group,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,Pleasanton Ridge Dental Group,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,Opencare,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,California Department of Consumer Affairs,openai

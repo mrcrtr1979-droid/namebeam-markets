@@ -781,3 +781,20 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,Dublin,gemini
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,Luxury Spas,gemini
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,East Bay Tanning,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,East Bay,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Sun Tan City,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Variety of UV,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Google Maps and Yelp,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,San Ramon,openai gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning bed,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Solaris Sun Spa,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Local Boutiques and Spas,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,The Rose Hotel Spa,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Call Ahead for Specials,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Mystic HD,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Livermore and Dublin,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Know Your Goal,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Level,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Pleasanton,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Local Boutiques,gemini

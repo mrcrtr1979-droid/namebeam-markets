@@ -591,3 +591,28 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Lawyer Referral Service,openai
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Robert A. Clifford,gemini
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,TBIs,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Kreisman Law Offices,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Contingency Fee Basis,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Local Expertise,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Read Verified Reviews,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Avvo,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Better Business Bureau (BBB),gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Prominent Chicago Personal Injury Firms,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Larry D. Kreisman,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Cook County,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Recent Illinois auto-collision verdicts/settlements,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Recent Illinois,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Levin & Perconti,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,GWC Injury Lawyers,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Illinois Attorney Registration,openai perplexity gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Disciplinary Commission,openai perplexity gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Illinois Attorney Registration and Disciplinary Commission,perplexity gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,"Corboy & Demetrio, P.C",gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,"Ankin Law Office, LLC",gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Schedule Free Consultations,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Ask About Trial Experience,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Understand the Fee Structure,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Check Credentials and Reviews,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Ankin Law Office,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Howard Ankin,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Find the Right Attorney,gemini

@@ -4,34 +4,34 @@
   "niche": "short-term rental software",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-18",
-  "run_days": 105,
-  "rows_total": 544,
+  "window_last": "2026-11-19",
+  "run_days": 106,
+  "rows_total": 549,
   "by_engine": {
     "openai": {
-      "rows": 107,
-      "ok": 98,
-      "days_with_ok": 97
+      "rows": 108,
+      "ok": 99,
+      "days_with_ok": 98
     },
     "anthropic": {
-      "rows": 107,
-      "ok": 107,
-      "days_with_ok": 105
+      "rows": 108,
+      "ok": 108,
+      "days_with_ok": 106
     },
     "perplexity": {
-      "rows": 110,
-      "ok": 107,
-      "days_with_ok": 102
+      "rows": 111,
+      "ok": 108,
+      "days_with_ok": 103
     },
     "gemini": {
-      "rows": 110,
-      "ok": 48,
-      "days_with_ok": 48
+      "rows": 111,
+      "ok": 49,
+      "days_with_ok": 49
     },
     "google_serp": {
-      "rows": 110,
-      "ok": 74,
-      "days_with_ok": 69
+      "rows": 111,
+      "ok": 75,
+      "days_with_ok": 70
     }
   },
   "by_date": [
@@ -1203,18 +1203,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-software/all.csv",
-      "sha256": "d23ce650a456cd4d82698d2efbbd6d0ee2aa04dd49cdb17e411c1aeeaffe0779"
+      "sha256": "2a5cf1b909040de226846084d98d6b5268c294b71d0888be3cf3bb90b7fd11f2"
     },
-    "day_csv_count": 105,
+    "day_csv_count": 106,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-software/changes.csv",
-      "sha256": "d6e4999dfb5bb4a797e3a867e65bf06a489096ade2d79a500bcb8b11dcd83102"
+      "sha256": "52a7520717ce531c2462a52ed2bc7b19a28b0ff28162c2c68eb7bd518521cdd4"
     }
   },
   "engine_behavior": {
@@ -1243,7 +1255,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-19 16:00:55 UTC",
+  "generated_utc": "2026-11-20 15:43:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

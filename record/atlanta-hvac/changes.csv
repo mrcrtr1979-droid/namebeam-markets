@@ -614,3 +614,16 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,TE Certified,gemini
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,NATE certification,gemini
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini google_serp,dropped,Conditioned Air Contractor License,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Indoor Experts Heating & Air Conditioning,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,The Air Company of GA,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Indoor Experts Heating,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Indoor Experts,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,The Air Company,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,Conditioned Air Systems,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,entered,AHRI matched-system certificate,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,AC replacement,perplexity openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,NATE,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,NATE-certified,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,"Conditioned Air, Inc",openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,R.S. Andrews,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,AHRI matched-system number,openai

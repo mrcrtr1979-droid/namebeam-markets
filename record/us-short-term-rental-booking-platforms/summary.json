@@ -4,32 +4,32 @@
   "niche": "short-term rental",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-18",
-  "run_days": 105,
-  "rows_total": 544,
+  "window_last": "2026-11-19",
+  "run_days": 106,
+  "rows_total": 549,
   "by_engine": {
     "openai": {
-      "rows": 107,
-      "ok": 98,
-      "days_with_ok": 97
+      "rows": 108,
+      "ok": 99,
+      "days_with_ok": 98
     },
     "anthropic": {
-      "rows": 107,
-      "ok": 107,
-      "days_with_ok": 105
+      "rows": 108,
+      "ok": 108,
+      "days_with_ok": 106
     },
     "perplexity": {
-      "rows": 110,
-      "ok": 107,
-      "days_with_ok": 102
+      "rows": 111,
+      "ok": 108,
+      "days_with_ok": 103
     },
     "gemini": {
-      "rows": 110,
-      "ok": 51,
-      "days_with_ok": 50
+      "rows": 111,
+      "ok": 52,
+      "days_with_ok": 51
     },
     "google_serp": {
-      "rows": 110,
+      "rows": 111,
       "ok": 78,
       "days_with_ok": 75
     }
@@ -1210,18 +1210,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-booking-platforms/all.csv",
-      "sha256": "675ae1ca125baa4d9d907414924088e0e22efde2f10fe0e859ed24a043101421"
+      "sha256": "7692e5c32a3f7e0da9c3a374fa1b8d285544d76f4714976f7ddb15ca8f14769e"
     },
-    "day_csv_count": 105,
+    "day_csv_count": 106,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-booking-platforms/changes.csv",
-      "sha256": "12ed062a0cba4bc26a59503d716b101b77bc64fd250b0097b1e0b1e16f22655b"
+      "sha256": "982ec2935d9fd78f3f890a7364bedd34ab0e129eea3b9240484eb20d0a82f895"
     }
   },
   "engine_behavior": {
@@ -1250,7 +1261,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-19 16:00:55 UTC",
+  "generated_utc": "2026-11-20 15:43:54 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

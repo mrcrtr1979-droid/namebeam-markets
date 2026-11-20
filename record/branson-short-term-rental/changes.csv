@@ -1237,3 +1237,83 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Lake-focused getaway,perplexity
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,My default recommendation,perplexity
 2026-11-18,2026-11-17,1,openai anthropic perplexity gemini,dropped,Near The Landing,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Airbnb choice here,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,The Ozarker Lodge,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Thousand Hills Resort Hotel,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,The Village at Indian Point Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Westgate Branson Woods Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Table Rock Dam,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Airbnb/condo/cabin,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Theater District,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Strip. These,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Indian Point and Silver Dollar City,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Indian Point Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,The Landing,openai perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Branson Landing / downtown,openai perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Table Rock Lake / Indian Point,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Visiting Silver Dollar City,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Near Branson Landing,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Indian Point/Table Rock Lake,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,The Village at Indian Point,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Short answer,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Highway 76 (the Strip),perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,A highly rated Airbnb near the Strip,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,My default recommendation,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Strip,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Branson Landing,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Landing. It,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Go with a Hotel (like Grand Country),gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Country Boulevard,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Lake Taneycomo,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Splash Country,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Golf Resort,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Centrally,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Condos,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Majestic,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Stonebridge Cabin,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,The Vibe,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,entered,Couples,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Westgate Branson Woods Resort and Cabins,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Family wanting space and amenities,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Lake-and-resort getaway,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Branson Woods,perplexity
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Cabins,perplexity gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Vibe,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Stonebridge Village Resort (Condos & Cabins),gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Branson Landing Area Lofts,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Go with an Airbnb,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Welk Resorts,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Boutique Vibe,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Located,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Branson Landing. You,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Stonebridge Village Resort,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,West Branson,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Table Rock Lake Waterfront Condos,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Look for Airbnbs,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Table Rock Lake. Staying,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Branson,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Indian Point Area,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Branson Landing area,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Table Rock Lake waterfront,gemini
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Grand Country Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Grand Victorian,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills condos,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge Resort cabins and condos,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Still Waters Resort / Indian Point,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Branson Cedars Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Thousand Hills condo,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge Resort,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Indian Point/Still Waters,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Still Waters/Indian Point,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,The Keeter Center,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Exact location and drive time,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Total price after cleaning/service fees,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Recent reviews,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Pool access and seasonal dates,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Hills/stairs,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Parking and trailer/boat rules,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Hollister,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,StoneBridge Resort Branson,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Book,openai
+2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Keeter Center,openai
