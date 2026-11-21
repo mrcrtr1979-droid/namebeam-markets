@@ -627,3 +627,13 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,"Conditioned Air, Inc",openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,R.S. Andrews,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity google_serp,dropped,AHRI matched-system number,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,AC replacement,perplexity openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Georgia Power,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,North Atlanta,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Atlanta ZIP,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Indoor Experts Heating & Air Conditioning,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,The Air Company of GA,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Indoor Experts Heating,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Indoor Experts,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,The Air Company,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,AHRI matched-system certificate,openai

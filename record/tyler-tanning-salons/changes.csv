@@ -602,3 +602,11 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Address,perplexity
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Glo Tanning,perplexity openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,View The Tanning Zone,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Glo Sun Spa,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,UV-free,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Tyler. They,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,UV tanning beds,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,South Broadway,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Independent local salons,openai

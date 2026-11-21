@@ -798,3 +798,15 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Level,gemini
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Downtown Pleasanton,gemini
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Local Boutiques,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Lush Tan & Wellness in Pleasanton,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Lush Tan,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Sunsational Tanning,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,VersaSpa Pro,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,UV-free,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Tri-Valley,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Mobile Spray Tanners,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Alternative Option,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Serving Pleasanton,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,The Golden Girl,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Sun Tan City,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Variety of UV,gemini

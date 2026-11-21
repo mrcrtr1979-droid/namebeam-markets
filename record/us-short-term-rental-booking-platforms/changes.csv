@@ -1901,3 +1901,64 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Flexible,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Use Booking.com,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Cancellation Policy,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Vibe,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,No shared spaces allowed,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Look for green flags,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Couple Travelers,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Apartments,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Vacation Rentals,gemini openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Large Groups,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Traditional,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Traditional Hotels,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Summary Rule of Thumb,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Cancellation Policy,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Listing Churn,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,WhatsApp,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Rule of Thumb,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,No shared spaces,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,"Read recent reviews, not just the score",perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Check the listing closely,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Compare the total cost and cancellation deadline,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Keep payment and communication on the platform,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Booking.com. Then,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Book Airbnb,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Book Vrbo,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Book Booking.com,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Booking.com and Airbnb,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Vrbo and Airbnb,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Cancellation deadline,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Beds vs. bedrooms,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Air conditioning/heating,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Wi-Fi quality,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Check-in process,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Rules,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,High rating with meaningful review volume,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Recent reviews,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Detailed reviews that repeat the same positives,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Listing accuracy,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Clear house rules and check-in instructions,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Responsiveness before booking,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Solo/couple city trip,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Family/group trip,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Month-long stay,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Quiet,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Clear,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,entered,Clear house rules,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,The Vibe,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Look at the volume,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Read the *host's* responses,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Use Google Reverse Image Search,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Assess the response,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Read the fine print,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,A good host,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Never Pay Outside the Platform,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Booking.com. Book,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Airbnb and Booking.com,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Remote/vacation destination,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Keep communication and payments on the platform,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Start,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Guest Favorite,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Wi-Fi,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Entire homes,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Filter,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Verify the listing details,openai

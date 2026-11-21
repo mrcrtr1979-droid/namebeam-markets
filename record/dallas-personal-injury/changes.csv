@@ -622,3 +622,29 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Dallas Bar Association Lawyer Referral Service,perplexity
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Dallas. Another,perplexity
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini,dropped,Lawyer Referral Service,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Quentin Brogdon,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Dallas. Verify,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Lead Attorney,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Dallas-Fort Worth,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Dallas Truck Accident Lawyers,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Texas. The,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,San Antonio,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Dallas. They,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Documented truck-case results,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,FMCSA/DOT regulations,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,"Super Lawyers, Best Lawyers, Martindale-Hubbell",openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Key advantage,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Dallas Truck Accident Law Firm,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Texas. Michael Grossman,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Crain Brogdon,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,"Crain Brogdon, LLP",gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Rasansky Law Firm (Jeff Rasansky),gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Mike C. Miller at Winocour Law,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Laird & McCloskey,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Mike C. Miller,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Winocour Law,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Clay Miller,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Miller Weisbrod Olesky,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,McCloskey,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Dallas County,perplexity

@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-19",
-  "run_days": 43,
-  "rows_total": 198,
+  "window_last": "2026-11-20",
+  "run_days": 44,
+  "rows_total": 203,
   "by_engine": {
     "anthropic": {
-      "rows": 43,
-      "ok": 42,
-      "days_with_ok": 42
-    },
-    "gemini": {
-      "rows": 43,
-      "ok": 28,
-      "days_with_ok": 28
-    },
-    "openai": {
-      "rows": 43,
-      "ok": 38,
-      "days_with_ok": 38
-    },
-    "perplexity": {
-      "rows": 43,
+      "rows": 44,
       "ok": 43,
       "days_with_ok": 43
     },
+    "gemini": {
+      "rows": 44,
+      "ok": 29,
+      "days_with_ok": 29
+    },
+    "openai": {
+      "rows": 44,
+      "ok": 39,
+      "days_with_ok": 39
+    },
+    "perplexity": {
+      "rows": 44,
+      "ok": 44,
+      "days_with_ok": 44
+    },
     "google_serp": {
-      "rows": 26,
-      "ok": 18,
-      "days_with_ok": 18
+      "rows": 27,
+      "ok": 19,
+      "days_with_ok": 19
     }
   },
   "by_date": [
@@ -504,19 +504,31 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/atlanta-dentists/rows.csv",
-      "sha256": "f801cb6602c4aea9e3deb63a3b8c63722d1ecf00dd652a99f7f66598293eaa6e"
+      "sha256": "9b730d079f6afd24c74a96bfed745396d4b5c15dbbac2f684cc17b44269ef51e"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-20 15:43:53 UTC",
+  "generated_utc": "2026-11-21 14:54:43 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Atlanta for a dental implant?"

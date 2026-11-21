@@ -1528,3 +1528,25 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,PriceLabs after launch,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Smart Pricing,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Revenue Estimates,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,AirDNA Rentalizer,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Rentalizer,openai gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,MarketMinder,openai gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Market Dashboards,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Once operating,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Underwrite conservatively,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Investability Score,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Mashvisor,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,PriceLabs (The Pro Choice),gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Beyond (The Beginner-Friendly Choice),gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,After Buying,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Market Before Buying,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Once You Own It,gemini
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Smart Pricing,gemini perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Quick picks,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,entered,Airbnb Smart Pricing,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,After listing,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Spreadsheet underwriting,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Verify regulations independently,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Before buying: AirDNA,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Setting nightly prices: PriceLabs,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,For Market Analysis,gemini

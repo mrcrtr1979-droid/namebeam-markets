@@ -767,3 +767,21 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Houston HVAC,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,Nash HVAC,openai
 2026-11-19,2026-11-18,1,openai anthropic perplexity gemini google_serp,dropped,TDLR License,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Richmond’s Air,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Texas Air Authorities,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Texas TDLR Air Conditioning,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Refrigeration Contractor,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Texas TDLR,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Popular Houston HVAC,anthropic
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,entered,Expertise.com,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,ARS/Rescue Rooter Houston,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Local independent TACLB-licensed contractors,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,TACLB,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter Houston,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,TACLB-licensed,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Texas HVAC,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Rescue Rooter,openai
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Got Flow: Plumbing & AC Services,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Got Flow,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,AC Services,perplexity
+2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,NATE,perplexity
