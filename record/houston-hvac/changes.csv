@@ -785,3 +785,19 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,Got Flow,perplexity
 2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,AC Services,perplexity
 2026-11-20,2026-11-19,1,openai anthropic perplexity google_serp,dropped,NATE,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Mission Air Services,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,The Cool Guys,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,TACLB,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Houston HVAC,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Texas HVAC,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Greater Houston,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,AC repair specifically,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Dave Lane’s Hi-Tech Mechanical,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Dave Lane,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,entered,Hi-Tech Mechanical,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Texas Air Authorities,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Texas TDLR Air Conditioning,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Refrigeration Contractor,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Texas TDLR,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Popular Houston HVAC,anthropic
+2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Expertise.com,perplexity

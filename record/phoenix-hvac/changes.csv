@@ -1632,3 +1632,22 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Cool Blew,gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Check the Arizona Registrar of Contractors (ROC),gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,High-Pressure Sales,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning & Plumbing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Parker & Sons,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Air Conditioning & Heating,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts Air Conditioning,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,George Brazil Air Conditioning,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Valley for HVAC,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,AZ ROC,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,George Brazil,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Chas Roberts,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Fix it Frankie,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Precision Air & Plumbing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Magic Touch Mechanical,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Howard Air,gemini openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Precision Air,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Super Service,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Magic Touch,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Goettl Air Conditioning & Plumbing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Arizona Registrar of Contractors (ROC),openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Goettl Air Conditioning,openai

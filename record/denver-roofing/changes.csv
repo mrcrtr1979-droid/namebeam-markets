@@ -785,3 +785,41 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Legitimate Colorado,gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Manufacturer certifications,gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Sol Vista Roofing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Denver ZIP,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Denver Roofer for Hail Damage,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,United States,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Cenco Roofing,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Precise Roofing,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Roofing Association,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Colorado Division of Insurance,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Division of Insurance,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Formula Roofing & Remodeling,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Denver contractor license,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Formula Roofing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,JK Enterprise Roofing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Cali Roofing & Restoration,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Ethos Roof Inspection & Restoration,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Mutiny Roofing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,CR3 American Exteriors,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Local Physical Address,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Licensed and Insured,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,General Liability,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Workers' Compensation,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer Certifications,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,GAF Master Elite,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning Platinum Preferred,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Insurance Expertise,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,No Upfront Money,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Denver/Boulder Better Business Bureau,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Denver Roofers for Hail Damage,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Cali Roofing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Restoration,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Front Range,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Ethos Roof Inspection,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Boulder Better Business Bureau,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,In Colorado,gemini perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning Platinum,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Red Hawk Roofing,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Metro City Roofing,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Colorado Roofing Association,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,The Colorado Roofing Association,perplexity

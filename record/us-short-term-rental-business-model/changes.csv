@@ -5181,3 +5181,167 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,HOA. Verify,perplexity
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Include,perplexity
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini google_serp,dropped,Tools and data to use,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Local short-term rental rules,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Building/HOA/condo rules,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Landlord approval,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Taxes and business setup,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Mid-term rentals,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Corporate housing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Medical stays,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Family/leisure stays,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Premium design-oriented stays,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Monthly gross revenue,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Net operating profit before debt/tax,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Zillow, Apartments.com, Realtor.com, Facebook Marketplace",openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Furnished Finder,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,HOA/building documents,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,AirDNA / Rabbu / PriceLabs Market Dashboards,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Zillow / Apartments.com / Rentometer,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,OwnerRez,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Schlage Encode, Yale, August, Nuki",openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Minut, NoiseAware",openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Touch Stay, Hostfully, RueBaRue",openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Properly,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Wave,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Dext,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Hubdoc,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Contractual,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Economic,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Operational,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Strong,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Instead,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Mid-term,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Building,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Landlord,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,RueBaRue,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Occupancy,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Gross,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Net,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Dynamic pricing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Guest Communication,openai gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Smart Lock,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Property Management Systems,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Monthly rent,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Comparable listings,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,STR Addendum,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Underwrite the deal,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Automated Messaging,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Build a conservative property-level forecast,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Confirm insurance and tax treatment,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Set up operations before listing,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Launch carefully and track actual results,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Local government sources,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Airbnb and other booking platforms,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Operations tools,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,ADR,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Rule of thumb,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Market Explorer and Rentalizer,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Tools and data to use,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Wheelhouse / PriceLabs,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Google & Zillow,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Draft a Corporate Lease Addendum,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Pitch Landlords Professionally,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Furnishing & Interior Design,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Smart Home Tech,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Smart Locks (e.g., Schlage Encode, August)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Noise Monitors (e.g., Minut, NoiseAware)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Smart Thermostats (e.g., Nest, Ecobee)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Dynamic Pricing Tools – (e.g., PriceLabs, Wheelhouse)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Operations & Cleaning Management – (e.g., TurnoverBnB)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,"Guest Communication – (e.g., Smartbnb/Hospitable)",gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Data Analysis,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Securing the Property,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Homeowners Association,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Corporate Lease Addendum,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Interior Design,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Management Tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Dynamic Pricing Tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Uses AI,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,FAQs,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Virtual Assistant,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Pro-Tip for Beginners,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Crucial Step,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Corporate Lease,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,entered,Pitch Landlords,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,ADR (Average Daily Rate),gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,PriceLabs (Market Dashboards),gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Zillow / Rentometer,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Draft a Co-Hosting/Subleasing Agreement,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Create a Pitch Deck,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Target the Right Landlords,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Independent Landlords,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Multifamily Apartment Buildings,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Offer Incentives,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Procurement Tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Wayfair Professional / IKEA for Business,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Essential Tech Setup,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Hospitable (formerly Smartbnb),gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Hostaway / Guesty,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Beyond Pricing,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Turno (formerly TurnoverBnB),gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Education,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Market Analysis,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Networking,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Capital,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Essential Data Metrics,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Occupancy Rate. This,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Subleasing Agreement,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Look for Class A,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Wayfair Professional,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,IKEA for Business,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Sabrina Soto,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Operations Tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb. Prices,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Get Started Today,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Jasper Ribbers,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Sean Rakidzich,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Offer,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Craigslist,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Furnishing,gemini openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Dynamic pricing tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Channel Managers,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Pricing tools,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Check permission and regulations before evaluating profit,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Research demand and comparable listings,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Build a conservative unit-level budget,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Secure the property and document the arrangement,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Set up operations before accepting bookings,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Launch small and review performance,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb’s responsible-hosting and regulations pages,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Accounting and task tools,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Track,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Useful Tools,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Estimated monthly revenue,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Monthly operating profit,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Base case,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Downside case,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Walk Score,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Core,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Utilities,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Supplies,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Listing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,HOA,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Common,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Smart,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,STR,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,RemoteLock,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Proper Insurance,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Maintenance,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Revenue,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Example,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Start small,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Stessa,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Get explicit written permission,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Local STR,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Data Sources,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Net Operating Income,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Property sourcing,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Average nightly rate,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Channel Management,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Launch and optimize,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Get explicit written permission from the owner,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Base,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Professional Cleaning,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Use AirDNA,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Cash-on-cash return,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Form a Business Entity,openai

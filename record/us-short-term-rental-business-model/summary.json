@@ -4,34 +4,34 @@
   "niche": "short-term rental business model",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-20",
-  "run_days": 107,
-  "rows_total": 554,
+  "window_last": "2026-11-21",
+  "run_days": 108,
+  "rows_total": 559,
   "by_engine": {
     "openai": {
-      "rows": 109,
-      "ok": 98,
-      "days_with_ok": 97
+      "rows": 110,
+      "ok": 99,
+      "days_with_ok": 98
     },
     "anthropic": {
-      "rows": 109,
-      "ok": 109,
-      "days_with_ok": 107
+      "rows": 110,
+      "ok": 110,
+      "days_with_ok": 108
     },
     "perplexity": {
-      "rows": 112,
-      "ok": 109,
-      "days_with_ok": 104
+      "rows": 113,
+      "ok": 110,
+      "days_with_ok": 105
     },
     "gemini": {
-      "rows": 112,
-      "ok": 50,
-      "days_with_ok": 49
+      "rows": 113,
+      "ok": 51,
+      "days_with_ok": 50
     },
     "google_serp": {
-      "rows": 112,
-      "ok": 65,
-      "days_with_ok": 61
+      "rows": 113,
+      "ok": 66,
+      "days_with_ok": 62
     }
   },
   "by_date": [
@@ -1214,18 +1214,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/us-short-term-rental-business-model/all.csv",
-      "sha256": "06b699b68955b2abcd9553ac7fb3abedd92245b3bbda095548080041b74db295"
+      "sha256": "3ebdec05ab554f4fd33bd12a3070e560753231f6549ee103359461507ad57c7a"
     },
-    "day_csv_count": 107,
+    "day_csv_count": 108,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/us-short-term-rental-business-model/changes.csv",
-      "sha256": "29de49096361c5fce02433022f8d3de2361f73bb29f94fdd4172f84259c74ce7"
+      "sha256": "c2febe59cbb86a4f5fb696990b957d46d29f525d23cc6abd4677bba1da7c76cd"
     }
   },
   "engine_behavior": {
@@ -1254,7 +1266,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-21 14:54:45 UTC",
+  "generated_utc": "2026-11-22 14:51:33 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

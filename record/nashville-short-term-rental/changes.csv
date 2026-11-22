@@ -2373,3 +2373,32 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Vanderbilt University,gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Hillsboro Village / West End,gemini
 2026-11-20,2026-11-19,1,openai anthropic perplexity gemini,dropped,Downtown Nashville,gemini
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Germantown,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,The Nations / Sylvan Park,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Lower Broadway / Printer’s Alley,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Large Nashville Party House listings,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Sevier Park,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Music Row,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Bicentennial Capitol Mall State Park,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Areas I,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Lower Broadway,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Nashville Party House,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Guest Favorite,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Bicentennial Capitol Mall,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,The Nations,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Midtown/Vanderbilt,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,East Nashville,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Midtown,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,entered,Vanderbilt,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Nissan Stadium,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Corner Unit,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Heated Pool,perplexity
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,SoBro,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Centennial Park and Vanderbilt. It,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,West Nashville,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Belle Meade,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Centennial Park,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Country Music Hall of Fame,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Dedicated Parking,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Ryman Auditorium,openai
+2026-11-21,2026-11-20,1,openai anthropic perplexity gemini,dropped,Bridgestone Arena,openai
