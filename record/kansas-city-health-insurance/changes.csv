@@ -2735,3 +2735,81 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Narrow It Down Right Now,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Individual/Family,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,AIS Health Advisors,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Missouri side,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,CoverKC,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,HealthCare.gov’s Find Local Help,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Marketplace Navigator,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Missouri CLAIM,openai gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Kansas City-specific,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Kansas Side,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Navigator,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,KC Health Insurance / Local Independent Brokers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Bukaty Companies (Overland Park, KS)",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Nurlu,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,GoHealth,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Senior Health Insurance Counseling for Kansas (SHICK),gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,CLAIM (Missouri),gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,SHICK (Kansas),gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Cornerstone Insurance Group,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Official Healthcare.gov Tool,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Family Coverage,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,KC Health Insurance,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Local Independent Brokers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Kansas and Missouri. They,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,KU Med,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Local Independent Medicare Specialists,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Free State-Sponsored Option,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Check Before Hiring,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,KC Broker,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Johnson County,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Broker,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,KC Hospital Networks,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Broker Today,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,For Medicare,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Blue Cross Blue Shield of Kansas City,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Kansas (SHICK),gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,AIS Health Insurance,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,My practical recommendation,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Lockton,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,ACA-certified,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,HealthCare.gov for Marketplace,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,State Health Insurance Assistance Program,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Missouri Side,openai perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,SHIP,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Family ACA,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Small Business,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Use HealthCare.gov,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Missouri and Kansas,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Haas & Wilkerson Insurance,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KC Senior Health / Local Medicare Specialists,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,"HealthCare.gov ""Find Local Help",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Under-65 Individual/Family coverage,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,"HealthCare.gov's ""Find Local Help",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KS and MO,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Wilkerson Insurance,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KC Senior Health,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Local Medicare Specialists,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Senior Health Solutions KC,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KC Medicare Brokers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,MO and KS,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Verified Local Broker,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Free Tools,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Find Agents,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Marketplace-certified,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,NABIP Directory,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,NABIP Find,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,NABIP,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Ask Before Choosing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KU Health,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,State Farm,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Blue Cross Blue Shield of KC,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,ACA Exchange,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,In the KC,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KC-area Medicare,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Independent Brokers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,University of Kansas Health System,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,KC Medicare,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,HealthCare.gov,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,ACA Marketplace,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Marketplace. If,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,ACA Marketplace plans,perplexity

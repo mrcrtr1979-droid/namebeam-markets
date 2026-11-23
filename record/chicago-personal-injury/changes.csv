@@ -651,3 +651,30 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Martindale-Hubbell,openai
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Lawyer Referral Service,openai
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Michael McCready of McCreadyLaw,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,McDevitt & Cobb,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Phillips Law Offices,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Chicago Bar Association Lawyer Referral Service,perplexity openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,McDevitt,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Illinois Attorney Registration and Disciplinary Commission,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Disciplinary Commission,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Illinois Attorney Registration,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Lawyer Referral Service,perplexity openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Salvi, Schostok & Pritchard, P.C",openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Staver Accident Injury Lawyers, P.C",openai gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Ankin Law,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Kreisman Law Offices,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Robert A. Clifford,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Pritchard P.C,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right Attorney,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Salvi, Schostok & Pritchard P.C",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Corboy & Demetrio, P.C",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Briskman Briskman & Greenberg,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Briskman Briskman,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Jonathan Walner,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Robert Clifford,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Michael F. Bonamarte IV,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Illinois ARDC Lawyer Search,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Levin & Perconti,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,GWC Injury Lawyers,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Regularly handles Illinois auto-insurance claims,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Cook County,openai

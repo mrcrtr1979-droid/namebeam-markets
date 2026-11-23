@@ -4,34 +4,34 @@
   "niche": "real estate agents",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-21",
-  "run_days": 87,
-  "rows_total": 436,
+  "window_last": "2026-11-22",
+  "run_days": 88,
+  "rows_total": 441,
   "by_engine": {
     "openai": {
-      "rows": 87,
-      "ok": 82,
-      "days_with_ok": 82
+      "rows": 88,
+      "ok": 83,
+      "days_with_ok": 83
     },
     "anthropic": {
-      "rows": 88,
-      "ok": 87,
-      "days_with_ok": 87
+      "rows": 89,
+      "ok": 88,
+      "days_with_ok": 88
     },
     "perplexity": {
-      "rows": 87,
-      "ok": 84,
-      "days_with_ok": 84
+      "rows": 88,
+      "ok": 85,
+      "days_with_ok": 85
     },
     "gemini": {
-      "rows": 87,
-      "ok": 49,
-      "days_with_ok": 49
+      "rows": 88,
+      "ok": 50,
+      "days_with_ok": 50
     },
     "google_serp": {
-      "rows": 87,
-      "ok": 54,
-      "days_with_ok": 54
+      "rows": 88,
+      "ok": 55,
+      "days_with_ok": 55
     }
   },
   "by_date": [
@@ -999,18 +999,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-real-estate-agents/all.csv",
-      "sha256": "e81c41de12cb8fbdc99a3ebadc9c596adfaf45d625a232599e47a6beb986755d"
+      "sha256": "5b90dee5fe8bbd1f4daf98d7cc04c230023e18302dd3fbf5df984f8a1c70f345"
     },
-    "day_csv_count": 87,
+    "day_csv_count": 88,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-real-estate-agents/changes.csv",
-      "sha256": "083a8c2efbc89695b74cac71098287fe7fad27c3073bd9b029de36e87d268b4f"
+      "sha256": "6ed6b88779d3c330ea7a9f5479faca37ce5d84dfcffa6eea39b821aef48e6db7"
     }
   },
   "engine_behavior": {
@@ -1039,7 +1051,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-22 14:51:33 UTC",
+  "generated_utc": "2026-11-23 18:41:43 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

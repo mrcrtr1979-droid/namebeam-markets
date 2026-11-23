@@ -1428,3 +1428,17 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Shop Name,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Know Your Oil,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,CARFAX,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Recent CARFAX,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Oil Changers in Dublin,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Valvoline Instant Oil Change, Dublin",openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,A reputable independent mechanic in Pleasanton,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Oil Changers,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,All Pro Auto Service in Pleasanton,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Fastest / no appointment,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Jiffy Lube,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,ASE-certified,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Reliable Full-Service Auto Repair,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Automall Service,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Auto Repair,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Full-Service Auto Repair,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Big O,perplexity

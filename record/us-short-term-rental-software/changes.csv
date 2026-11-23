@@ -1591,3 +1591,48 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Once You Own It,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Quick picks,perplexity
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb Smart Pricing,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Market research before purchase,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Property underwriting,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Competitive analysis,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Pricing support,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,AirDNA before buying,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Rabbu,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,AllTheRooms,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"For buying research specifically, consider AirDNA",perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Use AirDNA,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Consider AirDNA,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Quick rule,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,PriceLabs Market Dashboards,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Key Features for Buyers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Rentalizer,gemini openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,MarketMinder,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Pace,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Key Features for Hosts,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Base Price Recommendations,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Minimum Stay Restrictions,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Last-Minute Discounts / Far-Out Premiums,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Beyond (formerly Beyond Pricing),gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Wheelhouse,gemini openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Airbnb’s Native Smart Pricing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,After Buying & Launching,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Gives,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Automatically,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Last-Minute Discounts,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Far-Out Premiums,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Property Management Systems,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Channel Managers,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Beyond Pricing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Very,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Native Smart Pricing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,After Buying,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Smart Pricing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,For Market Research,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,For Dynamic Pricing,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Alternative for Buying,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Minimum Stay,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dynamic pricing,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Market research,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Operational fit,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Control,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,AirDNA Rentalizer,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,AirDNA first,openai

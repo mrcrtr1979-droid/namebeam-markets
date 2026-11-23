@@ -648,3 +648,18 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,North Atlanta,openai
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Atlanta ZIP,openai
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Conditioned Air,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Indoor Experts,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Reliable Heating & Air,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,TE Certified,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,AHRI-rated matched combination,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Reliable Heating,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Atlanta HVAC,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,AHRI-rated,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Moncrief and Reliable,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,North Atlanta,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Cool Air Mechanical,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Cunningham Associates,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,R.S. Andrews,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,"Casteel Heating, Cooling, Plumbing & Electrical",openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Casteel Heating,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Atlanta-area ZIP,openai

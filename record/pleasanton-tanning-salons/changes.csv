@@ -835,3 +835,10 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,Serving Pleasanton,gemini
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,East Bay Tanning,perplexity
 2026-11-21,2026-11-20,1,openai anthropic perplexity gemini google_serp,dropped,East Bay,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,UV tanning bed,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,East Bay,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Palm Beach Tan in Dublin,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,entered,Dublin,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Glow House Studio,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Pleasanton. Its,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Downtown Pleasanton,perplexity

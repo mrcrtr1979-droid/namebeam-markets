@@ -1225,3 +1225,57 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Pleasanton Ridge Dental Group,perplexity
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family,perplexity
 2026-11-21,2026-11-20,1,openai anthropic perplexity google_serp,dropped,Dental Board of California,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Insurance network,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,California license,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Recent—not just overall—reviews,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,New-patient cost,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Appointment type,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Delta Dental,openai gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,MetLife,openai gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,California Dental Board,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Near Downtown Pleasanton,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,California Dental Board license lookup,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Pleasanton Smile Design (Dr. Mona Gokani, DDS)",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Patient Feedback,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Artistic Smiles Dentistry (Dr. Yonatan Sahle, DDS)",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,"Pleasanton Valley Dental (Dr. Sean Wong, DDS)",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Check Insurance Alignment,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Focus on the Hygienist Reviews,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Location & Hours,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Smile Design,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Dr. Mona Gokani,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Patients,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Main Street Dental,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Artistic Smiles Dentistry,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Dr. Yonatan Sahle,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Baird Family Dentistry,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Dr. Christine Baird,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Dr. Brian Baird,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Dr. Sean Wong,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Choose the Right One for You,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Hygienist Reviews,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Stoneridge Mall,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,My Favorite Dentist,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Family Dentist,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Gibraltar Drive,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Cedarwood Lane,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,entered,Pleasanton Family,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Infinite Smile Dental,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Gokani at Pleasanton Dental Office,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Gokani,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dental Office,perplexity
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Pleasanton Dental Care,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Foothill Dental Care,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Amador Dental & Orthodontics,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Amador Dental,openai
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Intero Dental,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Gaffney Family Dental,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,"Dr. Linda Mori, DDS",gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Ronak Patel,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Near Johnson Drive,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Richard Gaffney,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Gaffney,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Linda Mori,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Mori,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Near Blackhawk,gemini
+2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Practices,gemini
