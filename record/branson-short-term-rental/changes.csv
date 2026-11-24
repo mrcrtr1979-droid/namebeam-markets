@@ -1602,3 +1602,62 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Westgate Branson Woods Resort & Cabins,perplexity
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Near Branson Landing,perplexity
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Cabins,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Airbnb/condo,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Welk Resorts Branson Hotel,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Still Waters Resort,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Village At Indian Point Resort,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Lodges at Table Rock Lake,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Indian Point cabin,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,StoneBridge Resort condo/cabin,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Silver Dollar City lake-view condo,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Thousand Hills,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Branson Landing/downtown,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Main Street,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Branson Landing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Table Rock Lake/Hollister,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Table Rock Lake,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Branson West,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Theme Park,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Branson Strip,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Lake Resort Spa,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Table Rock Dam and State Park,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Branson. Search,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Pick,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Silver Dollar City-area,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Downtown Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Strip,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Chateau on the Lake Resort Spa,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Still Waters,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Keeter Center,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Near Branson Landing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Visiting Silver Dollar City,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Welk Resorts,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Pick a hotel,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Indian Point Resort,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Village at Indian Point,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Keeter Center,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Near Highway 76/Theater District,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Book,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Westgate Branson Woods Resort,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Silver Dollar City,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Branson Cove / Table Rock Lake,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Hollister / Downtown Hollister,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Silver Dollar City-focused,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Ridgedale,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Branson Cove,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Green Mountain Drive,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Convention Center Hilton,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Lake Resort,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Country Boulevard,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Moonshine Beach,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Downtown Hollister,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Lake Taneycomo,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,The Landing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Westgate Branson Woods,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Branson Landing / downtown,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,West Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Central Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Downtown / Branson Landing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Airbnb/condo/cabin,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Branson’s Best,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Indian Point/Table Rock Lake,perplexity

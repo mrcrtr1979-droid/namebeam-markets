@@ -637,3 +637,8 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,For Customer Service,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,VersaSpa Pro,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Visit The Tanning Zone,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Glo Tanning,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Sun Tan City,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,VersaSpa,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Address,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,View The Tanning Zone,perplexity

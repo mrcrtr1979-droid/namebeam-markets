@@ -901,3 +901,23 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Art,perplexity
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Miami-Dade HVHZ,perplexity
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dade HVHZ,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Miami-Dade Notice of Acceptance,perplexity openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Notice of Acceptance,perplexity openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Notice of Acceptance (NOA),perplexity openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Dade Notice of Acceptance,perplexity openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,High-Velocity Hurricane Zone (HVHZ),perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Miami-Dade Notice of Acceptance (NOA),perplexity openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Florida roofing license,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Miami-Dade permit,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,NOA-compliant,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,GAF Master Elite,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,CCC1326032,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,City Roofing Inc,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,CCC1327381,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,HVHZ Florida Product Approval,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Certified Roofing Contractor,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Miami-Dade permit history,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Miami-Dade NOA / Florida Product Approval,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,HVHZ (High-Velocity Hurricane Zone),openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,General Liability and Workers,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Active Florida,openai

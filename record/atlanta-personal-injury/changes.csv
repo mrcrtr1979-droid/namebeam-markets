@@ -738,3 +738,23 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Gwinnett County,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Atlanta Bar Association,perplexity
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Lawyer Referral and Information Service,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Georgia Auto Law,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Johnson & Ward,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Find a Lawyer,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Butler Prather LLP,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,The Mabra Firm,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,John Foy & Associates,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Bader Scott Injury Lawyers,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Morgan & Morgan’s Atlanta office,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,DeKalb,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,John Foy,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Morgan,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Butler Prather,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Morgan & Morgan,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Super Lawyers’ Atlanta car-accident directory,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Bob Cheeley,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Bryan Baer,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Peter A. Law,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,David Van Sant,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Georgia State Bar,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Georgia Trial Lawyers Association,openai

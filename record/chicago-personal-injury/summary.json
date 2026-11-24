@@ -4,34 +4,34 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-22",
-  "run_days": 105,
-  "rows_total": 530,
+  "window_last": "2026-11-23",
+  "run_days": 106,
+  "rows_total": 535,
   "by_engine": {
     "openai": {
-      "rows": 106,
-      "ok": 100,
-      "days_with_ok": 99
+      "rows": 107,
+      "ok": 101,
+      "days_with_ok": 100
     },
     "anthropic": {
-      "rows": 106,
-      "ok": 106,
-      "days_with_ok": 105
+      "rows": 107,
+      "ok": 107,
+      "days_with_ok": 106
     },
     "perplexity": {
-      "rows": 106,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 107,
+      "ok": 104,
+      "days_with_ok": 103
     },
     "gemini": {
-      "rows": 106,
+      "rows": 107,
       "ok": 61,
       "days_with_ok": 61
     },
     "google_serp": {
-      "rows": 106,
-      "ok": 71,
-      "days_with_ok": 70
+      "rows": 107,
+      "ok": 72,
+      "days_with_ok": 71
     }
   },
   "by_date": [
@@ -1210,18 +1210,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/chicago-personal-injury/all.csv",
-      "sha256": "48a5be8d558bc605c2eb7abf4ae6cc76488edfdb0ecc5271c4906426c5fc377f"
+      "sha256": "be4d73ca9845058594bd44c63a66d9ff05e559fb48496ad3d6ed122d37484f46"
     },
-    "day_csv_count": 105,
+    "day_csv_count": 106,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/chicago-personal-injury/changes.csv",
-      "sha256": "cbb38a8596d104132cd4d875382f8ebf18e881a91110e825c2bd9def68778857"
+      "sha256": "4ce652715e9efc8a36d68ba1aa965f8e82673eeec821df4ade254e88d9bcf6b4"
     }
   },
   "engine_behavior": {
@@ -1250,7 +1261,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-23 18:41:42 UTC",
+  "generated_utc": "2026-11-24 18:14:18 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

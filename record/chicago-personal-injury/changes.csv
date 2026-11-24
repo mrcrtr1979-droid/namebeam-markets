@@ -678,3 +678,16 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,GWC Injury Lawyers,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Regularly handles Illinois auto-insurance claims,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Cook County,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,"Salvi, Schostok & Pritchard P.C",openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,"Corboy & Demetrio, P.C",openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Levin & Perconti,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Actually handles auto-collision cases,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Illinois State Bar Association,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Pritchard P.C,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Corboy & Demetrio,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Rosenfeld Injury Lawyers,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,McDevitt & Cobb,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,McDevitt,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,"Salvi, Schostok & Pritchard, P.C",openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Kreisman Law Offices,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Illinois ARDC,openai

@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-22",
-  "run_days": 46,
-  "rows_total": 213,
+  "window_last": "2026-11-23",
+  "run_days": 47,
+  "rows_total": 218,
   "by_engine": {
     "anthropic": {
-      "rows": 46,
-      "ok": 45,
-      "days_with_ok": 45
+      "rows": 47,
+      "ok": 46,
+      "days_with_ok": 46
     },
     "gemini": {
-      "rows": 46,
+      "rows": 47,
       "ok": 32,
       "days_with_ok": 32
     },
     "openai": {
-      "rows": 46,
-      "ok": 41,
-      "days_with_ok": 41
+      "rows": 47,
+      "ok": 42,
+      "days_with_ok": 42
     },
     "perplexity": {
-      "rows": 46,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 47,
+      "ok": 47,
+      "days_with_ok": 47
     },
     "google_serp": {
-      "rows": 29,
-      "ok": 22,
-      "days_with_ok": 22
+      "rows": 30,
+      "ok": 23,
+      "days_with_ok": 23
     }
   },
   "by_date": [
@@ -542,19 +542,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/phoenix-dentists/rows.csv",
-      "sha256": "c9b5fddc20735ebb1ca0b39fa6c04ce5a5672259fa31d91bb926ee25c9465b9a"
+      "sha256": "34183fc9f1b8d625674862d1aa405eed928b5dfc5ca23754ab038aaad96d1b34"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-23 18:41:42 UTC",
+  "generated_utc": "2026-11-24 18:14:19 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Phoenix for a dental implant?"

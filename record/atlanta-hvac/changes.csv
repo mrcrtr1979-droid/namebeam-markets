@@ -663,3 +663,15 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,"Casteel Heating, Cooling, Plumbing & Electrical",openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Casteel Heating,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity google_serp,dropped,Atlanta-area ZIP,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Cunningham Associates,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,NATE,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,NATE-certified,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,R.S. Andrews,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Metro Atlanta,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Indoor Experts,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,TE Certified,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,AHRI-rated matched combination,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Atlanta HVAC,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,AHRI-rated,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Moncrief and Reliable,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,North Atlanta,openai

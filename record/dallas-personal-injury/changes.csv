@@ -725,3 +725,27 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini,dropped,Texas Board of Legal Specialization. Only,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini,dropped,Your,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini,dropped,Schedule Free Consultations,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Actual commercial-truck litigation experience,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Board Certified in Personal Injury Trial Law,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,In Texas,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Laird & McCloskey,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Jay Murray,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,McCloskey,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,"Kraft & Associates, P.C",openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,The Law Offices of Frank L. Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Rasansky Law Firm,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Witherite Law Group,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,State Bar of Texas,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,FMCSR,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Frank L. Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Law Offices of Frank L. Branson,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Kraft & Associates,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Federal Motor Carrier Safety Regulations,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Clay Miller at Miller Weisbrod Olesky,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Mark Anderson at Anderson Injury Lawyers,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Dallas Bar Association Lawyer Referral Service,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Clay Miller,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Miller Weisbrod Olesky,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Mark Anderson,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Anderson Injury Lawyers,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Lawyer Referral Service,perplexity

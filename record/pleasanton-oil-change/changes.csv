@@ -1442,3 +1442,18 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Auto Repair,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Full-Service Auto Repair,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Big O,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Walmart Auto Care Center,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,CARFAX,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Walmart Auto Care,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,B&W Service Center in Pleasanton,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,B&W Service Center,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Fastest walk-in oil change,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Jiffy Lube,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,European,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Big O Tires,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Recent CARFAX,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Oil Changers in Dublin,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,"Valvoline Instant Oil Change, Dublin",openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,A reputable independent mechanic in Pleasanton,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Oil Changers,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Dublin,openai

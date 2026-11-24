@@ -4,34 +4,34 @@
   "niche": "health insurance brokers",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-22",
-  "run_days": 105,
-  "rows_total": 530,
+  "window_last": "2026-11-23",
+  "run_days": 106,
+  "rows_total": 535,
   "by_engine": {
     "openai": {
-      "rows": 106,
-      "ok": 101,
-      "days_with_ok": 100
+      "rows": 107,
+      "ok": 102,
+      "days_with_ok": 101
     },
     "anthropic": {
-      "rows": 106,
-      "ok": 106,
-      "days_with_ok": 105
+      "rows": 107,
+      "ok": 107,
+      "days_with_ok": 106
     },
     "perplexity": {
-      "rows": 106,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 107,
+      "ok": 104,
+      "days_with_ok": 103
     },
     "gemini": {
-      "rows": 106,
+      "rows": 107,
       "ok": 54,
       "days_with_ok": 54
     },
     "google_serp": {
-      "rows": 106,
-      "ok": 68,
-      "days_with_ok": 67
+      "rows": 107,
+      "ok": 69,
+      "days_with_ok": 68
     }
   },
   "by_date": [
@@ -1201,18 +1201,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/kansas-city-health-insurance/all.csv",
-      "sha256": "4af0e4ce59293f574b8ee6d4927470ca4b1118d8ff0f05418bafca60fc9474e3"
+      "sha256": "3c745780391135d6ef4c78f90a244a6030abe601cefcd992061fde3404c33568"
     },
-    "day_csv_count": 105,
+    "day_csv_count": 106,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/kansas-city-health-insurance/changes.csv",
-      "sha256": "2bcad45769c9b85c91c5fd185b2884570401885d55eef7b1947b0a1770326d52"
+      "sha256": "efe7395f33cced150d3100ae425749e04356127570a671a3d35abc6033ac5e6b"
     }
   },
   "engine_behavior": {
@@ -1241,7 +1252,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-23 18:41:42 UTC",
+  "generated_utc": "2026-11-24 18:14:19 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

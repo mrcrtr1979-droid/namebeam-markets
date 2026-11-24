@@ -1583,3 +1583,25 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Two Men and a Truck (East Bay),openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Truck,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Active California,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,California Moving Systems,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,A smaller licensed East Bay mover,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,East Bay,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Active California,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Ontrack Moving,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage (Dublin),openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,The Handy Movers (San Ramon/Tri-Valley area),openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,TWO MEN AND A TRUCK,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,California household-goods mover authorization,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Written hourly rate and minimum hours,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Not-to-exceed estimate,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Valuation/claims coverage,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Crew details,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,All Star Movers & Storage,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,The Handy Movers,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Storage,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Dublin,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Tri-Valley,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,TVs,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Two Men,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,A+ BBB rating,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,BBB Pleasanton,perplexity

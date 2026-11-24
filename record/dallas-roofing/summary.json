@@ -4,34 +4,34 @@
   "niche": "residential roofing",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-22",
-  "run_days": 105,
-  "rows_total": 530,
+  "window_last": "2026-11-23",
+  "run_days": 106,
+  "rows_total": 535,
   "by_engine": {
     "openai": {
-      "rows": 106,
-      "ok": 101,
-      "days_with_ok": 100
+      "rows": 107,
+      "ok": 102,
+      "days_with_ok": 101
     },
     "anthropic": {
-      "rows": 106,
-      "ok": 106,
-      "days_with_ok": 105
+      "rows": 107,
+      "ok": 107,
+      "days_with_ok": 106
     },
     "perplexity": {
-      "rows": 106,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 107,
+      "ok": 104,
+      "days_with_ok": 103
     },
     "gemini": {
-      "rows": 106,
-      "ok": 50,
-      "days_with_ok": 50
+      "rows": 107,
+      "ok": 51,
+      "days_with_ok": 51
     },
     "google_serp": {
-      "rows": 106,
-      "ok": 62,
-      "days_with_ok": 61
+      "rows": 107,
+      "ok": 63,
+      "days_with_ok": 62
     }
   },
   "by_date": [
@@ -1191,18 +1191,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/dallas-roofing/all.csv",
-      "sha256": "a6f8240d677ead8ef090d5660ceecc4f38dbe714fae4251b5da0220d0dea8648"
+      "sha256": "7c580e603d6c8dfb650e1353074d8cb0eace78fa96070984a2072b0f3cf943f4"
     },
-    "day_csv_count": 105,
+    "day_csv_count": 106,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/dallas-roofing/changes.csv",
-      "sha256": "f5238ac5128dba68a1b50c244e9bc23a168d687133820163e794a66bf7893357"
+      "sha256": "c5476de349deffb878b98748bd0b332e9f19cd47fd5d566f5bcc9ae1ec8bfe29"
     }
   },
   "engine_behavior": {
@@ -1231,7 +1243,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-23 18:41:42 UTC",
+  "generated_utc": "2026-11-24 18:14:18 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

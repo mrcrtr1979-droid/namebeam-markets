@@ -1279,3 +1279,23 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Dr. Mori,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Near Blackhawk,gemini
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Practices,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Dr. Mona Gokani,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Dr. Varun Yadav at My Favorite Dentist,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Zocdoc,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Dr. Varun Yadav,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,entered,Dr. Gokani,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Insurance network,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,California license,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Recent—not just overall—reviews,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,New-patient cost,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Appointment type,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Delta Dental,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,MetLife,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,California Dental Board,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Downtown Pleasanton,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Near Downtown Pleasanton,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,California Dental Board license lookup,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family Dentist,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Gibraltar Drive,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Cedarwood Lane,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family,perplexity

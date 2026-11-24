@@ -823,3 +823,56 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Texas Best Roofing Company,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,RCAT,openai
 2026-11-22,2026-11-21,1,openai anthropic perplexity gemini google_serp,dropped,Baker Roofing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,JA Edwards of America,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Peak Roofing & Construction,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Alpha Roofing & Restoration,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Sharp Roofing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Vertical Roofing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,GAF Master Elite Contractors,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Top-Tier Certifications,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Peak Roofing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Dallas and Collin,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Family-Owned Companies,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,CLC Roofing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,J. Reynolds & Co,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Texas Roof Masters,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Manufacturer credential,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Written scope,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Recent local references,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Payment terms,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Texas-specific point,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,J. Reynolds,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,DFW-area,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,DFW-focused,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,entered,Lon Smith Roofing & Construction,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,T Rock Roofing & Construction,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Texas Roofing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning Platinum,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,T Rock Roofing,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Dallas ZIP,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning,openai gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Manufacturer certification,openai
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Bert Roofing,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Dallas Observer,perplexity
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,High Point Roofing & Construction,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Bluefrog Roofing & General Contracting,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Ridge Top Exteriors,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Verify Local Physical Presence,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,GAF Master Elite,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Owens Corning Preferred Contractor,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed ShingleMaster,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,General Liability Insurance,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Workers' Compensation,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Never Pay in Full Upfront,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Get Everything in Writing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,High Point Roofing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,High Point,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,North Texas,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Bluefrog Roofing,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,General Contracting,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,HOAs,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Ridge Top,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Choose the Right Roofer,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Never Pay,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Full Upfront,gemini
+2026-11-23,2026-11-22,1,openai anthropic perplexity gemini google_serp,dropped,Get Everything,gemini

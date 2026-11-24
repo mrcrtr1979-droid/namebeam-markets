@@ -4,34 +4,34 @@
   "niche": "short-term rental / Airbnb",
   "shape": "day_pages",
   "window_first": "2026-08-05",
-  "window_last": "2026-11-22",
-  "run_days": 109,
-  "rows_total": 564,
+  "window_last": "2026-11-23",
+  "run_days": 110,
+  "rows_total": 569,
   "by_engine": {
     "openai": {
-      "rows": 111,
-      "ok": 102,
-      "days_with_ok": 101
+      "rows": 112,
+      "ok": 103,
+      "days_with_ok": 102
     },
     "anthropic": {
-      "rows": 111,
-      "ok": 111,
-      "days_with_ok": 109
+      "rows": 112,
+      "ok": 112,
+      "days_with_ok": 110
     },
     "perplexity": {
-      "rows": 114,
-      "ok": 111,
-      "days_with_ok": 106
+      "rows": 115,
+      "ok": 112,
+      "days_with_ok": 107
     },
     "gemini": {
-      "rows": 114,
-      "ok": 53,
-      "days_with_ok": 53
+      "rows": 115,
+      "ok": 54,
+      "days_with_ok": 54
     },
     "google_serp": {
-      "rows": 114,
-      "ok": 70,
-      "days_with_ok": 67
+      "rows": 115,
+      "ok": 71,
+      "days_with_ok": 68
     }
   },
   "by_date": [
@@ -1244,18 +1244,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/santa-cruz-short-term-rental/all.csv",
-      "sha256": "1b171e61be6438a0653d742765f09979f4b36b7406fd8b8e006d585e6bdc8e8e"
+      "sha256": "2e7265340693ee49edfae7c179e85c27c4976c40b401ca62919acccf565fa3f1"
     },
-    "day_csv_count": 109,
+    "day_csv_count": 110,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/santa-cruz-short-term-rental/changes.csv",
-      "sha256": "a4e3c36256ceeed236a96bda7be10e4c74c7287b73eb6660d2348448b0fb2a8b"
+      "sha256": "8dbc6f04a30bb26baf652e965f563f468e64a41dddca3cfc114b5daa7207723c"
     }
   },
   "engine_behavior": {
@@ -1284,7 +1296,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-23 18:41:43 UTC",
+  "generated_utc": "2026-11-24 18:14:20 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }
