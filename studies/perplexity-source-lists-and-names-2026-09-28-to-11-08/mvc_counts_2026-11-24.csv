@@ -1,0 +1,157 @@
+window_start,window_end,engine,population,measure,numerator,denominator,rate_pct,ci95_lo,ci95_hi,note
+2026-09-28,2026-11-23,anthropic,ok_api_rows_before_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,2392,0.0,0.0,0.2,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,anthropic,ok_api_rows_from_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,1022,0.0,0.0,0.4,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,gemini,ok_api_rows_before_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,1278,0.0,0.0,0.3,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,gemini,ok_api_rows_from_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,907,0.0,0.0,0.4,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,openai,ok_api_rows_before_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,2147,0.0,0.0,0.2,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,openai,ok_api_rows_from_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,1020,0.0,0.0,0.4,no cited-URL field on any OK row: not in the cross-tab
+2026-09-28,2026-11-23,perplexity,ok_api_rows_before_2026-11-10,ok_rows_with_nonempty_cited_url_field,2956,3049,96.9,96.3,97.5,carries cited URLs
+2026-09-28,2026-11-23,perplexity,ok_api_rows_from_2026-11-10,ok_rows_with_nonempty_cited_url_field,0,1302,0.0,0.0,0.3,carries cited URLs
+2026-09-28,2026-11-23,perplexity,segment_rows,answer_rows_ok,3064,,,,,"run_status OK, row_type research_segment, local-market segments only; 56 run days, 70 segments"
+2026-09-28,2026-11-23,perplexity,segment_rows,rows_skipped_pilot_or_nationwide_segments,280,,,,,slugs of single-business pilots and of nationwide questions: not counted anywhere below
+2026-09-28,2026-11-23,perplexity,segment_rows,rows_cited_urls_withheld_from_2026-11-09,1050,3064,34.3,32.6,36.0,sources_private true (policy CAP 2026-11-08); sources_count kept; domains unknown
+2026-09-28,2026-11-23,perplexity,segment_rows,rows_withheld_with_sources_count_ge1,1050,1050,100.0,99.6,100.0,
+2026-09-28,2026-11-08,perplexity,segment_rows,rows_with_readable_cited_urls,2014,3064,65.7,64.0,67.4,denominator is all answer rows 2026-09-28 to 2026-11-23
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_cited_ge1_url,2014,2014,100.0,99.8,100.0,
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_no_citation,0,2014,0.0,0.0,0.2,
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_citing_only_third_parties,106,2014,5.3,4.4,6.3,"directories, review sites, social, media, government, national brands (exclusion lists of the classification file)"
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_citing_at_least_one_business_site,1908,2014,94.7,93.7,95.6,
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_own_site_of_a_named_business_cited_strict,984,2014,48.9,46.7,51.0,a cited domain label equals a name in the row's extracted names
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_own_site_of_a_named_business_cited_loose,1204,2014,59.8,57.6,61.9,sensitivity: prefix matches added
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_business_sites_cited_but_none_named_strict,924,2014,45.9,43.7,48.1,
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_with_extracted_names_ge1,2014,2014,100.0,99.8,100.0,raw extracted list; includes headings and place names: upper bound
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_in_markets_with_a_google_top_set,1224,2014,60.8,58.6,62.9,markets with a Google-top business on 5 or more days
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_naming_a_google_top_business_strict,406,1224,33.2,30.6,35.9,a recorded name strictly matches an eligible organic-result domain in the same market
+2026-09-28,2026-11-08,perplexity,readable_rows,rows_naming_an_identified_business_strict,1047,2014,52.0,49.8,54.2,a recorded name strictly matches an eligible organic-result domain or an eligible cited domain
+2026-09-28,2026-11-08,perplexity,readable_rows,google_top_businesses_in_answered_markets,205,,,,,"domains on 5 or more Google days, 35 segments"
+2026-09-28,2026-11-08,perplexity,pairs,pairs_all_pairs,7812,,,,,
+2026-09-28,2026-11-08,perplexity,pairs,pairs_own_cited,1300,7812,16.6,15.8,17.5,
+2026-09-28,2026-11-08,perplexity,pairs,pairs_own_cited_home,529,7812,6.8,6.2,7.4,
+2026-09-28,2026-11-08,perplexity,pairs,pairs_own_cited_inner,771,7812,9.9,9.2,10.6,
+2026-09-28,2026-11-08,perplexity,pairs,pairs_not_cited_row_third_only,267,7812,3.4,3.0,3.8,
+2026-09-28,2026-11-08,perplexity,pairs,pairs_not_cited_row_other_sites,6245,7812,79.9,79.0,80.8,
+2026-09-28,2026-11-08,perplexity,pairs,P(named | all_pairs) strict,509,7812,6.5,6.0,7.1,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited) strict,371,1300,28.5,26.1,31.1,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited_home) strict,156,529,29.5,25.8,33.5,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited_inner) strict,215,771,27.9,24.8,31.2,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | not_cited_row_third_only) strict,6,267,2.2,1.0,4.8,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | not_cited_row_other_sites) strict,132,6245,2.1,1.8,2.5,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | all_pairs) loose,781,7812,10.0,9.4,10.7,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited) loose,555,1300,42.7,40.0,45.4,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited_home) loose,217,529,41.0,36.9,45.3,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | own_cited_inner) loose,338,771,43.8,40.4,47.4,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | not_cited_row_third_only) loose,8,267,3.0,1.5,5.8,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | not_cited_row_other_sites) loose,218,6245,3.5,3.1,4.0,business named in the row's extracted names; cited URLs not used
+2026-09-28,2026-11-08,perplexity,pairs,P(named | no citations),0,0,,,,no readable row has zero cited URLs: undefined
+2026-09-28,2026-11-08,perplexity,pairs,P(own page cited | named) strict,371,509,72.9,68.9,76.6,of business-days on which the business was named
+2026-09-28,2026-11-08,perplexity,pairs,P(own page cited | named) loose,555,781,71.1,67.8,74.1,of business-days on which the business was named
+2026-09-28,2026-11-08,perplexity,within_business,businesses_with_cited_days_and_not_cited_days,115,,,,,strict naming
+2026-09-28,2026-11-08,perplexity,within_business,of_those_named_rate_higher_on_cited_days,33,115,28.7,21.2,37.5,
+2026-09-28,2026-11-08,perplexity,within_business,of_those_named_rate_lower_on_cited_days,7,115,6.1,3.0,12.0,
+2026-09-28,2026-11-08,perplexity,within_business,of_those_named_rate_equal,75,115,65.2,56.1,73.3,
+2026-09-28,2026-11-08,perplexity,trade=dentists,readable_rows,207,,,,,
+2026-09-28,2026-11-08,perplexity,trade=dentists,rows_citing_only_third_parties,0,207,0.0,0.0,1.8,
+2026-09-28,2026-11-08,perplexity,trade=dentists,P(named | own_cited) strict,15,156,9.6,5.9,15.3,
+2026-09-28,2026-11-08,perplexity,trade=dentists,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=dentists,P(named | not_cited_row_other_sites) strict,4,929,0.4,0.2,1.1,
+2026-09-28,2026-11-08,perplexity,trade=health insurance brokers,readable_rows,41,,,,,
+2026-09-28,2026-11-08,perplexity,trade=health insurance brokers,rows_citing_only_third_parties,0,41,0.0,0.0,8.6,
+2026-09-28,2026-11-08,perplexity,trade=health insurance brokers,P(named | own_cited) strict,46,127,36.2,28.4,44.9,
+2026-09-28,2026-11-08,perplexity,trade=health insurance brokers,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=health insurance brokers,P(named | not_cited_row_other_sites) strict,0,78,0.0,0.0,4.7,
+2026-09-28,2026-11-08,perplexity,trade=home care agencies,readable_rows,41,,,,,
+2026-09-28,2026-11-08,perplexity,trade=home care agencies,rows_citing_only_third_parties,0,41,0.0,0.0,8.6,
+2026-09-28,2026-11-08,perplexity,trade=home care agencies,P(named | own_cited) strict,14,48,29.2,18.2,43.2,
+2026-09-28,2026-11-08,perplexity,trade=home care agencies,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=home care agencies,P(named | not_cited_row_other_sites) strict,15,198,7.6,4.6,12.1,
+2026-09-28,2026-11-08,perplexity,trade=hvac repair and replacement,readable_rows,122,,,,,
+2026-09-28,2026-11-08,perplexity,trade=hvac repair and replacement,rows_citing_only_third_parties,8,122,6.6,3.4,12.4,
+2026-09-28,2026-11-08,perplexity,trade=hvac repair and replacement,P(named | own_cited) strict,4,58,6.9,2.7,16.4,
+2026-09-28,2026-11-08,perplexity,trade=hvac repair and replacement,P(named | not_cited_row_third_only) strict,4,40,10.0,4.0,23.1,
+2026-09-28,2026-11-08,perplexity,trade=hvac repair and replacement,P(named | not_cited_row_other_sites) strict,7,512,1.4,0.7,2.8,
+2026-09-28,2026-11-08,perplexity,trade=mortgage lenders,readable_rows,160,,,,,
+2026-09-28,2026-11-08,perplexity,trade=mortgage lenders,rows_citing_only_third_parties,0,160,0.0,0.0,2.3,
+2026-09-28,2026-11-08,perplexity,trade=mortgage lenders,P(named | own_cited) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=mortgage lenders,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=mortgage lenders,P(named | not_cited_row_other_sites) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=moving companies,readable_rows,41,,,,,
+2026-09-28,2026-11-08,perplexity,trade=moving companies,rows_citing_only_third_parties,0,41,0.0,0.0,8.6,
+2026-09-28,2026-11-08,perplexity,trade=moving companies,P(named | own_cited) strict,28,42,66.7,51.6,79.0,
+2026-09-28,2026-11-08,perplexity,trade=moving companies,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=moving companies,P(named | not_cited_row_other_sites) strict,1,122,0.8,0.1,4.5,
+2026-09-28,2026-11-08,perplexity,trade=oil change shops,readable_rows,41,,,,,
+2026-09-28,2026-11-08,perplexity,trade=oil change shops,rows_citing_only_third_parties,1,41,2.4,0.4,12.6,
+2026-09-28,2026-11-08,perplexity,trade=oil change shops,P(named | own_cited) strict,0,41,0.0,0.0,8.6,
+2026-09-28,2026-11-08,perplexity,trade=oil change shops,P(named | not_cited_row_third_only) strict,0,5,0.0,0.0,43.4,
+2026-09-28,2026-11-08,perplexity,trade=oil change shops,P(named | not_cited_row_other_sites) strict,2,159,1.3,0.3,4.5,
+2026-09-28,2026-11-08,perplexity,trade=orthodontists,readable_rows,166,,,,,
+2026-09-28,2026-11-08,perplexity,trade=orthodontists,rows_citing_only_third_parties,0,166,0.0,0.0,2.3,
+2026-09-28,2026-11-08,perplexity,trade=orthodontists,P(named | own_cited) strict,38,198,19.2,14.3,25.2,
+2026-09-28,2026-11-08,perplexity,trade=orthodontists,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=orthodontists,P(named | not_cited_row_other_sites) strict,19,590,3.2,2.1,5.0,
+2026-09-28,2026-11-08,perplexity,trade=personal injury attorneys,readable_rows,224,,,,,
+2026-09-28,2026-11-08,perplexity,trade=personal injury attorneys,rows_citing_only_third_parties,0,224,0.0,0.0,1.7,
+2026-09-28,2026-11-08,perplexity,trade=personal injury attorneys,P(named | own_cited) strict,23,127,18.1,12.4,25.7,
+2026-09-28,2026-11-08,perplexity,trade=personal injury attorneys,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=personal injury attorneys,P(named | not_cited_row_other_sites) strict,9,1513,0.6,0.3,1.1,
+2026-09-28,2026-11-08,perplexity,trade=property management companies,readable_rows,160,,,,,
+2026-09-28,2026-11-08,perplexity,trade=property management companies,rows_citing_only_third_parties,2,160,1.2,0.3,4.4,
+2026-09-28,2026-11-08,perplexity,trade=property management companies,P(named | own_cited) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=property management companies,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=property management companies,P(named | not_cited_row_other_sites) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=real estate agents,readable_rows,201,,,,,
+2026-09-28,2026-11-08,perplexity,trade=real estate agents,rows_citing_only_third_parties,44,201,21.9,16.7,28.1,
+2026-09-28,2026-11-08,perplexity,trade=real estate agents,P(named | own_cited) strict,2,4,50.0,15.0,85.0,
+2026-09-28,2026-11-08,perplexity,trade=real estate agents,P(named | not_cited_row_third_only) strict,1,45,2.2,0.4,11.6,
+2026-09-28,2026-11-08,perplexity,trade=real estate agents,P(named | not_cited_row_other_sites) strict,4,156,2.6,1.0,6.4,
+2026-09-28,2026-11-08,perplexity,trade=residential roofing,readable_rows,123,,,,,
+2026-09-28,2026-11-08,perplexity,trade=residential roofing,rows_citing_only_third_parties,3,123,2.4,0.8,6.9,
+2026-09-28,2026-11-08,perplexity,trade=residential roofing,P(named | own_cited) strict,19,120,15.8,10.4,23.4,
+2026-09-28,2026-11-08,perplexity,trade=residential roofing,P(named | not_cited_row_third_only) strict,1,21,4.8,0.8,22.7,
+2026-09-28,2026-11-08,perplexity,trade=residential roofing,P(named | not_cited_row_other_sites) strict,27,884,3.1,2.1,4.4,
+2026-09-28,2026-11-08,perplexity,trade=short-term rentals,readable_rows,122,,,,,
+2026-09-28,2026-11-08,perplexity,trade=short-term rentals,rows_citing_only_third_parties,48,122,39.3,31.1,48.2,
+2026-09-28,2026-11-08,perplexity,trade=short-term rentals,P(named | own_cited) strict,0,1,0.0,0.0,79.3,
+2026-09-28,2026-11-08,perplexity,trade=short-term rentals,P(named | not_cited_row_third_only) strict,0,156,0.0,0.0,2.4,
+2026-09-28,2026-11-08,perplexity,trade=short-term rentals,P(named | not_cited_row_other_sites) strict,0,211,0.0,0.0,1.8,
+2026-09-28,2026-11-08,perplexity,trade=tanning salons,readable_rows,164,,,,,
+2026-09-28,2026-11-08,perplexity,trade=tanning salons,rows_citing_only_third_parties,0,164,0.0,0.0,2.3,
+2026-09-28,2026-11-08,perplexity,trade=tanning salons,P(named | own_cited) strict,128,256,50.0,43.9,56.1,
+2026-09-28,2026-11-08,perplexity,trade=tanning salons,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=tanning salons,P(named | not_cited_row_other_sites) strict,44,769,5.7,4.3,7.6,
+2026-09-28,2026-11-08,perplexity,trade=tire shops,readable_rows,41,,,,,
+2026-09-28,2026-11-08,perplexity,trade=tire shops,rows_citing_only_third_parties,0,41,0.0,0.0,8.6,
+2026-09-28,2026-11-08,perplexity,trade=tire shops,P(named | own_cited) strict,54,122,44.3,35.8,53.1,
+2026-09-28,2026-11-08,perplexity,trade=tire shops,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=tire shops,P(named | not_cited_row_other_sites) strict,0,124,0.0,0.0,3.0,
+2026-09-28,2026-11-08,perplexity,trade=title companies,readable_rows,160,,,,,
+2026-09-28,2026-11-08,perplexity,trade=title companies,rows_citing_only_third_parties,0,160,0.0,0.0,2.3,
+2026-09-28,2026-11-08,perplexity,trade=title companies,P(named | own_cited) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=title companies,P(named | not_cited_row_third_only) strict,0,0,,,,
+2026-09-28,2026-11-08,perplexity,trade=title companies,P(named | not_cited_row_other_sites) strict,0,0,,,,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,answer_rows_ok,969,,,,,"50 segments, 30 with a Google-top set; the 2026-11-03 email said 30 markets"
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,pairs_all_pairs,3610,,,,,"own page cited: 745 (homepage 324, inner page 421); the 2026-11-03 email counted 337 homepage and 239 location-page days"
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited) strict,187,745,25.1,22.1,28.3,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited) loose,310,745,41.6,38.1,45.2,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited_home) strict,88,324,27.2,22.6,32.3,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited_home) loose,131,324,40.4,35.2,45.9,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited_inner) strict,99,421,23.5,19.7,27.8,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | own_cited_inner) loose,179,421,42.5,37.9,47.3,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | not_cited_row_third_only) strict,1,60,1.7,0.3,8.9,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | not_cited_row_third_only) loose,1,60,1.7,0.3,8.9,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | not_cited_row_other_sites) strict,53,2805,1.9,1.4,2.5,
+2026-10-02,2026-10-24,perplexity,recount_of_earlier_cut,P(named | not_cited_row_other_sites) loose,100,2805,3.6,2.9,4.3,
+2026-09-28,2026-11-09,anthropic,no_source_list_before_2026-11-10,"P(named) strict, same business-days",3,7971,0.0,0.0,0.1,"1267 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-11-10,2026-11-23,anthropic,no_source_list_from_2026-11-10,"P(named) strict, same business-days",0,364,0.0,0.0,1.0,"252 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-09-28,2026-11-09,gemini,no_source_list_before_2026-11-10,"P(named) strict, same business-days",237,4126,5.7,5.1,6.5,"679 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-11-10,2026-11-23,gemini,no_source_list_from_2026-11-10,"P(named) strict, same business-days",9,332,2.7,1.4,5.1,"228 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-09-28,2026-11-09,openai,no_source_list_before_2026-11-10,"P(named) strict, same business-days",88,7082,1.2,1.0,1.5,"1136 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-11-10,2026-11-23,openai,no_source_list_from_2026-11-10,"P(named) strict, same business-days",19,364,5.2,3.4,8.0,"252 answer rows in markets with a Google-top set; no cited URLs, so no cross-tab"
+2026-09-28,2026-11-23,perplexity,business_target_rows,ok_rows,1007,,,,,single-business pilot rows: outside the market cross-tab
+2026-09-28,2026-11-23,google_ai_overview,segment_serp_rows,serp_rows_ok,1710,,,,,
+2026-09-28,2026-11-23,google_ai_overview,segment_serp_rows,rows_with_overview_captured,1246,1710,72.9,70.7,74.9,ai_overview_present true; capture can miss overviews and does not estimate how often Google displays one
+2026-09-28,2026-11-23,google_ai_overview,overview_rows,rows_with_text_held_public,284,1246,22.8,20.5,25.2,all other overview text withheld under R82; naming not computed
+2026-09-28,2026-11-23,google_ai_overview,overview_rows,rows_cited_ge1_reference,1081,1246,86.8,84.8,88.5,
+2026-09-28,2026-11-23,google_ai_overview,overview_rows,rows_citing_only_third_parties,81,1081,7.5,6.1,9.2,
+2026-09-28,2026-11-23,google_ai_overview,overview_rows,rows_citing_a_google_top_business_site,709,1081,65.6,62.7,68.4,
+2026-09-28,2026-11-23,google_ai_overview,overview_rows,rows_citing_other_business_sites_only,291,1081,26.9,24.4,29.6,
