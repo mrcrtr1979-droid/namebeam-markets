@@ -94,7 +94,9 @@ def check_page(kind, html, slug=None):
     if kind == "record":
         want = record_href(slug)
         mapped = want != GENERIC_RECORD_HREF
-        m = re.search(r'href="(https://check\.namebeam\.ai/[^"]*)"', html)
+        # grade the link inside the marked block when the block is there, so another check link on the page cannot stand in
+        a, b = html.find(MARK_OPEN), html.find(MARK_CLOSE)
+        m = re.compile(r'href="(https://check\.namebeam\.ai/[^"]*)"').search(html, a if 0 <= a < b else 0)
         if not m:
             return "no check link with utm_source=record"
         got = m.group(1)
