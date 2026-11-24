@@ -23,6 +23,7 @@ import csv
 # LB-101: the check link block shared with the build test; -I drops the script directory from sys.path, so add it.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lb101_check_links  # noqa: E402
+from record_dataset_markup import record_canonical, record_dataset_fields  # noqa: E402
 
 
 class RefreshError(Exception):
@@ -901,14 +902,9 @@ class PageRefresher:
                 },
                 "keywords": [market_name, niche, "AI visibility", "business names", "AI answer engines"],
                 "variableMeasured": "business names returned by AI answer engines, counted by day",
-                "distribution": [
-                    {
-                        "@type": "DataDownload",
-                        "encodingFormat": "text/csv",
-                        "contentUrl": f"https://markets.namebeam.ai/record/{slug}/{csv_file}"
-                    }
-                ]
             }
+            dataset_json.update(record_dataset_fields(dataset_json["url"], market_name, csv_file))
+            html = record_canonical(html, dataset_json["url"])
 
             jsonld_str = json.dumps(dataset_json, ensure_ascii=True, indent=None)
             # Escape </ for script tag
