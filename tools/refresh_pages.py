@@ -620,11 +620,6 @@ class PageRefresher:
             f'<meta property="og:title" content="{og_title_new}">'
         )
 
-        # Five daily-through markers
-        for i in range(1, 6):
-            html = self.replace_marker(page_name, html, f'daily-through-{i}',
-                                       f', with daily files through {latest_run_day}')
-
         self.write_page(page_name, html)
         return self.changes[changes_before:]
 
