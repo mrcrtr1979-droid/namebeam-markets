@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How much do recorded AI name lists repeat on consecutive run days? | Namebeam</title>
+<meta name="description" content="How much do recorded AI name lists repeat on consecutive run days?">
+<link rel="canonical" href="https://markets.namebeam.ai/studies/ai-name-list-run-to-run-consistency-2026-09-28-to-11-23/">
+<link rel="stylesheet" href="/site.css">
+<script src="/posthog.js" defer></script>
+</head>
+<body>
+
+<header>
+  <a class="brand" href="/" style="text-decoration:none">
+    <img src="https://namebeam.ai/logo_namebeam_avatar.png" alt="Namebeam emblem" style="height:46px;width:auto;display:block;border-radius:10px">
+    <div><div class="name">Name<span>beam</span></div><div class="tag">The dated record of who AI names</div></div>
+  </a>
+  <nav>
+    <a href="/record/">The record</a><a href="/agencies/">Agencies</a><a href="/data/">Data and API</a><a href="https://namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink">Namebeam</a><a class="btn" href="/check/" style="padding:8px 14px;margin-left:18px">Free check</a>
+  </nav>
+</header>
+
+<main>
+<div class="pv-wrap">
+<h1>How much do recorded AI name lists repeat on consecutive run days?</h1>
+<p>We compared the same engine's answers to the same fixed question in the same market on adjacent run days. The record spans 2026-09-28 to 2026-11-23, with no run on 2026-10-05. Lists include directories and other non-business names.</p>
+<p>For each pair, overlap is the number of distinct normalized names in both lists divided by the number in either list or both. Mean overlap averages that value across evaluated pairs. Identical means the same set in any order. One empty list gives zero overlap. Pairs with two empty lists are excluded.</p>
+<ul>
+<li>Claude, 2026-09-28 to 2026-11-23: 1,952 pairs, mean overlap 0.454. Identical: 378 (19.4%). None shared: 402 (20.6%). Lists averaged 3.8 names.</li>
+<li>OpenAI, 2026-09-28 to 2026-11-09: 1,186 pairs, mean overlap 0.208. Identical: 7 (0.6%). None shared: 370 (31.2%).</li>
+<li>OpenAI, 2026-11-10 to 2026-11-23: 650 pairs, mean overlap 0.262. Identical: 2 (0.3%). None shared: 36 (5.5%). On 2026-11-10 we changed which model we ask.</li>
+<li>Perplexity, 2026-09-28 to 2026-11-23: 2,992 pairs, mean overlap 0.235. Identical: 57 (1.9%). None shared: 709 (23.7%).</li>
+<li>Gemini, 2026-10-21 to 2026-11-23: 1,343 pairs, mean overlap 0.158. Identical: 0 (0.0%). None shared: 114 (8.5%).</li>
+</ul>
+<p>The rows describe different windows and question mixes. Of 2,126 Gemini rows collected from 2026-09-28 to 2026-11-23, 684 were excluded for run status.</p>
+<p>Keeping names recorded in one market gave mean overlaps from 0.137 to 0.369 across these rows in the 2026-09-28 to 2026-11-23 collection window. On the same Perplexity anchors, mean overlap was 0.225 at one calendar day and 0.134 at 28 days, with endpoints spanning 2026-09-29 to 2026-11-23.</p>
+<p>We used fixed API prompts. Pairs are not independent. Consistency is not accuracy. Perplexity results are reported as counts and rates. CC BY 4.0 covers this compilation and its derived columns. Provider answers and search-result rows are outside that license.</p>
+<p>Source: Namebeam daily archives, 2026-09-28 to 2026-11-23. Counts by consistency_counts.py and archive checksums verified on 2026-11-24.</p>
+<p><a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/blob/main/analysis/run-to-run/consistency_by_trade_engine_2026-11-24_V3.csv">Counts (CSV)</a> | <a href="#limits">Limits</a> | <a href="https://github.com/mrcrtr1979-droid/namebeam-visibility-index/blob/main/analysis/run-to-run/consistency_counts.py">Method script</a></p>
+
+<h2 id="limits">What the run-to-run consistency counts do not show</h2>
+<p>Collection window: 2026-09-28 to 2026-11-23. Consecutive pairs use adjacent run days. There was no run on 2026-10-05.</p>
+<h3>Consistency is not accuracy</h3>
+<p>These counts measure overlap in machine-extracted, recorded name lists. The lists can include directories, headings, associations and place names, and extraction can miss names. We did not verify whether recorded names identify real businesses, fit the question, or are good choices.</p>
+<h3>Name rules and denominators</h3>
+<p>The main rule cleans accents, selected punctuation and whitespace, lowercases ASCII tokens, removes the, and, llc, inc, corp, ltd, pllc and pc, and joins the remaining letters and digits. Identical means the same normalized name set in either order. A pair with one empty set has zero overlap. A pair with two empty sets is excluded.</p>
+<p>In the 2026-09-28 to 2026-11-23 collection window, the displayed engine means using exact cleaned strings differ by at most 0.003 from the displayed main-rule means. Restricting names to those recorded in one market among OK run-1 rows gives mean overlaps from 0.137 to 0.369. This can remove a genuine business that appears in multiple markets and retain a directory that appears in one. It changes the denominator: double-empty exclusions rise to 851 for Claude, 214 for OpenAI through 2026-11-09 and 9 from 2026-11-10, 22 for Perplexity and 7 for Gemini.</p>
+<h3>Lists and series</h3>
+<p>The table gives mean normalized names per answer occurrence in evaluated pairs within the 2026-09-28 to 2026-11-23 collection window, so a run day can contribute twice. The last column gives the spread of per-series mean overlap among series with at least 10 evaluated pairs. The two percentages apply to pairs where both name sets are nonempty.</p>
+<p>Engine and evaluated window | Mean names | Double-empty pairs excluded | Both nonempty: pairs, identical, none shared | Per-series spread</p>
+<p>Claude, 2026-09-28 to 2026-11-23 | 3.79 | 92 | 1,810, 20.9%, 14.4% | 0.149 to 0.898 across 48</p>
+<p>OpenAI, 2026-09-28 to 2026-11-09 | 5.98 | 13 | 1,097, 0.6%, 25.6% | 0.038 to 0.536 across 49</p>
+<p>OpenAI, 2026-11-10 to 2026-11-23 | 12.55 | 0 | 648, 0.3%, 5.2% | 0.065 to 0.474 across 50</p>
+<p>Perplexity, 2026-09-28 to 2026-11-23 | 5.59 | 0 | 2,990, 1.9%, 23.6% | 0.080 to 0.534 across 70</p>
+<p>Gemini, 2026-10-21 to 2026-11-23 | 23.81 | 3 | 1,255, 0.0%, 2.1% | 0.072 to 0.293 across 50</p>
+<p>List length affects how much one changed name moves the overlap. At the same underlying level of recurrence, short sets can match completely more readily. Double-empty counts apply to candidate pairs for each engine period.</p>
+<h3>Fixed prompts and sample</h3>
+<p>The analysis uses scheduled run-1 API responses to fixed trade-and-market prompts. Real users can phrase questions differently, and consumer-app results can differ. From 2026-09-28 to 2026-11-23, there were 70 Perplexity series and 50 for each other engine, covering 16 trades and 19 markets. Series enter this window on 2026-09-28, 2026-10-08 or 2026-10-30. The market mix varies by trade. A trade represented in one market cannot be separated from that market here.</p>
+<p>Our market labels for the 2026-09-28 to 2026-11-23 collection window assign 12 markets to large cities over 250,000, 5 to mid-size cities from 50,000 to 250,000, and 2 to small town or county. These are intended as approximate 2020 Census city-proper bands. Census assignments remain pending verification.</p>
+<p>Pairs are not independent. Adjacent pairs can share a run day, markets repeat across trades and engines, and each evaluated pair receives equal weight. The counts are descriptive and carry no intervals.</p>
+<h3>Exclusions and model records</h3>
+<p>From 2026-09-28 to 2026-11-23, Gemini had 684 not-OK rows out of 2,126 (680 failed and 4 quota blocked). From 2026-09-28 to 2026-10-20, 9 of 606 rows were OK. From 2026-10-21 to 2026-11-23, 87 of 1,520 rows were not OK (83 failed and 4 quota blocked). On 2026-11-23, 39 of 50 rows were not OK (37 failed and 2 quota blocked). The full window had 2,076 candidate pairs. Run status excluded 729 and a model change excluded one. Evaluated pairs begin on 2026-10-21.</p>
+<p>From 2026-10-25 to 2026-10-29, 147 OpenAI rows were quota blocked, accounting for 177 excluded consecutive pairs. On 2026-11-10 we changed which model we ask in our OpenAI collection. The analysis excludes the 50 pairs spanning 2026-11-09 and 2026-11-10. The two periods also differ in average list length.</p>
+<p>Claude had 16 failed originals on 2026-10-24 and 32 consecutive pairs excluded. The 16 retries are used for the same-day comparison. Every original failed, leaving zero evaluable same-day pairs. Perplexity had one quota-blocked row on 2026-09-30 and one failed row on 2026-10-21, accounting for four excluded consecutive pairs. A candidate consecutive pair is excluded if either row is not OK.</p>
+<p>The window excludes 168 nationwide and 112 single-business pilot rows per engine. Claude's recorded model string changed form on 2026-10-24. Its normalized model identifier stayed the same after removing the prefix, version suffix and date stamp. Gemini recorded two model identifiers. The earliest nonempty model strings appear on 2026-10-08 for Perplexity, 2026-10-14 for Claude and OpenAI, and 2026-10-15 for Gemini. Missing model strings cannot establish a model match or change.</p>
+<h3>Overlap at longer gaps</h3>
+<p>In the 2026-09-28 to 2026-11-23 collection window, an eligible anchor has OK rows on calendar offsets 0, 1, 7, 14 and 28 and no conflict among nonempty normalized model strings. All required OpenAI rows must be in the same collection period. Double-empty exclusions apply separately at each lag.</p>
+<p>Engine | Eligible anchor dates | Mean overlap at 1, 7, 14 and 28 days | Evaluated pairs in that order</p>
+<p>Claude | 2026-09-29 to 2026-10-26 | 0.409, 0.318, 0.232, 0.217 | 648, 660, 662, 662</p>
+<p>OpenAI before 2026-11-10 | 2026-10-02 to 2026-10-11 | 0.144, 0.134, 0.125, 0.112 | 188, 189, 188, 188</p>
+<p>Perplexity | 2026-09-29 to 2026-10-26 | 0.225, 0.181, 0.161, 0.134 | 1,112 at each lag</p>
+<p>Gemini | 2026-10-21 to 2026-10-26 | 0.182, 0.181, 0.167, 0.141 | 136 at each lag</p>
+<p>The last compared date is 2026-11-23, or 2026-11-08 for OpenAI before the split. The OpenAI period from 2026-11-10 to 2026-11-23 is too short for a 28-day anchor. The lag results describe the eligible series-days and cannot establish why overlap changes.</p>
+<h3>Cross-check and reproduction</h3>
+<p>We matched 8,611 OK retained segment rows, including OK retries, from 2026-09-28 to 2026-11-23 to the dataset by source filename. The cleaned name counts and the concatenated letters and digits agreed for every matched row. This comparison does not verify each name boundary.</p>
+<p>Run consistency_counts.py with the archive paths to print the counts. It checks available SHA-256 sidecars and uses no private classification file. The optional --csv argument writes the CSV to the supplied path. Perplexity answer text is private. The output contains counts and rates.</p>
+<p>Source: Namebeam daily archives, 2026-09-28 to 2026-11-23, counts by consistency_counts.py and checksum verification on 2026-11-24. Dataset: corpus/namebeam/Namebeam_E1_Dataset_LATEST.csv. CC BY 4.0 covers this compilation and its derived columns. Provider answers and search-result rows are outside that license.</p>
+
+</div>
+</main>
+
+<footer class="ce-foot">
+  <div class="ce-net">
+    <div class="ce-slogan">Every claim owes the future a receipt.</div>
+    <div class="ce-kick">Part of the Carter Enterprise Network</div>
+    <div class="ce-parent">CARTER ENTERPRISE LLC</div>
+    <nav class="ce-legs" data-xlinks="1021" aria-label="Carter Enterprise network">
+      <a href="https://trunkline.money/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">TRUNKLINE</a>
+      <a href="https://namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">NAMEBEAM</a>
+      <a href="https://markets.namebeam.ai/">NAMEBEAM MARKETS</a>
+      <a href="https://check.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">FREE CHECK</a>
+      <a href="https://proof.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">PROOF RECORD</a>
+      <a href="https://thereceiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">THE RECEIPTS INDEX</a>
+      <a href="https://receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">THE FILING ROOM</a>
+      <a href="https://api.receiptsindex.com/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">RECEIPTS API</a>
+      <a href="https://shop.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">MAKER'S RECEIPT SHOP</a>
+      <a href="https://r.namebeam.ai/?utm_source=markets&amp;utm_medium=crosslink" target="_blank" rel="noopener">MAKER'S RECEIPT RECORDS</a>
+    </nav>
+    <nav class="ce-social">
+      <a href="https://x.com/namebeamai" target="_blank" rel="noopener">X</a>
+      <a href="https://namebeam.ai/company">Company</a>
+      <a href="https://www.youtube.com/channel/UC63mV8l26O0pB6S-tDRVTtg" target="_blank" rel="noopener">YouTube</a>
+      <a href="mailto:hello@namebeam.ai">Contact</a>
+      <a href="/privacy/">Privacy</a>
+    </nav>
+    <div class="ce-legal">Carter Enterprise LLC, 30 N Gould St, Ste 65270, Sheridan, WY 82801</div>
+    <div class="ce-copy">&copy; 2026 Carter Enterprise LLC. Real numbers. No hype. Receipts. Education, not financial advice.</div>
+    <div class="ce-fine">Namebeam is an educational and marketing service. Not a guarantee of rankings, traffic, or bookings, and not financial, legal, or tax advice. AI answers vary from run to run and can change without notice. Confirm current results with the dated source linked in each entry.</div>
+  </div>
+</footer>
+
+</body>
+</html>
