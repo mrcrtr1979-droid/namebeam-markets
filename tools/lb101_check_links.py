@@ -9,6 +9,9 @@ phones. Three page classes, three utm_content values, one campaign:
   record  https://check.namebeam.ai/?utm_source=record&utm_campaign=lb101&utm_content=record_cta (right after the h1)
   trade   https://check.namebeam.ai/?utm_source=trade&utm_campaign=lb101&utm_content=trade_cta   (right after the h1)
 
+Deep-link map (2026-11-24, L7 CHANGE 3, Counter J1123-94): tools/deeplink_cta_map.csv maps 18 record slugs to a
+check link that carries city, state and trade. A mapped record page carries exactly its slug's deep link; an unmapped
+record page carries the generic link above. cta_block, insert_block and check_page take the slug and grade this.
 The block sits between <!--nb:lb101-cta--> markers so tools/refresh_pages.py can keep it on record pages it refreshes.
 No new number appears in the inserted text. ASCII only.
 
@@ -17,6 +20,7 @@ Usage (from the repository root):
   py -3 -I tools/lb101_check_links.py --apply   insert the block where it is missing (idempotent), then run the test
   py -3 -I tools/lb101_check_links.py --selftest
 """
+import csv
 import re
 import sys
 import tempfile
@@ -29,16 +33,37 @@ MARK_CLOSE = "<!--/nb:lb101-cta-->"
 STUDY_PATH = "studies/three-engines-agreement-2026-10-24-to-11-09/index.html"
 # the fold: the link must sit within this many characters after the h1 close, and before the first h2
 FOLD_CHARS = 1500
+DEEPLINK_CSV = Path(__file__).resolve().parent / "deeplink_cta_map.csv"
+GENERIC_RECORD_HREF = "https://check.namebeam.ai/?utm_source=record&amp;utm_campaign=lb101&amp;utm_content=record_cta"
 
 
-def cta_block(kind):
+def load_deeplinks(path=None):
+    """{record_slug: deep_link} for the record pages; rows for other page classes (what-ai-checks-*) are skipped."""
+    out = {}
+    with open(path or DEEPLINK_CSV, newline="", encoding="ascii") as fh:
+        for row in csv.DictReader(fh):
+            slug = row["record_slug"]
+            if not slug.startswith("what-ai-checks-"):
+                out[slug] = row["deep_link"]
+    return out
+
+
+def record_href(slug=None, deeplinks=None):
+    """The href (HTML-escaped) a record page must carry: its deep link when mapped, else the generic lb101 link."""
+    links = load_deeplinks() if deeplinks is None else deeplinks
+    if slug in links:
+        return links[slug].replace("&", "&amp;")
+    return GENERIC_RECORD_HREF
+
+
+def cta_block(kind, slug=None):
     """The inserted HTML for one page class. Record and study pages use the site's .btn class; trade pages use .cta."""
     if kind == "study":
         href = CHECK_BASE % ("study", "study_cta")
         return (MARK_OPEN + '<p class="nb-check" id="nb-check"><a class="btn" href="' + href + '">' + CTA_TEXT + '</a>'
                 ' <a href="/record/">Record pages, by market</a>.</p>' + MARK_CLOSE)
     if kind == "record":
-        href = CHECK_BASE % ("record", "record_cta")
+        href = record_href(slug)
         return MARK_OPEN + '<p class="nb-check" id="nb-check"><a class="btn" href="' + href + '">' + CTA_TEXT + '</a></p>' + MARK_CLOSE
     if kind == "trade":
         href = CHECK_BASE % ("trade", "trade_cta")
@@ -52,7 +77,7 @@ def link_re(kind):
 
 
 def pages(root):
-    """(kind, relative path) for every page the test grades."""
+    """(kind, relative path) for every page the test grades. Record pages are (kind, rel); the slug is the directory."""
     root = Path(root)
     out = []
     if (root / STUDY_PATH).exists():
@@ -64,11 +89,27 @@ def pages(root):
     return out
 
 
-def check_page(kind, html):
+def check_page(kind, html, slug=None):
     """None when the page carries its link where it must; else the reason."""
-    m = link_re(kind).search(html)
-    if not m:
-        return "no check link with utm_source=%s utm_campaign=lb101" % kind
+    if kind == "record":
+        want = record_href(slug)
+        mapped = want != GENERIC_RECORD_HREF
+        # grade the link inside the marked block when the block is there, so another check link on the page cannot stand in
+        a, b = html.find(MARK_OPEN), html.find(MARK_CLOSE)
+        m = re.compile(r'href="(https://check\.namebeam\.ai/[^"]*)"').search(html, a if 0 <= a < b else 0)
+        if not m:
+            return "no check link with utm_source=record"
+        got = m.group(1)
+        if got != want:
+            if mapped:
+                return "mapped slug %s must carry its deep link, found %s" % (slug, got)
+            if "deeplink1124" in got:
+                return "unmapped slug %s carries a deep link" % slug
+            return "no check link with utm_source=record utm_campaign=lb101"
+    else:
+        m = link_re(kind).search(html)
+        if not m:
+            return "no check link with utm_source=%s utm_campaign=lb101" % kind
     if MARK_OPEN not in html or MARK_CLOSE not in html:
         return "check link outside the nb:lb101-cta markers"
     if CTA_TEXT not in html:
@@ -97,11 +138,11 @@ def check_page(kind, html):
     return None
 
 
-def insert_block(kind, html):
+def insert_block(kind, html, slug=None):
     """Insert the CTA block when the page lacks it. Returns the new html (unchanged when already present)."""
     if MARK_OPEN in html:
         return html
-    block = cta_block(kind)
+    block = cta_block(kind, slug)
     if kind == "study":
         # after the Finding paragraph: the first </p> that follows <h2>Finding</h2>
         a = html.find("<h2>Finding</h2>")
@@ -119,12 +160,16 @@ def insert_block(kind, html):
     return html[:cut] + "\n" + block + html[cut:]
 
 
+def slug_of(kind, rel):
+    return Path(rel).parent.name if kind == "record" else None
+
+
 def run_test(root, out=sys.stdout):
     bad = []
     graded = pages(root)
     for kind, rel in graded:
         html = (Path(root) / rel).read_text(encoding="utf-8")
-        why = check_page(kind, html)
+        why = check_page(kind, html, slug_of(kind, rel))
         if why:
             bad.append((rel, why))
     for rel, why in bad:
@@ -141,7 +186,7 @@ def run_apply(root, out=sys.stdout):
     for kind, rel in pages(root):
         p = Path(root) / rel
         html = p.read_text(encoding="utf-8")
-        new = insert_block(kind, html)
+        new = insert_block(kind, html, slug_of(kind, rel))
         if new != html:
             p.write_bytes(new.encode("ascii"))
             changed += 1
@@ -179,6 +224,25 @@ def selftest():
         assert check_page("study", s) is not None
         # non-ASCII is RED
         assert check_page("trade", cta_block("trade").join(["<h1>T</h1>\n", "<h2>x</h2>—"])) is not None
+    # deep-link map cases (2026-11-24)
+    links = load_deeplinks()
+    assert len(links) == 18 and "houston-hvac" in links and "what-ai-checks-hvac" not in links
+    with tempfile.TemporaryDirectory() as d:
+        root = Path(d)
+        for slug in ("houston-hvac", "x-tanning"):
+            (root / "record" / slug).mkdir(parents=True)
+            (root / "record" / slug / "index.html").write_text("<html><h1>X</h1><p>q</p><h2>Receipt</h2></html>", encoding="utf-8")
+        run_apply(root, io.StringIO())
+        mapped = (root / "record/houston-hvac/index.html").read_text(encoding="utf-8")
+        unmapped = (root / "record/x-tanning/index.html").read_text(encoding="utf-8")
+        assert links["houston-hvac"].replace("&", "&amp;") in mapped and "campaign=lb101" not in mapped
+        assert check_page("record", mapped, "houston-hvac") is None
+        assert check_page("record", unmapped, "x-tanning") is None and "campaign=lb101" in unmapped
+        # a mapped slug with the generic link is RED; a wrong deep link is RED; an unmapped slug with a deep link is RED
+        assert check_page("record", unmapped, "houston-hvac") is not None
+        assert check_page("record", mapped.replace("city=Houston", "city=Dallas"), "houston-hvac") is not None
+        assert check_page("record", mapped, "x-tanning") is not None
+        assert check_page("record", unmapped, "x-tanning") is None
     for k in ("study", "record", "trade"):
         visible = re.sub(r"<!--.*?-->", "", re.sub(r"<[^>]+>", "", cta_block(k)))
         assert cta_block(k).isascii() and not re.search(r"\d", visible), (k, visible)

@@ -682,9 +682,9 @@ class PageRefresher:
 
             # LB-101 (2026-11-12): every record page carries the one-line free check link right under the h1
             # (tools/lb101_check_links.py holds the block and grades it); a page that already has it is unchanged.
-            html_with_cta = lb101_check_links.insert_block('record', html)
+            html_with_cta = lb101_check_links.insert_block('record', html, slug)
             if html_with_cta != html:
-                self.changes.append({'marker': 'lb101-cta-added', 'page': page_name, 'old': '', 'new': lb101_check_links.cta_block('record')})
+                self.changes.append({'marker': 'lb101-cta-added', 'page': page_name, 'old': '', 'new': lb101_check_links.cta_block('record', slug)})
                 html = html_with_cta
 
             # F1 (CPEO-1113): the offer line's "as of" date follows latest_run_day, not the day the line was written.
