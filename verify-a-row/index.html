@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src https:; img-src data:; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Verify a row | Namebeam</title>
+<meta name="description" content="Check a public Namebeam answer file against its published hash, in your browser.">
+<style>
+  :root{--navy:#0b1b33;--navy2:#0e2140;--card:#12294a;--gold:#e8b23a;--gold2:#f4cf6b;--line:#22355a;--muted:#9fb2d0;--field:#5f7fb3;--ok:#7fd6a2;--bad:#ff9c8f;}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--navy);color:#eaf1fb;line-height:1.6}
+  .wrap{max-width:820px;margin:0 auto;padding:0 20px}
+  .skip{position:absolute;left:-999px;top:0;background:var(--gold);color:#1a1206;padding:10px 14px;font-weight:700;z-index:100}
+  .skip:focus{left:8px;top:8px}
+  header.site{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;padding:14px 20px;border-bottom:1px solid var(--line);background:rgba(11,27,51,.96)}
+  .brand .name{font-weight:800;font-size:20px;color:#fff}
+  .brand .name span{color:var(--gold)}
+  .brand .tag{font-size:10px;letter-spacing:.16em;color:var(--gold);text-transform:uppercase}
+  nav.site a{color:#cddcf2;text-decoration:none;font-size:14px;margin-left:16px;padding:8px 2px;display:inline-block}
+  nav.site a:hover{color:var(--gold2);text-decoration:underline}
+  a{color:var(--gold2)}
+  h1{font-size:34px;line-height:1.2;color:#fff;margin-bottom:10px}
+  h2{font-size:21px;color:#fff;margin-bottom:8px}
+  p{margin-bottom:10px}
+  .hero{padding:34px 0 8px}
+  .lede{color:#dbe6f6;font-size:18px;max-width:700px}
+  .small{font-size:14px;color:var(--muted)}
+  .source{font-size:13px;color:var(--muted)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin:18px 0}
+  .card.step{border-color:#2d4677}
+  fieldset{border:0;margin:0 0 10px;padding:0}
+  legend{font-weight:700;color:#fff;margin-bottom:6px}
+  .radios{display:flex;flex-wrap:wrap;gap:8px}
+  .radios label{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:8px 14px;border:1px solid var(--field);border-radius:9px;background:var(--navy2);cursor:pointer}
+  .radios input{width:18px;height:18px;accent-color:var(--gold)}
+  label.fl{display:block;font-weight:700;color:#fff;margin:12px 0 4px}
+  .help{font-size:14px;color:var(--muted);margin:4px 0 0}
+  input[type=text],input[type=url],textarea{width:100%;font-size:16px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#eaf1fb;background:var(--navy2);border:1px solid var(--field);border-radius:9px;padding:11px 12px;min-height:44px}
+  textarea{min-height:130px;resize:vertical}
+  input[type=file]{width:100%;font-size:16px;color:#eaf1fb;background:var(--navy2);border:1px dashed var(--field);border-radius:9px;padding:12px}
+  button{font-family:inherit;font-size:16px;cursor:pointer;min-height:44px;padding:10px 18px;border-radius:9px;border:1px solid var(--gold);background:transparent;color:var(--gold2);font-weight:700}
+  button.primary{background:var(--gold);color:#1a1206;font-weight:800}
+  button:hover{filter:brightness(1.1)}
+  .btnrow{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+  :focus-visible{outline:3px solid var(--gold2);outline-offset:2px}
+  details{margin-top:16px;border-top:1px solid var(--line);padding-top:12px}
+  summary{cursor:pointer;font-weight:700;color:var(--gold2);min-height:44px;display:flex;align-items:center}
+  .err{color:var(--bad);font-weight:700;margin-top:10px;min-height:1.2em}
+  .status{color:var(--muted);font-size:14px;margin-top:8px;min-height:1.2em}
+  .result{margin-top:16px;border-radius:12px;border:2px solid var(--line);padding:16px;background:var(--navy2)}
+  .result[hidden]{display:none}
+  .result.ok{border-color:var(--ok);border-style:solid}
+  .result.bad{border-color:var(--bad);border-style:dashed}
+  .badge{font-size:32px;font-weight:800;letter-spacing:.03em}
+  .result.ok .badge{color:var(--ok)}
+  .result.bad .badge{color:var(--bad)}
+  .hashline{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;word-break:break-all;overflow-wrap:anywhere;background:#08152a;border-radius:7px;padding:8px 10px;margin:4px 0 10px}
+  .lbl{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+  .hit{border:1px solid var(--line);border-radius:10px;padding:12px;margin-top:10px;background:var(--navy2)}
+  .hit dl{display:grid;grid-template-columns:max-content 1fr;gap:4px 12px;margin-bottom:8px}
+  .hit dt{color:var(--muted);font-size:14px}
+  .hit dd{word-break:break-all;overflow-wrap:anywhere}
+  .note{border-left:4px solid var(--gold);padding:8px 12px;margin:8px 0;color:#dbe6f6;font-size:15px}
+  code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;background:#08152a;padding:1px 5px;border-radius:5px}
+  section.info{padding:8px 0 4px}
+  footer{padding:26px 20px;text-align:center;color:var(--muted);font-size:13px;border-top:1px solid var(--line);margin-top:26px}
+  footer .slogan{font-style:italic;color:#cddcf2;margin-bottom:6px}
+  @media(max-width:560px){h1{font-size:28px}.hit dl{grid-template-columns:1fr}.badge{font-size:28px}}
+  @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to the check</a>
+<header class="site">
+  <div class="brand">
+    <div class="name">Name<span>beam</span></div>
+    <div class="tag">The dated record of who AI names</div>
+  </div>
+  <nav class="site" aria-label="Namebeam">
+    <a href="https://namebeam.ai/">Namebeam home</a>
+    <a href="https://markets.namebeam.ai/edition-1/">Edition one</a>
+  </nav>
+</header>
+
+<main id="main">
+<div class="wrap">
+
+<section class="hero" aria-labelledby="t-h1">
+  <h1 id="t-h1">Verify a row</h1>
+  <p class="lede">Take a public answer file from the Namebeam record and the hash published for it, and check them yourself. Your browser computes the hash of the file and says MATCH or NO MATCH. The file is read on your device and is not sent anywhere.</p>
+  <p class="small">The hash is SHA-256. The Edition 1 answers table lists one for each raw answer file. Edition 1 covers 2026-09-01 to 2026-10-13 and holds 12,180 dated rows.</p>
+  <p class="source">Source: Edition 1 answers table, data/answers_2026-09-01_to_2026-10-13.csv, markets.namebeam.ai/edition-1/. Checked 2026-11-24 9:01 PM CT.</p>
+  <noscript><p class="err">This page needs JavaScript to compute the hash in your browser.</p></noscript>
+</section>
+
+<section class="card" aria-labelledby="t-ex">
+  <h2 id="t-ex">Try an example</h2>
+  <p>The button fills in a public OpenAI answer file collected on 2026-09-27 for the Namebeam row of that day, NB-CZ-API_2026-09-27_namebeam_openai.json, and the hash the answers table records for it. Then press Compute and compare.</p>
+  <p class="source">Source: Edition 1 answers table, row NB-CZ-API_2026-09-27_namebeam_openai.json, markets.namebeam.ai/edition-1/. Checked 2026-11-24 9:01 PM CT.</p>
+  <div class="btnrow"><button type="button" id="example-btn">Fill in the example</button></div>
+</section>
+
+<section class="card step" aria-labelledby="t-s1">
+  <h2 id="t-s1">Step one. Give the file</h2>
+  <fieldset>
+    <legend>How will you give the file?</legend>
+    <div class="radios">
+      <label><input type="radio" name="mode" id="mode-upload" value="upload" checked> Upload the file</label>
+      <label><input type="radio" name="mode" id="mode-paste" value="paste"> Paste its text</label>
+      <label><input type="radio" name="mode" id="mode-link" value="link"> Name its public link</label>
+    </div>
+  </fieldset>
+
+  <div id="panel-upload">
+    <label class="fl" for="file-input">Choose the file</label>
+    <input type="file" id="file-input" aria-describedby="help-upload">
+    <p class="help" id="help-upload">Upload is exact. The page hashes the bytes of the file as they are on your device.</p>
+  </div>
+
+  <div id="panel-paste" hidden>
+    <label class="fl" for="paste-input">File text</label>
+    <textarea id="paste-input" spellcheck="false" autocomplete="off" aria-describedby="help-paste"></textarea>
+    <p class="help" id="help-paste">Pasted text is hashed as written in the box, using the usual web text encoding. The browser turns Windows line breaks into plain line breaks, so a file saved with Windows line breaks can show NO MATCH when pasted and MATCH when uploaded.</p>
+  </div>
+
+  <div id="panel-link" hidden>
+    <label class="fl" for="link-input">Public link to the file (https)</label>
+    <input type="url" id="link-input" inputmode="url" autocomplete="off" spellcheck="false" placeholder="https://" aria-describedby="help-link">
+    <p class="help" id="help-link">The page fetches this one link from your browser, without cookies. The host must allow reads from other sites; raw.githubusercontent.com does.</p>
+    <div class="btnrow"><button type="button" id="link-fetch">Fetch the file</button></div>
+    <p class="status" id="link-status" aria-live="polite"></p>
+  </div>
+</section>
+
+<section class="card step" aria-labelledby="t-s2">
+  <h2 id="t-s2">Step two. Give the published hash</h2>
+  <label class="fl" for="hash-input">Published hash (hexadecimal)</label>
+  <input type="text" id="hash-input" autocomplete="off" autocapitalize="off" spellcheck="false" aria-describedby="help-hash">
+  <p class="help" id="help-hash">Paste the hash as the record prints it. A line from a hash list, such as the hash, two spaces and a file name, is accepted.</p>
+
+  <details id="lookup-box">
+    <summary>Do not have the hash? Look up a row</summary>
+    <p class="help">Give a link to a public list, or choose a downloaded list file; if both are given, the link is used. The page reads hash lists, CSV files with a hash column, and JSON.</p>
+    <label class="fl" for="list-link">Public list link (https)</label>
+    <input type="url" id="list-link" inputmode="url" autocomplete="off" spellcheck="false" placeholder="https://">
+    <div class="btnrow">
+      <button type="button" id="fill-answers">Use the Edition one answers table</button>
+      <button type="button" id="fill-manifest">Use the Edition one manifest</button>
+    </div>
+    <label class="fl" for="list-file">Or choose a downloaded list file</label>
+    <input type="file" id="list-file">
+    <label class="fl" for="row-id">Row id</label>
+    <input type="text" id="row-id" autocomplete="off" autocapitalize="off" spellcheck="false" aria-describedby="help-row">
+    <p class="help" id="help-row">In the answers table the row id is the source_file name. In the manifest it is the file path. The .json ending is optional.</p>
+    <div class="btnrow"><button type="button" id="lookup-btn">Look up</button></div>
+    <p class="status" id="lookup-status" aria-live="polite"></p>
+    <div id="lookup-result" aria-live="polite"></div>
+  </details>
+</section>
+
+<section class="card step" aria-labelledby="t-s3">
+  <h2 id="t-s3">Step three. Compare</h2>
+  <div class="btnrow"><button type="button" class="primary" id="check-btn">Compute and compare</button></div>
+  <p class="err" id="check-error" role="alert"></p>
+  <div class="result" id="result" tabindex="-1" aria-live="polite" hidden>
+    <div class="badge" id="result-badge"></div>
+    <p id="result-body"></p>
+    <p class="note" id="result-hint" hidden></p>
+    <div class="lbl">Computed hash</div>
+    <div class="hashline" id="result-computed"></div>
+    <div class="lbl">Published hash</div>
+    <div class="hashline" id="result-published"></div>
+    <p class="small" id="result-size"></p>
+  </div>
+</section>
+
+<section class="info" aria-labelledby="t-what">
+  <h2 id="t-what">What a result shows</h2>
+  <p>A MATCH shows that your file has the same bytes as the file the hash was recorded for, so the file is unchanged since the hash was recorded.</p>
+  <p>A MATCH does not show that an engine gave that answer on that day, that the answer is correct, or that the list the hash came from is untouched. To check the list too, download the Edition one release and run its verify script against its manifest.</p>
+  <p>A NO MATCH shows that the two hashes differ. Check the file name, the row id and how the file was saved, then try again with the uploaded file.</p>
+  <p>Some rows in the record carry a hash, a count and flags and have no public answer file. This page looks those rows up and has no file to check them against.</p>
+  <p>CC BY 4.0 covers the Edition 1 compilation, code, annotations, derived columns and documentation. Provider answer text and search result rows fall outside the Namebeam license, and provider terms may apply.</p>
+  <p class="source">Source: Edition 1 release, markets.namebeam.ai/edition-1/. Checked 2026-11-24 9:05 PM CT.</p>
+</section>
+
+<section class="info" aria-labelledby="t-how">
+  <h2 id="t-how">How the page works</h2>
+  <p>The page is one file. It loads no outside scripts, sets no cookies and keeps nothing after you close it. It makes a network request when you press Fetch the file or Look up, and that request goes to the link you typed. Uploaded and pasted files are not sent anywhere.</p>
+  <p>You can check the work with a tool you already trust. Command line, written 2026-11-24: <code>sha256sum FILE</code> on Linux, <code>shasum -a 256 FILE</code> on a Mac, <code>certutil -hashfile FILE SHA256</code> on Windows.</p>
+  <p class="source">Source: this page, written 2026-11-24.</p>
+</section>
+
+</div>
+</main>
+
+<footer>
+  <div class="slogan">Every claim owes the future a receipt.</div>
+  <div>Part of the Carter Enterprise Network. Namebeam is a product of Carter Enterprise LLC.</div>
+  <div><a href="https://doi.org/10.5281/zenodo.23626831">Edition 1 DOI 10.5281/zenodo.23626831</a>, checked 2026-11-24.</div>
+</footer>
+
+<script>
+/*MSG-BEGIN*/
+const MSG = {
+  "noSubtle": "This browser or address cannot compute hashes. Open this page over https in a current browser.",
+  "needHash": "Enter the published hash to compare against.",
+  "hashLen": "That is not a full hash: found {n} hexadecimal characters.",
+  "hashChars": "That is not a hash: it must be made of hexadecimal characters (digits and the letters a to f).",
+  "hashMany": "That text holds more than one hash. Paste one hash.",
+  "needFile": "Choose a file to hash.",
+  "needText": "Paste the file text to hash.",
+  "needLink": "Enter the link to the file.",
+  "badLink": "That is not an https address.",
+  "fetching": "Fetching the link.",
+  "fetchFail": "The page could not fetch that link. The host may block reads from other sites, or the link may be wrong.",
+  "tooBig": "That is larger than {mb} megabytes, the limit of this page.",
+  "fetched": "Fetched {n} bytes from {host}.",
+  "readFail": "The page could not read that file.",
+  "noPublicFile": "No public answer file exists for this row, so this page does not check it.",
+  "match": "MATCH",
+  "noMatch": "NO MATCH",
+  "matchBody": "The hash computed in your browser equals the published hash. Your file has the same bytes as the file the hash was recorded for.",
+  "noMatchBody": "The two hashes differ. Your file is not byte for byte the file the hash was recorded for. Check that you have the right file and the right row, and that the file was not edited or saved again.",
+  "pasteHint": "You pasted text. Pasting can change line breaks. Upload the file to hash its exact bytes.",
+  "sizeLine": "{n} bytes hashed. File: {label}.",
+  "unnamed": "pasted text",
+  "exampleFilled": "The example is filled in. Press Compute and compare.",
+  "needList": "Enter a link to a public list, or choose a downloaded list file.",
+  "needRow": "Enter a row id.",
+  "listFormat": "That list is not in a format this page reads. It reads hash lists, CSV files with a hash column, and JSON.",
+  "listLoaded": "Read {rows} rows from {label}.",
+  "notFound": "No row with that id is in this list.",
+  "foundOne": "Recorded hash found.",
+  "foundMany": "This id is on {n} rows with different hashes. All are shown.",
+  "fileLevel": "This is a file-level hash from a manifest.",
+  "useHash": "Use this hash in step two",
+  "hashUsed": "The hash is in step two. Give the file in step one, then compare.",
+  "noTextNote": "This row has a recorded hash and no public answer file, so there is nothing to check here.",
+  "providerNote": "Provider answer text and search result rows fall outside the Namebeam license, and provider terms may apply.",
+  "dRow": "Row id",
+  "dHash": "Recorded hash",
+  "dDate": "Date",
+  "dEngine": "Engine",
+  "dKind": "Kind",
+  "dFrom": "Found in"
+};
+/*MSG-END*/
+
+// VR-CORE-BEGIN
+const VR = (function () {
+  'use strict';
+  const HASH_LEN = 64;
+  const NO_PUBLIC_FROM = '2026-10-25';
+  const MAX_BYTES = 30 * 1024 * 1024;
+  const ID_KEYS = ['source_file', 'check_id', 'row_id', 'id', 'file', 'filename', 'path', 'name'];
+  const HASH_KEYS = ['sha256', 'sha-256', 'sha256_hex', 'hash', 'digest'];
+
+  function bytesToHex(buf) {
+    const u = new Uint8Array(buf);
+    let s = '';
+    for (let i = 0; i < u.length; i++) { s += (u[i] < 16 ? '0' : '') + u[i].toString(16); }
+    return s;
+  }
+
+  async function sha256Hex(data, subtle) {
+    const d = await subtle.digest('SHA-256', data);
+    return bytesToHex(d);
+  }
+
+  // Accepts a bare hash, "hash  file" (hash list), "hash *file", BSD "SHA256 (file) = hash", or certutil style output.
+  function normalizeHash(raw) {
+    const s = String(raw == null ? '' : raw).trim();
+    if (!s) return { ok: false, code: 'empty' };
+    const runs = s.match(/[0-9a-fA-F]+/g) || [];
+    const found = runs.filter(function (x) { return x.length === HASH_LEN; });
+    const uniq = Array.from(new Set(found.map(function (x) { return x.toLowerCase(); })));
+    if (uniq.length === 1) return { ok: true, hex: uniq[0] };
+    if (uniq.length > 1) return { ok: false, code: 'many' };
+    const squeezed = s.replace(/\s+/g, '').replace(/^sha-?256[:=]/i, '');
+    if (/^[0-9a-fA-F]{64}$/.test(squeezed)) return { ok: true, hex: squeezed.toLowerCase() };
+    const tok = s.split(/\s+/)[0].replace(/^sha-?256[:=]/i, '').replace(/^["'`]+|["'`,;]+$/g, '');
+    if (/^[0-9a-fA-F]+$/.test(tok)) return { ok: false, code: 'len', n: tok.length };
+    return { ok: false, code: 'chars' };
+  }
+
+  function compareHashes(computed, published) {
+    return computed === published ? 'MATCH' : 'NO MATCH';
+  }
+
+  function parseCsv(text) {
+    const rows = [];
+    let row = [];
+    let field = '';
+    let inQ = false;
+    let i = text.charCodeAt(0) === 0xFEFF ? 1 : 0;
+    const n = text.length;
+    for (; i < n; i++) {
+      const c = text[i];
+      if (inQ) {
+        if (c === '"') {
+          if (text[i + 1] === '"') { field += '"'; i++; } else { inQ = false; }
+        } else { field += c; }
+      } else if (c === '"' && field === '') {
+        inQ = true;
+      } else if (c === ',') {
+        row.push(field); field = '';
+      } else if (c === '\n') {
+        row.push(field); rows.push(row); row = []; field = '';
+      } else if (c === '\r') {
+        if (text[i + 1] !== '\n') { row.push(field); rows.push(row); row = []; field = ''; }
+      } else { field += c; }
+    }
+    if (field !== '' || row.length) { row.push(field); rows.push(row); }
+    return rows;
+  }
+
+  function dateFromId(id) {
+    const m = String(id || '').match(/\d{4}-\d{2}-\d{2}/);
+    return m ? m[0] : '';
+  }
+
+  function baseName(s) {
+    const p = String(s).split('?')[0].split('#')[0].split('/');
+    return p[p.length - 1];
+  }
+
+  function pickKey(keys, cands) {
+    for (let i = 0; i < cands.length; i++) {
+      const k = keys.find(function (x) { return String(x).toLowerCase() === cands[i]; });
+      if (k !== undefined) return k;
+    }
+    return null;
+  }
+
+  function mkRow(id, hash, date, engine, kind) {
+    return { id: String(id), hash: String(hash).toLowerCase(), date: date || dateFromId(id), engine: engine || '', kind: kind || '' };
+  }
+
+  function finishIndex(format, rows, skipped) {
+    const byId = new Map();
+    const byBase = new Map();
+    function add(map, key, row) { const a = map.get(key); if (a) a.push(row); else map.set(key, [row]); }
+    rows.forEach(function (r) {
+      add(byId, r.id.toLowerCase(), r);
+      add(byBase, baseName(r.id).toLowerCase(), r);
+    });
+    return { ok: true, format: format, rows: rows, byId: byId, byBase: byBase, skipped: skipped };
+  }
+
+  function fromObjects(objs, format) {
+    if (!objs.length || typeof objs[0] !== 'object' || objs[0] === null) return { ok: false, code: 'format' };
+    const keys = Object.keys(objs[0]);
+    const idK = pickKey(keys, ID_KEYS);
+    const hK = pickKey(keys, HASH_KEYS);
+    if (idK === null || hK === null) return { ok: false, code: 'format' };
+    const dK = pickKey(keys, ['date', 'date_utc']);
+    const eK = pickKey(keys, ['engine']);
+    const kK = pickKey(keys, ['kind']);
+    const rows = [];
+    let skipped = 0;
+    objs.forEach(function (o) {
+      const h = o && String(o[hK] == null ? '' : o[hK]).trim();
+      if (h && /^[0-9a-fA-F]{64}$/.test(h) && o[idK] != null && String(o[idK]) !== '') {
+        rows.push(mkRow(o[idK], h, dK ? o[dK] : '', eK ? o[eK] : '', kK ? o[kK] : ''));
+      } else { skipped++; }
+    });
+    return rows.length ? finishIndex(format, rows, skipped) : { ok: false, code: 'format' };
+  }
+
+  function fromJson(j) {
+    if (Array.isArray(j)) return fromObjects(j, 'json');
+    if (j && typeof j === 'object') {
+      const ents = Object.keys(j);
+      const mapRows = [];
+      ents.forEach(function (k) {
+        const v = j[k];
+        if (typeof v === 'string' && /^[0-9a-fA-F]{64}$/.test(v.trim())) mapRows.push(mkRow(k, v.trim()));
+      });
+      if (mapRows.length && mapRows.length === ents.length) return finishIndex('json', mapRows, 0);
+      for (let i = 0; i < ents.length; i++) {
+        if (Array.isArray(j[ents[i]]) && j[ents[i]].length && typeof j[ents[i]][0] === 'object') {
+          const r = fromObjects(j[ents[i]], 'json');
+          if (r.ok) return r;
+        }
+      }
+    }
+    return { ok: false, code: 'format' };
+  }
+
+  function buildIndex(text) {
+    const t = String(text == null ? '' : text).replace(/^\uFEFF/, '');
+    const trimmed = t.replace(/^\s+/, '');
+    if (!trimmed) return { ok: false, code: 'format' };
+    if (trimmed[0] === '{' || trimmed[0] === '[') {
+      let j;
+      try { j = JSON.parse(trimmed); } catch (e) { return { ok: false, code: 'format' }; }
+      return fromJson(j);
+    }
+    const lines = t.split(/\r?\n/).filter(function (l) { return l.trim() !== ''; });
+    const manRe = /^([0-9a-fA-F]{64})[ \t]+\*?(.+?)\s*$/;
+    if (lines.length && lines.every(function (l) { return manRe.test(l); })) {
+      const rows = lines.map(function (l) { const m = l.match(manRe); return mkRow(m[2], m[1]); });
+      return finishIndex('manifest', rows, 0);
+    }
+    const grid = parseCsv(t);
+    if (grid.length < 2) return { ok: false, code: 'format' };
+    const head = grid[0];
+    const objs = [];
+    for (let r = 1; r < grid.length; r++) {
+      if (grid[r].length === 1 && grid[r][0] === '') continue;
+      const o = {};
+      for (let c = 0; c < head.length; c++) { o[head[c]] = grid[r][c] === undefined ? '' : grid[r][c]; }
+      objs.push(o);
+    }
+    return fromObjects(objs, 'csv');
+  }
+
+  function lookupRow(index, query) {
+    const q0 = String(query == null ? '' : query).trim().replace(/^["'`]+|["'`]+$/g, '');
+    if (!q0) return { ok: false, code: 'empty' };
+    const q = q0.split('?')[0].split('#')[0].toLowerCase();
+    let hits = index.byId.get(q) || index.byId.get(q + '.json') || [];
+    if (!hits.length) {
+      const b = baseName(q);
+      hits = index.byBase.get(b) || index.byBase.get(b + '.json') || [];
+    }
+    const seen = new Set();
+    const uniq = [];
+    hits.forEach(function (h) {
+      const key = h.id + '|' + h.hash;
+      if (!seen.has(key)) { seen.add(key); uniq.push(h); }
+    });
+    return { ok: true, hits: uniq };
+  }
+
+  // R82 guard: a Perplexity or Google result row dated on or after NO_PUBLIC_FROM has no public answer file.
+  function providerInfo(meta) {
+    const eng = String(meta.engine || '').toLowerCase();
+    const kind = String(meta.kind || '').toUpperCase();
+    const id = String(meta.id || '').toLowerCase();
+    const provider = /perplexity/.test(eng) || /google|aio|overview/.test(eng) || kind === 'SERP' ||
+      /(^|[_\/-])perplexity([._-]|$)/.test(id) || /nb-cz-serp_|(^|_)serp([._]|$)|(^|_)aio([._]|$)|overview/.test(id);
+    const date = meta.date || dateFromId(id);
+    const noPublicFile = provider && date !== '' && date >= NO_PUBLIC_FROM;
+    return { provider: provider, noPublicFile: noPublicFile, date: date };
+  }
+
+  function parseHttpsUrl(s) {
+    let u;
+    try { u = new URL(String(s == null ? '' : s).trim()); } catch (e) { return null; }
+    if (u.protocol !== 'https:' || u.username || u.password) return null;
+    return u;
+  }
+
+  async function readCapped(resp, cap) {
+    const len = Number((resp.headers && resp.headers.get && resp.headers.get('content-length')) || 0);
+    if (len > cap) return { ok: false, code: 'big' };
+    if (!resp.body || !resp.body.getReader) {
+      const ab = await resp.arrayBuffer();
+      if (ab.byteLength > cap) return { ok: false, code: 'big' };
+      return { ok: true, bytes: new Uint8Array(ab) };
+    }
+    const reader = resp.body.getReader();
+    const chunks = [];
+    let total = 0;
+    for (;;) {
+      const step = await reader.read();
+      if (step.done) break;
+      total += step.value.length;
+      if (total > cap) { try { reader.cancel(); } catch (e) { /* ignore */ } return { ok: false, code: 'big' }; }
+      chunks.push(step.value);
+    }
+    const out = new Uint8Array(total);
+    let off = 0;
+    chunks.forEach(function (c) { out.set(c, off); off += c.length; });
+    return { ok: true, bytes: out };
+  }
+
+  async function fetchPublic(url, fetchFn, cap) {
+    const u = parseHttpsUrl(url);
+    if (!u) return { ok: false, code: 'badLink' };
+    let resp;
+    try {
+      resp = await fetchFn(u.href, { method: 'GET', mode: 'cors', credentials: 'omit', cache: 'no-store', redirect: 'follow', referrerPolicy: 'no-referrer' });
+    } catch (e) { return { ok: false, code: 'fetchFail' }; }
+    if (!resp || !resp.ok) return { ok: false, code: 'fetchFail' };
+    let host = u.host;
+    try { if (resp.url) host = new URL(resp.url).host; } catch (e) { /* keep */ }
+    const r = await readCapped(resp, cap || MAX_BYTES);
+    if (!r.ok) return r;
+    return { ok: true, bytes: r.bytes, host: host, url: u.href };
+  }
+
+  return {
+    HASH_LEN: HASH_LEN, NO_PUBLIC_FROM: NO_PUBLIC_FROM, MAX_BYTES: MAX_BYTES,
+    bytesToHex: bytesToHex, sha256Hex: sha256Hex, normalizeHash: normalizeHash, compareHashes: compareHashes,
+    parseCsv: parseCsv, buildIndex: buildIndex, lookupRow: lookupRow, providerInfo: providerInfo,
+    parseHttpsUrl: parseHttpsUrl, readCapped: readCapped, fetchPublic: fetchPublic, baseName: baseName
+  };
+})();
+// VR-CORE-END
+
+(function () {
+  'use strict';
+  const ANSWERS_URL = 'https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/data/answers_2026-09-01_to_2026-10-13.csv';
+  const MANIFEST_URL = 'https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/releases/edition-1/MANIFEST.sha256';
+  const EXAMPLE_ID = 'NB-CZ-API_2026-09-27_namebeam_openai.json';
+  const EXAMPLE_URL = 'https://raw.githubusercontent.com/mrcrtr1979-droid/namebeam-visibility-index/main/corpus/e1/' + EXAMPLE_ID;
+  const EXAMPLE_HASH = 'ea198c7d6f3e6a56fbf20306a6cb59ac5680c8c9d3501740c86ecc2f2985d1a4';
+
+  function $(id) { return document.getElementById(id); }
+  function fmt(s, v) { return s.replace(/\{(\w+)\}/g, function (m, k) { return v && v[k] !== undefined ? String(v[k]) : m; }); }
+  function mode() { return document.querySelector('input[name="mode"]:checked').value; }
+  function setText(id, t) { $(id).textContent = t; }
+
+  const state = { linkCache: null, listCache: null };
+
+  function showMode() {
+    const m = mode();
+    $('panel-upload').hidden = m !== 'upload';
+    $('panel-paste').hidden = m !== 'paste';
+    $('panel-link').hidden = m !== 'link';
+  }
+
+  function hashError(code, n) {
+    if (code === 'empty') return MSG.needHash;
+    if (code === 'len') return fmt(MSG.hashLen, { n: n });
+    if (code === 'many') return MSG.hashMany;
+    return MSG.hashChars;
+  }
+
+  async function getBytes() {
+    const m = mode();
+    if (m === 'upload') {
+      const f = $('file-input').files && $('file-input').files[0];
+      if (!f) return { ok: false, msg: MSG.needFile };
+      if (VR.providerInfo({ id: f.name }).noPublicFile) return { ok: false, msg: MSG.noPublicFile };
+      if (f.size > VR.MAX_BYTES) return { ok: false, msg: fmt(MSG.tooBig, { mb: VR.MAX_BYTES / 1048576 }) };
+      try { return { ok: true, bytes: new Uint8Array(await f.arrayBuffer()), label: f.name, pasted: false }; }
+      catch (e) { return { ok: false, msg: MSG.readFail }; }
+    }
+    if (m === 'paste') {
+      const t = $('paste-input').value;
+      if (!t) return { ok: false, msg: MSG.needText };
+      return { ok: true, bytes: new TextEncoder().encode(t), label: MSG.unnamed, pasted: true };
+    }
+    return fetchLink();
+  }
+
+  async function fetchLink() {
+    const raw = $('link-input').value.trim();
+    if (!raw) return { ok: false, msg: MSG.needLink };
+    const u = VR.parseHttpsUrl(raw);
+    if (!u) return { ok: false, msg: MSG.badLink };
+    if (VR.providerInfo({ id: VR.baseName(u.pathname) }).noPublicFile) { setText('link-status', MSG.noPublicFile); return { ok: false, msg: MSG.noPublicFile }; }
+    if (state.linkCache && state.linkCache.url === u.href) {
+      return { ok: true, bytes: state.linkCache.bytes, label: VR.baseName(u.pathname) || u.host, pasted: false, url: u.href };
+    }
+    setText('link-status', MSG.fetching);
+    const r = await VR.fetchPublic(u.href, window.fetch.bind(window));
+    if (!r.ok) {
+      const msg = r.code === 'big' ? fmt(MSG.tooBig, { mb: VR.MAX_BYTES / 1048576 }) : r.code === 'badLink' ? MSG.badLink : MSG.fetchFail;
+      setText('link-status', msg);
+      return { ok: false, msg: msg };
+    }
+    state.linkCache = { url: u.href, bytes: r.bytes };
+    setText('link-status', fmt(MSG.fetched, { n: r.bytes.length, host: r.host }));
+    return { ok: true, bytes: r.bytes, label: VR.baseName(u.pathname) || u.host, pasted: false, url: u.href };
+  }
+
+  async function onCheck() {
+    setText('check-error', '');
+    $('result').hidden = true;
+    const h = VR.normalizeHash($('hash-input').value);
+    if (!h.ok) { setText('check-error', hashError(h.code, h.n)); $('hash-input').focus(); return; }
+    if (!(window.crypto && window.crypto.subtle)) { setText('check-error', MSG.noSubtle); return; }
+    const got = await getBytes();
+    if (!got.ok) { setText('check-error', got.msg); return; }
+    let computed;
+    try { computed = await VR.sha256Hex(got.bytes, window.crypto.subtle); }
+    catch (e) { setText('check-error', MSG.noSubtle); return; }
+    const verdict = VR.compareHashes(computed, h.hex);
+    const res = $('result');
+    res.className = 'result ' + (verdict === 'MATCH' ? 'ok' : 'bad');
+    setText('result-badge', verdict === 'MATCH' ? MSG.match : MSG.noMatch);
+    setText('result-body', verdict === 'MATCH' ? MSG.matchBody : MSG.noMatchBody);
+    setText('result-computed', computed);
+    setText('result-published', h.hex);
+    setText('result-size', fmt(MSG.sizeLine, { n: got.bytes.length, label: got.label }));
+    const hint = $('result-hint');
+    hint.hidden = !(verdict !== 'MATCH' && got.pasted);
+    hint.textContent = hint.hidden ? '' : MSG.pasteHint;
+    res.hidden = false;
+    res.focus();
+  }
+
+  async function loadList() {
+    const url = $('list-link').value.trim();
+    const f = $('list-file').files && $('list-file').files[0];
+    if (!url && !f) return { ok: false, msg: MSG.needList };
+    let key, label, text;
+    if (url) {
+      const u = VR.parseHttpsUrl(url);
+      if (!u) return { ok: false, msg: MSG.badLink };
+      key = 'u|' + u.href;
+      label = VR.baseName(u.pathname) || u.host;
+      if (state.listCache && state.listCache.key === key) return { ok: true, index: state.listCache.index, label: label };
+      setText('lookup-status', MSG.fetching);
+      const r = await VR.fetchPublic(u.href, window.fetch.bind(window));
+      if (!r.ok) return { ok: false, msg: r.code === 'big' ? fmt(MSG.tooBig, { mb: VR.MAX_BYTES / 1048576 }) : MSG.fetchFail };
+      text = new TextDecoder('utf-8').decode(r.bytes);
+    } else {
+      key = 'f|' + f.name + '|' + f.size + '|' + f.lastModified;
+      label = f.name;
+      if (state.listCache && state.listCache.key === key) return { ok: true, index: state.listCache.index, label: label };
+      if (f.size > VR.MAX_BYTES) return { ok: false, msg: fmt(MSG.tooBig, { mb: VR.MAX_BYTES / 1048576 }) };
+      try { text = new TextDecoder('utf-8').decode(new Uint8Array(await f.arrayBuffer())); }
+      catch (e) { return { ok: false, msg: MSG.readFail }; }
+    }
+    const index = VR.buildIndex(text);
+    if (!index.ok) return { ok: false, msg: MSG.listFormat };
+    state.listCache = { key: key, index: index };
+    return { ok: true, index: index, label: label };
+  }
+
+  function addRow(dl, term, value) {
+    if (!value) return;
+    const dt = document.createElement('dt'); dt.textContent = term;
+    const dd = document.createElement('dd'); dd.textContent = value;
+    dl.appendChild(dt); dl.appendChild(dd);
+  }
+
+  async function onLookup() {
+    const box = $('lookup-result');
+    box.textContent = '';
+    setText('lookup-status', '');
+    const id = $('row-id').value.trim();
+    if (!id) { setText('lookup-status', MSG.needRow); $('row-id').focus(); return; }
+    const L = await loadList();
+    if (!L.ok) { setText('lookup-status', L.msg); return; }
+    const r = VR.lookupRow(L.index, id);
+    const loaded = fmt(MSG.listLoaded, { rows: L.index.rows.length, label: L.label });
+    if (!r.ok || !r.hits.length) { setText('lookup-status', loaded + ' ' + MSG.notFound); return; }
+    const distinct = new Set(r.hits.map(function (x) { return x.hash; })).size;
+    setText('lookup-status', loaded + ' ' + (distinct > 1 ? fmt(MSG.foundMany, { n: distinct }) : MSG.foundOne));
+    r.hits.forEach(function (hit) {
+      const info = VR.providerInfo(hit);
+      const div = document.createElement('div');
+      div.className = 'hit';
+      const dl = document.createElement('dl');
+      addRow(dl, MSG.dRow, hit.id);
+      addRow(dl, MSG.dHash, hit.hash);
+      addRow(dl, MSG.dDate, hit.date);
+      addRow(dl, MSG.dEngine, hit.engine);
+      addRow(dl, MSG.dKind, hit.kind);
+      addRow(dl, MSG.dFrom, L.label);
+      div.appendChild(dl);
+      if (L.index.format === 'manifest') {
+        const p = document.createElement('p'); p.className = 'help'; p.textContent = MSG.fileLevel; div.appendChild(p);
+      }
+      if (info.noPublicFile) {
+        const p = document.createElement('p'); p.className = 'note'; p.textContent = MSG.noTextNote; div.appendChild(p);
+      } else {
+        if (info.provider) {
+          const p = document.createElement('p'); p.className = 'note'; p.textContent = MSG.providerNote; div.appendChild(p);
+        }
+        const b = document.createElement('button');
+        b.type = 'button'; b.textContent = MSG.useHash;
+        b.addEventListener('click', function () {
+          $('hash-input').value = hit.hash;
+          setText('lookup-status', MSG.hashUsed);
+          $('hash-input').focus();
+        });
+        div.appendChild(b);
+      }
+      box.appendChild(div);
+    });
+  }
+
+  function fillExample() {
+    $('mode-link').checked = true;
+    showMode();
+    $('link-input').value = EXAMPLE_URL;
+    $('hash-input').value = EXAMPLE_HASH;
+    $('list-link').value = ANSWERS_URL;
+    $('row-id').value = EXAMPLE_ID;
+    setText('check-error', '');
+    setText('link-status', MSG.exampleFilled);
+  }
+
+  Array.prototype.forEach.call(document.querySelectorAll('input[name="mode"]'), function (r) { r.addEventListener('change', showMode); });
+  $('check-btn').addEventListener('click', function () { onCheck(); });
+  $('link-fetch').addEventListener('click', function () { fetchLink(); });
+  $('lookup-btn').addEventListener('click', function () { onLookup(); });
+  $('row-id').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); onLookup(); } });
+  $('hash-input').addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); onCheck(); } });
+  $('fill-answers').addEventListener('click', function () { $('list-link').value = ANSWERS_URL; });
+  $('fill-manifest').addEventListener('click', function () { $('list-link').value = MANIFEST_URL; });
+  $('example-btn').addEventListener('click', fillExample);
+  showMode();
+})();
+</script>
+</body>
+</html>
