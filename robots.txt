@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Sitemap: https://markets.namebeam.ai/sitemap.xml
+Sitemap: https://markets.namebeam.ai/sitemap-who-does-ai-recommend.xml
 
 User-agent: GPTBot
 Allow: /
