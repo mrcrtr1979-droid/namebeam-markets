@@ -4,34 +4,34 @@
   "niche": "dentists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-23",
-  "run_days": 47,
-  "rows_total": 218,
+  "window_last": "2026-11-24",
+  "run_days": 48,
+  "rows_total": 223,
   "by_engine": {
     "anthropic": {
-      "rows": 47,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 48,
+      "ok": 47,
+      "days_with_ok": 47
     },
     "gemini": {
-      "rows": 47,
+      "rows": 48,
       "ok": 31,
       "days_with_ok": 31
     },
     "openai": {
-      "rows": 47,
-      "ok": 42,
-      "days_with_ok": 42
+      "rows": 48,
+      "ok": 43,
+      "days_with_ok": 43
     },
     "perplexity": {
-      "rows": 47,
-      "ok": 47,
-      "days_with_ok": 47
+      "rows": 48,
+      "ok": 48,
+      "days_with_ok": 48
     },
     "google_serp": {
-      "rows": 30,
-      "ok": 22,
-      "days_with_ok": 22
+      "rows": 31,
+      "ok": 23,
+      "days_with_ok": 23
     }
   },
   "by_date": [
@@ -551,19 +551,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/atlanta-dentists/rows.csv",
-      "sha256": "8b5e1d5c53dc6ba7d98d38a68827e8086bc3b024e1a87d9d81281594f44e496a"
+      "sha256": "9fc9445f0c2b97dc37583199551a7da72d264dd8ed8458b8eef4be943c1c4257"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-24 18:14:17 UTC",
+  "generated_utc": "2026-11-26 17:16:48 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best dentist in Atlanta for a dental implant?"

@@ -750,3 +750,18 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity gemini,dropped,Baumgartner Law Firm,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity gemini,dropped,Terry Bryant Accident,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity gemini,dropped,Schedule Free Consultations,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,State Bar of Texas,openai perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,State Bar of Texas attorney search,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Houston Bar Association lawyer referral service,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,MedPay,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Sutliff & Stout,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,"Abraham, Watkins",perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Terry Bryant,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Board Certification in Personal Injury Trial Law,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,"Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Sorrels Law,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Texas Board of Legal Specialization. If,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Martindale-Hubbell,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Super Lawyers,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,State Bar of Texas Lawyer Referral,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Information Service,openai

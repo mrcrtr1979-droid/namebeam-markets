@@ -4,32 +4,32 @@
   "niche": "personal injury attorneys",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-23",
-  "run_days": 106,
-  "rows_total": 535,
+  "window_last": "2026-11-24",
+  "run_days": 107,
+  "rows_total": 540,
   "by_engine": {
     "openai": {
-      "rows": 107,
-      "ok": 102,
-      "days_with_ok": 101
+      "rows": 108,
+      "ok": 103,
+      "days_with_ok": 102
     },
     "anthropic": {
-      "rows": 107,
-      "ok": 107,
-      "days_with_ok": 106
+      "rows": 108,
+      "ok": 108,
+      "days_with_ok": 107
     },
     "perplexity": {
-      "rows": 107,
-      "ok": 104,
-      "days_with_ok": 103
+      "rows": 108,
+      "ok": 105,
+      "days_with_ok": 104
     },
     "gemini": {
-      "rows": 107,
+      "rows": 108,
       "ok": 57,
       "days_with_ok": 57
     },
     "google_serp": {
-      "rows": 107,
+      "rows": 108,
       "ok": 65,
       "days_with_ok": 65
     }
@@ -1211,18 +1211,28 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/atlanta-personal-injury/all.csv",
-      "sha256": "4c3a4c5d0b55692c5b4f91faaa30988afd48cccd09a475da3ee67b95cd58bb1a"
+      "sha256": "462da9c24389cdf18e575f4aec2389477c9b6b1ccb86bee223afb9a57f46a694"
     },
-    "day_csv_count": 106,
+    "day_csv_count": 107,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/atlanta-personal-injury/changes.csv",
-      "sha256": "26d33aaba3718dbc952289d116cd1e4e20b4f1fcb436777864282033b82d2936"
+      "sha256": "3699972524ccbd7e044b09e057d04c3772c30b22fb2d6fea5471f374cfbcb1df"
     }
   },
   "engine_behavior": {
@@ -1251,7 +1261,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-24 18:14:17 UTC",
+  "generated_utc": "2026-11-26 17:16:49 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

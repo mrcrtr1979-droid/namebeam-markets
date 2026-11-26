@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-24T18:14:21Z",
-  "latest_run_day": "2026-11-23",
+  "generated_utc": "2026-11-26T17:16:52Z",
+  "latest_run_day": "2026-11-24",
   "window_first": "2026-08-05",
-  "window_end": "2026-11-23",
+  "window_end": "2026-11-24",
   "markets": {
     "atlanta-dentists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 188,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 192,
       "market": "Atlanta GA",
       "niche": "dentists",
       "question": "Who is the best dentist in Atlanta for a dental implant?",
@@ -17,49 +17,49 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
+          "rows": 48,
+          "ok": 47,
+          "days_with_ok": 47
         },
         "gemini": {
-          "rows": 47,
+          "rows": 48,
           "ok": 31,
           "days_with_ok": 31
         },
         "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
         },
         "perplexity": {
-          "rows": 47,
-          "ok": 47,
-          "days_with_ok": 47
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
         },
         "google_serp": {
-          "rows": 30,
-          "ok": 22,
-          "days_with_ok": 22
+          "rows": 31,
+          "ok": 23,
+          "days_with_ok": 23
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 16
-          },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
           },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 5
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 8
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 13
           },
           "google_serp": {
             "status": "OK",
@@ -70,10 +70,10 @@
     },
     "atlanta-hvac": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 459,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 464,
       "market": "Atlanta GA",
       "niche": "hvac repair and replacement",
       "question": "Who is the best HVAC company in Atlanta to replace my air conditioner?",
@@ -81,49 +81,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
-          "ok": 46,
-          "days_with_ok": 45
+          "rows": 108,
+          "ok": 47,
+          "days_with_ok": 46
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 100,
-          "days_with_ok": 99
+          "rows": 108,
+          "ok": 101,
+          "days_with_ok": 100
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "gemini": {
-            "status": "QUOTA_BLOCKED",
+          "anthropic": {
+            "status": "OK",
             "names_count": 0
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 7
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 45
           },
           "openai": {
             "status": "OK",
-            "names_count": 16
-          },
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
+            "names_count": 15
           },
           "google_serp": {
             "status": "OK",
@@ -134,10 +134,10 @@
     },
     "atlanta-orthodontists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 191,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 196,
       "market": "Atlanta GA",
       "niche": "orthodontists",
       "question": "Who is the best orthodontist in Atlanta for braces or Invisalign?",
@@ -145,49 +145,49 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
-        },
-        "gemini": {
-          "rows": 47,
-          "ok": 32,
-          "days_with_ok": 32
-        },
-        "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
-        },
-        "perplexity": {
-          "rows": 47,
+          "rows": 48,
           "ok": 47,
           "days_with_ok": 47
         },
+        "gemini": {
+          "rows": 48,
+          "ok": 33,
+          "days_with_ok": 33
+        },
+        "openai": {
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
+        },
+        "perplexity": {
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
+        },
         "google_serp": {
-          "rows": 30,
-          "ok": 24,
-          "days_with_ok": 24
+          "rows": 31,
+          "ok": 25,
+          "days_with_ok": 25
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 15
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+          "openai": {
+            "status": "OK",
+            "names_count": 13
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 6
+            "names_count": 11
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 0
           },
           "google_serp": {
             "status": "OK",
@@ -198,10 +198,10 @@
     },
     "atlanta-personal-injury": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 435,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 438,
       "market": "Atlanta GA",
       "niche": "personal injury attorneys",
       "question": "Who is the best personal injury lawyer in Atlanta for a car accident case?",
@@ -209,52 +209,52 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
+          "rows": 108,
           "ok": 57,
           "days_with_ok": 57
         },
         "google_serp": {
-          "rows": 107,
+          "rows": 108,
           "ok": 65,
           "days_with_ok": 65
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
+          "perplexity": {
+            "status": "OK",
+            "names_count": 6
+          },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
           },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 4
-          },
           "openai": {
             "status": "OK",
-            "names_count": 10
+            "names_count": 6
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
           "google_serp": {
-            "status": "OK",
+            "status": "EXTRACTION_FAILED",
             "names_count": 0
           }
         }
@@ -262,10 +262,10 @@
     },
     "branson-short-term-rental": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 449,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 453,
       "market": "Branson MO",
       "niche": "short-term rental / Airbnb",
       "question": "Where should I stay in Branson Missouri, an Airbnb or a hotel, and which specific places are best?",
@@ -273,48 +273,48 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 103,
-          "days_with_ok": 102
+          "rows": 113,
+          "ok": 104,
+          "days_with_ok": 103
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 111,
-          "days_with_ok": 106
+          "rows": 116,
+          "ok": 112,
+          "days_with_ok": 107
         },
         "gemini": {
-          "rows": 115,
+          "rows": 116,
           "ok": 48,
           "days_with_ok": 47
         },
         "google_serp": {
-          "rows": 115,
-          "ok": 75,
-          "days_with_ok": 72
+          "rows": 116,
+          "ok": 76,
+          "days_with_ok": 73
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 58
-          },
           "perplexity": {
             "status": "OK",
-            "names_count": 16
-          },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+            "names_count": 22
           },
           "anthropic": {
             "status": "OK",
+            "names_count": 0
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 54
+          },
+          "gemini": {
+            "status": "FAILED",
             "names_count": 0
           },
           "google_serp": {
@@ -326,10 +326,10 @@
     },
     "charlotte-tanning-salons": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 392,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 396,
       "market": "Charlotte NC",
       "niche": "tanning salons",
       "question": "What is the best tanning salon in Charlotte NC?",
@@ -337,45 +337,45 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
+          "rows": 90,
           "ok": 51,
           "days_with_ok": 51
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 82,
-          "days_with_ok": 82
+          "rows": 90,
+          "ok": 83,
+          "days_with_ok": 83
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
+          "perplexity": {
             "status": "OK",
-            "names_count": 4
+            "names_count": 6
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "perplexity": {
+          "openai": {
             "status": "OK",
-            "names_count": 6
+            "names_count": 5
           },
           "gemini": {
             "status": "FAILED",
@@ -390,10 +390,10 @@
     },
     "chicago-personal-injury": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 445,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 448,
       "market": "Chicago IL",
       "niche": "personal injury attorneys",
       "question": "Who is the best personal injury attorney in Chicago for a car accident claim?",
@@ -401,42 +401,98 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 101,
-          "days_with_ok": 100
+          "rows": 108,
+          "ok": 102,
+          "days_with_ok": 101
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
+          "rows": 108,
           "ok": 61,
           "days_with_ok": 61
         },
         "google_serp": {
-          "rows": 107,
+          "rows": 108,
           "ok": 72,
           "days_with_ok": 71
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "openai": {
             "status": "OK",
-            "names_count": 18
+            "names_count": 9
+          },
+          "gemini": {
+            "status": "FAILED",
+            "names_count": 0
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 7
+          },
+          "google_serp": {
+            "status": "FAILED",
+            "names_count": 0
+          }
+        }
+      }
+    },
+    "columbus-tanning-salons": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 401,
+      "market": "Columbus OH",
+      "niche": "tanning salons",
+      "question": "What is the best tanning salon in Columbus OH?",
+      "shape": "day_pages",
+      "collection_active": true,
+      "by_engine": {
+        "openai": {
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
+        },
+        "anthropic": {
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
+        },
+        "perplexity": {
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
+        },
+        "gemini": {
+          "rows": 90,
+          "ok": 55,
+          "days_with_ok": 55
+        },
+        "google_serp": {
+          "rows": 90,
+          "ok": 84,
+          "days_with_ok": 84
+        }
+      },
+      "latest_day": {
+        "date": "2026-11-24",
+        "engines": {
           "gemini": {
             "status": "FAILED",
             "names_count": 0
@@ -445,69 +501,13 @@
             "status": "OK",
             "names_count": 6
           },
-          "google_serp": {
-            "status": "OK",
-            "names_count": 0
-          }
-        }
-      }
-    },
-    "columbus-tanning-salons": {
-      "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 397,
-      "market": "Columbus OH",
-      "niche": "tanning salons",
-      "question": "What is the best tanning salon in Columbus OH?",
-      "shape": "day_pages",
-      "collection_active": true,
-      "by_engine": {
-        "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
-        },
-        "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
-        },
-        "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
-        },
-        "gemini": {
-          "rows": 89,
-          "ok": 55,
-          "days_with_ok": 55
-        },
-        "google_serp": {
-          "rows": 89,
-          "ok": 83,
-          "days_with_ok": 83
-        }
-      },
-      "latest_day": {
-        "date": "2026-11-23",
-        "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 5
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "gemini": {
+          "openai": {
             "status": "OK",
-            "names_count": 21
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 7
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
@@ -518,10 +518,10 @@
     },
     "dallas-dentists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 195,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 200,
       "market": "Dallas TX",
       "niche": "dentists",
       "question": "Who is the best dentist in Dallas for a dental implant?",
@@ -529,49 +529,49 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
-        },
-        "gemini": {
-          "rows": 47,
-          "ok": 34,
-          "days_with_ok": 34
-        },
-        "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
-        },
-        "perplexity": {
-          "rows": 47,
+          "rows": 48,
           "ok": 47,
           "days_with_ok": 47
         },
+        "gemini": {
+          "rows": 48,
+          "ok": 35,
+          "days_with_ok": 35
+        },
+        "openai": {
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
+        },
+        "perplexity": {
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
+        },
         "google_serp": {
-          "rows": 30,
-          "ok": 26,
-          "days_with_ok": 26
+          "rows": 31,
+          "ok": 27,
+          "days_with_ok": 27
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
-          },
           "openai": {
             "status": "OK",
-            "names_count": 18
+            "names_count": 13
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 7
           },
           "gemini": {
             "status": "OK",
-            "names_count": 9
+            "names_count": 32
+          },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
           },
           "google_serp": {
             "status": "OK",
@@ -582,10 +582,10 @@
     },
     "dallas-orthodontists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 194,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 198,
       "market": "Dallas TX",
       "niche": "orthodontists",
       "question": "Who is the best orthodontist in Dallas for braces or Invisalign?",
@@ -593,48 +593,48 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
+          "rows": 48,
+          "ok": 47,
+          "days_with_ok": 47
         },
         "gemini": {
-          "rows": 47,
+          "rows": 48,
           "ok": 33,
           "days_with_ok": 33
         },
         "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
         },
         "perplexity": {
-          "rows": 47,
-          "ok": 47,
-          "days_with_ok": 47
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
         },
         "google_serp": {
-          "rows": 30,
-          "ok": 26,
-          "days_with_ok": 26
+          "rows": 31,
+          "ok": 27,
+          "days_with_ok": 27
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "perplexity": {
-            "status": "OK",
-            "names_count": 9
-          },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
           "openai": {
             "status": "OK",
-            "names_count": 13
+            "names_count": 11
           },
           "anthropic": {
             "status": "OK",
+            "names_count": 0
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 8
+          },
+          "gemini": {
+            "status": "FAILED",
             "names_count": 0
           },
           "google_serp": {
@@ -646,10 +646,10 @@
     },
     "dallas-personal-injury": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 436,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 440,
       "market": "Dallas TX",
       "niche": "personal injury attorneys",
       "question": "Who is the best personal injury lawyer in Dallas for a truck accident case?",
@@ -657,49 +657,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
+          "rows": 108,
           "ok": 59,
           "days_with_ok": 59
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 64,
-          "days_with_ok": 63
+          "rows": 108,
+          "ok": 65,
+          "days_with_ok": 64
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
-          "openai": {
-            "status": "OK",
-            "names_count": 4
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
+          "gemini": {
+            "status": "FAILED",
+            "names_count": 0
+          },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 7
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 10
           },
           "google_serp": {
             "status": "OK",
@@ -710,10 +710,10 @@
     },
     "dallas-roofing": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 427,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 432,
       "market": "Dallas TX",
       "niche": "residential roofing",
       "question": "Who is the best roofing company in Dallas for a roof replacement?",
@@ -721,49 +721,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
-          "ok": 51,
-          "days_with_ok": 51
+          "rows": 108,
+          "ok": 52,
+          "days_with_ok": 52
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 63,
-          "days_with_ok": 62
+          "rows": 108,
+          "ok": 64,
+          "days_with_ok": 63
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "gemini": {
             "status": "OK",
-            "names_count": 15
+            "names_count": 5
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 4
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 10
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
-          },
-          "openai": {
-            "status": "OK",
-            "names_count": 16
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 2
           },
           "google_serp": {
             "status": "OK",
@@ -774,10 +774,10 @@
     },
     "denver-roofing": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 430,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 435,
       "market": "Denver CO",
       "niche": "residential roofing",
       "question": "Who is the best roofer in Denver for hail damage repair?",
@@ -785,49 +785,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
-          "ok": 51,
-          "days_with_ok": 51
+          "rows": 108,
+          "ok": 52,
+          "days_with_ok": 52
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 66,
-          "days_with_ok": 65
+          "rows": 108,
+          "ok": 67,
+          "days_with_ok": 66
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 9
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 6
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
           "gemini": {
             "status": "OK",
-            "names_count": 22
+            "names_count": 14
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 8
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 9
           },
           "google_serp": {
             "status": "OK",
@@ -838,10 +838,10 @@
     },
     "houston-hvac": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 460,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 465,
       "market": "Houston TX",
       "niche": "hvac repair and replacement",
       "question": "Who is the best HVAC company in Houston for AC repair?",
@@ -849,49 +849,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
-        },
-        "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
-        },
-        "perplexity": {
-          "rows": 107,
+          "rows": 108,
           "ok": 103,
           "days_with_ok": 102
         },
+        "anthropic": {
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
+        },
+        "perplexity": {
+          "rows": 108,
+          "ok": 104,
+          "days_with_ok": 103
+        },
         "gemini": {
-          "rows": 107,
-          "ok": 46,
-          "days_with_ok": 46
+          "rows": 108,
+          "ok": 47,
+          "days_with_ok": 47
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 12
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 1
           },
           "gemini": {
-            "status": "QUOTA_BLOCKED",
-            "names_count": 0
+            "status": "OK",
+            "names_count": 32
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 3
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 14
           },
           "google_serp": {
             "status": "OK",
@@ -902,10 +902,10 @@
     },
     "houston-personal-injury": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 437,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 441,
       "market": "Houston TX",
       "niche": "personal injury attorneys",
       "question": "Who is the best personal injury lawyer in Houston for a car wreck?",
@@ -913,45 +913,45 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
+          "rows": 108,
           "ok": 59,
           "days_with_ok": 59
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 65,
-          "days_with_ok": 64
+          "rows": 108,
+          "ok": 66,
+          "days_with_ok": 65
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "perplexity": {
-            "status": "OK",
-            "names_count": 4
-          },
-          "gemini": {
-            "status": "OK",
-            "names_count": 15
-          },
           "openai": {
             "status": "OK",
             "names_count": 10
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 7
+          },
+          "gemini": {
+            "status": "FAILED",
+            "names_count": 0
           },
           "anthropic": {
             "status": "OK",
@@ -966,10 +966,10 @@
     },
     "kansas-city-health-insurance": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 436,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 441,
       "market": "Kansas City MO",
       "niche": "health insurance brokers",
       "question": "Who is the best health insurance broker in Kansas City to help me pick a plan?",
@@ -977,49 +977,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
-          "ok": 54,
-          "days_with_ok": 54
+          "rows": 108,
+          "ok": 55,
+          "days_with_ok": 55
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 69,
-          "days_with_ok": 68
+          "rows": 108,
+          "ok": 70,
+          "days_with_ok": 69
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
+          "perplexity": {
             "status": "OK",
-            "names_count": 23
+            "names_count": 7
           },
           "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+            "status": "OK",
+            "names_count": 50
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 22
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 8
           },
           "google_serp": {
             "status": "OK",
@@ -1030,10 +1030,10 @@
     },
     "miami-roofing": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 426,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 431,
       "market": "Miami FL",
       "niche": "residential roofing",
       "question": "Who is the best roofing company in Miami for hurricane-rated roof replacement?",
@@ -1041,48 +1041,48 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
-          "ok": 48,
-          "days_with_ok": 48
+          "rows": 108,
+          "ok": 49,
+          "days_with_ok": 49
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 65,
-          "days_with_ok": 64
+          "rows": 108,
+          "ok": 66,
+          "days_with_ok": 65
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "perplexity": {
-            "status": "OK",
-            "names_count": 12
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
           "openai": {
             "status": "OK",
-            "names_count": 15
+            "names_count": 14
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 8
           },
           "gemini": {
-            "status": "FAILED",
+            "status": "OK",
             "names_count": 0
           },
           "google_serp": {
@@ -1094,10 +1094,10 @@
     },
     "nashville-short-term-rental": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 446,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 449,
       "market": "Nashville TN",
       "niche": "short-term rental / Airbnb",
       "question": "What is the best Airbnb or short term rental to book in Nashville for a family of four?",
@@ -1105,33 +1105,33 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 103,
-          "days_with_ok": 102
+          "rows": 113,
+          "ok": 104,
+          "days_with_ok": 103
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 111,
-          "days_with_ok": 106
+          "rows": 116,
+          "ok": 112,
+          "days_with_ok": 107
         },
         "gemini": {
-          "rows": 115,
+          "rows": 116,
           "ok": 51,
           "days_with_ok": 50
         },
         "google_serp": {
-          "rows": 115,
+          "rows": 116,
           "ok": 69,
           "days_with_ok": 66
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "perplexity": {
             "status": "OK",
@@ -1143,14 +1143,14 @@
           },
           "openai": {
             "status": "OK",
-            "names_count": 25
+            "names_count": 27
           },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
           },
           "google_serp": {
-            "status": "OK",
+            "status": "EXTRACTION_FAILED",
             "names_count": 0
           }
         }
@@ -1158,10 +1158,10 @@
     },
     "phoenix-dentists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 190,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 195,
       "market": "Phoenix AZ",
       "niche": "dentists",
       "question": "Who is the best dentist in Phoenix for a dental implant?",
@@ -1169,49 +1169,49 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
-        },
-        "gemini": {
-          "rows": 47,
-          "ok": 32,
-          "days_with_ok": 32
-        },
-        "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
-        },
-        "perplexity": {
-          "rows": 47,
+          "rows": 48,
           "ok": 47,
           "days_with_ok": 47
         },
+        "gemini": {
+          "rows": 48,
+          "ok": 33,
+          "days_with_ok": 33
+        },
+        "openai": {
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
+        },
+        "perplexity": {
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
+        },
         "google_serp": {
-          "rows": 30,
-          "ok": 23,
-          "days_with_ok": 23
+          "rows": 31,
+          "ok": 24,
+          "days_with_ok": 24
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "perplexity": {
-            "status": "OK",
-            "names_count": 5
-          },
           "openai": {
             "status": "OK",
-            "names_count": 14
+            "names_count": 15
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 5
+          },
           "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+            "status": "OK",
+            "names_count": 2
           },
           "google_serp": {
             "status": "OK",
@@ -1222,10 +1222,10 @@
     },
     "phoenix-hvac": {
       "window_first": "2026-08-09",
-      "window_last": "2026-11-23",
-      "run_days": 106,
-      "rows_total": 535,
-      "ok_rows": 461,
+      "window_last": "2026-11-24",
+      "run_days": 107,
+      "rows_total": 540,
+      "ok_rows": 465,
       "market": "Phoenix AZ",
       "niche": "hvac repair and replacement",
       "question": "Who is the best HVAC company in Phoenix to fix my air conditioning?",
@@ -1233,49 +1233,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 107,
-          "ok": 102,
-          "days_with_ok": 101
+          "rows": 108,
+          "ok": 103,
+          "days_with_ok": 102
         },
         "anthropic": {
-          "rows": 107,
-          "ok": 107,
-          "days_with_ok": 106
+          "rows": 108,
+          "ok": 108,
+          "days_with_ok": 107
         },
         "perplexity": {
-          "rows": 107,
-          "ok": 104,
-          "days_with_ok": 103
+          "rows": 108,
+          "ok": 105,
+          "days_with_ok": 104
         },
         "gemini": {
-          "rows": 107,
+          "rows": 108,
           "ok": 47,
           "days_with_ok": 47
         },
         "google_serp": {
-          "rows": 107,
-          "ok": 101,
-          "days_with_ok": 100
+          "rows": 108,
+          "ok": 102,
+          "days_with_ok": 101
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
-          },
-          "openai": {
-            "status": "OK",
-            "names_count": 19
-          },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
           },
+          "openai": {
+            "status": "OK",
+            "names_count": 21
+          },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 8
+          },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
           },
           "google_serp": {
             "status": "OK",
@@ -1286,10 +1286,10 @@
     },
     "phoenix-orthodontists": {
       "window_first": "2026-10-08",
-      "window_last": "2026-11-23",
-      "run_days": 47,
-      "rows_total": 218,
-      "ok_rows": 189,
+      "window_last": "2026-11-24",
+      "run_days": 48,
+      "rows_total": 223,
+      "ok_rows": 193,
       "market": "Phoenix AZ",
       "niche": "orthodontists",
       "question": "Who is the best orthodontist in Phoenix for braces or Invisalign?",
@@ -1297,175 +1297,47 @@
       "collection_active": true,
       "by_engine": {
         "anthropic": {
-          "rows": 47,
-          "ok": 46,
-          "days_with_ok": 46
+          "rows": 48,
+          "ok": 47,
+          "days_with_ok": 47
         },
         "gemini": {
-          "rows": 47,
+          "rows": 48,
           "ok": 32,
           "days_with_ok": 32
         },
         "openai": {
-          "rows": 47,
-          "ok": 42,
-          "days_with_ok": 42
+          "rows": 48,
+          "ok": 43,
+          "days_with_ok": 43
         },
         "perplexity": {
-          "rows": 47,
-          "ok": 47,
-          "days_with_ok": 47
+          "rows": 48,
+          "ok": 48,
+          "days_with_ok": 48
         },
         "google_serp": {
-          "rows": 30,
-          "ok": 22,
-          "days_with_ok": 22
+          "rows": 31,
+          "ok": 23,
+          "days_with_ok": 23
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 11
-          },
-          "anthropic": {
-            "status": "OK",
+          "gemini": {
+            "status": "FAILED",
             "names_count": 0
           },
           "perplexity": {
             "status": "OK",
             "names_count": 10
           },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
-          "google_serp": {
-            "status": "OK",
-            "names_count": 0
-          }
-        }
-      }
-    },
-    "pleasanton-dentists": {
-      "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 356,
-      "market": "Pleasanton CA",
-      "niche": "dentists",
-      "question": "Who is the best dentist in Pleasanton CA for a checkup and cleaning?",
-      "shape": "day_pages",
-      "collection_active": true,
-      "by_engine": {
-        "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
-        },
-        "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
-        },
-        "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
-        },
-        "gemini": {
-          "rows": 89,
-          "ok": 45,
-          "days_with_ok": 45
-        },
-        "google_serp": {
-          "rows": 89,
-          "ok": 52,
-          "days_with_ok": 52
-        }
-      },
-      "latest_day": {
-        "date": "2026-11-23",
-        "engines": {
-          "openai": {
-            "status": "OK",
-            "names_count": 1
-          },
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
-          },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 6
-          },
-          "google_serp": {
-            "status": "OK",
-            "names_count": 0
-          }
-        }
-      }
-    },
-    "pleasanton-home-care": {
-      "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 364,
-      "market": "Pleasanton CA",
-      "niche": "home care agencies",
-      "question": "What is the best home care agency in Pleasanton CA for an elderly parent?",
-      "shape": "day_pages",
-      "collection_active": true,
-      "by_engine": {
-        "openai": {
-          "rows": 89,
-          "ok": 83,
-          "days_with_ok": 83
-        },
-        "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
-        },
-        "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
-        },
-        "gemini": {
-          "rows": 89,
-          "ok": 52,
-          "days_with_ok": 52
-        },
-        "google_serp": {
-          "rows": 89,
-          "ok": 54,
-          "days_with_ok": 54
-        }
-      },
-      "latest_day": {
-        "date": "2026-11-23",
-        "engines": {
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
           "openai": {
-            "status": "OK",
-            "names_count": 26
-          },
-          "perplexity": {
             "status": "OK",
             "names_count": 14
           },
@@ -1476,12 +1348,140 @@
         }
       }
     },
+    "pleasanton-dentists": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 361,
+      "market": "Pleasanton CA",
+      "niche": "dentists",
+      "question": "Who is the best dentist in Pleasanton CA for a checkup and cleaning?",
+      "shape": "day_pages",
+      "collection_active": true,
+      "by_engine": {
+        "openai": {
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
+        },
+        "anthropic": {
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
+        },
+        "perplexity": {
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
+        },
+        "gemini": {
+          "rows": 90,
+          "ok": 46,
+          "days_with_ok": 46
+        },
+        "google_serp": {
+          "rows": 90,
+          "ok": 53,
+          "days_with_ok": 53
+        }
+      },
+      "latest_day": {
+        "date": "2026-11-24",
+        "engines": {
+          "openai": {
+            "status": "OK",
+            "names_count": 3
+          },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 3
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 23
+          },
+          "google_serp": {
+            "status": "OK",
+            "names_count": 0
+          }
+        }
+      }
+    },
+    "pleasanton-home-care": {
+      "window_first": "2026-08-26",
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 369,
+      "market": "Pleasanton CA",
+      "niche": "home care agencies",
+      "question": "What is the best home care agency in Pleasanton CA for an elderly parent?",
+      "shape": "day_pages",
+      "collection_active": true,
+      "by_engine": {
+        "openai": {
+          "rows": 90,
+          "ok": 84,
+          "days_with_ok": 84
+        },
+        "anthropic": {
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
+        },
+        "perplexity": {
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
+        },
+        "gemini": {
+          "rows": 90,
+          "ok": 53,
+          "days_with_ok": 53
+        },
+        "google_serp": {
+          "rows": 90,
+          "ok": 55,
+          "days_with_ok": 55
+        }
+      },
+      "latest_day": {
+        "date": "2026-11-24",
+        "engines": {
+          "perplexity": {
+            "status": "OK",
+            "names_count": 8
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 27
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 49
+          },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
+          },
+          "google_serp": {
+            "status": "OK",
+            "names_count": 0
+          }
+        }
+      }
+    },
     "pleasanton-moving-companies": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 372,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 377,
       "market": "Pleasanton CA",
       "niche": "moving companies",
       "question": "Who is the best moving company in Pleasanton CA for a local move?",
@@ -1489,49 +1489,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
-          "ok": 52,
-          "days_with_ok": 52
+          "rows": 90,
+          "ok": 53,
+          "days_with_ok": 53
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 61,
-          "days_with_ok": 61
+          "rows": 90,
+          "ok": 62,
+          "days_with_ok": 62
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
           "openai": {
             "status": "OK",
-            "names_count": 8
+            "names_count": 10
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 29
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 3
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
@@ -1542,10 +1542,10 @@
     },
     "pleasanton-oil-change": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 363,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 367,
       "market": "Pleasanton CA",
       "niche": "oil change shops",
       "question": "Where is the best place to get an oil change in Pleasanton CA?",
@@ -1553,49 +1553,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
-        },
-        "anthropic": {
           "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
-        },
-        "perplexity": {
-          "rows": 89,
           "ok": 85,
           "days_with_ok": 85
         },
+        "anthropic": {
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
+        },
+        "perplexity": {
+          "rows": 90,
+          "ok": 86,
+          "days_with_ok": 86
+        },
         "gemini": {
-          "rows": 89,
+          "rows": 90,
           "ok": 50,
           "days_with_ok": 50
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 55,
-          "days_with_ok": 55
+          "rows": 90,
+          "ok": 56,
+          "days_with_ok": 56
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
+          "gemini": {
+            "status": "FAILED",
+            "names_count": 0
+          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 7
-          },
           "openai": {
             "status": "OK",
-            "names_count": 6
+            "names_count": 8
           },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+          "perplexity": {
+            "status": "OK",
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
@@ -1606,10 +1606,10 @@
     },
     "pleasanton-real-estate-agents": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 365,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 369,
       "market": "Pleasanton CA",
       "niche": "real estate agents",
       "question": "Who is the best real estate agent in Pleasanton CA to sell my house?",
@@ -1617,49 +1617,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
+          "rows": 90,
           "ok": 50,
           "days_with_ok": 50
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 56,
-          "days_with_ok": 56
+          "rows": 90,
+          "ok": 57,
+          "days_with_ok": 57
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
-          },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
           },
-          "openai": {
-            "status": "OK",
-            "names_count": 10
-          },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
+            "names_count": 11
+          },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
@@ -1670,10 +1670,10 @@
     },
     "pleasanton-tanning-salons": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 391,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 395,
       "market": "Pleasanton CA",
       "niche": "tanning salons",
       "question": "What is the best tanning salon in Pleasanton CA?",
@@ -1681,48 +1681,48 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 83,
-          "days_with_ok": 83
+          "rows": 90,
+          "ok": 84,
+          "days_with_ok": 84
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
+          "rows": 90,
           "ok": 53,
           "days_with_ok": 53
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 80,
-          "days_with_ok": 80
+          "rows": 90,
+          "ok": 81,
+          "days_with_ok": 81
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "openai": {
             "status": "OK",
-            "names_count": 4
+            "names_count": 3
           },
           "perplexity": {
             "status": "OK",
-            "names_count": 5
-          },
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
+            "names_count": 4
           },
           "anthropic": {
             "status": "OK",
+            "names_count": 0
+          },
+          "gemini": {
+            "status": "FAILED",
             "names_count": 0
           },
           "google_serp": {
@@ -1734,10 +1734,10 @@
     },
     "pleasanton-tire-shops": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 364,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 368,
       "market": "Pleasanton CA",
       "niche": "tire shops",
       "question": "Where should I buy tires in Pleasanton CA and who does the best installation?",
@@ -1745,45 +1745,45 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
+          "rows": 90,
           "ok": 49,
           "days_with_ok": 49
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 56,
-          "days_with_ok": 56
+          "rows": 90,
+          "ok": 57,
+          "days_with_ok": 57
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "perplexity": {
-            "status": "OK",
-            "names_count": 10
-          },
-          "openai": {
-            "status": "OK",
-            "names_count": 16
-          },
           "anthropic": {
             "status": "OK",
             "names_count": 0
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 13
+          },
+          "openai": {
+            "status": "OK",
+            "names_count": 19
           },
           "gemini": {
             "status": "FAILED",
@@ -1798,10 +1798,10 @@
     },
     "santa-cruz-short-term-rental": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 452,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 456,
       "market": "Santa Cruz County CA",
       "niche": "short-term rental / Airbnb",
       "question": "What are the best vacation rentals in Santa Cruz County California and how do I pick one?",
@@ -1809,49 +1809,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 103,
-          "days_with_ok": 102
+          "rows": 113,
+          "ok": 104,
+          "days_with_ok": 103
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 112,
-          "days_with_ok": 107
+          "rows": 116,
+          "ok": 113,
+          "days_with_ok": 108
         },
         "gemini": {
-          "rows": 115,
+          "rows": 116,
           "ok": 54,
           "days_with_ok": 54
         },
         "google_serp": {
-          "rows": 115,
-          "ok": 71,
-          "days_with_ok": 68
+          "rows": 116,
+          "ok": 72,
+          "days_with_ok": 69
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
+          "gemini": {
+            "status": "FAILED",
+            "names_count": 0
+          },
           "perplexity": {
             "status": "OK",
-            "names_count": 18
+            "names_count": 24
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "gemini": {
-            "status": "OK",
-            "names_count": 0
-          },
           "openai": {
             "status": "OK",
-            "names_count": 41
+            "names_count": 64
           },
           "google_serp": {
             "status": "OK",
@@ -1862,10 +1862,10 @@
     },
     "tyler-tanning-salons": {
       "window_first": "2026-08-26",
-      "window_last": "2026-11-23",
-      "run_days": 89,
-      "rows_total": 446,
-      "ok_rows": 394,
+      "window_last": "2026-11-24",
+      "run_days": 90,
+      "rows_total": 451,
+      "ok_rows": 399,
       "market": "Tyler TX",
       "niche": "tanning salons",
       "question": "What is the best tanning salon in Tyler TX?",
@@ -1873,49 +1873,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 89,
-          "ok": 84,
-          "days_with_ok": 84
+          "rows": 90,
+          "ok": 85,
+          "days_with_ok": 85
         },
         "anthropic": {
-          "rows": 90,
-          "ok": 89,
-          "days_with_ok": 89
+          "rows": 91,
+          "ok": 90,
+          "days_with_ok": 90
         },
         "perplexity": {
-          "rows": 89,
-          "ok": 86,
-          "days_with_ok": 86
+          "rows": 90,
+          "ok": 87,
+          "days_with_ok": 87
         },
         "gemini": {
-          "rows": 89,
-          "ok": 54,
-          "days_with_ok": 54
+          "rows": 90,
+          "ok": 55,
+          "days_with_ok": 55
         },
         "google_serp": {
-          "rows": 89,
-          "ok": 81,
-          "days_with_ok": 81
+          "rows": 90,
+          "ok": 82,
+          "days_with_ok": 82
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
-          "gemini": {
-            "status": "FAILED",
-            "names_count": 0
-          },
-          "openai": {
+          "perplexity": {
             "status": "OK",
-            "names_count": 1
+            "names_count": 5
+          },
+          "gemini": {
+            "status": "OK",
+            "names_count": 0
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "perplexity": {
+          "openai": {
             "status": "OK",
-            "names_count": 3
+            "names_count": 1
           },
           "google_serp": {
             "status": "OK",
@@ -1926,10 +1926,10 @@
     },
     "us-short-term-rental-booking-platforms": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 462,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 466,
       "market": "US nationwide",
       "niche": "short-term rental",
       "question": "I am planning a trip. Should I book on Airbnb, Vrbo, or Booking.com, and how do I find a good host?",
@@ -1937,49 +1937,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 103,
-          "days_with_ok": 102
+          "rows": 113,
+          "ok": 104,
+          "days_with_ok": 103
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 112,
-          "days_with_ok": 107
+          "rows": 116,
+          "ok": 113,
+          "days_with_ok": 108
         },
         "gemini": {
-          "rows": 115,
+          "rows": 116,
           "ok": 55,
           "days_with_ok": 54
         },
         "google_serp": {
-          "rows": 115,
-          "ok": 80,
-          "days_with_ok": 77
+          "rows": 116,
+          "ok": 81,
+          "days_with_ok": 78
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "anthropic": {
             "status": "OK",
             "names_count": 0
           },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 10
-          },
           "openai": {
             "status": "OK",
-            "names_count": 33
+            "names_count": 20
           },
           "gemini": {
             "status": "FAILED",
             "names_count": 0
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 5
           },
           "google_serp": {
             "status": "OK",
@@ -1990,10 +1990,10 @@
     },
     "us-short-term-rental-business-model": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 446,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 451,
       "market": "US nationwide",
       "niche": "short-term rental business model",
       "question": "How do I start an Airbnb rental arbitrage business and what tools and data should I use?",
@@ -2001,49 +2001,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 101,
-          "days_with_ok": 100
+          "rows": 113,
+          "ok": 102,
+          "days_with_ok": 101
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 112,
-          "days_with_ok": 107
+          "rows": 116,
+          "ok": 113,
+          "days_with_ok": 108
         },
         "gemini": {
-          "rows": 115,
-          "ok": 53,
-          "days_with_ok": 52
+          "rows": 116,
+          "ok": 54,
+          "days_with_ok": 53
         },
         "google_serp": {
-          "rows": 115,
-          "ok": 68,
-          "days_with_ok": 64
+          "rows": 116,
+          "ok": 69,
+          "days_with_ok": 65
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "gemini": {
             "status": "OK",
-            "names_count": 70
-          },
-          "anthropic": {
-            "status": "OK",
-            "names_count": 0
+            "names_count": 3
           },
           "perplexity": {
             "status": "OK",
             "names_count": 24
           },
+          "anthropic": {
+            "status": "OK",
+            "names_count": 0
+          },
           "openai": {
             "status": "OK",
-            "names_count": 89
+            "names_count": 84
           },
           "google_serp": {
             "status": "OK",
@@ -2054,10 +2054,10 @@
     },
     "us-short-term-rental-software": {
       "window_first": "2026-08-05",
-      "window_last": "2026-11-23",
-      "run_days": 110,
-      "rows_total": 569,
-      "ok_rows": 459,
+      "window_last": "2026-11-24",
+      "run_days": 111,
+      "rows_total": 574,
+      "ok_rows": 464,
       "market": "US nationwide",
       "niche": "short-term rental software",
       "question": "What is the best tool for an Airbnb host to set nightly pricing and analyze a market before buying?",
@@ -2065,49 +2065,49 @@
       "collection_active": true,
       "by_engine": {
         "openai": {
-          "rows": 112,
-          "ok": 103,
-          "days_with_ok": 102
+          "rows": 113,
+          "ok": 104,
+          "days_with_ok": 103
         },
         "anthropic": {
-          "rows": 112,
-          "ok": 112,
-          "days_with_ok": 110
+          "rows": 113,
+          "ok": 113,
+          "days_with_ok": 111
         },
         "perplexity": {
-          "rows": 115,
-          "ok": 112,
-          "days_with_ok": 107
+          "rows": 116,
+          "ok": 113,
+          "days_with_ok": 108
         },
         "gemini": {
-          "rows": 115,
-          "ok": 53,
-          "days_with_ok": 53
+          "rows": 116,
+          "ok": 54,
+          "days_with_ok": 54
         },
         "google_serp": {
-          "rows": 115,
-          "ok": 79,
-          "days_with_ok": 74
+          "rows": 116,
+          "ok": 80,
+          "days_with_ok": 75
         }
       },
       "latest_day": {
-        "date": "2026-11-23",
+        "date": "2026-11-24",
         "engines": {
           "gemini": {
             "status": "OK",
-            "names_count": 0
+            "names_count": 25
+          },
+          "perplexity": {
+            "status": "OK",
+            "names_count": 4
           },
           "openai": {
             "status": "OK",
-            "names_count": 8
+            "names_count": 10
           },
           "anthropic": {
             "status": "OK",
             "names_count": 0
-          },
-          "perplexity": {
-            "status": "OK",
-            "names_count": 6
           },
           "google_serp": {
             "status": "OK",
@@ -2118,8 +2118,8 @@
     }
   },
   "totals": {
-    "rows": 15067,
-    "ok_rows": 12471,
+    "rows": 15232,
+    "ok_rows": 12615,
     "markets": 33,
     "engines": 5
   }

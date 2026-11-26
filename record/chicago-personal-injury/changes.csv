@@ -691,3 +691,22 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,"Salvi, Schostok & Pritchard, P.C",openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Kreisman Law Offices,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Illinois ARDC,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Chicago Bar Association,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Abels & Annes,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Briskman Briskman & Greenberg,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Briskman Briskman,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Illinois ARDC,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,entered,Illinois ARDC Lawyer Search,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,"Salvi, Schostok & Pritchard P.C",openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,"Corboy & Demetrio, P.C",openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Levin & Perconti,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,"Staver Accident Injury Lawyers, P.C",openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Actually handles auto-collision cases,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Chicago Bar Association Lawyer Referral Service,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Pritchard P.C,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Illinois Attorney Registration,openai perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Disciplinary Commission,openai perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Lawyer Referral Service,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Phillips Law Offices,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Rosenfeld Injury Lawyers,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Illinois Attorney Registration and Disciplinary Commission,perplexity

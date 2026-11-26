@@ -4,34 +4,34 @@
   "niche": "health insurance brokers",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-23",
-  "run_days": 106,
-  "rows_total": 535,
+  "window_last": "2026-11-24",
+  "run_days": 107,
+  "rows_total": 540,
   "by_engine": {
     "openai": {
-      "rows": 107,
-      "ok": 102,
-      "days_with_ok": 101
+      "rows": 108,
+      "ok": 103,
+      "days_with_ok": 102
     },
     "anthropic": {
-      "rows": 107,
-      "ok": 107,
-      "days_with_ok": 106
+      "rows": 108,
+      "ok": 108,
+      "days_with_ok": 107
     },
     "perplexity": {
-      "rows": 107,
-      "ok": 104,
-      "days_with_ok": 103
+      "rows": 108,
+      "ok": 105,
+      "days_with_ok": 104
     },
     "gemini": {
-      "rows": 107,
-      "ok": 54,
-      "days_with_ok": 54
+      "rows": 108,
+      "ok": 55,
+      "days_with_ok": 55
     },
     "google_serp": {
-      "rows": 107,
-      "ok": 69,
-      "days_with_ok": 68
+      "rows": 108,
+      "ok": 70,
+      "days_with_ok": 69
     }
   },
   "by_date": [
@@ -1212,18 +1212,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/kansas-city-health-insurance/all.csv",
-      "sha256": "3c745780391135d6ef4c78f90a244a6030abe601cefcd992061fde3404c33568"
+      "sha256": "7c9c0213e785e55fb8d05d9d9326fded666e4f2837528fdd8755d7d3e672b2af"
     },
-    "day_csv_count": 106,
+    "day_csv_count": 107,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/kansas-city-health-insurance/changes.csv",
-      "sha256": "efe7395f33cced150d3100ae425749e04356127570a671a3d35abc6033ac5e6b"
+      "sha256": "a69abfed21438c85a49411fa9b9ed90a49274030ae983cc08a786e88144bb8d5"
     }
   },
   "engine_behavior": {
@@ -1252,7 +1264,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-24 18:14:19 UTC",
+  "generated_utc": "2026-11-26 17:16:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

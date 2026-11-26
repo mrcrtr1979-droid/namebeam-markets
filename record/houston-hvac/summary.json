@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-23",
-  "run_days": 106,
-  "rows_total": 535,
+  "window_last": "2026-11-24",
+  "run_days": 107,
+  "rows_total": 540,
   "by_engine": {
     "openai": {
-      "rows": 107,
-      "ok": 102,
-      "days_with_ok": 101
-    },
-    "anthropic": {
-      "rows": 107,
-      "ok": 107,
-      "days_with_ok": 106
-    },
-    "perplexity": {
-      "rows": 107,
+      "rows": 108,
       "ok": 103,
       "days_with_ok": 102
     },
+    "anthropic": {
+      "rows": 108,
+      "ok": 108,
+      "days_with_ok": 107
+    },
+    "perplexity": {
+      "rows": 108,
+      "ok": 104,
+      "days_with_ok": 103
+    },
     "gemini": {
-      "rows": 107,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 108,
+      "ok": 47,
+      "days_with_ok": 47
     },
     "google_serp": {
-      "rows": 107,
-      "ok": 102,
-      "days_with_ok": 101
+      "rows": 108,
+      "ok": 103,
+      "days_with_ok": 102
     }
   },
   "by_date": [
@@ -1236,18 +1236,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-hvac/all.csv",
-      "sha256": "6e3605ec46f130baa3463a6da50ec82d9709eedca77fc8a3b8336db4419b9d79"
+      "sha256": "70e8801bc18dba8f308fdf9c0ccd7640994faa7b718eb385eebf54df3bc3e566"
     },
-    "day_csv_count": 106,
+    "day_csv_count": 107,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-hvac/changes.csv",
-      "sha256": "cb8644da1dacf0f575171b492cb8bef70ec8049744416213f9a2a35f420d75c2"
+      "sha256": "76c962d46fce518d873df32a84bc4df079637b0a3bb013b3490599019bf0e877"
     }
   },
   "engine_behavior": {
@@ -1276,7 +1288,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-24 18:14:18 UTC",
+  "generated_utc": "2026-11-26 17:16:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

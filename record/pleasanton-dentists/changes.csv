@@ -1299,3 +1299,12 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Gibraltar Drive,perplexity
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Cedarwood Lane,perplexity
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Pleasanton Family,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,"Google Reviews, Yelp, and Healthgrades",openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Dental Board of California,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,"Dr. Mona Gokani, DDS",perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Pleasanton Ridge Dental Group,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Dr. Varun Yadav at My Favorite Dentist,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Zocdoc,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Dr. Varun Yadav,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,My Favorite Dentist,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Dr. Gokani,perplexity

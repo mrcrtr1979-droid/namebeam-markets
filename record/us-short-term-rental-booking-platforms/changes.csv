@@ -2124,3 +2124,51 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Families,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Clear house rules,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Start,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Use Booking.com,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Use Airbnb,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Use Vrbo,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Superhost,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Premier Host,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Total cost,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Cancellation terms,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,House rules,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Payment safety,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Protection/support policies,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Cancellation,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Cancellation Policy,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Clear listing details,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,To find a good host and listing,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Save the listing and booking details,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,"Before booking, compare the checkout total",perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Read recent reviews,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Check the listing details closely,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Read house rules and extra charges,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Keep payment and communication on the platform,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Check the cancellation policy and support options,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book Airbnb when,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book Vrbo when,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book Booking.com when,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Exact sleeping setup,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Bathroom count,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Stairs/elevator/accessibility,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Kitchen,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Laundry,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Check-in window,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Security deposit/hold,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Local taxes,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Total price,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Recent reviews,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,The host responds clearly,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,The cancellation policy,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,All communication and payment stay on-platform,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Booking.com and Airbnb,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Vrbo and Airbnb,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Choose Vrbo,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Choose Booking.com,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Guest Favorite,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book Vrbo,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book Booking.com,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Host,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,WhatsApp,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Watch,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Vacation Rentals,openai

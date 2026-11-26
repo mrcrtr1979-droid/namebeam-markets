@@ -921,3 +921,13 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,HVHZ (High-Velocity Hurricane Zone),openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,General Liability and Workers,openai
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,Active Florida,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,A-1 Roofing & Waterproofing,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,South Florida,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Miami-Dade NOA-approved,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Dade NOA-approved,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,NOA-approved,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,T&S Roofing Systems,perplexity
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Miami-Dade permit,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Florida Product Approval,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,NOA-compliant,openai
+2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Product Approval,openai

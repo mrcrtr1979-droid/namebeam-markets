@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-23",
-  "run_days": 47,
-  "rows_total": 218,
+  "window_last": "2026-11-24",
+  "run_days": 48,
+  "rows_total": 223,
   "by_engine": {
     "anthropic": {
-      "rows": 47,
-      "ok": 46,
-      "days_with_ok": 46
+      "rows": 48,
+      "ok": 47,
+      "days_with_ok": 47
     },
     "gemini": {
-      "rows": 47,
+      "rows": 48,
       "ok": 33,
       "days_with_ok": 33
     },
     "openai": {
-      "rows": 47,
-      "ok": 42,
-      "days_with_ok": 42
+      "rows": 48,
+      "ok": 43,
+      "days_with_ok": 43
     },
     "perplexity": {
-      "rows": 47,
-      "ok": 47,
-      "days_with_ok": 47
+      "rows": 48,
+      "ok": 48,
+      "days_with_ok": 48
     },
     "google_serp": {
-      "rows": 30,
-      "ok": 26,
-      "days_with_ok": 26
+      "rows": 31,
+      "ok": 27,
+      "days_with_ok": 27
     }
   },
   "by_date": [
@@ -557,19 +557,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/dallas-orthodontists/rows.csv",
-      "sha256": "404a45e3b81bd77eceb186232a6d0129298138fe63b97cbbc2ecba75f61dd442"
+      "sha256": "925d0badb621ecb644e57c75054c53f34c89d03bc473771f0cbb0e978207a363"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-24 18:14:18 UTC",
+  "generated_utc": "2026-11-26 17:16:49 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Dallas for braces or Invisalign?"
