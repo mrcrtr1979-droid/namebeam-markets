@@ -4,34 +4,34 @@
   "niche": "home care agencies",
   "shape": "day_pages",
   "window_first": "2026-08-26",
-  "window_last": "2026-11-24",
-  "run_days": 90,
-  "rows_total": 451,
+  "window_last": "2026-11-26",
+  "run_days": 91,
+  "rows_total": 456,
   "by_engine": {
     "openai": {
-      "rows": 90,
-      "ok": 84,
-      "days_with_ok": 84
+      "rows": 91,
+      "ok": 85,
+      "days_with_ok": 85
     },
     "anthropic": {
-      "rows": 91,
-      "ok": 90,
-      "days_with_ok": 90
+      "rows": 92,
+      "ok": 91,
+      "days_with_ok": 91
     },
     "perplexity": {
-      "rows": 90,
-      "ok": 87,
-      "days_with_ok": 87
+      "rows": 91,
+      "ok": 88,
+      "days_with_ok": 88
     },
     "gemini": {
-      "rows": 90,
+      "rows": 91,
       "ok": 53,
       "days_with_ok": 53
     },
     "google_serp": {
-      "rows": 90,
-      "ok": 55,
-      "days_with_ok": 55
+      "rows": 91,
+      "ok": 56,
+      "days_with_ok": 56
     }
   },
   "by_date": [
@@ -1033,18 +1033,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/pleasanton-home-care/all.csv",
-      "sha256": "9a021eafb24bbb2699096f09dc41ed5aae3b44621370bf59b11ce6c72cac95c8"
+      "sha256": "81c3e781cebcc3e826363bcf88c6d924fa76f6a3ced4e10a142b216024341c13"
     },
-    "day_csv_count": 90,
+    "day_csv_count": 91,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/pleasanton-home-care/changes.csv",
-      "sha256": "09da48512476bb7b4b76514ea57d706b8ab6bc027148319bbbe7f45973c1a4c2"
+      "sha256": "c93d02a51a622a73b1e89a9e8f4d796acdf1e990d161ed1c974bdf26bb0040cd"
     }
   },
   "engine_behavior": {
@@ -1073,7 +1084,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-26 17:16:51 UTC",
+  "generated_utc": "2026-11-27 16:56:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -1982,3 +1982,28 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Tradeoffs,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,America’s Tire/Discount Tire,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Wheel Works,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,For comparing tire selection and prices,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,America’s Tire in Dublin,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Another Pleasanton option,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Costco Tire Center (Pleasanton/Livermore area),openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Tire Rack + local installer,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,TPMS,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Livermore,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Seever & Sons/Big Brand,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Costco Pleasanton,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Tire Choice,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Seever,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Big Brand Tire,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Sons,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Big Brand,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Big Brand Tire & Service,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,My pick,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,My pick for installation,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,America’s Tire / Discount Tire,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Dealer,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Road-force balancing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,New valve stems / TPMS service kit,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,EVs,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Bridgestone,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Michelin,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Choose America,openai

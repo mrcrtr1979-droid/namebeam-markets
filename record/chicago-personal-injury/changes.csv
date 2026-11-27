@@ -710,3 +710,9 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Phillips Law Offices,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Rosenfeld Injury Lawyers,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity,dropped,Illinois Attorney Registration and Disciplinary Commission,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Chicago Bar Association’s Lawyer Referral Service,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Lawyer Referral Service,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Chicago Bar Association Lawyer Referral Service,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Staver Accident Injury Lawyers,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Illinois ARDC,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Illinois ARDC Lawyer Search,perplexity

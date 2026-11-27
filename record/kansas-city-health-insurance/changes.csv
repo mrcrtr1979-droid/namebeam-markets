@@ -2873,3 +2873,29 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,BBS Insurance,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,AIS Health Advisors,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,ACA Marketplace plans,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,HealthCare.gov Find Local Help,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Medicare.gov,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Medicare-eligible. SHICK,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Senior Health Insurance Counseling,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Marketplace Plans,openai perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,In Missouri,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,ACA Marketplace plans,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,AIS Health Advisors,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Apollo Insurance,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Navigator,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,AIS Health Insurance Advisors,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Apollo Health Insurance,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Its Kansas City,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Apollo,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Use HealthCare.gov’s Find Local Help tool,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Marketplace and off-Marketplace,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Missouri,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Kansas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Kansas City-area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,HealthCare.gov for Marketplace,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,CLAIM,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,State Health Insurance Assistance Program,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Senior Health Insurance Counseling for Kansas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Medicare Advantage,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Part D,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,SHICK (Senior Health Insurance Counseling for Kansas),openai

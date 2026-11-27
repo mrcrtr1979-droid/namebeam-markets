@@ -644,3 +644,18 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-23,2026-11-22,1,openai anthropic perplexity google_serp,dropped,View The Tanning Zone,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Birdeye. It,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,entered,Tyler. If,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Tyler. Reviews,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,UV tanning beds,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Bronze Coast Tanning,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Planet Beach Contempo Spa,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Check for New-Client Specials,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Ask About Bulb Maintenance,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Spray Tan vs. UV,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,UV-free,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Mystic Tan,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,VersaSpa,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Bronze Coast,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Planet Beach,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Spray Tan,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Birdeye. It,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Tyler. If,perplexity

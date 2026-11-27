@@ -1726,3 +1726,82 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Hyatt Vacation Club,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Timber Ridge,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Book,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Indian Point / Table Rock Lake,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Highway 76 / Green Mountain Drive,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Branson Landing / Downtown,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Big Cedar / Ridgedale,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,StoneBridge Resort / Branson West,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Skip it if,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Chateau on the Lake Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,The Ozarker Lodge,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Eagles Nest Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Thousand Hills / Green Mountain Drive area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Luxury/romantic,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Lake resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Walkable nightlife/dining,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Central/value,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Cabin/group trip,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Central shows trip with kitchen,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Lake/boat trip,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,StoneBridge cabin,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Total price after cleaning/service fees,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Actual drive time,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Number of steps and parking situation,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Pool access and seasonality,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Green Mountain Drive,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Walkable,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Luxury,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Beautiful Ozarks,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Couples,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Branson. It,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Convenient,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Thousand Hills,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Branson Canyon,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Pick,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Central,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Green Mountain,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,The Landing,openai perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Pick a hotel,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Indian Point/Table Rock Lake,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Short answer,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,On the Highway,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Want,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,My default recommendation: book a hotel,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Marriott’s Willow Ridge Lodge,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Grand Country Waterpark Resort,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Highway 76 Strip,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Branson Landing/downtown,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Indian Point/Branson West,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Table Rock Lake,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Willow Ridge Lodge,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Table Rock Lake. Check,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,My default recommendation,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Grand Country,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Marriott,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Willow Ridge,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,The Branson Hotel,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,"Big Cedar Lodge, Ridgedale",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,The Village at Indian Point Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Pointe Royale,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Branson Cedars Resort / Hollister,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Downtown Branson / Branson Landing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Directly on Highway 76 (the Strip),openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,"Couple, first-time visit, 2 nights",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Family seeing shows and attractions,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Luxury romantic getaway,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Large family/group,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Branson Cedars,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Lake Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Convention Center,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Hollister. Excellent,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Silver Dollar City. Condo-style,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Indian Point Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Strip. Look,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Silver Dollar City. Often,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Branson Cedars Resort,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Downtown Branson,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Areas I,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,West Branson,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Near Branson Landing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Table Rock Lake / Indian Point,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,South Branson,openai

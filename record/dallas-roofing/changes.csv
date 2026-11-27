@@ -919,3 +919,58 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed SELECT,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity gemini google_serp,dropped,CertainTeed Select ShingleMaster,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity gemini google_serp,dropped,Lon Smith Roofing & Construction,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Pickle Roofing Solutions,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,CLC Roofing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Elevated Roofing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Bert Roofing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,"Exact shingle/material brand, product line, and color",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,A clear payment schedule,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Fort Worth-area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Established DFW,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Long-running Texas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Major Texas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Their RCAT,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Fort Worth,openai gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,In Texas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Prime Roofer,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Springs Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Blue Ladder Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Roofer Chicks®,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Infinity Roofing & Siding,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Anderson Industrial Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Check Local Physical Presence,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Verify Licensing and Insurance,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,General Liability Insurance,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Workers' Compensation,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Look for Manufacturer Certifications,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Understand the Payment Structure,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dallas-Fort Worth,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,North Texas,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Storm Damage,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Roofer Chicks,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Established National,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Regional Brands,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Local DFW Offices,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Infinity Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Owens Corning,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,CertainTeed,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Owens Corning Platinum Preferred,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Platinum Preferred,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Owens Corning Platinum,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Never Pay,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Choose the Right Dallas Roofer,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Roofer for You,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,High Point Roofing & Construction,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Kingdom Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,DFW Metroplex. While,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,High Point Roofing,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,High Point,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Arrington Roofing,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dallas-based,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,James Kate Roofing & Construction,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,A detailed written scope,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Recent local replacement references,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Manufacturer credential/warranty details,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,No large upfront payment,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,James Kate Roofing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Manufacturer credential,openai

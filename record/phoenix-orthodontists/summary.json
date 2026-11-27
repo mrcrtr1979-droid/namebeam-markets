@@ -4,34 +4,34 @@
   "niche": "orthodontists",
   "shape": "rows_only",
   "window_first": "2026-10-08",
-  "window_last": "2026-11-24",
-  "run_days": 48,
-  "rows_total": 223,
+  "window_last": "2026-11-26",
+  "run_days": 49,
+  "rows_total": 228,
   "by_engine": {
     "anthropic": {
-      "rows": 48,
-      "ok": 47,
-      "days_with_ok": 47
-    },
-    "gemini": {
-      "rows": 48,
-      "ok": 32,
-      "days_with_ok": 32
-    },
-    "openai": {
-      "rows": 48,
-      "ok": 43,
-      "days_with_ok": 43
-    },
-    "perplexity": {
-      "rows": 48,
+      "rows": 49,
       "ok": 48,
       "days_with_ok": 48
     },
+    "gemini": {
+      "rows": 49,
+      "ok": 33,
+      "days_with_ok": 33
+    },
+    "openai": {
+      "rows": 49,
+      "ok": 44,
+      "days_with_ok": 44
+    },
+    "perplexity": {
+      "rows": 49,
+      "ok": 49,
+      "days_with_ok": 49
+    },
     "google_serp": {
-      "rows": 31,
-      "ok": 23,
-      "days_with_ok": 23
+      "rows": 32,
+      "ok": 24,
+      "days_with_ok": 24
     }
   },
   "by_date": [
@@ -563,19 +563,31 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "rows_csv": {
       "path": "/record/phoenix-orthodontists/rows.csv",
-      "sha256": "bc387e459e6006e6fd0d00edfec062a48e0d4560a629a360caf18d46bd0b0871"
+      "sha256": "0133d1c815b3014a5cb0b86fb2a4b94d414e7044f06cd50447820ebf6c15e05f"
     },
     "day_csv_count": 0,
     "manifest": "/record/manifest.sha256"
   },
   "engine_behavior": null,
   "engine_behavior_reason": "n below 100",
-  "generated_utc": "2026-11-26 17:16:50 UTC",
+  "generated_utc": "2026-11-27 16:56:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true,
   "question": "Who is the best orthodontist in Phoenix for braces or Invisalign?"

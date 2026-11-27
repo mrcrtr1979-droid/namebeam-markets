@@ -1308,3 +1308,46 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Dr. Varun Yadav,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,My Favorite Dentist,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Dr. Gokani,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Pleasanton Valley Dental,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Artistic Smiles Dentistry,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Lead Dentists,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Lead Dentist,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Main Street Dental Arts,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Ruby Hill Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Shen Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Ask About New Patient Openings,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. Sanjay Vanjarapu,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. Deepa Vanjarapu,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. Maggie Chao,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. Richard S. J. Lee,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. David Shen,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Delta Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,MetLife,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Specify Your Needs,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Dr. Gokani,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,Main Street Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,California Dental Board license lookup,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,entered,California Dental Board,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,"Google Reviews, Yelp, and Healthgrades",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dental Board of California,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,"Dr. Mona Gokani, DDS",perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Patient feedback,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Gaffney Family Dental (Dr. Joseph Gaffney),gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Mendez Family Dental (Dr. Gilbert Mendez),gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,I-Dentistry (Dr. Bita Mitchell),gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,In-Network Insurance,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Hygienist Reputation,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Location & Hours,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Top-Rated Dentists,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Pleasanton for General Care,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dr. Bushra Yearwood,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Highly,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Patient,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Gaffney Family Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dr. Joseph Gaffney,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Mendez Family Dental,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dr. Gilbert Mendez,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Dr. Bita Mitchell,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Choose the Right One for You,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Hacienda Business Park,gemini
+2026-11-26,2026-11-24,2,openai anthropic perplexity gemini google_serp,dropped,Near Downtown Pleasanton,gemini

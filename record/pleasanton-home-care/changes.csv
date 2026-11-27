@@ -3169,3 +3169,32 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Home Care,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Right at Home East Bay,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Home East Bay,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Right at Home Pleasanton,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Care.com,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Home Pleasanton,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,California Home Care Organization,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Home Care Services Bureau. California CDSS,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Home Care Services,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Home Care Services Bureau,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Home Care,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Services Bureau,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,California Home Care Organization license,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Tri-Valley Office,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,All Seasons Homecare,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Senior Helpers and Always Best Care,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Caring.com,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,AgingCare,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Home Instead – Tri-Valley/Pleasanton area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Right at Home – Tri-Valley/East Bay,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Senior Helpers – Tri-Valley/East Bay,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,BrightStar Care – East Bay/Tri-Valley,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,"Home Instead, Right at Home, and BrightStar",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,California-licensed Home Care Organization,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Medicare-certified home health agency,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,East Bay,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Comfort Keepers,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,San Ramon,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Alzheimer,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Pleasanton Area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Dublin,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Senior Helpers – Tri-Valley,openai

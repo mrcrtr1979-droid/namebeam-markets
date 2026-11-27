@@ -859,3 +859,17 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Mission Air Conditioning & Plumbing,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,House Pro Air Conditioning,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Mission Air Conditioning,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Abacus,perplexity openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,The Lee Thompson Co,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,"Abacus Plumbing, Air Conditioning & Electrical",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Abacus Plumbing,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Houston ZIP,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Star Repair Services,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Weeks Service Company,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,The Woodlands Heating & Air Conditioning,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Texas TDLR HVAC license number,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Clear Lake,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,League City,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Texas TDLR HVAC,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,North Houston,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Texas TDLR,openai

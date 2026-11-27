@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-24",
-  "run_days": 107,
-  "rows_total": 540,
+  "window_last": "2026-11-26",
+  "run_days": 108,
+  "rows_total": 545,
   "by_engine": {
     "openai": {
-      "rows": 108,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 109,
+      "ok": 104,
+      "days_with_ok": 103
     },
     "anthropic": {
-      "rows": 108,
-      "ok": 108,
-      "days_with_ok": 107
+      "rows": 109,
+      "ok": 109,
+      "days_with_ok": 108
     },
     "perplexity": {
-      "rows": 108,
-      "ok": 105,
-      "days_with_ok": 104
+      "rows": 109,
+      "ok": 106,
+      "days_with_ok": 105
     },
     "gemini": {
-      "rows": 108,
-      "ok": 47,
-      "days_with_ok": 47
+      "rows": 109,
+      "ok": 48,
+      "days_with_ok": 48
     },
     "google_serp": {
-      "rows": 108,
-      "ok": 102,
-      "days_with_ok": 101
+      "rows": 109,
+      "ok": 103,
+      "days_with_ok": 102
     }
   },
   "by_date": [
@@ -1248,18 +1248,30 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "rows": 5,
+      "ok": 5,
+      "engines_ok": [
+        "anthropic",
+        "gemini",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/phoenix-hvac/all.csv",
-      "sha256": "61cc435ce08b62eb5607e38de89da98444509bf70b57aae1667cbf1bbfe6eaf6"
+      "sha256": "30862f2942047aa1b4dd0597a3bae44f037da201dbd266080c919f4500c3fe72"
     },
-    "day_csv_count": 107,
+    "day_csv_count": 108,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/phoenix-hvac/changes.csv",
-      "sha256": "da498b98bd37099401c204d18a3e9c6086cc583768a1b5edf12b70fe6b4e3592"
+      "sha256": "b541d0c042834d49ab814f9a0f94976e4b5d297deb560ae60e91035f2ebc856b"
     }
   },
   "engine_behavior": {
@@ -1288,7 +1300,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-26 17:16:50 UTC",
+  "generated_utc": "2026-11-27 16:56:50 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

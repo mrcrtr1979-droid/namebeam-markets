@@ -4,32 +4,32 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-24",
-  "run_days": 107,
-  "rows_total": 540,
+  "window_last": "2026-11-26",
+  "run_days": 108,
+  "rows_total": 545,
   "by_engine": {
     "openai": {
-      "rows": 108,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 109,
+      "ok": 104,
+      "days_with_ok": 103
     },
     "anthropic": {
-      "rows": 108,
-      "ok": 108,
-      "days_with_ok": 107
+      "rows": 109,
+      "ok": 109,
+      "days_with_ok": 108
     },
     "perplexity": {
-      "rows": 108,
-      "ok": 105,
-      "days_with_ok": 104
+      "rows": 109,
+      "ok": 106,
+      "days_with_ok": 105
     },
     "gemini": {
-      "rows": 108,
+      "rows": 109,
       "ok": 47,
       "days_with_ok": 46
     },
     "google_serp": {
-      "rows": 108,
+      "rows": 109,
       "ok": 101,
       "days_with_ok": 100
     }
@@ -1247,18 +1247,28 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "rows": 5,
+      "ok": 3,
+      "engines_ok": [
+        "anthropic",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/atlanta-hvac/all.csv",
-      "sha256": "8300dfc55b0d23dbd896f1dc7eda7165e5c76541af3db705c7c5d959eaaea634"
+      "sha256": "c263508de67d2581c4c04c3ed272395d422f3bcefe37974e4e493e7b15b2a5d8"
     },
-    "day_csv_count": 107,
+    "day_csv_count": 108,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/atlanta-hvac/changes.csv",
-      "sha256": "08d33123c6822b1b049b8f80a1f6eedf34cb85a54b2dc4d96e8294b29b0f2e44"
+      "sha256": "35734e48749d695ffdc82752c3420b137446cb76055ebb7d2771cafd6a03f2fd"
     }
   },
   "engine_behavior": {
@@ -1287,7 +1297,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-26 17:16:48 UTC",
+  "generated_utc": "2026-11-27 16:56:48 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

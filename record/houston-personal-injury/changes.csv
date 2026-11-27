@@ -765,3 +765,29 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Super Lawyers,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,State Bar of Texas Lawyer Referral,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Information Service,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,"Abraham, Watkins, Nichols, Agosto, Aziz & Stogner",perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Houston Lawyer Referral Service,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,State Bar of Texas-certified,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,"The Krist Law Firm, P.C",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Baumgartner Law Firm,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Terry Bryant Accident & Injury Law,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,"Simmons and Fletcher, P.C",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Amaro Law Firm,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Attorney Brian White Personal Injury Lawyers,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Terry Bryant Accident,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Simmons and Fletcher,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Brian White,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,The Krist Law Firm,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Board Certified in Personal Injury Trial Law,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,State Bar of Texas,openai perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Texas Board of Legal Specialization,openai perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,State Bar of Texas attorney search,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Houston Bar Association lawyer referral service,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Harris County,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Houston Bar Association,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,MedPay,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Personal Injury Trial,openai perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,In Texas,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Sutliff & Stout,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,"Abraham, Watkins",perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Board Certification in Personal Injury Trial Law,perplexity

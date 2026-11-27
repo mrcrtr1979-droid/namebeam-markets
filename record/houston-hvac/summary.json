@@ -4,34 +4,34 @@
   "niche": "hvac repair and replacement",
   "shape": "day_pages",
   "window_first": "2026-08-09",
-  "window_last": "2026-11-24",
-  "run_days": 107,
-  "rows_total": 540,
+  "window_last": "2026-11-26",
+  "run_days": 108,
+  "rows_total": 545,
   "by_engine": {
     "openai": {
-      "rows": 108,
-      "ok": 103,
-      "days_with_ok": 102
-    },
-    "anthropic": {
-      "rows": 108,
-      "ok": 108,
-      "days_with_ok": 107
-    },
-    "perplexity": {
-      "rows": 108,
+      "rows": 109,
       "ok": 104,
       "days_with_ok": 103
     },
+    "anthropic": {
+      "rows": 109,
+      "ok": 109,
+      "days_with_ok": 108
+    },
+    "perplexity": {
+      "rows": 109,
+      "ok": 105,
+      "days_with_ok": 104
+    },
     "gemini": {
-      "rows": 108,
+      "rows": 109,
       "ok": 47,
       "days_with_ok": 47
     },
     "google_serp": {
-      "rows": 108,
-      "ok": 103,
-      "days_with_ok": 102
+      "rows": 109,
+      "ok": 104,
+      "days_with_ok": 103
     }
   },
   "by_date": [
@@ -1248,18 +1248,29 @@
         "openai",
         "perplexity"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "rows": 5,
+      "ok": 4,
+      "engines_ok": [
+        "anthropic",
+        "google_serp",
+        "openai",
+        "perplexity"
+      ]
     }
   ],
   "files": {
     "all_csv": {
       "path": "/record/houston-hvac/all.csv",
-      "sha256": "70e8801bc18dba8f308fdf9c0ccd7640994faa7b718eb385eebf54df3bc3e566"
+      "sha256": "dd1b8a7d280699848cd8f0bfd82e4b602afeeb287d61abb981a06b53ae0378a9"
     },
-    "day_csv_count": 107,
+    "day_csv_count": 108,
     "manifest": "/record/manifest.sha256",
     "changes_csv": {
       "path": "/record/houston-hvac/changes.csv",
-      "sha256": "76c962d46fce518d873df32a84bc4df079637b0a3bb013b3490599019bf0e877"
+      "sha256": "8a9b917e816f49e20f8a7a72c628d2d53ceed0e8b52a13bb40f1360981b877c9"
     }
   },
   "engine_behavior": {
@@ -1288,7 +1299,7 @@
     }
   },
   "engine_behavior_reason": null,
-  "generated_utc": "2026-11-26 17:16:50 UTC",
+  "generated_utc": "2026-11-27 16:56:49 UTC",
   "source": "public CSVs on markets.namebeam.ai and the public corpus",
   "no_business_names": true
 }

@@ -536,3 +536,17 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Address,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,East Boulevard,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,The Arboretum,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Gorgeous GLO Beauty Bar,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Organic Bronze Bar in SouthPark,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,UV tanning beds,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,SouthPark and Midtown,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,SouthPark,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Gorgeous Glo,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Midtown,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,South Park,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Waverly,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Dilworth Tan,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Ballantyne,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Darque Tan,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,A dedicated airbrush artist/mobile spray-tan provider,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,For UV Tanning,openai

@@ -1713,3 +1713,19 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,The AC Team Heating & Cooling,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Reliance Heating & Air Conditioning,perplexity
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Reliance Heating,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,"Penguin Air, Plumbing & Electrical",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,American Home Water & Air,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Phoenix-area HVAC,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,Penguin Air,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,entered,American Home Water,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Howard Air,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Desert Diamond Air,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Goettl Air Conditioning,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Arizona Registrar of Contractors (ROC),openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Longtime Phoenix-area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Large,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Valley,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Established Phoenix HVAC,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Major Arizona,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,In Phoenix,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity google_serp,dropped,Phoenix HVAC,openai

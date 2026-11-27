@@ -685,3 +685,25 @@ date,previous_run_day,days_apart,engines_compared,change,name,engines_naming
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Reliable Heating & Air,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Reliable Heating,openai
 2026-11-24,2026-11-23,1,openai anthropic perplexity google_serp,dropped,Metro Atlanta,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,The Air Company of GA,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Carrier,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,The Air Company,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,"Casteel Heating, Cooling, Plumbing & Electrical",openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Exact equipment model numbers,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Sizing basis,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Labor warranty,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Atlanta-area,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Large,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Casteel Heating,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,AC replacement,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Metro Atlanta,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,entered,Manual J Calculation,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,NATE,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,NATE-certified,perplexity
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Moncrief Heating & Air Conditioning,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Coolray,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Moncrief Heating,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Air Conditioning,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,ACs,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Moncrief Heating & Air,openai
+2026-11-26,2026-11-24,2,openai anthropic perplexity,dropped,Moncrief,openai
